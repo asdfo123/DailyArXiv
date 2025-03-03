@@ -4,60 +4,79 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions](http://arxiv.org/abs/2502.20392v1)** | 2025-02-27 | 18 pages, 3 figures |
-| **[Removing Neural Signal Artifacts with Autoencoder-Targeted Adversarial Transformers (AT-AT)](http://arxiv.org/abs/2502.05332v2)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted at CNS 2025, Boston, MA, USA</p></details> |
-| **[KNOWM Memristors in a Bridge Synapse delay-based Reservoir Computing system for detection of epileptic seizures](http://arxiv.org/abs/2502.20351v1)** | 2025-02-27 |  |
-| **[Fast $\ell_1$-Regularized EEG Source Localization Using Variable Projection](http://arxiv.org/abs/2502.20304v1)** | 2025-02-27 |  |
-| **[The Canonical Decomposition of Factor Models: Weak Factors are Everywhere](http://arxiv.org/abs/2307.10067v3)** | 2025-02-27 |  |
-| **[Distribution-Free Online Change Detection for Low-Rank Images](http://arxiv.org/abs/2406.16136v2)** | 2025-02-27 | 30 pages, 7 figures |
-| **[Machine learning for cerebral blood vessels' malformations](http://arxiv.org/abs/2411.16349v2)** | 2025-02-27 | <details><summary>15 pa...</summary><p>15 pages, 6 main figures, 5 supplementary figures, 2 supplementary tables</p></details> |
-| **[Wavelet-based estimation of long-memory parameter in stochastic volatility models using a robust log-periodogram](http://arxiv.org/abs/2502.20101v1)** | 2025-02-27 | 16 pages, 3 figures |
-| **[Data-Driven Model Identification of Unbalanced Induction Motor Dynamics and Forces using SINDYc](http://arxiv.org/abs/2502.20013v1)** | 2025-02-27 |  |
-| **[Efficient Time Series Forecasting via Hyper-Complex Models and Frequency Aggregation](http://arxiv.org/abs/2502.19983v1)** | 2025-02-27 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Still awaiting conference submission approval</p></details> |
-| **[Forecasting intermittent time series with Gaussian Processes and Tweedie likelihood](http://arxiv.org/abs/2502.19086v2)** | 2025-02-27 | Under review |
-| **[Machine-learning for photoplethysmography analysis: Benchmarking feature, image, and signal-based approaches](http://arxiv.org/abs/2502.19949v1)** | 2025-02-27 | <details><summary>39 pa...</summary><p>39 pages, 9 figures, code available at https://gitlab.com/qumphy/d1-code</p></details> |
-| **[Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning](http://arxiv.org/abs/2502.19921v1)** | 2025-02-27 | <details><summary>To ap...</summary><p>To appear at the International Conference on Learning Representation (ICLR) 2025</p></details> |
-| **[Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](http://arxiv.org/abs/2409.16040v4)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
-| **[Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets](http://arxiv.org/abs/2502.19766v1)** | 2025-02-27 |  |
+| **[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](http://arxiv.org/abs/2408.15091v3)** | 2025-02-27 | Accepted by AAAI25 |
+| **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
+| **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v1)** | 2025-02-27 |  |
+| **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
+| **[Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing](http://arxiv.org/abs/2502.19416v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at KnowFM @ AAAI 2025. arXiv admin note: text overlap with arXiv:2502.01636</p></details> |
+| **[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](http://arxiv.org/abs/2408.07413v3)** | 2025-02-26 | <details><summary>To be...</summary><p>To be published in AAAI 2025 (Oral)</p></details> |
+| **[From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs](http://arxiv.org/abs/2409.10245v4)** | 2025-02-25 | <details><summary>Findi...</summary><p>Findings paper of NAACL 2025 and NeurIPS 2024 Workshop on Behavioral Machine Learning</p></details> |
+| **[Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models](http://arxiv.org/abs/2405.15349v3)** | 2025-02-25 | ICLR 2025 |
+| **[CKnowEdit: A New Chinese Knowledge Editing Dataset for Linguistics, Facts, and Logic Error Correction in LLMs](http://arxiv.org/abs/2409.05806v3)** | 2025-02-24 | <details><summary>Ongoi...</summary><p>Ongoing work; project website is available at https://zjunlp.github.io/project/CKnowEdit code and dataset are available at https://github.com/zjunlp/EasyEdit</p></details> |
+| **[CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](http://arxiv.org/abs/2410.09508v4)** | 2025-02-22 | <details><summary>20 pa...</summary><p>20 pages, 11 figures. Published as a conference paper at ICLR 2025. Code at https://github.com/LINs-lab/CollabEdit</p></details> |
+| **[FLEKE: Federated Locate-then-Edit Knowledge Editing](http://arxiv.org/abs/2502.15677v1)** | 2025-02-21 |  |
+| **[Revealing and Mitigating Over-Attention in Knowledge Editing](http://arxiv.org/abs/2502.14838v1)** | 2025-02-20 |  |
+| **[Edit Once, Update Everywhere: A Simple Framework for Cross-Lingual Knowledge Synchronization in LLMs](http://arxiv.org/abs/2502.14645v1)** | 2025-02-20 |  |
+| **[BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning](http://arxiv.org/abs/2406.17764v2)** | 2025-02-19 | 18 pages, 10 figures |
+| **[MLaKE: Multilingual Knowledge Editing Benchmark for Large Language Models](http://arxiv.org/abs/2404.04990v3)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted as a full paper at COLING 2025</p></details> |
 
-## Trajectory
+## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization](http://arxiv.org/abs/2502.20382v1)** | 2025-02-27 |  |
-| **[Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison](http://arxiv.org/abs/2502.20353v1)** | 2025-02-27 | 8 pages, 6 figures |
-| **[T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration](http://arxiv.org/abs/2502.20333v1)** | 2025-02-27 |  |
-| **[Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights](http://arxiv.org/abs/2502.20084v1)** | 2025-02-27 |  |
-| **[CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](http://arxiv.org/abs/2502.19908v1)** | 2025-02-27 | CVPR 2025 |
-| **[Tracailer: An Efficient Trajectory Planner for Tractor-Trailer Vehicles in Unstructured Environments](http://arxiv.org/abs/2502.19832v1)** | 2025-02-27 | 15 pages, 12 figures |
-| **[Transient Stability Analysis and Fault Clearing Angle Estimation of VSG Based on Domain of Attraction Estimated by Trajectory Reversing Method](http://arxiv.org/abs/2502.19728v1)** | 2025-02-27 | <details><summary>9 pag...</summary><p>9 pages,11 figures, references added</p></details> |
-| **[3D Trajectory Reconstruction of Moving Points Based on a Monocular Camera](http://arxiv.org/abs/2502.19689v1)** | 2025-02-27 |  |
-| **[Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports](http://arxiv.org/abs/2405.17680v2)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025. Datasets, code, and model weights are available at: https://github.com/colorfulfuture/UniTraj-pytorch</p></details> |
-| **[Partially Observed Trajectory Inference using Optimal Transport and a Dynamics Prior](http://arxiv.org/abs/2406.07475v3)** | 2025-02-26 | ICLR 2025 |
-| **[Handover-Aware Trajectory Optimization for Cellular-Connected UAV](http://arxiv.org/abs/2502.19077v1)** | 2025-02-26 | <details><summary>to ap...</summary><p>to appear in IEEE Wireless Communications Letters</p></details> |
-| **[MENSA: A Multi-Event Network for Survival Analysis with Trajectory-based Likelihood Estimation](http://arxiv.org/abs/2409.06525v2)** | 2025-02-26 |  |
-| **[VL-TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments](http://arxiv.org/abs/2408.02454v4)** | 2025-02-25 |  |
-| **[SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](http://arxiv.org/abs/2411.04989v3)** | 2025-02-25 | <details><summary>ICLR ...</summary><p>ICLR 2025. Project page: https://kmcode1.github.io/Projects/SG-I2V/</p></details> |
-| **[Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving](http://arxiv.org/abs/2502.16589v2)** | 2025-02-25 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, ICRA 2025</p></details> |
+| **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
+| **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
+| **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v1)** | 2025-02-26 | <details><summary>18 pa...</summary><p>18 pages, 18 figures, 6 tables</p></details> |
+| **[The Mirage of Model Editing: Revisiting Evaluation in the Wild](http://arxiv.org/abs/2502.11177v3)** | 2025-02-23 |  |
+| **[Self-Updatable Large Language Models by Integrating Context into Model Parameters](http://arxiv.org/abs/2410.00487v2)** | 2025-02-21 |  |
+| **[CoME: An Unlearning-based Approach to Conflict-free Model Editing](http://arxiv.org/abs/2502.15826v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
+| **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v2)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
+| **[MeMo: Towards Language Models with Associative Memory Mechanisms](http://arxiv.org/abs/2502.12851v1)** | 2025-02-18 |  |
+| **[Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion](http://arxiv.org/abs/2502.12598v1)** | 2025-02-18 |  |
+| **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v1)** | 2025-02-17 |  |
+| **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
+| **[SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](http://arxiv.org/abs/2401.17809v4)** | 2025-02-17 | <details><summary>AAAI2...</summary><p>AAAI25. Our code is available at https://github.com/xpq-tech/SWEA</p></details> |
+| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v3)** | 2025-02-16 | 18 pages, 3 figures |
+| **[The Multi-Faceted Monosemanticity in Multimodal Representations](http://arxiv.org/abs/2502.14888v1)** | 2025-02-16 |  |
 
-## Graph Neural Networks
+## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains](http://arxiv.org/abs/2410.18631v2)** | 2025-02-27 |  |
-| **[Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks](http://arxiv.org/abs/2502.17371v2)** | 2025-02-27 |  |
-| **[When Graph meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graphs Learning](http://arxiv.org/abs/2410.09132v2)** | 2025-02-27 |  |
-| **[A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization](http://arxiv.org/abs/2502.20036v1)** | 2025-02-27 | <details><summary>To be...</summary><p>To be published in 2025 International Conference on 3D Vision (3DV)</p></details> |
-| **[WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks](http://arxiv.org/abs/2502.19986v1)** | 2025-02-27 |  |
-| **[Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction](http://arxiv.org/abs/2502.19971v1)** | 2025-02-27 |  |
-| **[GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction](http://arxiv.org/abs/2502.19823v1)** | 2025-02-27 |  |
-| **[A Survey of Graph Transformers: Architectures, Theories and Applications](http://arxiv.org/abs/2502.16533v2)** | 2025-02-27 |  |
-| **[Accurate and Scalable Graph Neural Networks via Message Invariance](http://arxiv.org/abs/2502.19693v1)** | 2025-02-27 |  |
-| **[Training Robust Graph Neural Networks by Modeling Noise Dependencies](http://arxiv.org/abs/2502.19670v1)** | 2025-02-27 | Work in progress |
-| **[Hyperdimensional Representation Learning for Node Classification and Link Prediction](http://arxiv.org/abs/2402.17073v3)** | 2025-02-27 | <details><summary>Accep...</summary><p>Accepted by WSDM 2025</p></details> |
-| **[Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization](http://arxiv.org/abs/2502.19377v1)** | 2025-02-26 | <details><summary>Preli...</summary><p>Preliminary work, under review</p></details> |
-| **[Energy-based Epistemic Uncertainty for Graph Neural Networks](http://arxiv.org/abs/2406.04043v3)** | 2025-02-26 |  |
-| **[What is my quantum computer good for? Quantum capability learning with physics-aware neural networks](http://arxiv.org/abs/2406.05636v2)** | 2025-02-26 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 4 tables, includes conference checklist</p></details> |
-| **[Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks](http://arxiv.org/abs/2502.17612v2)** | 2025-02-26 | <details><summary>corre...</summary><p>correcting contact information</p></details> |
+| **[VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](http://arxiv.org/abs/2502.18906v1)** | 2025-02-26 | 20pages,5 figures |
+| **[PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](http://arxiv.org/abs/2502.14282v2)** | 2025-02-21 | 14 pages, 7 figures |
+| **[WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](http://arxiv.org/abs/2502.08047v2)** | 2025-02-19 | 19 pages, 18 figures |
+| **[A3: Android Agent Arena for Mobile GUI Agents](http://arxiv.org/abs/2501.01149v2)** | 2025-02-18 |  |
+| **[TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](http://arxiv.org/abs/2502.08226v2)** | 2025-02-14 | 8 pages 5 figures |
+| **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v9)** | 2025-02-14 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
+| **[GUI Agents with Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2411.04890v2)** | 2025-02-13 |  |
+| **[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](http://arxiv.org/abs/2501.12326v1)** | 2025-01-21 |  |
+| **[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](http://arxiv.org/abs/2501.04575v1)** | 2025-01-08 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, work in progress</p></details> |
+| **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v1)** | 2024-12-27 | Work in progress |
+| **[CogAgent: A Visual Language Model for GUI Agents](http://arxiv.org/abs/2312.08914v3)** | 2024-12-27 | <details><summary>CVPR ...</summary><p>CVPR 2024 (Highlight), 27 pages, 19 figures</p></details> |
+| **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v2)** | 2024-12-26 | 15 pages, 5 figures |
+| **[GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](http://arxiv.org/abs/2412.18426v1)** | 2024-12-24 |  |
+| **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v1)** | 2024-12-18 |  |
+| **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v1)** | 2024-12-12 | <details><summary>https...</summary><p>https://agenttrek.github.io</p></details> |
+
+## Efficient LLM
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v3)** | 2025-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
+| **[Progressive Mixed-Precision Decoding for Efficient LLM Inference](http://arxiv.org/abs/2410.13461v2)** | 2025-02-27 |  |
+| **[Dynamic Parallel Tree Search for Efficient LLM Reasoning](http://arxiv.org/abs/2502.16235v2)** | 2025-02-27 | 17 pages, 11 figures |
+| **[Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](http://arxiv.org/abs/2410.11261v2)** | 2025-02-26 | ICLR 2025 |
+| **[Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](http://arxiv.org/abs/2502.18823v1)** | 2025-02-26 |  |
+| **[AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference](http://arxiv.org/abs/2502.04077v2)** | 2025-02-26 |  |
+| **[Rethinking Layer Removal: A Hybrid Pruning Framework Combining Layer Removal and Singular Value Selection for Efficient LLM Compression](http://arxiv.org/abs/2501.00339v2)** | 2025-02-25 | 16 pages, 5 figures |
+| **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](http://arxiv.org/abs/2410.06364v2)** | 2025-02-25 |  |
+| **[Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM](http://arxiv.org/abs/2502.16963v1)** | 2025-02-24 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, accepted by HPCA 2025</p></details> |
+| **[TerEffic: Highly Efficient Ternary LLM Inference on FPGA](http://arxiv.org/abs/2502.16473v1)** | 2025-02-23 |  |
+| **[Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications](http://arxiv.org/abs/2502.14305v1)** | 2025-02-20 |  |
+| **[VilBias: A Study of Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges](http://arxiv.org/abs/2412.17052v3)** | 2025-02-18 | Under review |
+| **[SEFL: Harnessing Large Language Model Agents to Improve Educational Feedback Systems](http://arxiv.org/abs/2502.12927v1)** | 2025-02-18 |  |
+| **[HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading](http://arxiv.org/abs/2502.12574v1)** | 2025-02-18 |  |
+| **[APOLLO: SGD-like Memory, AdamW-level Performance](http://arxiv.org/abs/2412.05270v4)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted to MLSys 2025; the newest version with new experiments</p></details> |
 
