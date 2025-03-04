@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2025
+title: Latest 15 Papers - March 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Knowledge Editing Really Correct Hallucinations?](http://arxiv.org/abs/2410.16251v3)** | 2025-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2025. Main paper: 10 pages; total: 34 pages (including appendix). The first two authors contributed equally to this work. Code, data, results, and additional resources are available on the project website: https://llm-editing.github.io</p></details> |
+| **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v2)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accept to ICLR2025. Project Page: https://mmke-bench-iclr.github.io/</p></details> |
 | **[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](http://arxiv.org/abs/2408.15091v3)** | 2025-02-27 | Accepted by AAAI25 |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
-| **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v1)** | 2025-02-27 |  |
 | **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 | **[Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing](http://arxiv.org/abs/2502.19416v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at KnowFM @ AAAI 2025. arXiv admin note: text overlap with arXiv:2502.01636</p></details> |
 | **[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](http://arxiv.org/abs/2408.07413v3)** | 2025-02-26 | <details><summary>To be...</summary><p>To be published in AAAI 2025 (Oral)</p></details> |
@@ -21,18 +22,18 @@ labels: documentation
 | **[Revealing and Mitigating Over-Attention in Knowledge Editing](http://arxiv.org/abs/2502.14838v1)** | 2025-02-20 |  |
 | **[Edit Once, Update Everywhere: A Simple Framework for Cross-Lingual Knowledge Synchronization in LLMs](http://arxiv.org/abs/2502.14645v1)** | 2025-02-20 |  |
 | **[BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning](http://arxiv.org/abs/2406.17764v2)** | 2025-02-19 | 18 pages, 10 figures |
-| **[MLaKE: Multilingual Knowledge Editing Benchmark for Large Language Models](http://arxiv.org/abs/2404.04990v3)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted as a full paper at COLING 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
 | **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v1)** | 2025-02-26 | <details><summary>18 pa...</summary><p>18 pages, 18 figures, 6 tables</p></details> |
 | **[The Mirage of Model Editing: Revisiting Evaluation in the Wild](http://arxiv.org/abs/2502.11177v3)** | 2025-02-23 |  |
 | **[Self-Updatable Large Language Models by Integrating Context into Model Parameters](http://arxiv.org/abs/2410.00487v2)** | 2025-02-21 |  |
 | **[CoME: An Unlearning-based Approach to Conflict-free Model Editing](http://arxiv.org/abs/2502.15826v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
-| **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v2)** | 2025-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
 | **[MeMo: Towards Language Models with Associative Memory Mechanisms](http://arxiv.org/abs/2502.12851v1)** | 2025-02-18 |  |
 | **[Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion](http://arxiv.org/abs/2502.12598v1)** | 2025-02-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](http://arxiv.org/abs/2401.17809v4)** | 2025-02-17 | <details><summary>AAAI2...</summary><p>AAAI25. Our code is available at https://github.com/xpq-tech/SWEA</p></details> |
 | **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v3)** | 2025-02-16 | 18 pages, 3 figures |
-| **[The Multi-Faceted Monosemanticity in Multimodal Representations](http://arxiv.org/abs/2502.14888v1)** | 2025-02-16 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -59,11 +59,12 @@ labels: documentation
 | **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v2)** | 2024-12-26 | 15 pages, 5 figures |
 | **[GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](http://arxiv.org/abs/2412.18426v1)** | 2024-12-24 |  |
 | **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v1)** | 2024-12-18 |  |
-| **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v1)** | 2024-12-12 | <details><summary>https...</summary><p>https://agenttrek.github.io</p></details> |
+| **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v2)** | 2025-03-03 | <details><summary>ICLR2...</summary><p>ICLR2025 Spotlight https://agenttrek.github.io</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning](http://arxiv.org/abs/2406.09044v3)** | 2025-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at NAACL 2025. Code is available at: https://github.com/sufenlp/MiLoRA</p></details> |
 | **[ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v3)** | 2025-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
 | **[Progressive Mixed-Precision Decoding for Efficient LLM Inference](http://arxiv.org/abs/2410.13461v2)** | 2025-02-27 |  |
 | **[Dynamic Parallel Tree Search for Efficient LLM Reasoning](http://arxiv.org/abs/2502.16235v2)** | 2025-02-27 | 17 pages, 11 figures |
@@ -78,5 +79,4 @@ labels: documentation
 | **[VilBias: A Study of Bias Detection through Linguistic and Visual Cues , presenting Annotation Strategies, Evaluation, and Key Challenges](http://arxiv.org/abs/2412.17052v3)** | 2025-02-18 | Under review |
 | **[SEFL: Harnessing Large Language Model Agents to Improve Educational Feedback Systems](http://arxiv.org/abs/2502.12927v1)** | 2025-02-18 |  |
 | **[HeadInfer: Memory-Efficient LLM Inference by Head-wise Offloading](http://arxiv.org/abs/2502.12574v1)** | 2025-02-18 |  |
-| **[APOLLO: SGD-like Memory, AdamW-level Performance](http://arxiv.org/abs/2412.05270v4)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted to MLSys 2025; the newest version with new experiments</p></details> |
 
