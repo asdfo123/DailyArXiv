@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2025
+title: Latest 15 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
 | **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion](http://arxiv.org/abs/2502.12598v1)** | 2025-02-18 |  |
 | **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v1)** | 2025-02-17 |  |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
-| **[SWEA: Updating Factual Knowledge in Large Language Models via Subject Word Embedding Altering](http://arxiv.org/abs/2401.17809v4)** | 2025-02-17 | <details><summary>AAAI2...</summary><p>AAAI25. Our code is available at https://github.com/xpq-tech/SWEA</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)** | 2025-03-05 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](http://arxiv.org/abs/2503.00401v2)** | 2025-03-04 |  |
 | **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
 | **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v2)** | 2025-03-03 | <details><summary>ICLR2...</summary><p>ICLR2025 Spotlight https://agenttrek.github.io</p></details> |
@@ -59,11 +60,12 @@ labels: documentation
 | **[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](http://arxiv.org/abs/2501.12326v1)** | 2025-01-21 |  |
 | **[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](http://arxiv.org/abs/2501.04575v1)** | 2025-01-08 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, work in progress</p></details> |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v1)** | 2024-12-27 | Work in progress |
-| **[CogAgent: A Visual Language Model for GUI Agents](http://arxiv.org/abs/2312.08914v3)** | 2024-12-27 | <details><summary>CVPR ...</summary><p>CVPR 2024 (Highlight), 27 pages, 19 figures</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03505v1)** | 2025-03-05 |  |
+| **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v1)** | 2025-03-05 |  |
 | **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
 | **[Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment](http://arxiv.org/abs/2406.04412v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral Presentation, 22 pages</p></details> |
 | **[Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens](http://arxiv.org/abs/2503.01710v1)** | 2025-03-03 | <details><summary>Submi...</summary><p>Submitted to ACL 2025</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](http://arxiv.org/abs/2502.18823v1)** | 2025-02-26 |  |
 | **[AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference](http://arxiv.org/abs/2502.04077v2)** | 2025-02-26 |  |
 | **[Rethinking Layer Removal: A Hybrid Pruning Framework Combining Layer Removal and Singular Value Selection for Efficient LLM Compression](http://arxiv.org/abs/2501.00339v2)** | 2025-02-25 | 16 pages, 5 figures |
-| **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](http://arxiv.org/abs/2410.06364v2)** | 2025-02-25 |  |
-| **[Make LLM Inference Affordable to Everyone: Augmenting GPU Memory with NDP-DIMM](http://arxiv.org/abs/2502.16963v1)** | 2025-02-24 | <details><summary>15 pa...</summary><p>15 pages, 17 figures, accepted by HPCA 2025</p></details> |
 
