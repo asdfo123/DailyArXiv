@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 07, 2025
+title: Latest 15 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v1)** | 2025-03-06 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Comments are welcome</p></details> |
 | **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03505v1)** | 2025-03-05 |  |
 | **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v1)** | 2025-03-05 |  |
 | **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](http://arxiv.org/abs/2410.11261v2)** | 2025-02-26 | ICLR 2025 |
 | **[Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](http://arxiv.org/abs/2502.18823v1)** | 2025-02-26 |  |
 | **[AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference](http://arxiv.org/abs/2502.04077v2)** | 2025-02-26 |  |
-| **[Rethinking Layer Removal: A Hybrid Pruning Framework Combining Layer Removal and Singular Value Selection for Efficient LLM Compression](http://arxiv.org/abs/2501.00339v2)** | 2025-02-25 | 16 pages, 5 figures |
 
