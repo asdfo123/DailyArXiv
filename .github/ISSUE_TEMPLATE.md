@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2025
+title: Latest 15 Papers - March 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v1)** | 2025-03-07 | Preprint |
+| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality](http://arxiv.org/abs/2503.02701v1)** | 2025-03-04 |  |
 | **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v1)** | 2025-03-03 |  |
 | **[Can Knowledge Editing Really Correct Hallucinations?](http://arxiv.org/abs/2410.16251v3)** | 2025-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2025. Main paper: 10 pages; total: 34 pages (including appendix). The first two authors contributed equally to this work. Code, data, results, and additional resources are available on the project website: https://llm-editing.github.io</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](http://arxiv.org/abs/2408.07413v3)** | 2025-02-26 | <details><summary>To be...</summary><p>To be published in AAAI 2025 (Oral)</p></details> |
 | **[From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs](http://arxiv.org/abs/2409.10245v4)** | 2025-02-25 | <details><summary>Findi...</summary><p>Findings paper of NAACL 2025 and NeurIPS 2024 Workshop on Behavioral Machine Learning</p></details> |
 | **[Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models](http://arxiv.org/abs/2405.15349v3)** | 2025-02-25 | ICLR 2025 |
-| **[CKnowEdit: A New Chinese Knowledge Editing Dataset for Linguistics, Facts, and Logic Error Correction in LLMs](http://arxiv.org/abs/2409.05806v3)** | 2025-02-24 | <details><summary>Ongoi...</summary><p>Ongoing work; project website is available at https://zjunlp.github.io/project/CKnowEdit code and dataset are available at https://github.com/zjunlp/EasyEdit</p></details> |
-| **[CollabEdit: Towards Non-destructive Collaborative Knowledge Editing](http://arxiv.org/abs/2410.09508v4)** | 2025-02-22 | <details><summary>20 pa...</summary><p>20 pages, 11 figures. Published as a conference paper at ICLR 2025. Code at https://github.com/LINs-lab/CollabEdit</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
+| **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
 | **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
 | **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
 | **[MeMo: Towards Language Models with Associative Memory Mechanisms](http://arxiv.org/abs/2502.12851v1)** | 2025-02-18 |  |
 | **[Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion](http://arxiv.org/abs/2502.12598v1)** | 2025-02-18 |  |
-| **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v1)** | 2025-02-17 |  |
-| **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -57,14 +57,16 @@ labels: documentation
 | **[TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](http://arxiv.org/abs/2502.08226v2)** | 2025-02-14 | 8 pages 5 figures |
 | **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v9)** | 2025-02-14 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
 | **[GUI Agents with Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2411.04890v2)** | 2025-02-13 |  |
+| **[WinClick: GUI Grounding with Multimodal Large Language Models](http://arxiv.org/abs/2503.04730v1)** | 2025-01-27 |  |
 | **[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](http://arxiv.org/abs/2501.12326v1)** | 2025-01-21 |  |
 | **[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](http://arxiv.org/abs/2501.04575v1)** | 2025-01-08 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, work in progress</p></details> |
-| **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v1)** | 2024-12-27 | Work in progress |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v1)** | 2025-03-06 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Comments are welcome</p></details> |
+| **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
+| **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v1)** | 2025-03-07 |  |
+| **[SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding](http://arxiv.org/abs/2503.05096v1)** | 2025-03-07 |  |
 | **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03505v1)** | 2025-03-05 |  |
 | **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v1)** | 2025-03-05 |  |
 | **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Progressive Mixed-Precision Decoding for Efficient LLM Inference](http://arxiv.org/abs/2410.13461v2)** | 2025-02-27 |  |
 | **[Dynamic Parallel Tree Search for Efficient LLM Reasoning](http://arxiv.org/abs/2502.16235v2)** | 2025-02-27 | 17 pages, 11 figures |
 | **[Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](http://arxiv.org/abs/2410.11261v2)** | 2025-02-26 | ICLR 2025 |
-| **[Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](http://arxiv.org/abs/2502.18823v1)** | 2025-02-26 |  |
-| **[AttentionPredictor: Temporal Pattern Matters for Efficient LLM Inference](http://arxiv.org/abs/2502.04077v2)** | 2025-02-26 |  |
 
