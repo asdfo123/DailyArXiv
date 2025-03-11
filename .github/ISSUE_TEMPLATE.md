@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2025
+title: Latest 15 Papers - March 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
 | **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CoME: An Unlearning-based Approach to Conflict-free Model Editing](http://arxiv.org/abs/2502.15826v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
 | **[MeMo: Towards Language Models with Associative Memory Mechanisms](http://arxiv.org/abs/2502.12851v1)** | 2025-02-18 |  |
-| **[Bring Your Own Knowledge: A Survey of Methods for LLM Knowledge Expansion](http://arxiv.org/abs/2502.12598v1)** | 2025-02-18 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v2)** | 2025-03-09 |  |
 | **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v1)** | 2025-03-07 |  |
 | **[SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding](http://arxiv.org/abs/2503.05096v1)** | 2025-03-07 |  |
@@ -72,7 +73,6 @@ labels: documentation
 | **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
 | **[Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment](http://arxiv.org/abs/2406.04412v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral Presentation, 22 pages</p></details> |
 | **[Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens](http://arxiv.org/abs/2503.01710v1)** | 2025-03-03 | <details><summary>Submi...</summary><p>Submitted to ACL 2025</p></details> |
-| **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v1)** | 2025-03-02 |  |
 | **[MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning](http://arxiv.org/abs/2406.09044v3)** | 2025-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at NAACL 2025. Code is available at: https://github.com/sufenlp/MiLoRA</p></details> |
 | **[Tutorial Proposal: Speculative Decoding for Efficient LLM Inference](http://arxiv.org/abs/2503.00491v1)** | 2025-03-01 | <details><summary>COLIN...</summary><p>COLING 2025 Tutorial. Our homepage: https://speculative-decoding.github.io/</p></details> |
 | **[ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v3)** | 2025-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
