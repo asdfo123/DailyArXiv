@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2025
+title: Latest 15 Papers - March 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Self-Updatable Large Language Models by Integrating Context into Model Parameters](http://arxiv.org/abs/2410.00487v2)** | 2025-02-21 |  |
 | **[CoME: An Unlearning-based Approach to Conflict-free Model Editing](http://arxiv.org/abs/2502.15826v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
-| **[MeMo: Towards Language Models with Associative Memory Mechanisms](http://arxiv.org/abs/2502.12851v1)** | 2025-02-18 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
