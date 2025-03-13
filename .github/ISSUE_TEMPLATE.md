@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2025
+title: Latest 15 Papers - March 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v2)** | 2025-03-12 |  |
 | **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[The Mirage of Model Editing: Revisiting Evaluation in the Wild](http://arxiv.org/abs/2502.11177v3)** | 2025-02-23 |  |
 | **[Self-Updatable Large Language Models by Integrating Context into Model Parameters](http://arxiv.org/abs/2410.00487v2)** | 2025-02-21 |  |
 | **[CoME: An Unlearning-based Approach to Conflict-free Model Editing](http://arxiv.org/abs/2502.15826v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main conference</p></details> |
-| **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v2)** | 2025-02-18 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -55,7 +55,7 @@ labels: documentation
 | **[WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](http://arxiv.org/abs/2502.08047v2)** | 2025-02-19 | 19 pages, 18 figures |
 | **[A3: Android Agent Arena for Mobile GUI Agents](http://arxiv.org/abs/2501.01149v2)** | 2025-02-18 |  |
 | **[TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](http://arxiv.org/abs/2502.08226v2)** | 2025-02-14 | 8 pages 5 figures |
-| **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v9)** | 2025-02-14 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
+| **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v10)** | 2025-03-12 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
 | **[GUI Agents with Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2411.04890v2)** | 2025-02-13 |  |
 | **[WinClick: GUI Grounding with Multimodal Large Language Models](http://arxiv.org/abs/2503.04730v1)** | 2025-01-27 |  |
 | **[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](http://arxiv.org/abs/2501.12326v1)** | 2025-01-21 |  |
@@ -64,6 +64,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)** | 2025-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v2)** | 2025-03-09 |  |
 | **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v1)** | 2025-03-07 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v3)** | 2025-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
 | **[Progressive Mixed-Precision Decoding for Efficient LLM Inference](http://arxiv.org/abs/2410.13461v2)** | 2025-02-27 |  |
 | **[Dynamic Parallel Tree Search for Efficient LLM Reasoning](http://arxiv.org/abs/2502.16235v2)** | 2025-02-27 | 17 pages, 11 figures |
-| **[Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix](http://arxiv.org/abs/2410.11261v2)** | 2025-02-26 | ICLR 2025 |
 
