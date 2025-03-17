@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
+| **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
 | **[Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v1)** | 2025-03-07 | Preprint |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality](http://arxiv.org/abs/2503.02701v1)** | 2025-03-04 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 | **[Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing](http://arxiv.org/abs/2502.19416v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at KnowFM @ AAAI 2025. arXiv admin note: text overlap with arXiv:2502.01636</p></details> |
 | **[Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models](http://arxiv.org/abs/2408.07413v3)** | 2025-02-26 | <details><summary>To be...</summary><p>To be published in AAAI 2025 (Oral)</p></details> |
-| **[From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs](http://arxiv.org/abs/2409.10245v4)** | 2025-02-25 | <details><summary>Findi...</summary><p>Findings paper of NAACL 2025 and NeurIPS 2024 Workshop on Behavioral Machine Learning</p></details> |
-| **[Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models](http://arxiv.org/abs/2405.15349v3)** | 2025-02-25 | ICLR 2025 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
+| **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
 | **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification](http://arxiv.org/abs/2412.16780v3)** | 2025-03-13 |  |
 | **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v2)** | 2025-03-12 |  |
 | **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
@@ -39,12 +41,12 @@ labels: documentation
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
 | **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v1)** | 2025-02-26 | <details><summary>18 pa...</summary><p>18 pages, 18 figures, 6 tables</p></details> |
-| **[Constraining Sequential Model Editing with Editing Anchor Compression](http://arxiv.org/abs/2503.00035v1)** | 2025-02-25 |  |
-| **[The Mirage of Model Editing: Revisiting Evaluation in the Wild](http://arxiv.org/abs/2502.11177v3)** | 2025-02-23 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](http://arxiv.org/abs/2503.11170v1)** | 2025-03-14 |  |
+| **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
 | **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)** | 2025-03-05 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](http://arxiv.org/abs/2503.00401v2)** | 2025-03-04 |  |
 | **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
@@ -58,12 +60,13 @@ labels: documentation
 | **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v10)** | 2025-03-12 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
 | **[GUI Agents with Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2411.04890v2)** | 2025-02-13 |  |
 | **[WinClick: GUI Grounding with Multimodal Large Language Models](http://arxiv.org/abs/2503.04730v1)** | 2025-01-27 |  |
-| **[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](http://arxiv.org/abs/2501.12326v1)** | 2025-01-21 |  |
-| **[InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](http://arxiv.org/abs/2501.04575v1)** | 2025-01-08 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, work in progress</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference](http://arxiv.org/abs/2409.16560v2)** | 2025-03-14 |  |
+| **[D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning](http://arxiv.org/abs/2503.11441v1)** | 2025-03-14 |  |
+| **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v1)** | 2025-03-14 | <details><summary>The c...</summary><p>The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
 | **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v1)** | 2025-03-13 |  |
 | **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v2)** | 2025-03-09 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment](http://arxiv.org/abs/2406.04412v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral Presentation, 22 pages</p></details> |
 | **[Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens](http://arxiv.org/abs/2503.01710v1)** | 2025-03-03 | <details><summary>Submi...</summary><p>Submitted to ACL 2025</p></details> |
 | **[MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning](http://arxiv.org/abs/2406.09044v3)** | 2025-03-02 | <details><summary>This ...</summary><p>This paper has been accepted at NAACL 2025. Code is available at: https://github.com/sufenlp/MiLoRA</p></details> |
-| **[Tutorial Proposal: Speculative Decoding for Efficient LLM Inference](http://arxiv.org/abs/2503.00491v1)** | 2025-03-01 | <details><summary>COLIN...</summary><p>COLING 2025 Tutorial. Our homepage: https://speculative-decoding.github.io/</p></details> |
-| **[ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v3)** | 2025-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2025 (Spotlight)</p></details> |
-| **[Progressive Mixed-Precision Decoding for Efficient LLM Inference](http://arxiv.org/abs/2410.13461v2)** | 2025-02-27 |  |
 
