@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs](http://arxiv.org/abs/2503.01090v2)** | 2025-03-17 | ICLR 2025 |
 | **[Composable Interventions for Language Models](http://arxiv.org/abs/2407.06483v2)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning](http://arxiv.org/abs/2503.00306v1)** | 2025-03-01 | ICLR 2025 |
 | **[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](http://arxiv.org/abs/2408.15091v3)** | 2025-02-27 | Accepted by AAAI25 |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
-| **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Exploiting Edited Large Language Models as General Scientific Optimizers](http://arxiv.org/abs/2503.09620v2)** | 2025-03-17 |  |
 | **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification](http://arxiv.org/abs/2412.16780v4)** | 2025-03-17 |  |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
-| **[K-Edit: Language Model Editing with Contextual Knowledge Awareness](http://arxiv.org/abs/2502.10626v2)** | 2025-02-27 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -67,6 +67,7 @@ labels: documentation
 | **[Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization](http://arxiv.org/abs/2412.06858v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted as poster by CPAL2025</p></details> |
 | **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v3)** | 2025-03-15 |  |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v1)** | 2025-03-14 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
+| **[Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce](http://arxiv.org/abs/2503.13518v1)** | 2025-03-14 |  |
 | **[Dynamic-Width Speculative Beam Decoding for Efficient LLM Inference](http://arxiv.org/abs/2409.16560v2)** | 2025-03-14 |  |
 | **[D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning](http://arxiv.org/abs/2503.11441v1)** | 2025-03-14 |  |
 | **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v1)** | 2025-03-14 | <details><summary>The c...</summary><p>The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03505v1)** | 2025-03-05 |  |
 | **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v1)** | 2025-03-05 |  |
 | **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
-| **[Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment](http://arxiv.org/abs/2406.04412v2)** | 2025-03-04 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral Presentation, 22 pages</p></details> |
 
