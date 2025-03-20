@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 20, 2025
+title: Latest 15 Papers - March 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Exploiting Edited Large Language Models as General Scientific Optimizers](http://arxiv.org/abs/2503.09620v2)** | 2025-03-17 |  |
 | **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification](http://arxiv.org/abs/2412.16780v4)** | 2025-03-17 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
 | **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
-| **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding](http://arxiv.org/abs/2502.08020v2)** | 2025-03-19 |  |
+| **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v1)** | 2025-03-19 |  |
+| **[FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding](http://arxiv.org/abs/2503.14935v1)** | 2025-03-19 | <details><summary>FAVOR...</summary><p>FAVOR-Bench project page: https://favor-bench.github.io/</p></details> |
 | **[Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization](http://arxiv.org/abs/2412.06858v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted as poster by CPAL2025</p></details> |
 | **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v3)** | 2025-03-15 |  |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v1)** | 2025-03-14 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v1)** | 2025-03-07 |  |
 | **[SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding](http://arxiv.org/abs/2503.05096v1)** | 2025-03-07 |  |
-| **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems](http://arxiv.org/abs/2503.03505v1)** | 2025-03-05 |  |
-| **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v1)** | 2025-03-05 |  |
-| **[PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence](http://arxiv.org/abs/2503.02398v1)** | 2025-03-04 | draft paper |
 
