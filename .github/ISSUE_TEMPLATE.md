@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 21, 2025
+title: Latest 15 Papers - March 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v1)** | 2025-03-20 | Work in progress |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs](http://arxiv.org/abs/2503.01090v2)** | 2025-03-17 | ICLR 2025 |
 | **[Composable Interventions for Language Models](http://arxiv.org/abs/2407.06483v2)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v2)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accept to ICLR2025. Project Page: https://mmke-bench-iclr.github.io/</p></details> |
 | **[Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning](http://arxiv.org/abs/2503.00306v1)** | 2025-03-01 | ICLR 2025 |
 | **[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](http://arxiv.org/abs/2408.15091v3)** | 2025-02-27 | Accepted by AAAI25 |
-| **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v1)** | 2025-02-27 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v1)** | 2025-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 itertions</p></details> |
 | **[Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](http://arxiv.org/abs/2407.09295v3)** | 2025-03-16 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
 | **[DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](http://arxiv.org/abs/2503.11170v1)** | 2025-03-14 |  |
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[A3: Android Agent Arena for Mobile GUI Agents](http://arxiv.org/abs/2501.01149v2)** | 2025-02-18 |  |
 | **[TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](http://arxiv.org/abs/2502.08226v2)** | 2025-02-14 | 8 pages 5 figures |
 | **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v10)** | 2025-03-12 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
-| **[GUI Agents with Foundation Models: A Comprehensive Survey](http://arxiv.org/abs/2411.04890v2)** | 2025-02-13 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models](http://arxiv.org/abs/2503.15921v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by INFOCOM 2025</p></details> |
+| **[Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](http://arxiv.org/abs/2407.18921v2)** | 2025-03-20 | <details><summary>42 pa...</summary><p>42 pages, 17 figures. This paper has been accepted by IEEE Communications Surveys & Tutorials</p></details> |
 | **[Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding](http://arxiv.org/abs/2502.08020v2)** | 2025-03-19 |  |
 | **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v1)** | 2025-03-19 |  |
 | **[FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding](http://arxiv.org/abs/2503.14935v1)** | 2025-03-19 | <details><summary>FAVOR...</summary><p>FAVOR-Bench project page: https://favor-bench.github.io/</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v1)** | 2025-03-13 |  |
 | **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
-| **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v1)** | 2025-03-07 |  |
-| **[SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding](http://arxiv.org/abs/2503.05096v1)** | 2025-03-07 |  |
 
