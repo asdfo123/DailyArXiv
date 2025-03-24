@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2025
+title: Latest 15 Papers - March 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v1)** | 2025-03-20 | <details><summary>14 pa...</summary><p>14 pages, 4 itertions</p></details> |
+| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v2)** | 2025-03-21 | <details><summary>14 pa...</summary><p>14 pages, 4 iterations, refine figs</p></details> |
 | **[Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](http://arxiv.org/abs/2407.09295v3)** | 2025-03-16 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
 | **[DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](http://arxiv.org/abs/2503.11170v1)** | 2025-03-14 |  |
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
