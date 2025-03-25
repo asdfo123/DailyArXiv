@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -46,6 +46,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v2)** | 2025-03-21 | <details><summary>14 pa...</summary><p>14 pages, 4 iterations, refine figs</p></details> |
+| **[Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](http://arxiv.org/abs/2503.16788v1)** | 2025-03-21 |  |
 | **[Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](http://arxiv.org/abs/2407.09295v3)** | 2025-03-16 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
 | **[DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](http://arxiv.org/abs/2503.11170v1)** | 2025-03-14 |  |
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
@@ -54,16 +55,16 @@ labels: documentation
 | **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
 | **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v2)** | 2025-03-03 | <details><summary>ICLR2...</summary><p>ICLR2025 Spotlight https://agenttrek.github.io</p></details> |
 | **[Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](http://arxiv.org/abs/2410.05243v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral)</p></details> |
+| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v1)** | 2025-02-26 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables</p></details> |
 | **[VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](http://arxiv.org/abs/2502.18906v1)** | 2025-02-26 | 20pages,5 figures |
 | **[PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](http://arxiv.org/abs/2502.14282v2)** | 2025-02-21 | 14 pages, 7 figures |
 | **[WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](http://arxiv.org/abs/2502.08047v2)** | 2025-02-19 | 19 pages, 18 figures |
 | **[A3: Android Agent Arena for Mobile GUI Agents](http://arxiv.org/abs/2501.01149v2)** | 2025-02-18 |  |
-| **[TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents](http://arxiv.org/abs/2502.08226v2)** | 2025-02-14 | 8 pages 5 figures |
-| **[Large Language Model-Brained GUI Agents: A Survey](http://arxiv.org/abs/2411.18279v10)** | 2025-03-12 | <details><summary>The c...</summary><p>The collection of papers reviewed in this survey will be hosted and regularly updated on the GitHub repository: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey Additionally, a searchable webpage is available at https://aka.ms/gui-agent for easier access and exploration</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](http://arxiv.org/abs/2411.15102v3)** | 2025-03-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, ICLR 2025</p></details> |
 | **[SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models](http://arxiv.org/abs/2503.15921v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by INFOCOM 2025</p></details> |
 | **[Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](http://arxiv.org/abs/2407.18921v2)** | 2025-03-20 | <details><summary>42 pa...</summary><p>42 pages, 17 figures. This paper has been accepted by IEEE Communications Surveys & Tutorials</p></details> |
 | **[Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding](http://arxiv.org/abs/2502.08020v2)** | 2025-03-19 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v1)** | 2025-03-14 | <details><summary>The c...</summary><p>The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
 | **[BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v1)** | 2025-03-13 |  |
-| **[Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size](http://arxiv.org/abs/2503.04704v2)** | 2025-03-07 | <details><summary>29 pa...</summary><p>29 pages, 7 figures, 14 tables; Fixed some types, added some clarifications and improvements</p></details> |
 
