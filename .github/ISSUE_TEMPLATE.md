@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2025
+title: Latest 15 Papers - March 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
+| **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v1)** | 2025-03-26 | Work in progress |
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v1)** | 2025-03-20 | Work in progress |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs](http://arxiv.org/abs/2503.01090v2)** | 2025-03-17 | ICLR 2025 |
@@ -20,12 +22,12 @@ labels: documentation
 | **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v1)** | 2025-03-03 |  |
 | **[Can Knowledge Editing Really Correct Hallucinations?](http://arxiv.org/abs/2410.16251v3)** | 2025-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2025. Main paper: 10 pages; total: 34 pages (including appendix). The first two authors contributed equally to this work. Code, data, results, and additional resources are available on the project website: https://llm-editing.github.io</p></details> |
 | **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v2)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accept to ICLR2025. Project Page: https://mmke-bench-iclr.github.io/</p></details> |
-| **[Unlocking Efficient, Scalable, and Continual Knowledge Editing with Basis-Level Representation Fine-Tuning](http://arxiv.org/abs/2503.00306v1)** | 2025-03-01 | ICLR 2025 |
-| **[Relation Also Knows: Rethinking the Recall and Editing of Factual Associations in Auto-Regressive Transformer Language Models](http://arxiv.org/abs/2408.15091v3)** | 2025-02-27 | Accepted by AAAI25 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v3)** | 2025-03-27 |  |
+| **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
 | **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Exploiting Edited Large Language Models as General Scientific Optimizers](http://arxiv.org/abs/2503.09620v2)** | 2025-03-17 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
 | **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
-| **[Perturbation-Restrained Sequential Model Editing](http://arxiv.org/abs/2405.16821v3)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity](http://arxiv.org/abs/2405.13967v5)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v1)** | 2025-03-27 |  |
+| **[ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](http://arxiv.org/abs/2503.20978v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to MM4SG Workshop at The Web Conference 2025</p></details> |
 | **[GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding](http://arxiv.org/abs/2406.10819v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 | **[Safeguarding Mobile GUI Agent via Logic-based Action Verification](http://arxiv.org/abs/2503.18492v1)** | 2025-03-24 |  |
 | **[GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration](http://arxiv.org/abs/2503.17709v1)** | 2025-03-22 | CVPR 2025 |
@@ -58,16 +60,14 @@ labels: documentation
 | **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
 | **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v2)** | 2025-03-03 | <details><summary>ICLR2...</summary><p>ICLR2025 Spotlight https://agenttrek.github.io</p></details> |
 | **[Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](http://arxiv.org/abs/2410.05243v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral)</p></details> |
-| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v1)** | 2025-02-26 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables</p></details> |
-| **[VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](http://arxiv.org/abs/2502.18906v1)** | 2025-02-26 | 20pages,5 figures |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference](http://arxiv.org/abs/2503.17922v2)** | 2025-03-27 |  |
 | **[LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment](http://arxiv.org/abs/2503.19090v1)** | 2025-03-24 |  |
 | **[Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization](http://arxiv.org/abs/2503.18599v1)** | 2025-03-24 | <details><summary>15 pa...</summary><p>15 pages, 14 figures, and 4 tables</p></details> |
 | **[SplitFrozen: Split Learning with Device-side Model Frozen for Fine-Tuning LLM on Heterogeneous Resource-Constrained Devices](http://arxiv.org/abs/2503.18986v1)** | 2025-03-23 |  |
-| **[WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference](http://arxiv.org/abs/2503.17922v1)** | 2025-03-23 |  |
 | **[RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models](http://arxiv.org/abs/2502.09003v2)** | 2025-03-21 | 20 pages, 7 figures |
 | **[AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](http://arxiv.org/abs/2411.15102v3)** | 2025-03-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, ICLR 2025</p></details> |
 | **[SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models](http://arxiv.org/abs/2503.15921v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by INFOCOM 2025</p></details> |
