@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 30, 2025
+title: Latest 15 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy](http://arxiv.org/abs/2412.01129v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
 | **[WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference](http://arxiv.org/abs/2503.17922v2)** | 2025-03-27 |  |
 | **[LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment](http://arxiv.org/abs/2503.19090v1)** | 2025-03-24 |  |
 | **[Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization](http://arxiv.org/abs/2503.18599v1)** | 2025-03-24 | <details><summary>15 pa...</summary><p>15 pages, 14 figures, and 4 tables</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization](http://arxiv.org/abs/2412.06858v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted as poster by CPAL2025</p></details> |
 | **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v3)** | 2025-03-15 |  |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v1)** | 2025-03-14 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
-| **[Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce](http://arxiv.org/abs/2503.13518v1)** | 2025-03-14 |  |
 
