@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2025
+title: Latest 15 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[In-Context Editing: Learning Knowledge from Self-Induced Distributions](http://arxiv.org/abs/2406.11194v4)** | 2025-03-30 |  |
+| **[Identifying Multi-modal Knowledge Neurons in Pretrained Transformers via Two-stage Filtering](http://arxiv.org/abs/2503.22941v1)** | 2025-03-29 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
 | **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v1)** | 2025-03-26 | Work in progress |
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v1)** | 2025-03-20 | Work in progress |
@@ -20,8 +22,6 @@ labels: documentation
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 | **[MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality](http://arxiv.org/abs/2503.02701v1)** | 2025-03-04 |  |
 | **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v1)** | 2025-03-03 |  |
-| **[Can Knowledge Editing Really Correct Hallucinations?](http://arxiv.org/abs/2410.16251v3)** | 2025-03-03 | <details><summary>ICLR ...</summary><p>ICLR 2025. Main paper: 10 pages; total: 34 pages (including appendix). The first two authors contributed equally to this work. Code, data, results, and additional resources are available on the project website: https://llm-editing.github.io</p></details> |
-| **[MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge](http://arxiv.org/abs/2502.19870v2)** | 2025-03-01 | <details><summary>Accep...</summary><p>Accept to ICLR2025. Project Page: https://mmke-bench-iclr.github.io/</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -36,10 +36,17 @@ labels: documentation
 | **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
 | **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
 | **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v2)** | 2025-03-12 |  |
+| **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
+| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
+| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
+| **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
+| **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](http://arxiv.org/abs/2503.24180v1)** | 2025-03-31 |  |
+| **[Towards Trustworthy GUI Agents: A Survey](http://arxiv.org/abs/2503.23434v1)** | 2025-03-30 | <details><summary>10 pa...</summary><p>10 pages, work in process</p></details> |
 | **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v2)** | 2025-03-30 |  |
 | **[ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](http://arxiv.org/abs/2503.20978v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to MM4SG Workshop at The Web Conference 2025</p></details> |
 | **[GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding](http://arxiv.org/abs/2406.10819v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
@@ -53,12 +60,14 @@ labels: documentation
 | **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)** | 2025-03-05 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](http://arxiv.org/abs/2503.00401v2)** | 2025-03-04 |  |
 | **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
-| **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials](http://arxiv.org/abs/2412.09605v2)** | 2025-03-03 | <details><summary>ICLR2...</summary><p>ICLR2025 Spotlight https://agenttrek.github.io</p></details> |
-| **[Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](http://arxiv.org/abs/2410.05243v2)** | 2025-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral)</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](http://arxiv.org/abs/2503.24198v1)** | 2025-03-31 |  |
+| **[ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance](http://arxiv.org/abs/2503.24053v1)** | 2025-03-31 | <details><summary>6 pag...</summary><p>6 pages, 10 figures. Accepted by Design Automation Conference (DAC) 2025</p></details> |
+| **[Model Hemorrhage and the Robustness Limits of Large Language Models](http://arxiv.org/abs/2503.23924v1)** | 2025-03-31 | 33 pages, 18 figures |
+| **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v2)** | 2025-03-30 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
 | **[RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy](http://arxiv.org/abs/2412.01129v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
 | **[WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference](http://arxiv.org/abs/2503.17922v2)** | 2025-03-27 |  |
 | **[LLM-Based Insight Extraction for Contact Center Analytics and Cost-Efficient Deployment](http://arxiv.org/abs/2503.19090v1)** | 2025-03-24 |  |
@@ -70,8 +79,4 @@ labels: documentation
 | **[Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](http://arxiv.org/abs/2407.18921v2)** | 2025-03-20 | <details><summary>42 pa...</summary><p>42 pages, 17 figures. This paper has been accepted by IEEE Communications Surveys & Tutorials</p></details> |
 | **[Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding](http://arxiv.org/abs/2502.08020v2)** | 2025-03-19 |  |
 | **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v1)** | 2025-03-19 |  |
-| **[FAVOR-Bench: A Comprehensive Benchmark for Fine-Grained Video Motion Understanding](http://arxiv.org/abs/2503.14935v1)** | 2025-03-19 | <details><summary>FAVOR...</summary><p>FAVOR-Bench project page: https://favor-bench.github.io/</p></details> |
-| **[Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization](http://arxiv.org/abs/2412.06858v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted as poster by CPAL2025</p></details> |
-| **[Towards An Efficient LLM Training Paradigm for CTR Prediction](http://arxiv.org/abs/2503.01001v3)** | 2025-03-15 |  |
-| **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v2)** | 2025-03-30 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
 
