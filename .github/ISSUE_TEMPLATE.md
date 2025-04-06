@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2025
+title: Latest 15 Papers - April 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CodeUpdateArena: Benchmarking Knowledge Editing on API Updates](http://arxiv.org/abs/2407.06249v3)** | 2025-04-03 | Under Review |
+| **[$μ$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models](http://arxiv.org/abs/2504.01196v1)** | 2025-04-01 | 16 pages, 6 figures |
 | **[In-Context Editing: Learning Knowledge from Self-Induced Distributions](http://arxiv.org/abs/2406.11194v4)** | 2025-03-30 |  |
 | **[Identifying Multi-modal Knowledge Neurons in Pretrained Transformers via Two-stage Filtering](http://arxiv.org/abs/2503.22941v1)** | 2025-03-29 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
 | **[Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v1)** | 2025-03-07 | Preprint |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
-| **[MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality](http://arxiv.org/abs/2503.02701v1)** | 2025-03-04 |  |
-| **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v1)** | 2025-03-03 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Model Editing with Task-Localized Sparse Fine-tuning](http://arxiv.org/abs/2504.02620v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted ICLR 2025 - https://github.com/iurada/talos-task-arithmetic</p></details> |
+| **[Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models](http://arxiv.org/abs/2504.00031v1)** | 2025-03-29 |  |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v3)** | 2025-03-27 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
 | **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
@@ -39,8 +41,6 @@ labels: documentation
 | **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
-| **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
-| **[Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction](http://arxiv.org/abs/2411.13982v2)** | 2025-03-05 | <details><summary>This ...</summary><p>This research is supported by the NISDRG project #20100007, funded by the Australian Government</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking](http://arxiv.org/abs/2412.01380v2)** | 2025-04-03 | <details><summary>Main ...</summary><p>Main Text: 10 pages, 11 figures. Appendix: 6 pages, 3 figures</p></details> |
+| **[SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](http://arxiv.org/abs/2504.00970v1)** | 2025-04-01 |  |
 | **[TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](http://arxiv.org/abs/2503.24198v1)** | 2025-03-31 |  |
 | **[ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance](http://arxiv.org/abs/2503.24053v1)** | 2025-03-31 | <details><summary>6 pag...</summary><p>6 pages, 10 figures. Accepted by Design Automation Conference (DAC) 2025</p></details> |
 | **[Model Hemorrhage and the Robustness Limits of Large Language Models](http://arxiv.org/abs/2503.23924v1)** | 2025-03-31 | 33 pages, 18 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](http://arxiv.org/abs/2411.15102v3)** | 2025-03-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, ICLR 2025</p></details> |
 | **[SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models](http://arxiv.org/abs/2503.15921v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by INFOCOM 2025</p></details> |
 | **[Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](http://arxiv.org/abs/2407.18921v2)** | 2025-03-20 | <details><summary>42 pa...</summary><p>42 pages, 17 figures. This paper has been accepted by IEEE Communications Surveys & Tutorials</p></details> |
-| **[Speculate, then Collaborate: Fusing Knowledge of Language Models during Decoding](http://arxiv.org/abs/2502.08020v2)** | 2025-03-19 |  |
-| **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v1)** | 2025-03-19 |  |
 
