@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2025
+title: Latest 15 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Localized Definitions and Distributed Reasoning: A Proof-of-Concept Mechanistic Interpretability Study via Activation Patching](http://arxiv.org/abs/2504.02976v1)** | 2025-04-03 | 15 pages, 3 figures |
 | **[Efficient Model Editing with Task-Localized Sparse Fine-tuning](http://arxiv.org/abs/2504.02620v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted ICLR 2025 - https://github.com/iurada/talos-task-arithmetic</p></details> |
 | **[Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models](http://arxiv.org/abs/2504.00031v1)** | 2025-03-29 |  |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v3)** | 2025-03-27 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v2)** | 2025-03-12 |  |
 | **[BiasEdit: Debiasing Stereotyped Language Models via Model Editing](http://arxiv.org/abs/2503.08588v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted by TrustNLP @ NAACL 2025</p></details> |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v1)** | 2025-03-10 |  |
-| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v3)** | 2025-03-07 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,10 +64,11 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency](http://arxiv.org/abs/2504.03360v1)** | 2025-04-04 | 30 pages, 14 figures |
 | **[Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking](http://arxiv.org/abs/2412.01380v2)** | 2025-04-03 | <details><summary>Main ...</summary><p>Main Text: 10 pages, 11 figures. Appendix: 6 pages, 3 figures</p></details> |
 | **[SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](http://arxiv.org/abs/2504.00970v1)** | 2025-04-01 |  |
 | **[TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](http://arxiv.org/abs/2503.24198v1)** | 2025-03-31 |  |
-| **[ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance](http://arxiv.org/abs/2503.24053v1)** | 2025-03-31 | <details><summary>6 pag...</summary><p>6 pages, 10 figures. Accepted by Design Automation Conference (DAC) 2025</p></details> |
+| **[ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance](http://arxiv.org/abs/2503.24053v2)** | 2025-04-06 | <details><summary>6 pag...</summary><p>6 pages, 10 figures. Accepted by Design Automation Conference (DAC) 2025</p></details> |
 | **[Model Hemorrhage and the Robustness Limits of Large Language Models](http://arxiv.org/abs/2503.23924v1)** | 2025-03-31 | 33 pages, 18 figures |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v2)** | 2025-03-30 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
 | **[RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy](http://arxiv.org/abs/2412.01129v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models](http://arxiv.org/abs/2502.09003v2)** | 2025-03-21 | 20 pages, 7 figures |
 | **[AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution](http://arxiv.org/abs/2411.15102v3)** | 2025-03-21 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, ICLR 2025</p></details> |
 | **[SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models](http://arxiv.org/abs/2503.15921v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted by INFOCOM 2025</p></details> |
-| **[Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](http://arxiv.org/abs/2407.18921v2)** | 2025-03-20 | <details><summary>42 pa...</summary><p>42 pages, 17 figures. This paper has been accepted by IEEE Communications Surveys & Tutorials</p></details> |
 
