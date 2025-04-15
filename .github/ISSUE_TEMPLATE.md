@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](http://arxiv.org/abs/2504.07981v1)** | 2025-04-04 | 13pages |
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](http://arxiv.org/abs/2503.24180v1)** | 2025-03-31 |  |
 | **[Towards Trustworthy GUI Agents: A Survey](http://arxiv.org/abs/2503.23434v1)** | 2025-03-30 | <details><summary>10 pa...</summary><p>10 pages, work in process</p></details> |
 | **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v2)** | 2025-03-30 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
 | **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)** | 2025-03-05 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](http://arxiv.org/abs/2503.00401v2)** | 2025-03-04 |  |
-| **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v1)** | 2025-03-04 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
