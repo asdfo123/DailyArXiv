@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2025
+title: Latest 15 Papers - April 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can We Edit LLMs for Long-Tail Biomedical Knowledge?](http://arxiv.org/abs/2504.10421v1)** | 2025-04-14 |  |
 | **[How to Make LLMs Forget: On Reversing In-Context Knowledge Edits](http://arxiv.org/abs/2410.12586v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at NAACL Main 2025</p></details> |
 | **[CodeUpdateArena: Benchmarking Knowledge Editing on API Updates](http://arxiv.org/abs/2407.06249v3)** | 2025-04-03 | Under Review |
 | **[$μ$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models](http://arxiv.org/abs/2504.01196v1)** | 2025-04-01 | 16 pages, 6 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
 | **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
 | **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
-| **[Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v1)** | 2025-03-07 | Preprint |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v2)** | 2025-04-15 |  |
+| **[Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](http://arxiv.org/abs/2504.10127v2)** | 2025-04-15 | 24 pages, 11 figures |
+| **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v3)** | 2025-04-15 |  |
 | **[ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](http://arxiv.org/abs/2504.07981v1)** | 2025-04-04 | 13pages |
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](http://arxiv.org/abs/2503.24180v1)** | 2025-03-31 |  |
 | **[Towards Trustworthy GUI Agents: A Survey](http://arxiv.org/abs/2503.23434v1)** | 2025-03-30 | <details><summary>10 pa...</summary><p>10 pages, work in process</p></details> |
@@ -57,13 +60,14 @@ labels: documentation
 | **[Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study](http://arxiv.org/abs/2503.16788v1)** | 2025-03-21 |  |
 | **[Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents](http://arxiv.org/abs/2407.09295v3)** | 2025-03-16 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
 | **[DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents](http://arxiv.org/abs/2503.11170v1)** | 2025-03-14 |  |
-| **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v1)** | 2025-03-14 |  |
-| **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)** | 2025-03-05 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
-| **[Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks](http://arxiv.org/abs/2503.00401v2)** | 2025-03-04 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference](http://arxiv.org/abs/2504.09936v1)** | 2025-04-14 | 18 pages, 8 figures |
+| **[Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](http://arxiv.org/abs/2402.13840v2)** | 2025-04-14 |  |
+| **[Efficient LLM Serving on Hybrid Real-time and Best-effort Requests](http://arxiv.org/abs/2504.09590v1)** | 2025-04-13 |  |
+| **[LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference](http://arxiv.org/abs/2504.09561v1)** | 2025-04-13 |  |
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v1)** | 2025-04-10 |  |
 | **[S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning](http://arxiv.org/abs/2504.06426v1)** | 2025-04-08 |  |
 | **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v1)** | 2025-04-08 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching](http://arxiv.org/abs/2504.00970v1)** | 2025-04-01 |  |
 | **[TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](http://arxiv.org/abs/2503.24198v1)** | 2025-03-31 |  |
 | **[Model Hemorrhage and the Robustness Limits of Large Language Models](http://arxiv.org/abs/2503.23924v1)** | 2025-03-31 | 33 pages, 18 figures |
-| **[VFlow: Discovering Optimal Agentic Workflows for Verilog Generation](http://arxiv.org/abs/2504.03723v1)** | 2025-03-30 | 6 pages |
-| **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v2)** | 2025-03-30 | <details><summary>Invit...</summary><p>Invited paper to IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
-| **[RILQ: Rank-Insensitive LoRA-based Quantization Error Compensation for Boosting 2-bit Large Language Model Accuracy](http://arxiv.org/abs/2412.01129v3)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
-| **[WindowKV: Task-Adaptive Group-Wise KV Cache Window Selection for Efficient LLM Inference](http://arxiv.org/abs/2503.17922v2)** | 2025-03-27 |  |
 
