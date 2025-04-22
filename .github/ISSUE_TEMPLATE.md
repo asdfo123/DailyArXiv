@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,7 +30,7 @@ labels: documentation
 | **[MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory](http://arxiv.org/abs/2404.11672v3)** | 2025-04-17 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[An Adversarial Perspective on Machine Unlearning for AI Safety](http://arxiv.org/abs/2409.18025v5)** | 2025-04-10 | <details><summary>Final...</summary><p>Final version published in Transactions on Machine Learning Research (TMLR); Best technical paper at Neurips 2024 SoLaR workshop</p></details> |
 | **[Pretraining Language Models for Diachronic Linguistic Change Discovery](http://arxiv.org/abs/2504.05523v2)** | 2025-04-09 |  |
-| **[Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v1)** | 2025-04-04 | <details><summary>Tutor...</summary><p>Tutorial Proposal for NAACL2025</p></details> |
+| **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
 | **[Localized Definitions and Distributed Reasoning: A Proof-of-Concept Mechanistic Interpretability Study via Activation Patching](http://arxiv.org/abs/2504.02976v1)** | 2025-04-03 | 15 pages, 3 figures |
 | **[Efficient Model Editing with Task-Localized Sparse Fine-tuning](http://arxiv.org/abs/2504.02620v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted ICLR 2025 - https://github.com/iurada/talos-task-arithmetic</p></details> |
 | **[Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models](http://arxiv.org/abs/2504.00031v1)** | 2025-03-29 |  |
