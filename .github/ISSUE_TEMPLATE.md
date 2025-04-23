@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2025
+title: Latest 15 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Functional Abstraction of Knowledge Recall in Large Language Models](http://arxiv.org/abs/2504.14496v1)** | 2025-04-20 |  |
 | **[Can We Edit LLMs for Long-Tail Biomedical Knowledge?](http://arxiv.org/abs/2504.10421v1)** | 2025-04-14 |  |
 | **[How to Make LLMs Forget: On Reversing In-Context Knowledge Edits](http://arxiv.org/abs/2410.12586v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at NAACL Main 2025</p></details> |
 | **[CodeUpdateArena: Benchmarking Knowledge Editing on API Updates](http://arxiv.org/abs/2407.06249v3)** | 2025-04-03 | Under Review |
@@ -21,16 +22,16 @@ labels: documentation
 | **[Composable Interventions for Language Models](http://arxiv.org/abs/2407.06483v2)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
 | **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
-| **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](http://arxiv.org/abs/2411.15432v2)** | 2025-03-14 | CVPR 2025 Accepted |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
+| **[REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.14554v1)** | 2025-04-20 | 10 pages, 7 figures |
 | **[When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](http://arxiv.org/abs/2504.10957v2)** | 2025-04-18 | <details><summary>Publi...</summary><p>Published at ICLR 2025 as an oral paper</p></details> |
 | **[MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory](http://arxiv.org/abs/2404.11672v3)** | 2025-04-17 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[An Adversarial Perspective on Machine Unlearning for AI Safety](http://arxiv.org/abs/2409.18025v5)** | 2025-04-10 | <details><summary>Final...</summary><p>Final version published in Transactions on Machine Learning Research (TMLR); Best technical paper at Neurips 2024 SoLaR workshop</p></details> |
 | **[Pretraining Language Models for Diachronic Linguistic Change Discovery](http://arxiv.org/abs/2504.05523v2)** | 2025-04-09 |  |
-| **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
 | **[Localized Definitions and Distributed Reasoning: A Proof-of-Concept Mechanistic Interpretability Study via Activation Patching](http://arxiv.org/abs/2504.02976v1)** | 2025-04-03 | 15 pages, 3 figures |
 | **[Efficient Model Editing with Task-Localized Sparse Fine-tuning](http://arxiv.org/abs/2504.02620v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted ICLR 2025 - https://github.com/iurada/talos-task-arithmetic</p></details> |
 | **[Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models](http://arxiv.org/abs/2504.00031v1)** | 2025-03-29 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Exploiting Edited Large Language Models as General Scientific Optimizers](http://arxiv.org/abs/2503.09620v2)** | 2025-03-17 |  |
 | **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification](http://arxiv.org/abs/2412.16780v4)** | 2025-03-17 |  |
-| **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](http://arxiv.org/abs/2504.14239v1)** | 2025-04-19 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, work in progress</p></details> |
 | **[LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](http://arxiv.org/abs/2504.13805v1)** | 2025-04-18 | <details><summary>23 pa...</summary><p>23 pages, 16 figures, the project resources are available at https://lgy0404.github.io/LearnAct</p></details> |
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
 | **[UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis](http://arxiv.org/abs/2504.11257v3)** | 2025-04-17 |  |
@@ -57,13 +58,14 @@ labels: documentation
 | **[ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](http://arxiv.org/abs/2504.07981v1)** | 2025-04-04 | 13pages |
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](http://arxiv.org/abs/2503.24180v1)** | 2025-03-31 |  |
 | **[Towards Trustworthy GUI Agents: A Survey](http://arxiv.org/abs/2503.23434v1)** | 2025-03-30 | <details><summary>10 pa...</summary><p>10 pages, work in process</p></details> |
+| **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v1)** | 2025-03-27 |  |
 | **[ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](http://arxiv.org/abs/2503.20978v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to MM4SG Workshop at The Web Conference 2025</p></details> |
-| **[GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding](http://arxiv.org/abs/2406.10819v2)** | 2025-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Safeguarding Mobile GUI Agent via Logic-based Action Verification](http://arxiv.org/abs/2503.18492v1)** | 2025-03-24 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v1)** | 2025-04-21 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://zjunlp.github.io/project/EasyEdit2/video; code: https://github.com/zjunlp/EasyEdit</p></details> |
+| **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v1)** | 2025-04-20 |  |
 | **[Improving Instruction-Following in Language Models through Activation Steering](http://arxiv.org/abs/2410.12877v2)** | 2025-04-14 | ICLR 2025 |
 | **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v1)** | 2025-04-07 |  |
 | **[Activation Patching for Interpretable Steering in Music Generation](http://arxiv.org/abs/2504.04479v1)** | 2025-04-06 |  |
@@ -77,12 +79,12 @@ labels: documentation
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v1)** | 2025-03-06 | 68 pages |
 | **[Effectively Steer LLM To Follow Preference via Building Confident Directions](http://arxiv.org/abs/2503.02989v1)** | 2025-03-04 |  |
 | **[AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](http://arxiv.org/abs/2501.17148v3)** | 2025-03-03 |  |
-| **[How to Steer LLM Latents for Hallucination Detection?](http://arxiv.org/abs/2503.01917v1)** | 2025-03-01 | <details><summary>ICLR ...</summary><p>ICLR Workshop on Quantify Uncertainty and Hallucination in Foundation Models (QUESTION), 2025</p></details> |
-| **[Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs](http://arxiv.org/abs/2502.19721v1)** | 2025-02-27 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](http://arxiv.org/abs/2504.14772v1)** | 2025-04-20 |  |
+| **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v2)** | 2025-04-20 | <details><summary>Code:...</summary><p>Code: https://github.com/NVIDIA/Star-Attention</p></details> |
 | **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v1)** | 2025-04-18 |  |
 | **[Data-efficient LLM Fine-tuning for Code Generation](http://arxiv.org/abs/2504.12687v1)** | 2025-04-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.02193</p></details> |
 | **[Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading](http://arxiv.org/abs/2504.11816v1)** | 2025-04-16 | 10 pages, 6 figures |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v1)** | 2025-04-10 |  |
 | **[S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning](http://arxiv.org/abs/2504.06426v1)** | 2025-04-08 |  |
 | **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v1)** | 2025-04-08 |  |
-| **[REEF: Relevance-Aware and Efficient LLM Adapter for Video Understanding](http://arxiv.org/abs/2504.05491v1)** | 2025-04-07 | Accepted at CVPRW'25 |
-| **[Debate Only When Necessary: Adaptive Multiagent Collaboration for Efficient LLM Reasoning](http://arxiv.org/abs/2504.05047v1)** | 2025-04-07 |  |
 
