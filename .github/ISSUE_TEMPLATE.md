@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
 | **[Functional Abstraction of Knowledge Recall in Large Language Models](http://arxiv.org/abs/2504.14496v1)** | 2025-04-20 |  |
 | **[Can We Edit LLMs for Long-Tail Biomedical Knowledge?](http://arxiv.org/abs/2504.10421v1)** | 2025-04-14 |  |
 | **[How to Make LLMs Forget: On Reversing In-Context Knowledge Edits](http://arxiv.org/abs/2410.12586v3)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted at NAACL Main 2025</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs](http://arxiv.org/abs/2503.01090v2)** | 2025-03-17 | ICLR 2025 |
 | **[Composable Interventions for Language Models](http://arxiv.org/abs/2407.06483v2)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v1)** | 2025-03-14 | <details><summary>Under...</summary><p>Under Review @ ACL'25</p></details> |
-| **[Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning](http://arxiv.org/abs/2405.03279v4)** | 2025-03-14 | EMNLP 2024 main |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
+| **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v1)** | 2025-04-22 |  |
 | **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
 | **[REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.14554v1)** | 2025-04-20 | 10 pages, 7 figures |
 | **[When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](http://arxiv.org/abs/2504.10957v2)** | 2025-04-18 | <details><summary>Publi...</summary><p>Published at ICLR 2025 as an oral paper</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
 | **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
-| **[Exploiting Edited Large Language Models as General Scientific Optimizers](http://arxiv.org/abs/2503.09620v2)** | 2025-03-17 |  |
-| **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification](http://arxiv.org/abs/2412.16780v4)** | 2025-03-17 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v3)** | 2025-04-22 | <details><summary>Prese...</summary><p>Presented at IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
+| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v2)** | 2025-04-22 | <details><summary>This ...</summary><p>This paper has been accepted by SCIENCE CHINA Information Sciences. arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
+| **[Language Models for Business Optimisation with a Real World Case Study in Production Scheduling](http://arxiv.org/abs/2309.13218v5)** | 2025-04-22 |  |
 | **[Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](http://arxiv.org/abs/2504.14772v1)** | 2025-04-20 |  |
 | **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v2)** | 2025-04-20 | <details><summary>Code:...</summary><p>Code: https://github.com/NVIDIA/Star-Attention</p></details> |
 | **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v1)** | 2025-04-18 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[The Quantum LLM: Modeling Semantic Spaces with Quantum Principles](http://arxiv.org/abs/2504.13202v1)** | 2025-04-13 | 16 pages, 6 figures |
 | **[Efficient LLM Serving on Hybrid Real-time and Best-effort Requests](http://arxiv.org/abs/2504.09590v1)** | 2025-04-13 |  |
 | **[LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference](http://arxiv.org/abs/2504.09561v1)** | 2025-04-13 |  |
-| **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v1)** | 2025-04-10 |  |
-| **[S'MoRE: Structural Mixture of Residual Experts for LLM Fine-tuning](http://arxiv.org/abs/2504.06426v1)** | 2025-04-08 |  |
-| **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v1)** | 2025-04-08 |  |
 
