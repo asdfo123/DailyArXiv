@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2025
+title: Latest 15 Papers - April 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](http://arxiv.org/abs/2502.01015v2)** | 2025-04-24 | 27 pages, 11 figures |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
 | **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v1)** | 2025-04-22 |  |
 | **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v3)** | 2025-03-27 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
 | **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
-| **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,13 +64,13 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v2)** | 2025-04-24 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v1)** | 2025-04-21 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://zjunlp.github.io/project/EasyEdit2/video; code: https://github.com/zjunlp/EasyEdit</p></details> |
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v1)** | 2025-04-20 |  |
 | **[Improving Instruction-Following in Language Models through Activation Steering](http://arxiv.org/abs/2410.12877v2)** | 2025-04-14 | ICLR 2025 |
 | **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v1)** | 2025-04-07 |  |
 | **[Activation Patching for Interpretable Steering in Music Generation](http://arxiv.org/abs/2504.04479v1)** | 2025-04-06 |  |
 | **[Interpretable Steering of Large Language Models with Feature Guided Activation Additions](http://arxiv.org/abs/2501.09929v3)** | 2025-04-02 | <details><summary>9 mai...</summary><p>9 maintext pages, 13 appendix pages</p></details> |
-| **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v1)** | 2025-03-27 |  |
 | **[TARDIS: Mitigating Temporal Misalignment via Representation Steering](http://arxiv.org/abs/2503.18693v2)** | 2025-03-25 |  |
 | **[Uncovering Latent Chain of Thought Vectors in Language Models](http://arxiv.org/abs/2409.14026v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This work was presented at the Workshop on Neural Network Weights as a New Data Modality at ICLR 2025</p></details> |
 | **[Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering](http://arxiv.org/abs/2411.12590v2)** | 2025-03-13 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 8 Tables. arXiv admin note: text overlap with arXiv:2410.13976</p></details> |
@@ -83,19 +83,19 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v2)** | 2025-04-24 |  |
+| **[On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](http://arxiv.org/abs/2504.17376v1)** | 2025-04-24 |  |
+| **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v2)** | 2025-04-24 |  |
+| **[QuaDMix: Quality-Diversity Balanced Data Selection for Efficient LLM Pretraining](http://arxiv.org/abs/2504.16511v1)** | 2025-04-23 |  |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v3)** | 2025-04-22 | <details><summary>Prese...</summary><p>Presented at IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
 | **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v2)** | 2025-04-22 | <details><summary>This ...</summary><p>This paper has been accepted by SCIENCE CHINA Information Sciences. arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 | **[Language Models for Business Optimisation with a Real World Case Study in Production Scheduling](http://arxiv.org/abs/2309.13218v5)** | 2025-04-22 |  |
 | **[Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](http://arxiv.org/abs/2504.14772v1)** | 2025-04-20 |  |
 | **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v2)** | 2025-04-20 | <details><summary>Code:...</summary><p>Code: https://github.com/NVIDIA/Star-Attention</p></details> |
-| **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v1)** | 2025-04-18 |  |
 | **[Data-efficient LLM Fine-tuning for Code Generation](http://arxiv.org/abs/2504.12687v1)** | 2025-04-17 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.02193</p></details> |
 | **[Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading](http://arxiv.org/abs/2504.11816v1)** | 2025-04-16 | 10 pages, 6 figures |
 | **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v2)** | 2025-04-15 |  |
 | **[HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving](http://arxiv.org/abs/2504.10724v1)** | 2025-04-14 |  |
 | **[KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference](http://arxiv.org/abs/2504.09936v1)** | 2025-04-14 | 18 pages, 8 figures |
 | **[Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](http://arxiv.org/abs/2402.13840v2)** | 2025-04-14 |  |
-| **[The Quantum LLM: Modeling Semantic Spaces with Quantum Principles](http://arxiv.org/abs/2504.13202v1)** | 2025-04-13 | 16 pages, 6 figures |
-| **[Efficient LLM Serving on Hybrid Real-time and Best-effort Requests](http://arxiv.org/abs/2504.09590v1)** | 2025-04-13 |  |
-| **[LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference](http://arxiv.org/abs/2504.09561v1)** | 2025-04-13 |  |
 
