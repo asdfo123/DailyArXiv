@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2025
+title: Latest 15 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](http://arxiv.org/abs/2502.01015v2)** | 2025-04-24 | 27 pages, 11 figures |
+| **[Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](http://arxiv.org/abs/2502.01015v3)** | 2025-04-25 | 27 pages, 11 figures |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
 | **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v1)** | 2025-04-22 |  |
 | **[NAACL2025 Tutorial: Adaptation of Large Language Models](http://arxiv.org/abs/2504.03931v2)** | 2025-04-21 | NAACL2025 Tutorial |
