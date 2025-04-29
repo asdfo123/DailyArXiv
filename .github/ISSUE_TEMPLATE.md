@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](http://arxiv.org/abs/2504.17934v1)** | 2025-04-24 |  |
 | **[InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](http://arxiv.org/abs/2504.14239v1)** | 2025-04-19 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, work in progress</p></details> |
 | **[LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](http://arxiv.org/abs/2504.13805v1)** | 2025-04-18 | <details><summary>23 pa...</summary><p>23 pages, 16 figures, the project resources are available at https://lgy0404.github.io/LearnAct</p></details> |
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up](http://arxiv.org/abs/2503.24180v1)** | 2025-03-31 |  |
 | **[Towards Trustworthy GUI Agents: A Survey](http://arxiv.org/abs/2503.23434v1)** | 2025-03-30 | <details><summary>10 pa...</summary><p>10 pages, work in process</p></details> |
 | **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v1)** | 2025-03-27 |  |
-| **[ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction](http://arxiv.org/abs/2503.20978v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to MM4SG Workshop at The Web Conference 2025</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,10 +83,11 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v1)** | 2025-04-25 |  |
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v2)** | 2025-04-24 |  |
 | **[On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](http://arxiv.org/abs/2504.17376v1)** | 2025-04-24 |  |
 | **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v2)** | 2025-04-24 |  |
-| **[QuaDMix: Quality-Diversity Balanced Data Selection for Efficient LLM Pretraining](http://arxiv.org/abs/2504.16511v1)** | 2025-04-23 |  |
+| **[QuaDMix: Quality-Diversity Balanced Data Selection for Efficient LLM Pretraining](http://arxiv.org/abs/2504.16511v2)** | 2025-04-26 |  |
 | **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v3)** | 2025-04-22 | <details><summary>Prese...</summary><p>Presented at IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
 | **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v2)** | 2025-04-22 | <details><summary>This ...</summary><p>This paper has been accepted by SCIENCE CHINA Information Sciences. arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 | **[Language Models for Business Optimisation with a Real World Case Study in Production Scheduling](http://arxiv.org/abs/2309.13218v5)** | 2025-04-22 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[ELTEX: A Framework for Domain-Driven Synthetic Data Generation](http://arxiv.org/abs/2503.15055v2)** | 2025-04-15 |  |
 | **[HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving](http://arxiv.org/abs/2504.10724v1)** | 2025-04-14 |  |
 | **[KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference](http://arxiv.org/abs/2504.09936v1)** | 2025-04-14 | 18 pages, 8 figures |
-| **[Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation](http://arxiv.org/abs/2402.13840v2)** | 2025-04-14 |  |
 
