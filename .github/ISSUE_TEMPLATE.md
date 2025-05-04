@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v1)** | 2025-05-01 |  |
+| **[ScaleTrack: Scaling and back-tracking Automated GUI Agents](http://arxiv.org/abs/2505.00416v1)** | 2025-05-01 |  |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v2)** | 2025-04-30 | Work in progress |
 | **[A Summary on GUI Agents with Foundation Models Enhanced by Reinforcement Learning](http://arxiv.org/abs/2504.20464v1)** | 2025-04-29 |  |
 | **[LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](http://arxiv.org/abs/2504.19838v1)** | 2025-04-28 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 7 tables, Project Homepage: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v3)** | 2025-04-16 |  |
 | **[Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](http://arxiv.org/abs/2504.10127v2)** | 2025-04-15 | 24 pages, 11 figures |
 | **[The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](http://arxiv.org/abs/2504.11281v1)** | 2025-04-15 |  |
-| **[AppAgentX: Evolving GUI Agents as Proficient Smartphone Users](http://arxiv.org/abs/2503.02268v3)** | 2025-04-15 |  |
-| **[ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](http://arxiv.org/abs/2504.07981v1)** | 2025-04-04 | 13pages |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
+| **[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](http://arxiv.org/abs/2405.04532v3)** | 2025-05-01 | <details><summary>The f...</summary><p>The first three authors contribute equally to this project and are listed in the alphabetical order. Yujun Lin leads the quantization algorithm, Haotian Tang and Shang Yang lead the GPU kernels and the serving system. Code is available at https://github.com/mit-han-lab/omniserve</p></details> |
 | **[Ascendra: Dynamic Request Prioritization for Efficient LLM Serving](http://arxiv.org/abs/2504.20828v2)** | 2025-04-30 |  |
 | **[Efficient LLMs with AMP: Attention Heads and MLP Pruning](http://arxiv.org/abs/2504.21174v1)** | 2025-04-29 | <details><summary>To be...</summary><p>To be published in International Joint Conference on Neural Networks (IJCNN), 2025</p></details> |
 | **[Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts](http://arxiv.org/abs/2504.21117v1)** | 2025-04-29 | 10 pages |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v2)** | 2025-04-24 |  |
 | **[On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](http://arxiv.org/abs/2504.17376v1)** | 2025-04-24 |  |
 | **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v2)** | 2025-04-24 |  |
-| **[Key, Value, Compress: A Systematic Exploration of KV Cache Compression Techniques](http://arxiv.org/abs/2503.11816v3)** | 2025-04-22 | <details><summary>Prese...</summary><p>Presented at IEEE Custom Integrated Circuits Conference (CICC) 2025</p></details> |
-| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v2)** | 2025-04-22 | <details><summary>This ...</summary><p>This paper has been accepted by SCIENCE CHINA Information Sciences. arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 
