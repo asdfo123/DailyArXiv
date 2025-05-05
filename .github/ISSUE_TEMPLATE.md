@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](http://arxiv.org/abs/2505.01343v1)** | 2025-05-02 |  |
 | **[SetKE: Knowledge Editing for Knowledge Elements Overlap](http://arxiv.org/abs/2504.20972v1)** | 2025-04-29 | <details><summary>The C...</summary><p>The CR version will be updated subsequently</p></details> |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
 | **[Functional Abstraction of Knowledge Recall in Large Language Models](http://arxiv.org/abs/2504.14496v1)** | 2025-04-20 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v1)** | 2025-03-20 | Work in progress |
 | **[Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance](http://arxiv.org/abs/2406.11139v4)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 (Industry track)</p></details> |
 | **[Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs](http://arxiv.org/abs/2503.01090v2)** | 2025-03-17 | ICLR 2025 |
-| **[Composable Interventions for Language Models](http://arxiv.org/abs/2407.06483v2)** | 2025-03-16 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](http://arxiv.org/abs/2505.01343v1)** | 2025-05-02 |  |
 | **[Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](http://arxiv.org/abs/2502.01015v3)** | 2025-04-25 | 27 pages, 11 figures |
 | **[AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models](http://arxiv.org/abs/2410.02355v4)** | 2025-04-22 |  |
 | **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v1)** | 2025-04-22 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Leaking LoRa: An Evaluation of Password Leaks and Knowledge Storage in Large Language Models](http://arxiv.org/abs/2504.00031v1)** | 2025-03-29 |  |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v3)** | 2025-03-27 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v2)** | 2025-03-27 |  |
-| **[Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification](http://arxiv.org/abs/2503.15117v1)** | 2025-03-19 | AAAI2025 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Limitations of Steering in Language Model Alignment](http://arxiv.org/abs/2505.01162v1)** | 2025-05-02 |  |
+| **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](http://arxiv.org/abs/2411.16721v3)** | 2025-05-01 |  |
 | **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v2)** | 2025-04-24 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v1)** | 2025-04-21 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://zjunlp.github.io/project/EasyEdit2/video; code: https://github.com/zjunlp/EasyEdit</p></details> |
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v1)** | 2025-04-20 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v1)** | 2025-03-11 |  |
 | **[Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v1)** | 2025-03-07 | <details><summary>Submi...</summary><p>Submitted to ACL 2025</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v1)** | 2025-03-06 | 68 pages |
-| **[Effectively Steer LLM To Follow Preference via Building Confident Directions](http://arxiv.org/abs/2503.02989v1)** | 2025-03-04 |  |
-| **[AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders](http://arxiv.org/abs/2501.17148v3)** | 2025-03-03 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
