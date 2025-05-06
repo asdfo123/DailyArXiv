@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](http://arxiv.org/abs/2412.04454v2)** | 2025-05-05 | ICML 2025 |
 | **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v1)** | 2025-05-01 |  |
 | **[ScaleTrack: Scaling and back-tracking Automated GUI Agents](http://arxiv.org/abs/2505.00416v1)** | 2025-05-01 |  |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v2)** | 2025-04-30 | Work in progress |
@@ -59,11 +60,12 @@ labels: documentation
 | **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v2)** | 2025-04-16 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v3)** | 2025-04-16 |  |
 | **[Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](http://arxiv.org/abs/2504.10127v2)** | 2025-04-15 | 24 pages, 11 figures |
-| **[The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](http://arxiv.org/abs/2504.11281v1)** | 2025-04-15 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v2)** | 2025-05-05 | 68 pages |
+| **[Analyzing the Generalization and Reliability of Steering Vectors](http://arxiv.org/abs/2407.12404v8)** | 2025-05-04 |  |
 | **[On the Limitations of Steering in Language Model Alignment](http://arxiv.org/abs/2505.01162v1)** | 2025-05-02 |  |
 | **[Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks](http://arxiv.org/abs/2411.16721v3)** | 2025-05-01 |  |
 | **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v2)** | 2025-04-24 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Uncovering Latent Chain of Thought Vectors in Language Models](http://arxiv.org/abs/2409.14026v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This work was presented at the Workshop on Neural Network Weights as a New Data Modality at ICLR 2025</p></details> |
 | **[Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering](http://arxiv.org/abs/2411.12590v2)** | 2025-03-13 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 8 Tables. arXiv admin note: text overlap with arXiv:2410.13976</p></details> |
 | **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v1)** | 2025-03-11 |  |
-| **[Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v1)** | 2025-03-07 | <details><summary>Submi...</summary><p>Submitted to ACL 2025</p></details> |
-| **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v1)** | 2025-03-06 | 68 pages |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients](http://arxiv.org/abs/2505.01744v1)** | 2025-05-03 |  |
 | **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 | **[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](http://arxiv.org/abs/2405.04532v3)** | 2025-05-01 | <details><summary>The f...</summary><p>The first three authors contribute equally to this project and are listed in the alphabetical order. Yujun Lin leads the quantization algorithm, Haotian Tang and Shang Yang lead the GPU kernels and the serving system. Code is available at https://github.com/mit-han-lab/omniserve</p></details> |
 | **[Ascendra: Dynamic Request Prioritization for Efficient LLM Serving](http://arxiv.org/abs/2504.20828v2)** | 2025-04-30 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v1)** | 2025-04-25 |  |
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v2)** | 2025-04-24 |  |
 | **[On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](http://arxiv.org/abs/2504.17376v1)** | 2025-04-24 |  |
-| **[From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs](http://arxiv.org/abs/2504.13471v2)** | 2025-04-24 |  |
 
