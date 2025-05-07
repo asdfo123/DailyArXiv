@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2025
+title: Latest 15 Papers - May 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v3)** | 2025-05-06 | 13 pages, 5 figures |
 | **[Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](http://arxiv.org/abs/2412.04454v2)** | 2025-05-05 | ICML 2025 |
 | **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v1)** | 2025-05-01 |  |
 | **[ScaleTrack: Scaling and back-tracking Automated GUI Agents](http://arxiv.org/abs/2505.00416v1)** | 2025-05-01 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](http://arxiv.org/abs/2504.12679v1)** | 2025-04-17 |  |
 | **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v2)** | 2025-04-16 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 | **[UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v3)** | 2025-04-16 |  |
-| **[Breaking the Data Barrier -- Building GUI Agents Through Task Generalization](http://arxiv.org/abs/2504.10127v2)** | 2025-04-15 | 24 pages, 11 figures |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v2)** | 2025-05-06 |  |
+| **[Patterns and Mechanisms of Contrastive Activation Engineering](http://arxiv.org/abs/2505.03189v1)** | 2025-05-06 | <details><summary>Publi...</summary><p>Published at the ICLR 2025 Bi-Align, HAIC, and Building Trust workshops</p></details> |
+| **[Statistical Performance of Generalized Direction Detectors with Known Spatial Steering Vector](http://arxiv.org/abs/2505.03076v1)** | 2025-05-06 | <details><summary>4 pag...</summary><p>4 pages,2 figures.This manuscript is accepted by Signal Processing Letters</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v2)** | 2025-05-05 | 68 pages |
 | **[Analyzing the Generalization and Reliability of Steering Vectors](http://arxiv.org/abs/2407.12404v8)** | 2025-05-04 |  |
 | **[On the Limitations of Steering in Language Model Alignment](http://arxiv.org/abs/2505.01162v1)** | 2025-05-02 |  |
@@ -72,13 +75,10 @@ labels: documentation
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v1)** | 2025-04-21 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://zjunlp.github.io/project/EasyEdit2/video; code: https://github.com/zjunlp/EasyEdit</p></details> |
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v1)** | 2025-04-20 |  |
 | **[Improving Instruction-Following in Language Models through Activation Steering](http://arxiv.org/abs/2410.12877v2)** | 2025-04-14 | ICLR 2025 |
-| **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v1)** | 2025-04-07 |  |
 | **[Activation Patching for Interpretable Steering in Music Generation](http://arxiv.org/abs/2504.04479v1)** | 2025-04-06 |  |
 | **[Interpretable Steering of Large Language Models with Feature Guided Activation Additions](http://arxiv.org/abs/2501.09929v3)** | 2025-04-02 | <details><summary>9 mai...</summary><p>9 maintext pages, 13 appendix pages</p></details> |
 | **[TARDIS: Mitigating Temporal Misalignment via Representation Steering](http://arxiv.org/abs/2503.18693v2)** | 2025-03-25 |  |
 | **[Uncovering Latent Chain of Thought Vectors in Language Models](http://arxiv.org/abs/2409.14026v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This work was presented at the Workshop on Neural Network Weights as a New Data Modality at ICLR 2025</p></details> |
-| **[Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering](http://arxiv.org/abs/2411.12590v2)** | 2025-03-13 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 8 Tables. arXiv admin note: text overlap with arXiv:2410.13976</p></details> |
-| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v1)** | 2025-03-11 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
