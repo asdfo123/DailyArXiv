@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2025
+title: Latest 15 Papers - May 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,7 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](http://arxiv.org/abs/2411.09410v3)** | 2025-05-07 |  |
 | **[Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients](http://arxiv.org/abs/2505.01744v1)** | 2025-05-03 |  |
+| **[LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](http://arxiv.org/abs/2505.03793v1)** | 2025-05-01 | <details><summary>It is...</summary><p>It is accepted by ICML'2025, and the code is open-sourcing on https://github.com/Susan571/LENSLLM.git</p></details> |
 | **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 | **[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](http://arxiv.org/abs/2405.04532v3)** | 2025-05-01 | <details><summary>The f...</summary><p>The first three authors contribute equally to this project and are listed in the alphabetical order. Yujun Lin leads the quantization algorithm, Haotian Tang and Shang Yang lead the GPU kernels and the serving system. Code is available at https://github.com/mit-han-lab/omniserve</p></details> |
 | **[Ascendra: Dynamic Request Prioritization for Efficient LLM Serving](http://arxiv.org/abs/2504.20828v2)** | 2025-04-30 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration](http://arxiv.org/abs/2411.11745v2)** | 2025-04-26 | HPCA 2025 |
 | **[QuaDMix: Quality-Diversity Balanced Data Selection for Efficient LLM Pretraining](http://arxiv.org/abs/2504.16511v2)** | 2025-04-26 |  |
 | **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v1)** | 2025-04-25 |  |
-| **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](http://arxiv.org/abs/2504.07347v2)** | 2025-04-24 |  |
-| **[On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration](http://arxiv.org/abs/2504.17376v1)** | 2025-04-24 |  |
 
