@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,9 +64,10 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2505.05111v1)** | 2025-05-08 |  |
+| **[Statistical Performance of Generalized Direction Detectors with Known Spatial Steering Vector](http://arxiv.org/abs/2505.03076v2)** | 2025-05-07 | <details><summary>4 pag...</summary><p>4 pages,2 figures.This manuscript is accepted by Signal Processing Letters</p></details> |
 | **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v2)** | 2025-05-06 |  |
 | **[Patterns and Mechanisms of Contrastive Activation Engineering](http://arxiv.org/abs/2505.03189v1)** | 2025-05-06 | <details><summary>Publi...</summary><p>Published at the ICLR 2025 Bi-Align, HAIC, and Building Trust workshops</p></details> |
-| **[Statistical Performance of Generalized Direction Detectors with Known Spatial Steering Vector](http://arxiv.org/abs/2505.03076v1)** | 2025-05-06 | <details><summary>4 pag...</summary><p>4 pages,2 figures.This manuscript is accepted by Signal Processing Letters</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v2)** | 2025-05-05 | 68 pages |
 | **[Analyzing the Generalization and Reliability of Steering Vectors](http://arxiv.org/abs/2407.12404v8)** | 2025-05-04 |  |
 | **[On the Limitations of Steering in Language Model Alignment](http://arxiv.org/abs/2505.01162v1)** | 2025-05-02 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Activation Patching for Interpretable Steering in Music Generation](http://arxiv.org/abs/2504.04479v1)** | 2025-04-06 |  |
 | **[Interpretable Steering of Large Language Models with Feature Guided Activation Additions](http://arxiv.org/abs/2501.09929v3)** | 2025-04-02 | <details><summary>9 mai...</summary><p>9 maintext pages, 13 appendix pages</p></details> |
 | **[TARDIS: Mitigating Temporal Misalignment via Representation Steering](http://arxiv.org/abs/2503.18693v2)** | 2025-03-25 |  |
-| **[Uncovering Latent Chain of Thought Vectors in Language Models](http://arxiv.org/abs/2409.14026v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This work was presented at the Workshop on Neural Network Weights as a New Data Modality at ICLR 2025</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
