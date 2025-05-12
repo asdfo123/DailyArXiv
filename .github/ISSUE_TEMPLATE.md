@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2025
+title: Latest 15 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM](http://arxiv.org/abs/2505.05772v1)** | 2025-05-09 |  |
+| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
 | **[LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](http://arxiv.org/abs/2411.09410v3)** | 2025-05-07 |  |
 | **[Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients](http://arxiv.org/abs/2505.01744v1)** | 2025-05-03 |  |
 | **[LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](http://arxiv.org/abs/2505.03793v1)** | 2025-05-01 | <details><summary>It is...</summary><p>It is accepted by ICML'2025, and the code is open-sourcing on https://github.com/Susan571/LENSLLM.git</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference](http://arxiv.org/abs/2504.19449v1)** | 2025-04-28 | ICLR 2025 |
 | **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](http://arxiv.org/abs/2504.19413v1)** | 2025-04-28 |  |
 | **[BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration](http://arxiv.org/abs/2411.11745v2)** | 2025-04-26 | HPCA 2025 |
-| **[QuaDMix: Quality-Diversity Balanced Data Selection for Efficient LLM Pretraining](http://arxiv.org/abs/2504.16511v2)** | 2025-04-26 |  |
-| **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v1)** | 2025-04-25 |  |
 
