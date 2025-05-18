@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2025
+title: Latest 15 Papers - May 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](http://arxiv.org/abs/2505.09875v1)** | 2025-05-15 |  |
 | **[UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v4)** | 2025-05-14 | Updated UI-R1-E-3B |
 | **[A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning](http://arxiv.org/abs/2504.20464v2)** | 2025-05-13 |  |
 | **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v3)** | 2025-05-06 | 13 pages, 5 figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v3)** | 2025-04-18 |  |
 | **[UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis](http://arxiv.org/abs/2504.11257v3)** | 2025-04-17 |  |
 | **[TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](http://arxiv.org/abs/2504.12679v1)** | 2025-04-17 |  |
-| **[SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v2)** | 2025-04-16 | <details><summary>Paper...</summary><p>Paper accepted to CVPR 2025</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices](http://arxiv.org/abs/2505.10259v1)** | 2025-05-15 |  |
+| **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v2)** | 2025-05-15 |  |
 | **[ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor](http://arxiv.org/abs/2505.09142v1)** | 2025-05-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Cloud-native LLM scheduling system with latency-aware inference optimization</p></details> |
 | **[Oaken: Fast and Efficient LLM Serving with Online-Offline Hybrid KV Cache Quantization](http://arxiv.org/abs/2503.18599v2)** | 2025-05-14 | <details><summary>16 pa...</summary><p>16 pages, 14 figures, and 4 tables</p></details> |
 | **[LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning](http://arxiv.org/abs/2505.07437v1)** | 2025-05-12 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients](http://arxiv.org/abs/2505.01744v1)** | 2025-05-03 |  |
 | **[LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](http://arxiv.org/abs/2505.03793v1)** | 2025-05-01 | <details><summary>It is...</summary><p>It is accepted by ICML'2025, and the code is open-sourcing on https://github.com/Susan571/LENSLLM.git</p></details> |
 | **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
-| **[QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](http://arxiv.org/abs/2405.04532v3)** | 2025-05-01 | <details><summary>The f...</summary><p>The first three authors contribute equally to this project and are listed in the alphabetical order. Yujun Lin leads the quantization algorithm, Haotian Tang and Shang Yang lead the GPU kernels and the serving system. Code is available at https://github.com/mit-han-lab/omniserve</p></details> |
-| **[Ascendra: Dynamic Request Prioritization for Efficient LLM Serving](http://arxiv.org/abs/2504.20828v2)** | 2025-04-30 |  |
 
