@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 18, 2025
+title: Latest 15 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](http://arxiv.org/abs/2505.09875v1)** | 2025-05-15 |  |
+| **[Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](http://arxiv.org/abs/2505.09875v2)** | 2025-05-16 |  |
 | **[UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v4)** | 2025-05-14 | Updated UI-R1-E-3B |
 | **[A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning](http://arxiv.org/abs/2504.20464v2)** | 2025-05-13 |  |
 | **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v3)** | 2025-05-06 | 13 pages, 5 figures |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](http://arxiv.org/abs/2505.11274v1)** | 2025-05-16 |  |
+| **[KVShare: An LLM Service System with Efficient and Effective Multi-Tenant KV Cache Reuse](http://arxiv.org/abs/2503.16525v2)** | 2025-05-16 |  |
 | **[SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices](http://arxiv.org/abs/2505.10259v1)** | 2025-05-15 |  |
 | **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v2)** | 2025-05-15 |  |
 | **[ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor](http://arxiv.org/abs/2505.09142v1)** | 2025-05-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Cloud-native LLM scheduling system with latency-aware inference optimization</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Scaling Laws for Speculative Decoding](http://arxiv.org/abs/2505.07858v1)** | 2025-05-08 | 17 pages, 8 figures |
 | **[LLM-based Bi-level Multi-interest Learning Framework for Sequential Recommendation](http://arxiv.org/abs/2411.09410v3)** | 2025-05-07 |  |
 | **[Memory-Efficient LLM Training by Various-Grained Low-Rank Projection of Gradients](http://arxiv.org/abs/2505.01744v1)** | 2025-05-03 |  |
-| **[LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](http://arxiv.org/abs/2505.03793v1)** | 2025-05-01 | <details><summary>It is...</summary><p>It is accepted by ICML'2025, and the code is open-sourcing on https://github.com/Susan571/LENSLLM.git</p></details> |
-| **[Network-aided Efficient LLM Services With Denoising-inspired Prompt Compression](http://arxiv.org/abs/2412.03621v3)** | 2025-05-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.18010</p></details> |
 
