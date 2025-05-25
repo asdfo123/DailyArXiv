@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](http://arxiv.org/abs/2505.15810v1)** | 2025-05-21 |  |
+| **[GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent](http://arxiv.org/abs/2505.16827v1)** | 2025-05-22 | <details><summary>ACL 2...</summary><p>ACL 2025. Github: https://github.com/JiuTian-VL/GUI-explorer</p></details> |
+| **[GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](http://arxiv.org/abs/2505.15810v2)** | 2025-05-22 |  |
+| **[ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](http://arxiv.org/abs/2505.16282v1)** | 2025-05-22 |  |
 | **[TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](http://arxiv.org/abs/2504.12679v2)** | 2025-05-21 |  |
 | **[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](http://arxiv.org/abs/2505.14418v1)** | 2025-05-20 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 12 Tables</p></details> |
 | **[EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection](http://arxiv.org/abs/2505.14289v1)** | 2025-05-20 |  |
@@ -58,12 +60,13 @@ labels: documentation
 | **[Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing](http://arxiv.org/abs/2505.09875v2)** | 2025-05-16 |  |
 | **[UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v4)** | 2025-05-14 | Updated UI-R1-E-3B |
 | **[A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning](http://arxiv.org/abs/2504.20464v2)** | 2025-05-13 |  |
-| **[AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation](http://arxiv.org/abs/2412.18116v3)** | 2025-05-06 | 13 pages, 5 figures |
-| **[Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](http://arxiv.org/abs/2412.04454v2)** | 2025-05-05 | ICML 2025 |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EnSToM: Enhancing Dialogue Systems with Entropy-Scaled Steering Vectors for Topic Maintenance](http://arxiv.org/abs/2505.16526v1)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 (Findings, long paper)</p></details> |
+| **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](http://arxiv.org/abs/2505.16188v1)** | 2025-05-22 | <details><summary>30 pa...</summary><p>30 pages, 24 figures, 12 tables</p></details> |
+| **[Steer LLM Latents for Hallucination Detection](http://arxiv.org/abs/2503.01917v2)** | 2025-05-22 | ICML 2025 |
 | **[Quantifying Feature Space Universality Across Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2410.06981v4)** | 2025-05-21 |  |
 | **[Sensing and Steering Stereotypes: Extracting and Applying Gender Representation Vectors in LLMs](http://arxiv.org/abs/2502.19721v2)** | 2025-05-20 |  |
 | **[Textual Steering Vectors Can Improve Visual Understanding in Multimodal Large Language Models](http://arxiv.org/abs/2505.14071v1)** | 2025-05-20 |  |
@@ -76,13 +79,12 @@ labels: documentation
 | **[Statistical Performance of Generalized Direction Detectors with Known Spatial Steering Vector](http://arxiv.org/abs/2505.03076v2)** | 2025-05-07 | <details><summary>4 pag...</summary><p>4 pages,2 figures.This manuscript is accepted by Signal Processing Letters</p></details> |
 | **[SEAL: Steerable Reasoning Calibration of Large Language Models for Free](http://arxiv.org/abs/2504.07986v2)** | 2025-05-06 |  |
 | **[Patterns and Mechanisms of Contrastive Activation Engineering](http://arxiv.org/abs/2505.03189v1)** | 2025-05-06 | <details><summary>Publi...</summary><p>Published at the ICLR 2025 Bi-Align, HAIC, and Building Trust workshops</p></details> |
-| **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v2)** | 2025-05-05 | 68 pages |
-| **[Analyzing the Generalization and Reliability of Steering Vectors](http://arxiv.org/abs/2407.12404v8)** | 2025-05-04 |  |
-| **[Dialz: A Python Toolkit for Steering Vectors](http://arxiv.org/abs/2505.06262v1)** | 2025-05-04 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LightRouter: Towards Efficient LLM Collaboration with Minimal Overhead](http://arxiv.org/abs/2505.16221v1)** | 2025-05-22 |  |
+| **[LITA: An Efficient LLM-assisted Iterative Topic Augmentation Framework](http://arxiv.org/abs/2412.12459v2)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted to PAKDD 2025</p></details> |
 | **[SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices](http://arxiv.org/abs/2505.10259v3)** | 2025-05-21 |  |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v2)** | 2025-05-21 |  |
 | **[Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](http://arxiv.org/abs/2505.15154v1)** | 2025-05-21 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2505.11827v1)** | 2025-05-17 | In progress |
 | **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](http://arxiv.org/abs/2505.11274v1)** | 2025-05-16 |  |
 | **[KVShare: An LLM Service System with Efficient and Effective Multi-Tenant KV Cache Reuse](http://arxiv.org/abs/2503.16525v2)** | 2025-05-16 |  |
-| **[Collaborative Speculative Inference for Efficient LLM Inference Serving](http://arxiv.org/abs/2503.10325v2)** | 2025-05-15 |  |
-| **[ELIS: Efficient LLM Iterative Scheduling System with Response Length Predictor](http://arxiv.org/abs/2505.09142v1)** | 2025-05-14 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Cloud-native LLM scheduling system with latency-aware inference optimization</p></details> |
 
