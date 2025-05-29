@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning](http://arxiv.org/abs/2412.11418v2)** | 2025-05-28 | Findings of ACL2025 |
+| **[Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing](http://arxiv.org/abs/2505.22298v1)** | 2025-05-28 | ACL 2025 Findings |
+| **[Mitigating Heterogeneous Token Overfitting in LLM Knowledge Editing](http://arxiv.org/abs/2502.00602v2)** | 2025-05-28 | ICML 2025 |
 | **[Tracing and Reversing Rank-One Model Edits](http://arxiv.org/abs/2505.20819v1)** | 2025-05-27 |  |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v2)** | 2025-05-26 |  |
 | **[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](http://arxiv.org/abs/2505.19855v1)** | 2025-05-26 | Preprint |
@@ -19,13 +22,13 @@ labels: documentation
 | **[Safety Alignment via Constrained Knowledge Unlearning](http://arxiv.org/abs/2505.18588v1)** | 2025-05-24 |  |
 | **[Edit Once, Update Everywhere: A Simple Framework for Cross-Lingual Knowledge Synchronization in LLMs](http://arxiv.org/abs/2502.14645v2)** | 2025-05-23 | ACL 2025 Findings |
 | **[UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models](http://arxiv.org/abs/2505.12345v2)** | 2025-05-23 | <details><summary>UniEd...</summary><p>UniEdit Dataset: https://huggingface.co/datasets/qizhou/UniEdit Code: https://github.com/qizhou000/UniEdit</p></details> |
-| **[Personality Editing for Language Models through Relevant Knowledge Editing](http://arxiv.org/abs/2502.11789v2)** | 2025-05-23 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 24 tables</p></details> |
-| **[Lifelong Knowledge Editing requires Better Regularization](http://arxiv.org/abs/2502.01636v2)** | 2025-05-21 |  |
-| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](http://arxiv.org/abs/2505.14393v1)** | 2025-05-20 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v1)** | 2025-05-28 | Under review |
+| **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v3)** | 2025-05-28 |  |
+| **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v4)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
 | **[Tracing and Reversing Rank-One Model Edits](http://arxiv.org/abs/2505.20819v1)** | 2025-05-27 |  |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v2)** | 2025-05-26 |  |
 | **[DocMEdit: Towards Document-Level Model Editing](http://arxiv.org/abs/2505.19572v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 findings</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models](http://arxiv.org/abs/2505.12345v2)** | 2025-05-23 | <details><summary>UniEd...</summary><p>UniEdit Dataset: https://huggingface.co/datasets/qizhou/UniEdit Code: https://github.com/qizhou000/UniEdit</p></details> |
 | **[LyapLock: Bounded Knowledge Preservation in Sequential Large Language Model Editing](http://arxiv.org/abs/2505.15702v1)** | 2025-05-21 |  |
 | **[UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models](http://arxiv.org/abs/2505.15674v1)** | 2025-05-21 |  |
-| **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models](http://arxiv.org/abs/2505.14679v1)** | 2025-05-20 |  |
-| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](http://arxiv.org/abs/2505.14393v1)** | 2025-05-20 |  |
-| **[Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models](http://arxiv.org/abs/2310.10378v5)** | 2025-05-19 | <details><summary>EMNLP...</summary><p>EMNLP2023 Outstanding Paper (Multilinguality and Linguistic Diversity Track). All code and data are released at https://github.com/Betswish/Cross-Lingual-Consistency</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding (Un)Reliability of Steering Vectors in Language Models](http://arxiv.org/abs/2505.22637v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Presented at the ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
 | **[Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2505.05111v2)** | 2025-05-27 | ACL 2025 main |
 | **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v1)** | 2025-05-24 | Preprint |
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v1)** | 2025-05-23 |  |
@@ -78,14 +79,16 @@ labels: documentation
 | **[Cross-model Transferability among Large Language Models on the Platonic Representations of Concepts](http://arxiv.org/abs/2501.02009v2)** | 2025-05-20 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Camera Ready</p></details> |
 | **[ExpertSteer: Intervening in LLMs through Expert Knowledge](http://arxiv.org/abs/2505.12313v1)** | 2025-05-18 |  |
 | **[Steering Risk Preferences in Large Language Models by Aligning Behavioral and Neural Representations](http://arxiv.org/abs/2505.11615v1)** | 2025-05-16 |  |
-| **[Theoretical and Experimental Assessment of Large Beam Codebook at mmWave Devices: How Much is Enough?](http://arxiv.org/abs/2505.09162v1)** | 2025-05-14 | 12 pages, 6 figures |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](http://arxiv.org/abs/2505.22662v1)** | 2025-05-28 |  |
+| **[Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR](http://arxiv.org/abs/2505.22063v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2025</p></details> |
+| **[ACE: Exploring Activation Cosine Similarity and Variance for Accurate and Calibration-Efficient LLM Pruning](http://arxiv.org/abs/2505.21987v1)** | 2025-05-28 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 13 tables</p></details> |
+| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v2)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 14 tables</p></details> |
 | **[APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization](http://arxiv.org/abs/2505.19912v1)** | 2025-05-26 |  |
 | **[Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2505.11827v2)** | 2025-05-25 | Under review |
-| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v1)** | 2025-05-24 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 14 tables</p></details> |
 | **[LatentLLM: Attention-Aware Joint Tensor Compression](http://arxiv.org/abs/2505.18413v1)** | 2025-05-23 | 37 pages, 16 figures |
 | **[Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP](http://arxiv.org/abs/2505.20320v1)** | 2025-05-23 |  |
 | **[LoRA-Ensemble: Efficient Uncertainty Modelling for Self-Attention Networks](http://arxiv.org/abs/2405.14438v4)** | 2025-05-23 | under review |
@@ -95,7 +98,4 @@ labels: documentation
 | **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](http://arxiv.org/abs/2505.11274v2)** | 2025-05-23 |  |
 | **[DASH: Input-Aware Dynamic Layer Skipping for Efficient LLM Inference with Markov Decision Policies](http://arxiv.org/abs/2505.17420v1)** | 2025-05-23 | 8 pages,5 figures |
 | **[LightRouter: Towards Efficient LLM Collaboration with Minimal Overhead](http://arxiv.org/abs/2505.16221v1)** | 2025-05-22 |  |
-| **[LITA: An Efficient LLM-assisted Iterative Topic Augmentation Framework](http://arxiv.org/abs/2412.12459v2)** | 2025-05-22 | <details><summary>Accep...</summary><p>Accepted to PAKDD 2025</p></details> |
-| **[SpecOffload: Unlocking Latent GPU Capacity for LLM Inference on Resource-Constrained Devices](http://arxiv.org/abs/2505.10259v3)** | 2025-05-21 |  |
-| **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v2)** | 2025-05-21 |  |
 
