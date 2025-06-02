@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](http://arxiv.org/abs/2505.19240v2)** | 2025-05-30 |  |
+| **[Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models](http://arxiv.org/abs/2401.08491v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Track)</p></details> |
 | **[ScEdit: Script-based Assessment of Knowledge Editing](http://arxiv.org/abs/2505.23291v1)** | 2025-05-29 | ACL 2025 Findings |
 | **[Context Robust Knowledge Editing for Language Models](http://arxiv.org/abs/2505.23026v1)** | 2025-05-29 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Our code and datasets are available at (https://github.com/holi-lab/CoRE)</p></details> |
 | **[Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing](http://arxiv.org/abs/2410.17194v4)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
@@ -18,14 +20,15 @@ labels: documentation
 | **[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](http://arxiv.org/abs/2505.19855v1)** | 2025-05-26 | Preprint |
 | **[CaseEdit: Enhancing Localized Commonsense Reasoning via Null-Space Constrained Knowledge Editing in Small Parameter Language Models](http://arxiv.org/abs/2505.19383v1)** | 2025-05-26 |  |
 | **[Identifying Knowledge Editing Types in Large Language Models](http://arxiv.org/abs/2409.19663v3)** | 2025-05-26 | Accepted by KDD 2025 |
-| **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](http://arxiv.org/abs/2505.19240v1)** | 2025-05-25 | <details><summary>This ...</summary><p>This manuscript is currently under review at ACM Computing Surveys</p></details> |
 | **[REACT: Representation Extraction And Controllable Tuning to Overcome Overfitting in LLM Knowledge Editing](http://arxiv.org/abs/2505.18933v1)** | 2025-05-25 | 15 pages, 4 figures |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](http://arxiv.org/abs/2505.18774v1)** | 2025-05-24 |  |
-| **[Benchmarking and Rethinking Knowledge Editing for Large Language Models](http://arxiv.org/abs/2505.18690v1)** | 2025-05-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2503.05212</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Drop Dropout on Single-Epoch Language Model Pretraining](http://arxiv.org/abs/2505.24788v1)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to ACL Findings; 5 pages, 2 figures, 4 pages of appendix</p></details> |
+| **[Model Unlearning via Sparse Autoencoder Subspace Guided Projections](http://arxiv.org/abs/2505.24428v1)** | 2025-05-30 |  |
+| **[On Fairness of Task Arithmetic: The Role of Task Vectors](http://arxiv.org/abs/2505.24262v1)** | 2025-05-30 |  |
 | **[Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](http://arxiv.org/abs/2501.18887v3)** | 2025-05-29 |  |
 | **[DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing](http://arxiv.org/abs/2502.11647v2)** | 2025-05-29 |  |
 | **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v5)** | 2025-05-29 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](http://arxiv.org/abs/2504.10957v3)** | 2025-05-25 | <details><summary>Publi...</summary><p>Published at ICLR 2025 as an oral paper</p></details> |
 | **[REACT: Representation Extraction And Controllable Tuning to Overcome Overfitting in LLM Knowledge Editing](http://arxiv.org/abs/2505.18933v1)** | 2025-05-25 | 15 pages, 4 figures |
 | **[Localizing Knowledge in Diffusion Transformers](http://arxiv.org/abs/2505.18832v1)** | 2025-05-24 |  |
-| **[Disentangling Knowledge Representations for Large Language Model Editing](http://arxiv.org/abs/2505.18774v1)** | 2025-05-24 |  |
-| **[Model Editing with Graph-Based External Memory](http://arxiv.org/abs/2505.18343v1)** | 2025-05-23 |  |
-| **[SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](http://arxiv.org/abs/2505.17721v1)** | 2025-05-23 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUICourse: From General Vision Language Models to Versatile GUI Agents](http://arxiv.org/abs/2406.11317v2)** | 2025-05-30 |  |
 | **[ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1)** | 2025-05-29 |  |
 | **[MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning](http://arxiv.org/abs/2505.23596v1)** | 2025-05-29 |  |
 | **[AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](http://arxiv.org/abs/2407.17490v2)** | 2025-05-29 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](http://arxiv.org/abs/2504.19838v2)** | 2025-05-23 | <details><summary>39 pa...</summary><p>39 pages, 10 figures, 7 tables, Project Homepage: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents</p></details> |
 | **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](http://arxiv.org/abs/2505.12842v2)** | 2025-05-23 |  |
 | **[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](http://arxiv.org/abs/2505.14418v2)** | 2025-05-23 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 12 Tables</p></details> |
-| **[GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent](http://arxiv.org/abs/2505.16827v1)** | 2025-05-22 | <details><summary>ACL 2...</summary><p>ACL 2025. Github: https://github.com/JiuTian-VL/GUI-explorer</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v1)** | 2025-05-30 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, preprint</p></details> |
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v2)** | 2025-05-29 | <details><summary>We ha...</summary><p>We have identified significant errors in the results presented in this paper, specifically in the evaluation sections concerning the DPO training of LLaMA2 and Qwen2.5, as well as in the representation space visualization section. Given the extent of these issues, we intend to substantially revise the manuscript's content and structure. Hence, we request to withdraw it from arXiv at this time</p></details> |
 | **[Understanding (Un)Reliability of Steering Vectors in Language Models](http://arxiv.org/abs/2505.22637v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Presented at the ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
 | **[Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2505.05111v2)** | 2025-05-27 | ACL 2025 main |
@@ -78,24 +79,23 @@ labels: documentation
 | **[Textual Steering Vectors Can Improve Visual Understanding in Multimodal Large Language Models](http://arxiv.org/abs/2505.14071v1)** | 2025-05-20 |  |
 | **[Cross-model Transferability among Large Language Models on the Platonic Representations of Concepts](http://arxiv.org/abs/2501.02009v2)** | 2025-05-20 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Camera Ready</p></details> |
 | **[ExpertSteer: Intervening in LLMs through Expert Knowledge](http://arxiv.org/abs/2505.12313v1)** | 2025-05-18 |  |
-| **[Steering Risk Preferences in Large Language Models by Aligning Behavioral and Neural Representations](http://arxiv.org/abs/2505.11615v1)** | 2025-05-16 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption](http://arxiv.org/abs/2505.24773v1)** | 2025-05-30 |  |
+| **[SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training](http://arxiv.org/abs/2505.24749v1)** | 2025-05-30 |  |
+| **[RaaS: Reasoning-Aware Attention Sparsity for Efficient LLM Reasoning](http://arxiv.org/abs/2502.11147v2)** | 2025-05-30 |  |
+| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v3)** | 2025-05-30 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 14 tables</p></details> |
+| **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 | **[Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters](http://arxiv.org/abs/2505.23554v1)** | 2025-05-29 |  |
 | **[LENSLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](http://arxiv.org/abs/2505.03793v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted by ICML'2025</p></details> |
 | **[AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](http://arxiv.org/abs/2505.22662v1)** | 2025-05-28 |  |
 | **[Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR](http://arxiv.org/abs/2505.22063v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2025</p></details> |
 | **[ACE: Exploring Activation Cosine Similarity and Variance for Accurate and Calibration-Efficient LLM Pruning](http://arxiv.org/abs/2505.21987v1)** | 2025-05-28 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 13 tables</p></details> |
-| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v2)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 14 tables</p></details> |
 | **[APE: A Data-Centric Benchmark for Efficient LLM Adaptation in Text Summarization](http://arxiv.org/abs/2505.19912v1)** | 2025-05-26 |  |
 | **[Not All Thoughts are Generated Equal: Efficient LLM Reasoning via Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2505.11827v2)** | 2025-05-25 | Under review |
 | **[LatentLLM: Attention-Aware Joint Tensor Compression](http://arxiv.org/abs/2505.18413v1)** | 2025-05-23 | 37 pages, 16 figures |
 | **[Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP](http://arxiv.org/abs/2505.20320v1)** | 2025-05-23 |  |
 | **[LoRA-Ensemble: Efficient Uncertainty Modelling for Self-Attention Networks](http://arxiv.org/abs/2405.14438v4)** | 2025-05-23 | under review |
-| **[ELDeR: Getting Efficient LLMs through Data-Driven Regularized Layer-wise Pruning](http://arxiv.org/abs/2505.18232v1)** | 2025-05-23 |  |
-| **[The Quantum LLM: Modeling Semantic Spaces with Quantum Principles](http://arxiv.org/abs/2504.13202v2)** | 2025-05-23 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Some corrections</p></details> |
-| **[Navigating Pitfalls: Evaluating LLMs in Machine Learning Programming Education](http://arxiv.org/abs/2505.18220v1)** | 2025-05-23 | 29 pages |
-| **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](http://arxiv.org/abs/2505.11274v2)** | 2025-05-23 |  |
 
