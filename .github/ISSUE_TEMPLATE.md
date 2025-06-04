@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2025
+title: Latest 15 Papers - June 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -47,7 +47,7 @@ labels: documentation
 | --- | --- | --- |
 | **[GUICourse: From General Vision Language Models to Versatile GUI Agents](http://arxiv.org/abs/2406.11317v2)** | 2025-05-30 |  |
 | **[ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1)** | 2025-05-29 |  |
-| **[MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning](http://arxiv.org/abs/2505.23596v1)** | 2025-05-29 |  |
+| **[MAPLE: A Mobile Agent with Persistent Finite State Machines for Structured Task Reasoning](http://arxiv.org/abs/2505.23596v2)** | 2025-06-02 | <details><summary>chang...</summary><p>change to a better title</p></details> |
 | **[AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](http://arxiv.org/abs/2407.17490v2)** | 2025-05-29 |  |
 | **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](http://arxiv.org/abs/2505.21496v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://github.com/Euphoria16/UI-Genie</p></details> |
 | **[Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](http://arxiv.org/abs/2505.12299v2)** | 2025-05-27 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
