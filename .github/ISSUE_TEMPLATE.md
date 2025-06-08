@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2025
+title: Latest 15 Papers - June 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection](http://arxiv.org/abs/2506.04739v1)** | 2025-06-05 |  |
+| **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](http://arxiv.org/abs/2506.03490v2)** | 2025-06-05 | Under Review |
 | **[Efficient Knowledge Editing via Minimal Precomputation](http://arxiv.org/abs/2506.04226v1)** | 2025-06-04 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference</p></details> |
 | **[Unveiling and Eliminating the Shortcut Learning for Locate-Then-Edit Knowledge Editing via Both Subject and Relation Awareness](http://arxiv.org/abs/2506.04042v1)** | 2025-06-04 |  |
-| **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](http://arxiv.org/abs/2506.03490v1)** | 2025-06-04 |  |
 | **[COMPKE: Complex Question Answering under Knowledge Editing](http://arxiv.org/abs/2506.00829v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
 | **[ScEdit: Script-based Assessment of Knowledge Editing](http://arxiv.org/abs/2505.23291v2)** | 2025-06-02 | ACL 2025 Findings |
 | **[Neuron Empirical Gradient: Discovering and Quantifying Neurons Global Linear Controllability](http://arxiv.org/abs/2412.18053v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main, 32 pages</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Context-Robust Knowledge Editing for Language Models](http://arxiv.org/abs/2505.23026v2)** | 2025-05-31 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings. Our code and datasets are available at https://github.com/holi-lab/CoRE</p></details> |
 | **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](http://arxiv.org/abs/2505.19240v2)** | 2025-05-30 |  |
 | **[Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models](http://arxiv.org/abs/2401.08491v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Track)</p></details> |
-| **[Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing](http://arxiv.org/abs/2410.17194v4)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v2)** | 2025-06-05 | <details><summary>Error...</summary><p>Error regarding experiment results</p></details> |
+| **[Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](http://arxiv.org/abs/2504.17934v2)** | 2025-06-05 |  |
 | **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v2)** | 2025-06-04 |  |
-| **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v1)** | 2025-06-04 |  |
 | **[GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](http://arxiv.org/abs/2506.03143v1)** | 2025-06-03 |  |
 | **[DPO Learning with LLMs-Judge Signal for Computer Use Agents](http://arxiv.org/abs/2506.03095v1)** | 2025-06-03 |  |
 | **[MAPLE: A Mobile Agent with Persistent Finite State Machines for Structured Task Reasoning](http://arxiv.org/abs/2505.23596v2)** | 2025-06-02 | <details><summary>chang...</summary><p>change to a better title</p></details> |
@@ -59,15 +60,15 @@ labels: documentation
 | **[TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments](http://arxiv.org/abs/2505.17629v2)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
 | **[BacktrackAgent: Enhancing GUI Agent with Error Detection and Backtracking Mechanism](http://arxiv.org/abs/2505.20660v1)** | 2025-05-27 |  |
 | **[ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](http://arxiv.org/abs/2505.19095v1)** | 2025-05-25 |  |
-| **[UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning](http://arxiv.org/abs/2503.21620v5)** | 2025-05-24 | Updated UI-R1-E-3B |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](http://arxiv.org/abs/2506.00653v3)** | 2025-06-04 |  |
 | **[HyperSteer: Activation Steering at Scale with Hypernetworks](http://arxiv.org/abs/2506.03292v1)** | 2025-06-03 |  |
-| **[Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](http://arxiv.org/abs/2506.00653v2)** | 2025-06-03 |  |
 | **[Dialz: A Python Toolkit for Steering Vectors](http://arxiv.org/abs/2505.06262v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted to ACL System Demo 2025</p></details> |
 | **[Visual Sparse Steering: Improving Zero-shot Image Classification with Sparsity Guided Steering Vectors](http://arxiv.org/abs/2506.01247v1)** | 2025-06-02 |  |
+| **[SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs](http://arxiv.org/abs/2506.04250v1)** | 2025-06-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2410.01174</p></details> |
 | **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v1)** | 2025-05-30 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, preprint</p></details> |
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v2)** | 2025-05-29 | <details><summary>We ha...</summary><p>We have identified significant errors in the results presented in this paper, specifically in the evaluation sections concerning the DPO training of LLaMA2 and Qwen2.5, as well as in the representation space visualization section. Given the extent of these issues, we intend to substantially revise the manuscript's content and structure. Hence, we request to withdraw it from arXiv at this time</p></details> |
 | **[Understanding (Un)Reliability of Steering Vectors in Language Models](http://arxiv.org/abs/2505.22637v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Presented at the ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
@@ -78,11 +79,13 @@ labels: documentation
 | **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](http://arxiv.org/abs/2505.16188v1)** | 2025-05-22 | <details><summary>30 pa...</summary><p>30 pages, 24 figures, 12 tables</p></details> |
 | **[Steer LLM Latents for Hallucination Detection](http://arxiv.org/abs/2503.01917v2)** | 2025-05-22 | ICML 2025 |
 | **[Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](http://arxiv.org/abs/2505.17127v1)** | 2025-05-21 |  |
-| **[Quantifying Feature Space Universality Across Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2410.06981v4)** | 2025-05-21 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](http://arxiv.org/abs/2502.00722v2)** | 2025-06-05 |  |
+| **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted at Findings of ACL 2025. The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
+| **[Not All Options Are Created Equal: Textual Option Weighting for Token-Efficient LLM-Based Knowledge Tracing](http://arxiv.org/abs/2410.12872v2)** | 2025-06-05 | 11 pages |
 | **[KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation](http://arxiv.org/abs/2411.17089v2)** | 2025-06-04 | ACL Findings 2025 |
 | **[GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems](http://arxiv.org/abs/2506.04015v1)** | 2025-06-04 | Accepted by KDD 2025 |
 | **[QKV Projections Require a Fraction of Their Memory](http://arxiv.org/abs/2506.02939v1)** | 2025-06-03 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 | **[Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters](http://arxiv.org/abs/2505.23554v1)** | 2025-05-29 |  |
 | **[NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs](http://arxiv.org/abs/2506.02024v1)** | 2025-05-29 |  |
-| **[AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](http://arxiv.org/abs/2505.22662v1)** | 2025-05-28 |  |
-| **[Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR](http://arxiv.org/abs/2505.22063v1)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2025</p></details> |
-| **[ACE: Exploring Activation Cosine Similarity and Variance for Accurate and Calibration-Efficient LLM Pruning](http://arxiv.org/abs/2505.21987v1)** | 2025-05-28 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 13 tables</p></details> |
 
