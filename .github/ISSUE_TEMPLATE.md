@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -38,7 +38,7 @@ labels: documentation
 | **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v5)** | 2025-05-29 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
 | **[Resolving Lexical Bias in Model Editing](http://arxiv.org/abs/2408.10411v3)** | 2025-05-28 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v1)** | 2025-05-28 | Under review |
-| **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v3)** | 2025-05-28 |  |
+| **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v4)** | 2025-06-09 |  |
 | **[Tracing and Reversing Rank-One Model Edits](http://arxiv.org/abs/2505.20819v1)** | 2025-05-27 |  |
 | **[GeoEdit: Geometric Knowledge Editing for Large Language Models](http://arxiv.org/abs/2502.19953v2)** | 2025-05-26 |  |
 
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search](http://arxiv.org/abs/2506.06017v1)** | 2025-06-06 | 20pages |
+| **[RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models](http://arxiv.org/abs/2502.09003v3)** | 2025-06-06 | <details><summary>accep...</summary><p>accepted by ICML 2025</p></details> |
+| **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](http://arxiv.org/abs/2506.05640v1)** | 2025-06-06 |  |
 | **[Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](http://arxiv.org/abs/2502.00722v2)** | 2025-06-05 |  |
 | **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted at Findings of ACL 2025. The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
 | **[Not All Options Are Created Equal: Textual Option Weighting for Token-Efficient LLM-Based Knowledge Tracing](http://arxiv.org/abs/2410.12872v2)** | 2025-06-05 | 11 pages |
@@ -95,7 +98,4 @@ labels: documentation
 | **[SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training](http://arxiv.org/abs/2505.24749v1)** | 2025-05-30 |  |
 | **[RaaS: Reasoning-Aware Attention Sparsity for Efficient LLM Reasoning](http://arxiv.org/abs/2502.11147v2)** | 2025-05-30 |  |
 | **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v3)** | 2025-05-30 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 14 tables</p></details> |
-| **[Star Attention: Efficient LLM Inference over Long Sequences](http://arxiv.org/abs/2411.17116v3)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Sustainable Carbon-Aware and Water-Efficient LLM Scheduling in Geo-Distributed Cloud Datacenters](http://arxiv.org/abs/2505.23554v1)** | 2025-05-29 |  |
-| **[NestedFP: High-Performance, Memory-Efficient Dual-Precision Floating Point Support for LLMs](http://arxiv.org/abs/2506.02024v1)** | 2025-05-29 |  |
 
