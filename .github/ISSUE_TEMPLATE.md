@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2025
+title: Latest 15 Papers - June 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Negative Interference in Multilingual Sequential Knowledge Editing through Null-Space Constraints](http://arxiv.org/abs/2506.10800v1)** | 2025-06-12 | ACL 2025 Findings |
 | **[Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing](http://arxiv.org/abs/2410.17194v5)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
 | **[Is Fine-Tuning an Effective Solution? Reassessing Knowledge Editing for Unstructured Data](http://arxiv.org/abs/2506.09672v1)** | 2025-06-11 |  |
 | **[PropMEND: Hypernetworks for Knowledge Propagation in LLMs](http://arxiv.org/abs/2506.08920v1)** | 2025-06-10 | Under review |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Neuron Empirical Gradient: Discovering and Quantifying Neurons Global Linear Controllability](http://arxiv.org/abs/2412.18053v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main, 32 pages</p></details> |
 | **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v2)** | 2025-06-01 | Work in progress |
 | **[CKnowEdit: A New Chinese Knowledge Editing Dataset for Linguistics, Facts, and Logic Error Correction in LLMs](http://arxiv.org/abs/2409.05806v4)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025; project website is available at https://zjunlp.github.io/project/CKnowEdit code and dataset are available at https://github.com/zjunlp/EasyEdit</p></details> |
-| **[One for All: Update Parameterized Knowledge Across Multiple Models](http://arxiv.org/abs/2506.00817v1)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 (Main Conference)</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](http://arxiv.org/abs/2506.10387v1)** | 2025-06-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 5 tables</p></details> |
 | **[LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization](http://arxiv.org/abs/2506.09373v1)** | 2025-06-11 |  |
 | **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](http://arxiv.org/abs/2506.08012v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page at https://penghao-wu.github.io/GUI_Reflection/</p></details> |
 | **[MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents](http://arxiv.org/abs/2506.07672v1)** | 2025-06-09 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[GUICourse: From General Vision Language Models to Versatile GUI Agents](http://arxiv.org/abs/2406.11317v2)** | 2025-05-30 |  |
 | **[ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1)** | 2025-05-29 |  |
 | **[AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](http://arxiv.org/abs/2407.17490v2)** | 2025-05-29 |  |
-| **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](http://arxiv.org/abs/2505.21496v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://github.com/Euphoria16/UI-Genie</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Slimming Down LLMs Without Losing Their Minds](http://arxiv.org/abs/2506.10885v1)** | 2025-06-12 | 10 pages |
+| **[AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length](http://arxiv.org/abs/2506.10525v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by Internetware 2025</p></details> |
 | **[RocketPPA: Code-Level Power, Performance, and Area Prediction via LLM and Mixture of Experts](http://arxiv.org/abs/2503.21971v3)** | 2025-06-10 |  |
 | **[TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression](http://arxiv.org/abs/2506.02678v2)** | 2025-06-10 |  |
 | **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v1)** | 2025-06-09 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](http://arxiv.org/abs/2506.05640v1)** | 2025-06-06 |  |
 | **[Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](http://arxiv.org/abs/2502.00722v2)** | 2025-06-05 |  |
 | **[MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens](http://arxiv.org/abs/2503.11315v2)** | 2025-06-05 | <details><summary>Accep...</summary><p>Accepted at Findings of ACL 2025. The code and models are available https://github.com/JeongHun0716/MMS-LLaMA</p></details> |
-| **[Not All Options Are Created Equal: Textual Option Weighting for Token-Efficient LLM-Based Knowledge Tracing](http://arxiv.org/abs/2410.12872v2)** | 2025-06-05 | 11 pages |
-| **[KVPR: Efficient LLM Inference with I/O-Aware KV Cache Partial Recomputation](http://arxiv.org/abs/2411.17089v2)** | 2025-06-04 | ACL Findings 2025 |
 
