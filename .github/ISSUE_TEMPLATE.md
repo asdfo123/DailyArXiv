@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v2)** | 2025-06-18 | <details><summary>Prepr...</summary><p>Preprint (under review) For Journal</p></details> |
+| **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v2)** | 2025-06-17 | Under Review |
 | **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
 | **[Position: Editing Large Language Models Poses Serious Safety Risks](http://arxiv.org/abs/2502.02958v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 | **[DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models](http://arxiv.org/abs/2506.13638v1)** | 2025-06-16 | Under Review |
@@ -34,17 +36,16 @@ labels: documentation
 | **[BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](http://arxiv.org/abs/2505.01343v2)** | 2025-06-09 |  |
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](http://arxiv.org/abs/2506.07899v1)** | 2025-06-09 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
 | **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v4)** | 2025-06-09 |  |
-| **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v1)** | 2025-06-07 |  |
 | **[ThinkEval: Practical Evaluation of Knowledge Preservation and Consistency in LLM Editing with Thought-based Knowledge Graphs](http://arxiv.org/abs/2506.01386v1)** | 2025-06-02 |  |
 | **[One for All: Update Parameterized Knowledge Across Multiple Models](http://arxiv.org/abs/2506.00817v1)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 (Main Conference)</p></details> |
 | **[An Adversarial Perspective on Machine Unlearning for AI Safety](http://arxiv.org/abs/2409.18025v6)** | 2025-05-31 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR); Best technical paper at Neurips 2024 SoLaR workshop</p></details> |
 | **[The Mirage of Model Editing: Revisiting Evaluation in the Wild](http://arxiv.org/abs/2502.11177v5)** | 2025-05-31 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Main Conference (Camera Ready Version)</p></details> |
 | **[Drop Dropout on Single-Epoch Language Model Pretraining](http://arxiv.org/abs/2505.24788v1)** | 2025-05-30 | <details><summary>Accep...</summary><p>Accepted to ACL Findings; 5 pages, 2 figures, 4 pages of appendix</p></details> |
-| **[Model Unlearning via Sparse Autoencoder Subspace Guided Projections](http://arxiv.org/abs/2505.24428v1)** | 2025-05-30 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding GUI Agent Localization Biases through Logit Sharpness](http://arxiv.org/abs/2506.15425v1)** | 2025-06-18 |  |
 | **[Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](http://arxiv.org/abs/2410.05243v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral). Project Homepage: https://osu-nlp-group.github.io/UGround/</p></details> |
 | **[GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies](http://arxiv.org/abs/2506.14477v1)** | 2025-06-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, submitted to NIPS 2025</p></details> |
 | **[AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.01391v2)** | 2025-06-17 | <details><summary>Updat...</summary><p>Updated results in Table 2 and Table 3; The project is available at https://github.com/OpenBMB/AgentCPM-GUI</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v2)** | 2025-06-05 | <details><summary>Error...</summary><p>Error regarding experiment results</p></details> |
 | **[Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents](http://arxiv.org/abs/2504.17934v2)** | 2025-06-05 |  |
 | **[A Survey on (M)LLM-Based GUI Agents](http://arxiv.org/abs/2504.13865v2)** | 2025-06-04 |  |
-| **[GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](http://arxiv.org/abs/2506.03143v1)** | 2025-06-03 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v4)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted@ACL25-findings, 17 pages, 8 figures, 14 tables</p></details> |
+| **[eLLM: Elastic Memory Management Framework for Efficient LLM Serving](http://arxiv.org/abs/2506.15155v1)** | 2025-06-18 |  |
 | **[Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention](http://arxiv.org/abs/2506.13674v2)** | 2025-06-17 |  |
 | **[Empirical Evaluation of Large Language Models in Automated Program Repair](http://arxiv.org/abs/2506.13186v1)** | 2025-06-16 |  |
 | **[Retrieval-augmented code completion for local projects using large language models](http://arxiv.org/abs/2408.05026v2)** | 2025-06-15 | <details><summary>30 pa...</summary><p>30 pages, 15 figures; Accepted manuscript for Expert Systems with Applications</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v1)** | 2025-06-09 | 30 pages, 17 figures |
 | **[FDC: Fast KV Dimensionality Compression for Efficient LLM Inference](http://arxiv.org/abs/2408.04107v3)** | 2025-06-08 |  |
 | **[Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques](http://arxiv.org/abs/2506.06579v1)** | 2025-06-06 |  |
-| **[Cost-Efficient LLM Training with Lifetime-Aware Tensor Offloading via GPUDirect Storage](http://arxiv.org/abs/2506.06472v1)** | 2025-06-06 |  |
-| **[AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search](http://arxiv.org/abs/2506.06017v1)** | 2025-06-06 | 20pages |
 
