@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2025
+title: Latest 15 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](http://arxiv.org/abs/2506.15882v1)** | 2025-06-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, Project website: https://shengliu66.github.io/fractreason/</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v3)** | 2025-06-16 | 75 pages |
 | **[AI shares emotion with humans across languages and cultures](http://arxiv.org/abs/2506.13978v1)** | 2025-06-11 |  |
 | **[Improving LLM Reasoning through Interpretable Role-Playing Steering](http://arxiv.org/abs/2506.07335v1)** | 2025-06-09 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 8 tables</p></details> |
@@ -78,11 +79,12 @@ labels: documentation
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v2)** | 2025-05-29 | <details><summary>We ha...</summary><p>We have identified significant errors in the results presented in this paper, specifically in the evaluation sections concerning the DPO training of LLaMA2 and Qwen2.5, as well as in the representation space visualization section. Given the extent of these issues, we intend to substantially revise the manuscript's content and structure. Hence, we request to withdraw it from arXiv at this time</p></details> |
 | **[Understanding (Un)Reliability of Steering Vectors in Language Models](http://arxiv.org/abs/2505.22637v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Presented at the ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
 | **[Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders](http://arxiv.org/abs/2505.05111v2)** | 2025-05-27 | ACL 2025 main |
-| **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v1)** | 2025-05-24 | Preprint |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards AI Search Paradigm](http://arxiv.org/abs/2506.17188v1)** | 2025-06-20 |  |
+| **[COS-DPO: Conditioned One-Shot Multi-Objective Fine-Tuning Framework](http://arxiv.org/abs/2410.08316v3)** | 2025-06-20 | <details><summary>Publi...</summary><p>Published at UAI 2025</p></details> |
 | **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v4)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted@ACL25-findings, 17 pages, 8 figures, 14 tables</p></details> |
 | **[eLLM: Elastic Memory Management Framework for Efficient LLM Serving](http://arxiv.org/abs/2506.15155v1)** | 2025-06-18 |  |
 | **[Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention](http://arxiv.org/abs/2506.13674v2)** | 2025-06-17 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v1)** | 2025-06-09 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
 | **[How Benchmark Prediction from Fewer Data Misses the Mark](http://arxiv.org/abs/2506.07673v1)** | 2025-06-09 |  |
 | **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v1)** | 2025-06-09 | 30 pages, 17 figures |
-| **[FDC: Fast KV Dimensionality Compression for Efficient LLM Inference](http://arxiv.org/abs/2408.04107v3)** | 2025-06-08 |  |
-| **[Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques](http://arxiv.org/abs/2506.06579v1)** | 2025-06-06 |  |
 
