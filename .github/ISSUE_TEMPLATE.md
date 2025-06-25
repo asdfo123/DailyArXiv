@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,27 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v2)** | 2025-06-24 |  |
+| **[Transferring Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v2)** | 2025-06-23 |  |
 | **[Steering Conceptual Bias via Transformer Latent-Subspace Activation](http://arxiv.org/abs/2506.18887v1)** | 2025-06-23 |  |
+| **[SHAMaNS: Sound Localization with Hybrid Alpha-Stable Spatial Measure and Neural Steerer](http://arxiv.org/abs/2506.18954v1)** | 2025-06-23 | <details><summary>Europ...</summary><p>European Signal Processing Conference (EUSIPCO), Sep 2025, Palermo, Italy</p></details> |
 | **[No Training Wheels: Steering Vectors for Bias Correction at Inference Time](http://arxiv.org/abs/2506.18598v1)** | 2025-06-23 |  |
-| **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v1)** | 2025-06-22 |  |
 | **[Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](http://arxiv.org/abs/2506.15882v1)** | 2025-06-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, Project website: https://shengliu66.github.io/fractreason/</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v3)** | 2025-06-16 | 75 pages |
 | **[AI shares emotion with humans across languages and cultures](http://arxiv.org/abs/2506.13978v1)** | 2025-06-11 |  |
 | **[Improving LLM Reasoning through Interpretable Role-Playing Steering](http://arxiv.org/abs/2506.07335v1)** | 2025-06-09 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 8 tables</p></details> |
 | **[AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint](http://arxiv.org/abs/2506.07022v1)** | 2025-06-08 |  |
-| **[Transferring Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v1)** | 2025-06-07 |  |
 | **[Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](http://arxiv.org/abs/2506.00653v3)** | 2025-06-04 |  |
 | **[HyperSteer: Activation Steering at Scale with Hypernetworks](http://arxiv.org/abs/2506.03292v1)** | 2025-06-03 |  |
 | **[Dialz: A Python Toolkit for Steering Vectors](http://arxiv.org/abs/2505.06262v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted to ACL System Demo 2025</p></details> |
 | **[Visual Sparse Steering: Improving Zero-shot Image Classification with Sparsity Guided Steering Vectors](http://arxiv.org/abs/2506.01247v1)** | 2025-06-02 |  |
 | **[SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs](http://arxiv.org/abs/2506.04250v1)** | 2025-06-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2410.01174</p></details> |
-| **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v1)** | 2025-05-30 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, preprint</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models](http://arxiv.org/abs/2506.19697v1)** | 2025-06-24 |  |
+| **[LLMs on a Budget? Say HOLA](http://arxiv.org/abs/2506.18952v1)** | 2025-06-23 |  |
 | **[LLMs for Customized Marketing Content Generation and Evaluation at Scale](http://arxiv.org/abs/2506.17863v1)** | 2025-06-22 | <details><summary>KDD L...</summary><p>KDD LLM4ECommerce Workshop 2025</p></details> |
 | **[LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning](http://arxiv.org/abs/2506.17562v1)** | 2025-06-21 |  |
 | **[Towards AI Search Paradigm](http://arxiv.org/abs/2506.17188v1)** | 2025-06-20 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache](http://arxiv.org/abs/2506.11886v1)** | 2025-06-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, work in progress</p></details> |
 | **[Slimming Down LLMs Without Losing Their Minds](http://arxiv.org/abs/2506.10885v1)** | 2025-06-12 | 10 pages |
 | **[AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length](http://arxiv.org/abs/2506.10525v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by Internetware 2025</p></details> |
-| **[RocketPPA: Code-Level Power, Performance, and Area Prediction via LLM and Mixture of Experts](http://arxiv.org/abs/2503.21971v3)** | 2025-06-10 |  |
-| **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v1)** | 2025-06-09 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
 
