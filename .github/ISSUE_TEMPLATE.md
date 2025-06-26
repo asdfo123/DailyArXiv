@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2025
+title: Latest 15 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](http://arxiv.org/abs/2506.20606v1)** | 2025-06-25 | <details><summary>Main ...</summary><p>Main paper: 9 pages; total: 18 pages (including appendix). Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18428v1)** | 2025-06-23 |  |
 | **[QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](http://arxiv.org/abs/2506.17864v1)** | 2025-06-22 |  |
 | **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v2)** | 2025-06-18 | <details><summary>Prepr...</summary><p>Preprint (under review) For Journal</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v4)** | 2025-06-09 |  |
 | **[ThinkEval: Practical Evaluation of Knowledge Preservation and Consistency in LLM Editing with Thought-based Knowledge Graphs](http://arxiv.org/abs/2506.01386v1)** | 2025-06-02 |  |
 | **[One for All: Update Parameterized Knowledge Across Multiple Models](http://arxiv.org/abs/2506.00817v1)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 (Main Conference)</p></details> |
-| **[An Adversarial Perspective on Machine Unlearning for AI Safety](http://arxiv.org/abs/2409.18025v6)** | 2025-05-31 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR); Best technical paper at Neurips 2024 SoLaR workshop</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,7 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](http://arxiv.org/abs/2506.20353v1)** | 2025-06-25 |  |
 | **[Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models](http://arxiv.org/abs/2506.19697v1)** | 2025-06-24 |  |
+| **[MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection](http://arxiv.org/abs/2506.19884v1)** | 2025-06-24 |  |
 | **[LLMs on a Budget? Say HOLA](http://arxiv.org/abs/2506.18952v1)** | 2025-06-23 |  |
 | **[LLMs for Customized Marketing Content Generation and Evaluation at Scale](http://arxiv.org/abs/2506.17863v1)** | 2025-06-22 | <details><summary>KDD L...</summary><p>KDD LLM4ECommerce Workshop 2025</p></details> |
 | **[LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning](http://arxiv.org/abs/2506.17562v1)** | 2025-06-21 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Retrieval-augmented code completion for local projects using large language models](http://arxiv.org/abs/2408.05026v2)** | 2025-06-15 | <details><summary>30 pa...</summary><p>30 pages, 15 figures; Accepted manuscript for Expert Systems with Applications</p></details> |
 | **[TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression](http://arxiv.org/abs/2506.02678v3)** | 2025-06-14 |  |
 | **[Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache](http://arxiv.org/abs/2506.11886v1)** | 2025-06-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, work in progress</p></details> |
-| **[Slimming Down LLMs Without Losing Their Minds](http://arxiv.org/abs/2506.10885v1)** | 2025-06-12 | 10 pages |
-| **[AdaptiveLLM: A Framework for Selecting Optimal Cost-Efficient LLM for Code-Generation Based on CoT Length](http://arxiv.org/abs/2506.10525v1)** | 2025-06-12 | <details><summary>Accep...</summary><p>Accepted by Internetware 2025</p></details> |
 
