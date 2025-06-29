@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services](http://arxiv.org/abs/2506.21033v1)** | 2025-06-26 |  |
+| **[Reward-Guided Speculative Decoding for Efficient LLM Reasoning](http://arxiv.org/abs/2501.19324v3)** | 2025-06-26 | 17 pages |
 | **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](http://arxiv.org/abs/2506.20353v1)** | 2025-06-25 |  |
 | **[Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models](http://arxiv.org/abs/2506.19697v1)** | 2025-06-24 |  |
 | **[MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection](http://arxiv.org/abs/2506.19884v1)** | 2025-06-24 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention](http://arxiv.org/abs/2506.13674v2)** | 2025-06-17 |  |
 | **[Empirical Evaluation of Large Language Models in Automated Program Repair](http://arxiv.org/abs/2506.13186v1)** | 2025-06-16 |  |
 | **[Retrieval-augmented code completion for local projects using large language models](http://arxiv.org/abs/2408.05026v2)** | 2025-06-15 | <details><summary>30 pa...</summary><p>30 pages, 15 figures; Accepted manuscript for Expert Systems with Applications</p></details> |
-| **[TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression](http://arxiv.org/abs/2506.02678v3)** | 2025-06-14 |  |
-| **[Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache](http://arxiv.org/abs/2506.11886v1)** | 2025-06-13 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, work in progress</p></details> |
 
