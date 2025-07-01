@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flexible Intelligent Metasurface for Enhancing Multi-Target Wireless Sensing](http://arxiv.org/abs/2506.23052v1)** | 2025-06-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted by IEEE TVT</p></details> |
 | **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v2)** | 2025-06-24 |  |
 | **[Transferring Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v2)** | 2025-06-23 |  |
 | **[Steering Conceptual Bias via Transformer Latent-Subspace Activation](http://arxiv.org/abs/2506.18887v1)** | 2025-06-23 |  |
@@ -78,11 +79,13 @@ labels: documentation
 | **[HyperSteer: Activation Steering at Scale with Hypernetworks](http://arxiv.org/abs/2506.03292v1)** | 2025-06-03 |  |
 | **[Dialz: A Python Toolkit for Steering Vectors](http://arxiv.org/abs/2505.06262v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted to ACL System Demo 2025</p></details> |
 | **[Visual Sparse Steering: Improving Zero-shot Image Classification with Sparsity Guided Steering Vectors](http://arxiv.org/abs/2506.01247v1)** | 2025-06-02 |  |
-| **[SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs](http://arxiv.org/abs/2506.04250v1)** | 2025-06-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2410.01174</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
+| **[Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models](http://arxiv.org/abs/2506.23025v1)** | 2025-06-28 |  |
+| **[Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation](http://arxiv.org/abs/2506.22776v1)** | 2025-06-28 | 13 pages, 6 figures |
 | **[BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services](http://arxiv.org/abs/2506.21033v1)** | 2025-06-26 |  |
 | **[Reward-Guided Speculative Decoding for Efficient LLM Reasoning](http://arxiv.org/abs/2501.19324v3)** | 2025-06-26 | 17 pages |
 | **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](http://arxiv.org/abs/2506.20353v1)** | 2025-06-25 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[COS-DPO: Conditioned One-Shot Multi-Objective Fine-Tuning Framework](http://arxiv.org/abs/2410.08316v3)** | 2025-06-20 | <details><summary>Publi...</summary><p>Published at UAI 2025</p></details> |
 | **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v4)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted@ACL25-findings, 17 pages, 8 figures, 14 tables</p></details> |
 | **[eLLM: Elastic Memory Management Framework for Efficient LLM Serving](http://arxiv.org/abs/2506.15155v1)** | 2025-06-18 |  |
-| **[Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention](http://arxiv.org/abs/2506.13674v2)** | 2025-06-17 |  |
-| **[Empirical Evaluation of Large Language Models in Automated Program Repair](http://arxiv.org/abs/2506.13186v1)** | 2025-06-16 |  |
-| **[Retrieval-augmented code completion for local projects using large language models](http://arxiv.org/abs/2408.05026v2)** | 2025-06-15 | <details><summary>30 pa...</summary><p>30 pages, 15 figures; Accepted manuscript for Expert Systems with Applications</p></details> |
 
