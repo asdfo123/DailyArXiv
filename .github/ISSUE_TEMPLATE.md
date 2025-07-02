@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Two-Stage Regularization-Based Structured Pruning for LLMs](http://arxiv.org/abs/2505.18232v2)** | 2025-07-01 |  |
+| **[BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v4)** | 2025-07-01 | ICML 2025 |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
 | **[Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models](http://arxiv.org/abs/2506.23025v1)** | 2025-06-28 |  |
 | **[Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation](http://arxiv.org/abs/2506.22776v1)** | 2025-06-28 | 13 pages, 6 figures |
@@ -96,6 +98,4 @@ labels: documentation
 | **[LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning](http://arxiv.org/abs/2506.17562v1)** | 2025-06-21 |  |
 | **[Towards AI Search Paradigm](http://arxiv.org/abs/2506.17188v1)** | 2025-06-20 |  |
 | **[COS-DPO: Conditioned One-Shot Multi-Objective Fine-Tuning Framework](http://arxiv.org/abs/2410.08316v3)** | 2025-06-20 | <details><summary>Publi...</summary><p>Published at UAI 2025</p></details> |
-| **[ALPS: Attention Localization and Pruning Strategy for Efficient Alignment of Large Language Models](http://arxiv.org/abs/2505.18799v4)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted@ACL25-findings, 17 pages, 8 figures, 14 tables</p></details> |
-| **[eLLM: Elastic Memory Management Framework for Efficient LLM Serving](http://arxiv.org/abs/2506.15155v1)** | 2025-06-18 |  |
 
