@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](http://arxiv.org/abs/2505.17721v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Attributing Data for Sharpness-Aware Minimization](http://arxiv.org/abs/2507.04059v1)** | 2025-07-05 | 25 pages |
+| **[Eigenvoice Synthesis based on Model Editing for Speaker Generation](http://arxiv.org/abs/2507.03377v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted by INTERSPEECH 2025</p></details> |
 | **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](http://arxiv.org/abs/2506.20606v1)** | 2025-06-25 | <details><summary>Main ...</summary><p>Main paper: 9 pages; total: 18 pages (including appendix). Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18428v1)** | 2025-06-23 |  |
 | **[QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](http://arxiv.org/abs/2506.17864v1)** | 2025-06-22 |  |
@@ -38,13 +41,12 @@ labels: documentation
 | **[SoK: Machine Unlearning for Large Language Models](http://arxiv.org/abs/2506.09227v1)** | 2025-06-10 |  |
 | **[BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](http://arxiv.org/abs/2505.01343v2)** | 2025-06-09 |  |
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](http://arxiv.org/abs/2506.07899v1)** | 2025-06-09 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
-| **[A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment](http://arxiv.org/abs/2504.15585v4)** | 2025-06-09 |  |
-| **[ThinkEval: Practical Evaluation of Knowledge Preservation and Consistency in LLM Editing with Thought-based Knowledge Graphs](http://arxiv.org/abs/2506.01386v1)** | 2025-06-02 |  |
-| **[One for All: Update Parameterized Knowledge Across Multiple Models](http://arxiv.org/abs/2506.00817v1)** | 2025-06-01 | <details><summary>ACL 2...</summary><p>ACL 2025 (Main Conference)</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](http://arxiv.org/abs/2507.04227v1)** | 2025-07-06 |  |
+| **[Less is More: Empowering GUI Agent with Context-Aware Simplification](http://arxiv.org/abs/2507.03730v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v2)** | 2025-07-02 | ACL 2025 |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v3)** | 2025-06-27 | <details><summary>ACL 2...</summary><p>ACL 2025 Camera Ready</p></details> |
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v2)** | 2025-06-23 |  |
@@ -58,12 +60,15 @@ labels: documentation
 | **[FormGym: Doing Paperwork with Agents](http://arxiv.org/abs/2506.14079v1)** | 2025-06-17 |  |
 | **[LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization](http://arxiv.org/abs/2506.09373v2)** | 2025-06-15 |  |
 | **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v2)** | 2025-06-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
-| **[Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](http://arxiv.org/abs/2506.10387v1)** | 2025-06-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 5 tables</p></details> |
-| **[GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions](http://arxiv.org/abs/2506.11127v1)** | 2025-06-10 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Steering for Chain-of-Thought Compression](http://arxiv.org/abs/2507.04742v1)** | 2025-07-07 |  |
+| **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v2)** | 2025-07-06 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://www.youtube.com/watch?v=AkfoiPfp5rQ; code: https://github.com/zjunlp/EasyEdit</p></details> |
+| **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v2)** | 2025-07-05 | ACL 2025 |
+| **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v1)** | 2025-07-04 |  |
+| **[Near-Field Codebook-Based 3D Spherical Channel Estimation for UCA XL-MIMO Systems](http://arxiv.org/abs/2507.03507v1)** | 2025-07-04 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE WCL</p></details> |
 | **[Flexible Intelligent Metasurface for Enhancing Multi-Target Wireless Sensing](http://arxiv.org/abs/2506.23052v1)** | 2025-06-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted by IEEE TVT</p></details> |
 | **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v2)** | 2025-06-24 |  |
 | **[Transferring Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v2)** | 2025-06-23 |  |
@@ -74,15 +79,14 @@ labels: documentation
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v3)** | 2025-06-16 | 75 pages |
 | **[AI shares emotion with humans across languages and cultures](http://arxiv.org/abs/2506.13978v1)** | 2025-06-11 |  |
 | **[Improving LLM Reasoning through Interpretable Role-Playing Steering](http://arxiv.org/abs/2506.07335v1)** | 2025-06-09 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 8 tables</p></details> |
-| **[AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint](http://arxiv.org/abs/2506.07022v1)** | 2025-06-08 |  |
-| **[Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models](http://arxiv.org/abs/2506.00653v3)** | 2025-06-04 |  |
-| **[HyperSteer: Activation Steering at Scale with Hypernetworks](http://arxiv.org/abs/2506.03292v1)** | 2025-06-03 |  |
-| **[Dialz: A Python Toolkit for Steering Vectors](http://arxiv.org/abs/2505.06262v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted to ACL System Demo 2025</p></details> |
-| **[Visual Sparse Steering: Improving Zero-shot Image Classification with Sparsity Guided Steering Vectors](http://arxiv.org/abs/2506.01247v1)** | 2025-06-02 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoLink: Distributed and Efficient Serving Framework for Large Models](http://arxiv.org/abs/2507.05043v1)** | 2025-07-07 |  |
+| **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v1)** | 2025-07-06 |  |
+| **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v1)** | 2025-07-05 | ICML 2025 |
+| **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v1)** | 2025-07-04 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
 | **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](http://arxiv.org/abs/2507.01663v1)** | 2025-07-02 |  |
 | **[Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities](http://arxiv.org/abs/2507.01479v1)** | 2025-07-02 |  |
 | **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](http://arxiv.org/abs/2507.01216v1)** | 2025-07-01 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval](http://arxiv.org/abs/2507.01058v1)** | 2025-06-28 | 12 pages, 6 figures |
 | **[Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation](http://arxiv.org/abs/2506.22776v1)** | 2025-06-28 | 13 pages, 6 figures |
 | **[BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services](http://arxiv.org/abs/2506.21033v1)** | 2025-06-26 |  |
-| **[Reward-Guided Speculative Decoding for Efficient LLM Reasoning](http://arxiv.org/abs/2501.19324v3)** | 2025-06-26 | 17 pages |
-| **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](http://arxiv.org/abs/2506.20353v1)** | 2025-06-25 |  |
-| **[Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models](http://arxiv.org/abs/2506.19697v1)** | 2025-06-24 |  |
-| **[MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection](http://arxiv.org/abs/2506.19884v1)** | 2025-06-24 |  |
 
