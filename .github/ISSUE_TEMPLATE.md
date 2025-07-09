@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Activation Steering for Chain-of-Thought Compression](http://arxiv.org/abs/2507.04742v1)** | 2025-07-07 |  |
+| **[Activation Steering for Chain-of-Thought Compression](http://arxiv.org/abs/2507.04742v2)** | 2025-07-08 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v2)** | 2025-07-06 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://www.youtube.com/watch?v=AkfoiPfp5rQ; code: https://github.com/zjunlp/EasyEdit</p></details> |
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v2)** | 2025-07-05 | ACL 2025 |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v1)** | 2025-07-04 |  |
@@ -86,7 +86,7 @@ labels: documentation
 | **[MoLink: Distributed and Efficient Serving Framework for Large Models](http://arxiv.org/abs/2507.05043v1)** | 2025-07-07 |  |
 | **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v1)** | 2025-07-06 |  |
 | **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v1)** | 2025-07-05 | ICML 2025 |
-| **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v1)** | 2025-07-04 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
+| **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v2)** | 2025-07-08 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
 | **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](http://arxiv.org/abs/2507.01663v1)** | 2025-07-02 |  |
 | **[Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities](http://arxiv.org/abs/2507.01479v1)** | 2025-07-02 |  |
 | **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](http://arxiv.org/abs/2507.01216v1)** | 2025-07-01 |  |
