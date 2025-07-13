@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2025
+title: Latest 15 Papers - July 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,8 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v3)** | 2025-07-10 |  |
 | **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
-| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v2)** | 2025-07-09 |  |
 | **[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](http://arxiv.org/abs/2507.05720v1)** | 2025-07-08 | 17 pages, 4 figures |
 | **[R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](http://arxiv.org/abs/2507.05673v1)** | 2025-07-08 | ACL 2025; 17 pages |
 | **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](http://arxiv.org/abs/2507.04227v1)** | 2025-07-06 |  |
