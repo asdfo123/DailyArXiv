@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Exploration of Knowledge Editing for Arabic](http://arxiv.org/abs/2507.09629v1)** | 2025-07-13 |  |
 | **[ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains](http://arxiv.org/abs/2507.08427v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (main)</p></details> |
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
 | **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](http://arxiv.org/abs/2506.03490v2)** | 2025-06-05 | Under Review |
 | **[MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs](http://arxiv.org/abs/2506.13772v1)** | 2025-06-05 |  |
 | **[Efficient Knowledge Editing via Minimal Precomputation](http://arxiv.org/abs/2506.04226v1)** | 2025-06-04 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference</p></details> |
-| **[Unveiling and Eliminating the Shortcut Learning for Locate-Then-Edit Knowledge Editing via Both Subject and Relation Awareness](http://arxiv.org/abs/2506.04042v1)** | 2025-06-04 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
+| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v3)** | 2025-07-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
 | **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v3)** | 2025-07-10 |  |
 | **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
 | **[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](http://arxiv.org/abs/2507.05720v1)** | 2025-07-08 | 17 pages, 4 figures |
@@ -58,12 +60,11 @@ labels: documentation
 | **[Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](http://arxiv.org/abs/2506.17913v1)** | 2025-06-22 |  |
 | **[UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](http://arxiv.org/abs/2505.12493v2)** | 2025-06-21 |  |
 | **[Understanding GUI Agent Localization Biases through Logit Sharpness](http://arxiv.org/abs/2506.15425v1)** | 2025-06-18 |  |
-| **[Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](http://arxiv.org/abs/2410.05243v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025 (Oral). Project Homepage: https://osu-nlp-group.github.io/UGround/</p></details> |
-| **[GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies](http://arxiv.org/abs/2506.14477v1)** | 2025-06-17 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, submitted to NIPS 2025</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v2)** | 2025-07-13 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, published at ICML 2025 Workshop on Reliable and Responsible Foundation Models</p></details> |
 | **[KV Cache Steering for Inducing Reasoning in Small Language Models](http://arxiv.org/abs/2507.08799v1)** | 2025-07-11 |  |
 | **[Simple Mechanistic Explanations for Out-Of-Context Reasoning](http://arxiv.org/abs/2507.08218v1)** | 2025-07-10 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop R2-FM</p></details> |
 | **[Multi-Attribute Steering of Language Models via Targeted Intervention](http://arxiv.org/abs/2502.12446v2)** | 2025-07-09 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready, code link: https://github.com/duykhuongnguyen/MAT-Steer</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Steering Conceptual Bias via Transformer Latent-Subspace Activation](http://arxiv.org/abs/2506.18887v1)** | 2025-06-23 |  |
 | **[SHAMaNS: Sound Localization with Hybrid Alpha-Stable Spatial Measure and Neural Steerer](http://arxiv.org/abs/2506.18954v1)** | 2025-06-23 | <details><summary>Europ...</summary><p>European Signal Processing Conference (EUSIPCO), Sep 2025, Palermo, Italy</p></details> |
 | **[No Training Wheels: Steering Vectors for Bias Correction at Inference Time](http://arxiv.org/abs/2506.18598v1)** | 2025-06-23 |  |
-| **[Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](http://arxiv.org/abs/2506.15882v1)** | 2025-06-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, Project website: https://shengliu66.github.io/fractreason/</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
