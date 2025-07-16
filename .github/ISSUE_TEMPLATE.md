@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2025
+title: Latest 15 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -47,6 +47,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
 | **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v3)** | 2025-07-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
+| **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](http://arxiv.org/abs/2507.10610v1)** | 2025-07-13 | 10 pages, 9 figures |
 | **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v3)** | 2025-07-10 |  |
 | **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
 | **[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](http://arxiv.org/abs/2507.05720v1)** | 2025-07-08 | 17 pages, 4 figures |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](http://arxiv.org/abs/2506.18158v1)** | 2025-06-22 |  |
 | **[Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](http://arxiv.org/abs/2506.17913v1)** | 2025-06-22 |  |
 | **[UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](http://arxiv.org/abs/2505.12493v2)** | 2025-06-21 |  |
-| **[Understanding GUI Agent Localization Biases through Logit Sharpness](http://arxiv.org/abs/2506.15425v1)** | 2025-06-18 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v3)** | 2025-07-15 |  |
 | **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v2)** | 2025-07-13 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, published at ICML 2025 Workshop on Reliable and Responsible Foundation Models</p></details> |
 | **[KV Cache Steering for Inducing Reasoning in Small Language Models](http://arxiv.org/abs/2507.08799v1)** | 2025-07-11 |  |
 | **[Simple Mechanistic Explanations for Out-Of-Context Reasoning](http://arxiv.org/abs/2507.08218v1)** | 2025-07-10 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop R2-FM</p></details> |
@@ -73,16 +74,13 @@ labels: documentation
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v2)** | 2025-07-05 | ACL 2025 |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v1)** | 2025-07-04 |  |
 | **[Near-Field Codebook-Based 3D Spherical Channel Estimation for UCA XL-MIMO Systems](http://arxiv.org/abs/2507.03507v1)** | 2025-07-04 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE WCL</p></details> |
-| **[Flexible Intelligent Metasurface for Enhancing Multi-Target Wireless Sensing](http://arxiv.org/abs/2506.23052v1)** | 2025-06-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted by IEEE TVT</p></details> |
-| **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v2)** | 2025-06-24 |  |
-| **[Transferring Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v2)** | 2025-06-23 |  |
-| **[Steering Conceptual Bias via Transformer Latent-Subspace Activation](http://arxiv.org/abs/2506.18887v1)** | 2025-06-23 |  |
-| **[SHAMaNS: Sound Localization with Hybrid Alpha-Stable Spatial Measure and Neural Steerer](http://arxiv.org/abs/2506.18954v1)** | 2025-06-23 | <details><summary>Europ...</summary><p>European Signal Processing Conference (EUSIPCO), Sep 2025, Palermo, Italy</p></details> |
-| **[No Training Wheels: Steering Vectors for Bias Correction at Inference Time](http://arxiv.org/abs/2506.18598v1)** | 2025-06-23 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations](http://arxiv.org/abs/2507.11417v1)** | 2025-07-15 | <details><summary>Prese...</summary><p>Presented at the Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems (PECS) at Euro-PAR'25</p></details> |
+| **[KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding](http://arxiv.org/abs/2507.11273v1)** | 2025-07-15 | <details><summary>To be...</summary><p>To be published in The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</p></details> |
+| **[GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning](http://arxiv.org/abs/2507.10628v1)** | 2025-07-14 |  |
 | **[Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training](http://arxiv.org/abs/2507.08284v1)** | 2025-07-11 |  |
 | **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v2)** | 2025-07-09 |  |
 | **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v2)** | 2025-07-08 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
@@ -95,7 +93,4 @@ labels: documentation
 | **[Two-Stage Regularization-Based Structured Pruning for LLMs](http://arxiv.org/abs/2505.18232v2)** | 2025-07-01 |  |
 | **[BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v4)** | 2025-07-01 | ICML 2025 |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
-| **[Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models](http://arxiv.org/abs/2506.23025v1)** | 2025-06-28 |  |
-| **[A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval](http://arxiv.org/abs/2507.01058v1)** | 2025-06-28 | 12 pages, 6 figures |
-| **[Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation](http://arxiv.org/abs/2506.22776v1)** | 2025-06-28 | 13 pages, 6 figures |
 
