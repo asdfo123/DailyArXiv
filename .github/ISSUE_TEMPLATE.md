@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Why Does New Knowledge Create Messy Ripple Effects in LLMs?](http://arxiv.org/abs/2407.12828v3)** | 2025-07-20 |  |
 | **[How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?](http://arxiv.org/abs/2406.17253v3)** | 2025-07-15 | <details><summary>A pre...</summary><p>A previous version of this document contained a hidden prompt entered by Z Zhu without knowledge of -- or consent by -- his co-authors. This version does not contain the prompt</p></details> |
 | **[Understanding Language Model Circuits through Knowledge Editing](http://arxiv.org/abs/2406.17241v4)** | 2025-07-15 | <details><summary>A pre...</summary><p>A previous version of this document contained a hidden prompt entered by Z Zhu without knowledge of -- or consent by -- his co-authors. This version does not contain the prompt</p></details> |
 | **[An Exploration of Knowledge Editing for Arabic](http://arxiv.org/abs/2507.09629v1)** | 2025-07-13 |  |
@@ -21,12 +22,12 @@ labels: documentation
 | **[PropMEND: Hypernetworks for Knowledge Propagation in LLMs](http://arxiv.org/abs/2506.08920v1)** | 2025-06-10 | Under review |
 | **[BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing](http://arxiv.org/abs/2505.01343v2)** | 2025-06-09 |  |
 | **[Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection](http://arxiv.org/abs/2506.04739v1)** | 2025-06-05 |  |
-| **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](http://arxiv.org/abs/2506.03490v2)** | 2025-06-05 | Under Review |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?](http://arxiv.org/abs/2406.17253v3)** | 2025-07-15 | <details><summary>A pre...</summary><p>A previous version of this document contained a hidden prompt entered by Z Zhu without knowledge of -- or consent by -- his co-authors. This version does not contain the prompt</p></details> |
+| **[Retention analysis of edited knowledge after fine-tuning](http://arxiv.org/abs/2507.14198v1)** | 2025-07-14 |  |
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
 | **[SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](http://arxiv.org/abs/2505.17721v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Attributing Data for Sharpness-Aware Minimization](http://arxiv.org/abs/2507.04059v1)** | 2025-07-05 | 25 pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Position: Editing Large Language Models Poses Serious Safety Risks](http://arxiv.org/abs/2502.02958v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 | **[DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models](http://arxiv.org/abs/2506.13638v1)** | 2025-06-16 | Under Review |
 | **[Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs](http://arxiv.org/abs/2506.13285v1)** | 2025-06-16 |  |
-| **[SoK: Machine Unlearning for Large Language Models](http://arxiv.org/abs/2506.09227v1)** | 2025-06-10 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need](http://arxiv.org/abs/2507.14397v1)** | 2025-07-18 |  |
 | **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v1)** | 2025-07-18 |  |
 | **[LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning](http://arxiv.org/abs/2506.17562v2)** | 2025-07-18 | Accepted by IEEE TMI |
 | **[Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation](http://arxiv.org/abs/2507.13525v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to ACM RecSys2025 reproducibility</p></details> |
@@ -90,12 +91,11 @@ labels: documentation
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v6)** | 2025-07-16 | 22 pages |
 | **[Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations](http://arxiv.org/abs/2507.11417v1)** | 2025-07-15 | <details><summary>Prese...</summary><p>Presented at the Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems (PECS) at Euro-PAR'25</p></details> |
 | **[KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding](http://arxiv.org/abs/2507.11273v1)** | 2025-07-15 | <details><summary>To be...</summary><p>To be published in The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</p></details> |
+| **[PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training](http://arxiv.org/abs/2507.14202v1)** | 2025-07-14 |  |
 | **[Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training](http://arxiv.org/abs/2507.08284v1)** | 2025-07-11 |  |
 | **[Tail-aware Adversarial Attacks: A Distributional Approach to Efficient LLM Jailbreaking](http://arxiv.org/abs/2507.04446v2)** | 2025-07-09 |  |
 | **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v2)** | 2025-07-08 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
 | **[MoLink: Distributed and Efficient Serving Framework for Large Models](http://arxiv.org/abs/2507.05043v1)** | 2025-07-07 |  |
 | **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v1)** | 2025-07-05 | ICML 2025 |
 | **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](http://arxiv.org/abs/2507.01663v1)** | 2025-07-02 |  |
-| **[Evaluating the Effectiveness of Direct Preference Optimization for Personalizing German Automatic Text Simplifications for Persons with Intellectual Disabilities](http://arxiv.org/abs/2507.01479v1)** | 2025-07-02 |  |
-| **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](http://arxiv.org/abs/2507.01216v1)** | 2025-07-01 |  |
 
