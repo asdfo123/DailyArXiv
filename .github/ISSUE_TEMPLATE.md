@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents](http://arxiv.org/abs/2507.19478v1)** | 2025-07-25 | in progress |
 | **[MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](http://arxiv.org/abs/2507.16853v1)** | 2025-07-21 | <details><summary>A tec...</summary><p>A technical report on a GUI agent based on multi-agent systems</p></details> |
 | **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v3)** | 2025-07-16 |  |
 | **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v2)** | 2025-07-02 | ACL 2025 |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v3)** | 2025-06-27 | <details><summary>ACL 2...</summary><p>ACL 2025 Camera Ready</p></details> |
 | **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v2)** | 2025-06-23 |  |
-| **[Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation](http://arxiv.org/abs/2506.18158v1)** | 2025-06-22 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
