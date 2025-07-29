@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction](http://arxiv.org/abs/2507.19894v1)** | 2025-07-26 |  |
 | **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
 | **[Cross-Encoder Rediscovers a Semantic Variant of BM25](http://arxiv.org/abs/2502.04645v2)** | 2025-07-22 |  |
 | **[How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?](http://arxiv.org/abs/2406.17253v3)** | 2025-07-15 | <details><summary>A pre...</summary><p>A previous version of this document contained a hidden prompt entered by Z Zhu without knowledge of -- or consent by -- his co-authors. This version does not contain the prompt</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v2)** | 2025-06-18 | <details><summary>Prepr...</summary><p>Preprint (under review) For Journal</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v2)** | 2025-06-17 | Under Review |
 | **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
-| **[Position: Editing Large Language Models Poses Serious Safety Risks](http://arxiv.org/abs/2502.02958v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v1)** | 2025-07-28 | 10 pages |
+| **[DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference](http://arxiv.org/abs/2507.19608v1)** | 2025-07-25 |  |
 | **[BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v5)** | 2025-07-24 | ICML 2025 |
 | **[Unlock the Potential of Fine-grained LLM Serving via Dynamic Module Scaling](http://arxiv.org/abs/2507.18006v1)** | 2025-07-24 | 15 pages |
 | **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v2)** | 2025-07-23 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning](http://arxiv.org/abs/2507.10628v2)** | 2025-07-16 | <details><summary>Code ...</summary><p>Code avaiable at https://github.com/hkgc-1/GHPO</p></details> |
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v6)** | 2025-07-16 | 22 pages |
 | **[Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations](http://arxiv.org/abs/2507.11417v1)** | 2025-07-15 | <details><summary>Prese...</summary><p>Presented at the Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems (PECS) at Euro-PAR'25</p></details> |
-| **[KV-Latent: Dimensional-level KV Cache Reduction with Frequency-aware Rotary Positional Embedding](http://arxiv.org/abs/2507.11273v1)** | 2025-07-15 | <details><summary>To be...</summary><p>To be published in The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</p></details> |
-| **[PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training](http://arxiv.org/abs/2507.14202v1)** | 2025-07-14 |  |
 
