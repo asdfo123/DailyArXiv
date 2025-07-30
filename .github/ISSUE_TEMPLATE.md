@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v2)** | 2025-07-29 |  |
 | **[DocTER: Evaluating Document-based Knowledge Editing](http://arxiv.org/abs/2308.09954v2)** | 2025-07-24 | <details><summary>Infor...</summary><p>Information processing & management</p></details> |
 | **[Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory](http://arxiv.org/abs/2507.18178v1)** | 2025-07-24 |  |
 | **[NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database](http://arxiv.org/abs/2507.18028v1)** | 2025-07-24 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Model Merging for Knowledge Editing](http://arxiv.org/abs/2506.12384v1)** | 2025-06-14 | 11 pages, 3 figures |
 | **[Mitigating Negative Interference in Multilingual Sequential Knowledge Editing through Null-Space Constraints](http://arxiv.org/abs/2506.10800v1)** | 2025-06-12 | ACL 2025 Findings |
 | **[Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing](http://arxiv.org/abs/2410.17194v5)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[Is Fine-Tuning an Effective Solution? Reassessing Knowledge Editing for Unstructured Data](http://arxiv.org/abs/2506.09672v1)** | 2025-06-11 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](http://arxiv.org/abs/2407.15549v3)** | 2025-07-29 | <details><summary>Code ...</summary><p>Code at https://github.com/aengusl/latent-adversarial-training. Models at https://huggingface.co/LLM-LAT</p></details> |
 | **[A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction](http://arxiv.org/abs/2507.19894v1)** | 2025-07-26 |  |
 | **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
 | **[Cross-Encoder Rediscovers a Semantic Variant of BM25](http://arxiv.org/abs/2502.04645v2)** | 2025-07-22 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](http://arxiv.org/abs/2506.17864v1)** | 2025-06-22 |  |
 | **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v2)** | 2025-06-18 | <details><summary>Prepr...</summary><p>Preprint (under review) For Journal</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v2)** | 2025-06-17 | Under Review |
-| **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
 | **[MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents](http://arxiv.org/abs/2507.19478v1)** | 2025-07-25 | in progress |
 | **[MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](http://arxiv.org/abs/2507.16853v1)** | 2025-07-21 | <details><summary>A tec...</summary><p>A technical report on a GUI agent based on multi-agent systems</p></details> |
 | **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v3)** | 2025-07-16 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Less is More: Empowering GUI Agent with Context-Aware Simplification](http://arxiv.org/abs/2507.03730v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v2)** | 2025-07-02 | ACL 2025 |
 | **[OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](http://arxiv.org/abs/2412.19723v3)** | 2025-06-27 | <details><summary>ACL 2...</summary><p>ACL 2025 Camera Ready</p></details> |
-| **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v2)** | 2025-06-23 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
