@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](http://arxiv.org/abs/2508.02092v1)** | 2025-08-04 |  |
+| **[KEDAS: Knowledge Editing Alignment with Diverse Augmentation and Self-adaptive Inference](http://arxiv.org/abs/2508.01302v1)** | 2025-08-02 | Preprint |
+| **[Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis](http://arxiv.org/abs/2508.00914v1)** | 2025-07-29 | <details><summary>14 pa...</summary><p>14 pages, 15 figures, pre-print of paper accepted to IJCAI 2025</p></details> |
 | **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v2)** | 2025-07-29 |  |
 | **[DocTER: Evaluating Document-based Knowledge Editing](http://arxiv.org/abs/2308.09954v2)** | 2025-07-24 | <details><summary>Infor...</summary><p>Information processing & management</p></details> |
 | **[Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory](http://arxiv.org/abs/2507.18178v1)** | 2025-07-24 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
 | **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
 | **[Position: Editing Large Language Models Poses Serious Safety Risks](http://arxiv.org/abs/2502.02958v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Model Merging for Knowledge Editing](http://arxiv.org/abs/2506.12384v1)** | 2025-06-14 | 11 pages, 3 figures |
-| **[Mitigating Negative Interference in Multilingual Sequential Knowledge Editing through Null-Space Constraints](http://arxiv.org/abs/2506.10800v1)** | 2025-06-12 | ACL 2025 Findings |
-| **[Representation Shattering in Transformers: A Synthetic Study with Knowledge Editing](http://arxiv.org/abs/2410.17194v5)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](http://arxiv.org/abs/2505.12842v3)** | 2025-08-04 |  |
+| **[NatureGAIA: Pushing the Frontiers of GUI Agents with a Challenging Benchmark and High-Quality Trajectory Dataset](http://arxiv.org/abs/2508.01330v1)** | 2025-08-02 |  |
 | **[GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](http://arxiv.org/abs/2406.08451v2)** | 2025-08-01 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, ICCV 2025, a cross-app GUI navigation dataset</p></details> |
 | **[UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis](http://arxiv.org/abs/2504.11257v4)** | 2025-07-30 |  |
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
 | **[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](http://arxiv.org/abs/2507.05720v1)** | 2025-07-08 | 17 pages, 4 figures |
 | **[R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](http://arxiv.org/abs/2507.05673v1)** | 2025-07-08 | ACL 2025; 17 pages |
-| **[Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties](http://arxiv.org/abs/2507.04227v1)** | 2025-07-06 |  |
-| **[Less is More: Empowering GUI Agent with Context-Aware Simplification](http://arxiv.org/abs/2507.03730v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,9 +83,11 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](http://arxiv.org/abs/2508.01002v1)** | 2025-08-01 |  |
 | **[SEFL: Enhancing Educational Assignment Feedback with LLM Agents](http://arxiv.org/abs/2502.12927v2)** | 2025-08-01 |  |
 | **[DICE: Dynamic In-Context Example Selection in LLM Agents via Efficient Knowledge Transfer](http://arxiv.org/abs/2507.23554v1)** | 2025-07-31 |  |
 | **[DynaSwarm: Dynamically Graph Structure Selection for LLM-based Multi-agent System](http://arxiv.org/abs/2507.23261v1)** | 2025-07-31 |  |
+| **[Forecasting LLM Inference Performance via Hardware-Agnostic Analytical Modeling](http://arxiv.org/abs/2508.00904v1)** | 2025-07-29 | 10 pages, 9 figures |
 | **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v1)** | 2025-07-28 | 10 pages |
 | **[DeltaLLM: A Training-Free Framework Exploiting Temporal Sparsity for Efficient Edge LLM Inference](http://arxiv.org/abs/2507.19608v1)** | 2025-07-25 |  |
 | **[BlockDialect: Block-wise Fine-grained Mixed Format Quantization for Energy-Efficient LLM Inference](http://arxiv.org/abs/2501.01144v5)** | 2025-07-24 | ICML 2025 |
@@ -96,6 +98,4 @@ labels: documentation
 | **[BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving](http://arxiv.org/abs/2507.17120v1)** | 2025-07-23 | 9 pages |
 | **[Universal Model Routing for Efficient LLM Inference](http://arxiv.org/abs/2502.08773v2)** | 2025-07-22 |  |
 | **[Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need](http://arxiv.org/abs/2507.14397v1)** | 2025-07-18 |  |
-| **[LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning](http://arxiv.org/abs/2506.17562v2)** | 2025-07-18 | Accepted by IEEE TMI |
-| **[Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation](http://arxiv.org/abs/2507.13525v1)** | 2025-07-17 | <details><summary>Accep...</summary><p>Accepted to ACM RecSys2025 reproducibility</p></details> |
 
