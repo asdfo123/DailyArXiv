@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2025
+title: Latest 15 Papers - August 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v3)** | 2025-08-05 | ACM MM 2025 |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](http://arxiv.org/abs/2508.02092v1)** | 2025-08-04 |  |
 | **[KEDAS: Knowledge Editing Alignment with Diverse Augmentation and Self-adaptive Inference](http://arxiv.org/abs/2508.01302v1)** | 2025-08-02 | Preprint |
 | **[Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis](http://arxiv.org/abs/2508.00914v1)** | 2025-07-29 | <details><summary>14 pa...</summary><p>14 pages, 15 figures, pre-print of paper accepted to IJCAI 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains](http://arxiv.org/abs/2507.08427v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (main)</p></details> |
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
 | **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
-| **[Position: Editing Large Language Models Poses Serious Safety Risks](http://arxiv.org/abs/2502.02958v3)** | 2025-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v1)** | 2025-08-05 |  |
 | **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](http://arxiv.org/abs/2507.23220v1)** | 2025-07-31 |  |
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](http://arxiv.org/abs/2507.18043v1)** | 2025-07-24 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/duykhuongnguyen/GrAInS</p></details> |
 | **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v3)** | 2025-07-17 |  |
@@ -78,11 +79,12 @@ labels: documentation
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v2)** | 2025-07-05 | ACL 2025 |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v1)** | 2025-07-04 |  |
 | **[Near-Field Codebook-Based 3D Spherical Channel Estimation for UCA XL-MIMO Systems](http://arxiv.org/abs/2507.03507v1)** | 2025-07-04 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE WCL</p></details> |
-| **[Flexible Intelligent Metasurface for Enhancing Multi-Target Wireless Sensing](http://arxiv.org/abs/2506.23052v1)** | 2025-06-29 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted by IEEE TVT</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v3)** | 2025-08-05 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
+| **[SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference](http://arxiv.org/abs/2508.02751v1)** | 2025-08-03 |  |
 | **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](http://arxiv.org/abs/2508.01002v1)** | 2025-08-01 |  |
 | **[SEFL: Enhancing Educational Assignment Feedback with LLM Agents](http://arxiv.org/abs/2502.12927v2)** | 2025-08-01 |  |
 | **[DICE: Dynamic In-Context Example Selection in LLM Agents via Efficient Knowledge Transfer](http://arxiv.org/abs/2507.23554v1)** | 2025-07-31 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](http://arxiv.org/abs/2312.15234v2)** | 2025-07-23 | <details><summary>ACM C...</summary><p>ACM Computing Surveys</p></details> |
 | **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v2)** | 2025-07-23 |  |
 | **[BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving](http://arxiv.org/abs/2507.17120v1)** | 2025-07-23 | 9 pages |
-| **[Universal Model Routing for Efficient LLM Inference](http://arxiv.org/abs/2502.08773v2)** | 2025-07-22 |  |
-| **[Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need](http://arxiv.org/abs/2507.14397v1)** | 2025-07-18 |  |
 
