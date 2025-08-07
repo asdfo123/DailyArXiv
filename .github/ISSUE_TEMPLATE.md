@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,6 +10,7 @@ labels: documentation
 | **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v3)** | 2025-08-05 | ACM MM 2025 |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](http://arxiv.org/abs/2508.02092v1)** | 2025-08-04 |  |
 | **[KEDAS: Knowledge Editing Alignment with Diverse Augmentation and Self-adaptive Inference](http://arxiv.org/abs/2508.01302v1)** | 2025-08-02 | Preprint |
+| **[Latent Knowledge Scalpel: Precise and Massive Knowledge Editing for Large Language Models](http://arxiv.org/abs/2508.03741v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025 - 28th European Conference on Artificial Intelligence</p></details> |
 | **[Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis](http://arxiv.org/abs/2508.00914v1)** | 2025-07-29 | <details><summary>14 pa...</summary><p>14 pages, 15 figures, pre-print of paper accepted to IJCAI 2025</p></details> |
 | **[SAKE: Steering Activations for Knowledge Editing](http://arxiv.org/abs/2503.01751v2)** | 2025-07-29 |  |
 | **[DocTER: Evaluating Document-based Knowledge Editing](http://arxiv.org/abs/2308.09954v2)** | 2025-07-24 | <details><summary>Infor...</summary><p>Information processing & management</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[An Exploration of Knowledge Editing for Arabic](http://arxiv.org/abs/2507.09629v1)** | 2025-07-13 |  |
 | **[ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains](http://arxiv.org/abs/2507.08427v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (main)</p></details> |
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
-| **[Uncovering Overfitting in Large Language Model Editing](http://arxiv.org/abs/2410.07819v2)** | 2025-06-17 | ICLR 2025 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Step More: Going Beyond Single Backpropagation in Meta Learning Based Model Editing](http://arxiv.org/abs/2508.04012v1)** | 2025-08-06 |  |
+| **[Latent Knowledge Scalpel: Precise and Massive Knowledge Editing for Large Language Models](http://arxiv.org/abs/2508.03741v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025 - 28th European Conference on Artificial Intelligence</p></details> |
 | **[Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](http://arxiv.org/abs/2407.15549v3)** | 2025-07-29 | <details><summary>Code ...</summary><p>Code at https://github.com/aengusl/latent-adversarial-training. Models at https://huggingface.co/LLM-LAT</p></details> |
 | **[A Survey on Generative Model Unlearning: Fundamentals, Taxonomy, Evaluation, and Future Direction](http://arxiv.org/abs/2507.19894v1)** | 2025-07-26 |  |
 | **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
@@ -39,12 +41,15 @@ labels: documentation
 | **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](http://arxiv.org/abs/2506.20606v1)** | 2025-06-25 | <details><summary>Main ...</summary><p>Main paper: 9 pages; total: 18 pages (including appendix). Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[How Robust is Model Editing after Fine-Tuning? An Empirical Study on Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18428v1)** | 2025-06-23 |  |
 | **[QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](http://arxiv.org/abs/2506.17864v1)** | 2025-06-22 |  |
-| **[The OCR Quest for Generalization: Learning to recognize low-resource alphabets with model editing](http://arxiv.org/abs/2506.06761v2)** | 2025-06-18 | <details><summary>Prepr...</summary><p>Preprint (under review) For Journal</p></details> |
-| **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v2)** | 2025-06-17 | Under Review |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning](http://arxiv.org/abs/2508.04389v1)** | 2025-08-06 | 9 pages |
+| **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](http://arxiv.org/abs/2506.11127v2)** | 2025-08-06 |  |
+| **[VeriGUI: Verifiable Long-Chain GUI Dataset](http://arxiv.org/abs/2508.04026v1)** | 2025-08-06 |  |
+| **[Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement](http://arxiv.org/abs/2508.04025v1)** | 2025-08-06 |  |
+| **[CoAct-1: Computer-using Agents with Coding as Actions](http://arxiv.org/abs/2508.03923v1)** | 2025-08-05 |  |
 | **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](http://arxiv.org/abs/2505.12842v3)** | 2025-08-04 |  |
 | **[NatureGAIA: Pushing the Frontiers of GUI Agents with a Challenging Benchmark and High-Quality Trajectory Dataset](http://arxiv.org/abs/2508.01330v1)** | 2025-08-02 |  |
 | **[GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](http://arxiv.org/abs/2406.08451v2)** | 2025-08-01 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, ICCV 2025, a cross-app GUI navigation dataset</p></details> |
@@ -52,19 +57,16 @@ labels: documentation
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
 | **[MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents](http://arxiv.org/abs/2507.19478v1)** | 2025-07-25 | in progress |
 | **[MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](http://arxiv.org/abs/2507.16853v1)** | 2025-07-21 | <details><summary>A tec...</summary><p>A technical report on a GUI agent based on multi-agent systems</p></details> |
+| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v1)** | 2025-07-19 |  |
 | **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v3)** | 2025-07-16 |  |
 | **[Visual Test-time Scaling for GUI Agent Grounding](http://arxiv.org/abs/2505.00684v2)** | 2025-07-14 | <details><summary>ICCV2...</summary><p>ICCV2025, https://github.com/tiangeluo/RegionFocus</p></details> |
-| **[OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents](http://arxiv.org/abs/2503.16465v3)** | 2025-07-14 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, 11 tables (ACL 2025, Findings)</p></details> |
-| **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](http://arxiv.org/abs/2507.10610v1)** | 2025-07-13 | 10 pages, 9 figures |
-| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v3)** | 2025-07-10 |  |
-| **[VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation](http://arxiv.org/abs/2507.06899v1)** | 2025-07-09 |  |
-| **[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](http://arxiv.org/abs/2507.05720v1)** | 2025-07-08 | 17 pages, 4 figures |
-| **[R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding](http://arxiv.org/abs/2507.05673v1)** | 2025-07-08 | ACL 2025; 17 pages |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v1)** | 2025-08-05 |  |
+| **[StyliTruth : Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering](http://arxiv.org/abs/2508.04530v1)** | 2025-08-06 |  |
+| **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v2)** | 2025-08-06 |  |
+| **[Model Internal Sleuthing: Finding Lexical Identity and Inflectional Morphology in Modern Language Models](http://arxiv.org/abs/2506.02132v3)** | 2025-08-06 | <details><summary>INTER...</summary><p>INTERPLAY Workshop COLM 2025</p></details> |
 | **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](http://arxiv.org/abs/2507.23220v1)** | 2025-07-31 |  |
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](http://arxiv.org/abs/2507.18043v1)** | 2025-07-24 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/duykhuongnguyen/GrAInS</p></details> |
 | **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v3)** | 2025-07-17 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[Activation Steering for Chain-of-Thought Compression](http://arxiv.org/abs/2507.04742v2)** | 2025-07-08 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v2)** | 2025-07-06 | <details><summary>Work ...</summary><p>Work in progress. Demo: https://www.youtube.com/watch?v=AkfoiPfp5rQ; code: https://github.com/zjunlp/EasyEdit</p></details> |
 | **[FairSteer: Inference Time Debiasing for LLMs with Dynamic Activation Steering](http://arxiv.org/abs/2504.14492v2)** | 2025-07-05 | ACL 2025 |
-| **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v1)** | 2025-07-04 |  |
-| **[Near-Field Codebook-Based 3D Spherical Channel Estimation for UCA XL-MIMO Systems](http://arxiv.org/abs/2507.03507v1)** | 2025-07-04 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE WCL</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
