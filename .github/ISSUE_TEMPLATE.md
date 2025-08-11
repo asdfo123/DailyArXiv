@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,20 +45,20 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v2)** | 2025-08-08 |  |
+| **[CoAct-1: Computer-using Agents with Coding as Actions](http://arxiv.org/abs/2508.03923v2)** | 2025-08-08 |  |
 | **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
 | **[NatureGAIA: Pushing the Frontiers of GUI Agents with a Challenging Benchmark and High-Quality Trajectory Dataset](http://arxiv.org/abs/2508.01330v2)** | 2025-08-07 |  |
 | **[GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning](http://arxiv.org/abs/2508.04389v1)** | 2025-08-06 | 9 pages |
 | **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](http://arxiv.org/abs/2506.11127v2)** | 2025-08-06 |  |
 | **[VeriGUI: Verifiable Long-Chain GUI Dataset](http://arxiv.org/abs/2508.04026v1)** | 2025-08-06 |  |
 | **[Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement](http://arxiv.org/abs/2508.04025v1)** | 2025-08-06 |  |
-| **[CoAct-1: Computer-using Agents with Coding as Actions](http://arxiv.org/abs/2508.03923v1)** | 2025-08-05 |  |
 | **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](http://arxiv.org/abs/2505.12842v3)** | 2025-08-04 |  |
 | **[GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](http://arxiv.org/abs/2406.08451v2)** | 2025-08-01 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, ICCV 2025, a cross-app GUI navigation dataset</p></details> |
 | **[UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis](http://arxiv.org/abs/2504.11257v4)** | 2025-07-30 |  |
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v2)** | 2025-07-30 |  |
 | **[MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents](http://arxiv.org/abs/2507.19478v1)** | 2025-07-25 | in progress |
 | **[MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](http://arxiv.org/abs/2507.16853v1)** | 2025-07-21 | <details><summary>A tec...</summary><p>A technical report on a GUI agent based on multi-agent systems</p></details> |
-| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v1)** | 2025-07-19 |  |
 | **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v3)** | 2025-07-16 |  |
 
 ## Steering Vector
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sample-efficient LLM Optimization with Reset Replay](http://arxiv.org/abs/2508.06412v1)** | 2025-08-08 |  |
+| **[Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading](http://arxiv.org/abs/2508.06312v1)** | 2025-08-08 |  |
 | **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v3)** | 2025-08-05 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
 | **[SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference](http://arxiv.org/abs/2508.02751v1)** | 2025-08-03 |  |
 | **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](http://arxiv.org/abs/2508.01002v1)** | 2025-08-01 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Unlock the Potential of Fine-grained LLM Serving via Dynamic Module Scaling](http://arxiv.org/abs/2507.18006v1)** | 2025-07-24 | 15 pages |
 | **[Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving](http://arxiv.org/abs/2504.17999v2)** | 2025-07-23 |  |
 | **[Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](http://arxiv.org/abs/2312.15234v2)** | 2025-07-23 | <details><summary>ACM C...</summary><p>ACM Computing Surveys</p></details> |
-| **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v2)** | 2025-07-23 |  |
-| **[BucketServe: Bucket-Based Dynamic Batching for Smart and Efficient LLM Inference Serving](http://arxiv.org/abs/2507.17120v1)** | 2025-07-23 | 9 pages |
 
