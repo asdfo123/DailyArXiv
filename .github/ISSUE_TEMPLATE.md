@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
 | **[One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](http://arxiv.org/abs/2502.18862v2)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published at COLM 2025. 30 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro and https://github.com/jacobdunefsky/one-shot-steering-misalignment</p></details> |
 | **[Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs](http://arxiv.org/abs/2508.09019v1)** | 2025-08-12 |  |
@@ -78,11 +79,12 @@ labels: documentation
 | **[Reasoning-Finetuning Repurposes Latent Representations in Base Models](http://arxiv.org/abs/2507.12638v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. ICML 2025 Workshop on Actionable Interpretability</p></details> |
 | **[Simple Mechanistic Explanations for Out-Of-Context Reasoning](http://arxiv.org/abs/2507.08218v2)** | 2025-07-16 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop R2-FM</p></details> |
 | **[Shared Global and Local Geometry of Language Model Embeddings](http://arxiv.org/abs/2503.21073v3)** | 2025-07-15 |  |
-| **[Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization](http://arxiv.org/abs/2505.24859v2)** | 2025-07-13 | <details><summary>29 pa...</summary><p>29 pages, 21 figures, published at ICML 2025 Workshop on Reliable and Responsible Foundation Models</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models](http://arxiv.org/abs/2503.17287v5)** | 2025-08-16 |  |
+| **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v2)** | 2025-08-16 | <details><summary>ICML ...</summary><p>ICML 2025 (final version)</p></details> |
 | **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](http://arxiv.org/abs/2505.13109v2)** | 2025-08-14 |  |
 | **[Sample-efficient LLM Optimization with Reset Replay](http://arxiv.org/abs/2508.06412v2)** | 2025-08-14 |  |
 | **[ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs](http://arxiv.org/abs/2508.08895v2)** | 2025-08-14 | 20 pages, 9 figures |
@@ -95,7 +97,5 @@ labels: documentation
 | **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](http://arxiv.org/abs/2507.01216v2)** | 2025-08-09 |  |
 | **[Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading](http://arxiv.org/abs/2508.06312v1)** | 2025-08-08 |  |
 | **[SABER: Switchable and Balanced Training for Efficient LLM Reasoning](http://arxiv.org/abs/2508.10026v1)** | 2025-08-08 |  |
-| **[MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724v3)** | 2025-08-05 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
-| **[SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference](http://arxiv.org/abs/2508.02751v1)** | 2025-08-03 |  |
-| **[CarbonScaling: Extending Neural Scaling Laws for Carbon Footprint in Large Language Models](http://arxiv.org/abs/2508.06524v1)** | 2025-08-02 | 8 pages |
+| **[LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering](http://arxiv.org/abs/2508.11671v1)** | 2025-08-07 | <details><summary>12 pa...</summary><p>12 pages, in Portuguese language, 2 figures, 5 tables, 3 formulas. To be published in the Proceedings of the Encontro Nacional de Intelig\^encia Artificial e Computacional (ENIAC 2025)</p></details> |
 
