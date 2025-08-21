@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption](http://arxiv.org/abs/2505.24773v2)** | 2025-08-20 |  |
 | **[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](http://arxiv.org/abs/2508.13721v1)** | 2025-08-19 |  |
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v7)** | 2025-08-19 | 22 pages |
 | **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v2)** | 2025-08-19 | <details><summary>there...</summary><p>there are some data inaccuracies in section III</p></details> |
@@ -93,4 +94,8 @@ labels: documentation
 | **[ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs](http://arxiv.org/abs/2508.08895v2)** | 2025-08-14 | 20 pages, 9 figures |
 | **[Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](http://arxiv.org/abs/2508.09834v1)** | 2025-08-13 | <details><summary>Surve...</summary><p>Survey, 82 pages, GitHub: https://github.com/weigao266/Awesome-Efficient-Arch</p></details> |
 | **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v2)** | 2025-08-12 |  |
+| **[READER: Retrieval-Assisted Drafter for Efficient LLM Inference](http://arxiv.org/abs/2508.09072v1)** | 2025-08-12 |  |
+| **[NEFMind: Parameter-Efficient Fine-Tuning of Open-Source LLMs for Telecom APIs Automation](http://arxiv.org/abs/2508.09240v1)** | 2025-08-12 | 6 pages |
+| **[DynaSwarm: Dynamically Graph Structure Selection for LLM-based Multi-agent System](http://arxiv.org/abs/2507.23261v2)** | 2025-08-12 | content error |
+| **[PAE MobiLLM: Privacy-Aware and Efficient LLM Fine-Tuning on the Mobile Device via Additive Side-Tuning](http://arxiv.org/abs/2507.01216v2)** | 2025-08-09 |  |
 
