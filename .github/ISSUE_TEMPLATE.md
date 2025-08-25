@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2025
+title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
 | **[One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](http://arxiv.org/abs/2502.18862v2)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published at COLM 2025. 30 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro and https://github.com/jacobdunefsky/one-shot-steering-misalignment</p></details> |
@@ -73,11 +74,18 @@ labels: documentation
 | **[Balancing Stylization and Truth via Disentangled Representation Steering](http://arxiv.org/abs/2508.04530v2)** | 2025-08-07 |  |
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v2)** | 2025-08-06 |  |
 | **[Model Internal Sleuthing: Finding Lexical Identity and Inflectional Morphology in Modern Language Models](http://arxiv.org/abs/2506.02132v3)** | 2025-08-06 | <details><summary>INTER...</summary><p>INTERPLAY Workshop COLM 2025</p></details> |
+| **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](http://arxiv.org/abs/2507.23220v1)** | 2025-07-31 |  |
+| **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](http://arxiv.org/abs/2507.18043v1)** | 2025-07-24 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/duykhuongnguyen/GrAInS</p></details> |
+| **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v3)** | 2025-07-17 |  |
+| **[Reasoning-Finetuning Repurposes Latent Representations in Base Models](http://arxiv.org/abs/2507.12638v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. ICML 2025 Workshop on Actionable Interpretability</p></details> |
+| **[Simple Mechanistic Explanations for Out-Of-Context Reasoning](http://arxiv.org/abs/2507.08218v2)** | 2025-07-16 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop R2-FM</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GreenLLM: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving](http://arxiv.org/abs/2508.16449v1)** | 2025-08-22 |  |
 | **[Communication Efficient LLM Pre-training with SparseLoCo](http://arxiv.org/abs/2508.15706v1)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 2 figures</p></details> |
+| **[Annif at the GermEval-2025 LLMs4Subjects Task: Traditional XMTC Augmented by Efficient LLMs](http://arxiv.org/abs/2508.15877v1)** | 2025-08-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted at KONVENS 2025. arXiv admin note: substantial text overlap with arXiv:2504.19675</p></details> |
 | **[AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption](http://arxiv.org/abs/2505.24773v2)** | 2025-08-20 |  |
 | **[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](http://arxiv.org/abs/2508.13721v1)** | 2025-08-19 |  |
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v7)** | 2025-08-19 | 22 pages |
@@ -90,6 +98,4 @@ labels: documentation
 | **[Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](http://arxiv.org/abs/2508.09834v1)** | 2025-08-13 | <details><summary>Surve...</summary><p>Survey, 82 pages, GitHub: https://github.com/weigao266/Awesome-Efficient-Arch</p></details> |
 | **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v2)** | 2025-08-12 |  |
 | **[READER: Retrieval-Assisted Drafter for Efficient LLM Inference](http://arxiv.org/abs/2508.09072v1)** | 2025-08-12 |  |
-| **[NEFMind: Parameter-Efficient Fine-Tuning of Open-Source LLMs for Telecom APIs Automation](http://arxiv.org/abs/2508.09240v1)** | 2025-08-12 | 6 pages |
-| **[DynaSwarm: Dynamically Graph Structure Selection for LLM-based Multi-agent System](http://arxiv.org/abs/2507.23261v2)** | 2025-08-12 | content error |
 
