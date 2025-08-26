@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,27 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](http://arxiv.org/abs/2508.17398v1)** | 2025-08-24 |  |
+| **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions](http://arxiv.org/abs/2503.24180v2)** | 2025-08-24 |  |
+| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v3)** | 2025-08-24 |  |
 | **[Mobile-Agent-v3: Foundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v1)** | 2025-08-21 |  |
 | **[V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task](http://arxiv.org/abs/2508.13634v1)** | 2025-08-19 |  |
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
 | **[FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents](http://arxiv.org/abs/2508.09241v1)** | 2025-08-12 | <details><summary>submi...</summary><p>submit/6682470 (Fengxian Ji)</p></details> |
 | **[Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](http://arxiv.org/abs/2403.09333v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Codes and datasets are released at https://github.com/jefferyZhan/Griffon</p></details> |
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v3)** | 2025-08-09 |  |
-| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v2)** | 2025-08-08 |  |
 | **[CoAct-1: Computer-using Agents with Coding as Actions](http://arxiv.org/abs/2508.03923v2)** | 2025-08-08 |  |
 | **[Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](http://arxiv.org/abs/2508.05615v1)** | 2025-08-07 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/gui-rcpo Code: https://github.com/zju-real/gui-rcpo</p></details> |
 | **[NatureGAIA: Pushing the Frontiers of GUI Agents with a Challenging Benchmark and High-Quality Trajectory Dataset](http://arxiv.org/abs/2508.01330v2)** | 2025-08-07 |  |
 | **[GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning](http://arxiv.org/abs/2508.04389v1)** | 2025-08-06 | 9 pages |
 | **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](http://arxiv.org/abs/2506.11127v2)** | 2025-08-06 |  |
 | **[VeriGUI: Verifiable Long-Chain GUI Dataset](http://arxiv.org/abs/2508.04026v1)** | 2025-08-06 |  |
-| **[Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement](http://arxiv.org/abs/2508.04025v1)** | 2025-08-06 |  |
-| **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](http://arxiv.org/abs/2505.12842v3)** | 2025-08-04 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v1)** | 2025-08-24 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
+| **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
 | **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
@@ -77,16 +79,17 @@ labels: documentation
 | **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](http://arxiv.org/abs/2507.23220v1)** | 2025-07-31 |  |
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](http://arxiv.org/abs/2507.18043v1)** | 2025-07-24 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/duykhuongnguyen/GrAInS</p></details> |
 | **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v3)** | 2025-07-17 |  |
-| **[Reasoning-Finetuning Repurposes Latent Representations in Base Models](http://arxiv.org/abs/2507.12638v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. ICML 2025 Workshop on Actionable Interpretability</p></details> |
-| **[Simple Mechanistic Explanations for Out-Of-Context Reasoning](http://arxiv.org/abs/2507.08218v2)** | 2025-07-16 | <details><summary>ICML ...</summary><p>ICML 2025 Workshop R2-FM</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v2)** | 2025-08-23 |  |
 | **[GreenLLM: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving](http://arxiv.org/abs/2508.16449v1)** | 2025-08-22 |  |
 | **[Communication Efficient LLM Pre-training with SparseLoCo](http://arxiv.org/abs/2508.15706v1)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 2 figures</p></details> |
 | **[Annif at the GermEval-2025 LLMs4Subjects Task: Traditional XMTC Augmented by Efficient LLMs](http://arxiv.org/abs/2508.15877v1)** | 2025-08-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted at KONVENS 2025. arXiv admin note: substantial text overlap with arXiv:2504.19675</p></details> |
+| **[CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression](http://arxiv.org/abs/2508.16680v1)** | 2025-08-21 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Artificial Intelligence. This is the preprint version, not peer-reviewed. The final version may differ after peer review. (11 pages, 3 figures)</p></details> |
 | **[AFLoRA: Adaptive Federated Fine-Tuning of Large Language Models with Resource-Aware Low-Rank Adaption](http://arxiv.org/abs/2505.24773v2)** | 2025-08-20 |  |
+| **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](http://arxiv.org/abs/2508.16653v1)** | 2025-08-20 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](http://arxiv.org/abs/2508.13721v1)** | 2025-08-19 |  |
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v7)** | 2025-08-19 | 22 pages |
 | **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v2)** | 2025-08-19 | <details><summary>there...</summary><p>there are some data inaccuracies in section III</p></details> |
@@ -95,7 +98,4 @@ labels: documentation
 | **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](http://arxiv.org/abs/2505.13109v2)** | 2025-08-14 |  |
 | **[Sample-efficient LLM Optimization with Reset Replay](http://arxiv.org/abs/2508.06412v2)** | 2025-08-14 |  |
 | **[ASPD: Unlocking Adaptive Serial-Parallel Decoding by Exploring Intrinsic Parallelism in LLMs](http://arxiv.org/abs/2508.08895v2)** | 2025-08-14 | 20 pages, 9 figures |
-| **[Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](http://arxiv.org/abs/2508.09834v1)** | 2025-08-13 | <details><summary>Surve...</summary><p>Survey, 82 pages, GitHub: https://github.com/weigao266/Awesome-Efficient-Arch</p></details> |
-| **[Mosaic: Composite Projection Pruning for Resource-efficient LLMs](http://arxiv.org/abs/2504.06323v2)** | 2025-08-12 |  |
-| **[READER: Retrieval-Assisted Drafter for Efficient LLM Inference](http://arxiv.org/abs/2508.09072v1)** | 2025-08-12 |  |
 
