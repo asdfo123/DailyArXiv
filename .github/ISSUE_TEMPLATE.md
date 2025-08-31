@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
 | **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
 | **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](http://arxiv.org/abs/2508.07185v1)** | 2025-08-10 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Retention analysis of edited knowledge after fine-tuning](http://arxiv.org/abs/2507.14198v1)** | 2025-07-14 |  |
 | **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
 | **[SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](http://arxiv.org/abs/2505.17721v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Attributing Data for Sharpness-Aware Minimization](http://arxiv.org/abs/2507.04059v1)** | 2025-07-05 | 25 pages |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at CASE@RANLP2025</p></details> |
 | **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v1)** | 2025-08-24 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
 | **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
 | **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
@@ -71,7 +72,6 @@ labels: documentation
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
 | **[One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](http://arxiv.org/abs/2502.18862v2)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published at COLM 2025. 30 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro and https://github.com/jacobdunefsky/one-shot-steering-misalignment</p></details> |
 | **[Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs](http://arxiv.org/abs/2508.09019v1)** | 2025-08-12 |  |
-| **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v1)** | 2025-08-12 | Preprint |
 | **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](http://arxiv.org/abs/2508.08521v1)** | 2025-08-11 |  |
 | **[Balancing Stylization and Truth via Disentangled Representation Steering](http://arxiv.org/abs/2508.04530v2)** | 2025-08-07 |  |
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v2)** | 2025-08-06 |  |
@@ -83,8 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading](http://arxiv.org/abs/2508.06312v2)** | 2025-08-28 |  |
 | **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v1)** | 2025-08-27 |  |
 | **[CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression](http://arxiv.org/abs/2508.16680v2)** | 2025-08-26 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Artificial Intelligence. This is the preprint version, not peer-reviewed. The final version may differ after peer review. (11 pages, 3 figures)</p></details> |
+| **[Spatio-Temporal Pruning for Compressed Spiking Large Language Models](http://arxiv.org/abs/2508.20122v1)** | 2025-08-23 |  |
 | **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v2)** | 2025-08-23 |  |
 | **[GreenLLM: SLO-Aware Dynamic Frequency Scaling for Energy-Efficient LLM Serving](http://arxiv.org/abs/2508.16449v1)** | 2025-08-22 |  |
 | **[Communication Efficient LLM Pre-training with SparseLoCo](http://arxiv.org/abs/2508.15706v1)** | 2025-08-21 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 2 figures</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v2)** | 2025-08-19 | <details><summary>there...</summary><p>there are some data inaccuracies in section III</p></details> |
 | **[FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models](http://arxiv.org/abs/2503.17287v5)** | 2025-08-16 |  |
 | **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v2)** | 2025-08-16 | <details><summary>ICML ...</summary><p>ICML 2025 (final version)</p></details> |
-| **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](http://arxiv.org/abs/2505.13109v2)** | 2025-08-14 |  |
-| **[Sample-efficient LLM Optimization with Reset Replay](http://arxiv.org/abs/2508.06412v2)** | 2025-08-14 |  |
 
