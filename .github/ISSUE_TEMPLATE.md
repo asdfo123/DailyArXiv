@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MEGen: Generative Backdoor into Large Language Models via Model Editing](http://arxiv.org/abs/2408.10722v2)** | 2025-09-01 | ACL 2025 Findings |
+| **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v2)** | 2025-08-30 | <details><summary>25 pa...</summary><p>25 pages, 22 figures, 9 tables</p></details> |
 | **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
 | **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
 | **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
@@ -39,19 +41,17 @@ labels: documentation
 | **[Cross-Encoder Rediscovers a Semantic Variant of BM25](http://arxiv.org/abs/2502.04645v2)** | 2025-07-22 |  |
 | **[How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?](http://arxiv.org/abs/2406.17253v3)** | 2025-07-15 | <details><summary>A pre...</summary><p>A previous version of this document contained a hidden prompt entered by Z Zhu without knowledge of -- or consent by -- his co-authors. This version does not contain the prompt</p></details> |
 | **[Retention analysis of edited knowledge after fine-tuning](http://arxiv.org/abs/2507.14198v1)** | 2025-07-14 |  |
-| **[Towards a Principled Evaluation of Knowledge Editors](http://arxiv.org/abs/2507.05937v1)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at L2M2 workshop at ACL 2025</p></details> |
-| **[SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](http://arxiv.org/abs/2505.17721v2)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mobile-Agent-v3: Fundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v2)** | 2025-09-01 |  |
 | **[UItron: Foundational GUI Agent with Advanced Perception and Planning](http://arxiv.org/abs/2508.21767v1)** | 2025-08-29 | 24 pages |
 | **[SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](http://arxiv.org/abs/2508.20018v1)** | 2025-08-27 | 28 pages, 12 figures |
 | **[AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance](http://arxiv.org/abs/2508.18689v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025. 10 pages, 5 figures. Our code is available at: https://github.com/LaoKuiZe/AppAgent-Pro. The demonstration video could be found at: https://www.dropbox.com/scl/fi/hvzqo5vnusg66srydzixo/AppAgent-Pro-demo-video.mp4?rlkey=o2nlfqgq6ihl125mcqg7bpgqu&st=d29vrzii&dl=0</p></details> |
 | **[DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](http://arxiv.org/abs/2508.17398v1)** | 2025-08-24 |  |
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions](http://arxiv.org/abs/2503.24180v2)** | 2025-08-24 |  |
 | **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v3)** | 2025-08-24 |  |
-| **[Mobile-Agent-v3: Foundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v1)** | 2025-08-21 |  |
 | **[V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task](http://arxiv.org/abs/2508.13634v1)** | 2025-08-19 |  |
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
 | **[FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents](http://arxiv.org/abs/2508.09241v1)** | 2025-08-12 | <details><summary>submi...</summary><p>submit/6682470 (Fengxian Ji)</p></details> |
@@ -64,8 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v2)** | 2025-08-31 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
 | **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at CASE@RANLP2025</p></details> |
-| **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v1)** | 2025-08-24 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
 | **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
 | **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v3)** | 2025-08-30 | Accepted by ICCAD'25 |
 | **[Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading](http://arxiv.org/abs/2508.06312v2)** | 2025-08-28 |  |
 | **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v1)** | 2025-08-27 |  |
 | **[CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression](http://arxiv.org/abs/2508.16680v2)** | 2025-08-26 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Artificial Intelligence. This is the preprint version, not peer-reviewed. The final version may differ after peer review. (11 pages, 3 figures)</p></details> |
@@ -95,7 +96,6 @@ labels: documentation
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](http://arxiv.org/abs/2508.16653v1)** | 2025-08-20 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](http://arxiv.org/abs/2508.13721v1)** | 2025-08-19 |  |
 | **[Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining](http://arxiv.org/abs/2503.04715v7)** | 2025-08-19 | 22 pages |
-| **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v2)** | 2025-08-19 | <details><summary>there...</summary><p>there are some data inaccuracies in section III</p></details> |
 | **[FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models](http://arxiv.org/abs/2503.17287v5)** | 2025-08-16 |  |
 | **[OrthoRank: Token Selection via Sink Token Orthogonality for Efficient LLM inference](http://arxiv.org/abs/2507.03865v2)** | 2025-08-16 | <details><summary>ICML ...</summary><p>ICML 2025 (final version)</p></details> |
 
