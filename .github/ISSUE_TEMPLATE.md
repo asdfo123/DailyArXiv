@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -51,7 +51,7 @@ labels: documentation
 | **[AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance](http://arxiv.org/abs/2508.18689v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025. 10 pages, 5 figures. Our code is available at: https://github.com/LaoKuiZe/AppAgent-Pro. The demonstration video could be found at: https://www.dropbox.com/scl/fi/hvzqo5vnusg66srydzixo/AppAgent-Pro-demo-video.mp4?rlkey=o2nlfqgq6ihl125mcqg7bpgqu&st=d29vrzii&dl=0</p></details> |
 | **[DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](http://arxiv.org/abs/2508.17398v1)** | 2025-08-24 |  |
 | **[Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions](http://arxiv.org/abs/2503.24180v2)** | 2025-08-24 |  |
-| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v3)** | 2025-08-24 |  |
+| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v4)** | 2025-09-03 |  |
 | **[V2P: From Background Suppression to Center Peaking for Robust GUI Grounding Task](http://arxiv.org/abs/2508.13634v1)** | 2025-08-19 |  |
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
 | **[FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents](http://arxiv.org/abs/2508.09241v1)** | 2025-08-12 | <details><summary>submi...</summary><p>submit/6682470 (Fengxian Ji)</p></details> |
@@ -65,20 +65,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v2)** | 2025-08-31 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
-| **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at CASE@RANLP2025</p></details> |
-| **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
-| **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
-| **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
-| **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
-| **[One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](http://arxiv.org/abs/2502.18862v2)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published at COLM 2025. 30 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro and https://github.com/jacobdunefsky/one-shot-steering-misalignment</p></details> |
-| **[Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs](http://arxiv.org/abs/2508.09019v1)** | 2025-08-12 |  |
-| **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](http://arxiv.org/abs/2508.08521v1)** | 2025-08-11 |  |
-| **[Balancing Stylization and Truth via Disentangled Representation Steering](http://arxiv.org/abs/2508.04530v2)** | 2025-08-07 |  |
-| **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v2)** | 2025-08-06 |  |
-| **[Model Internal Sleuthing: Finding Lexical Identity and Inflectional Morphology in Modern Language Models](http://arxiv.org/abs/2506.02132v3)** | 2025-08-06 | <details><summary>INTER...</summary><p>INTERPLAY Workshop COLM 2025</p></details> |
-| **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](http://arxiv.org/abs/2507.23220v1)** | 2025-07-31 |  |
-| **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](http://arxiv.org/abs/2507.18043v1)** | 2025-07-24 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/duykhuongnguyen/GrAInS</p></details> |
-| **[Understanding Reasoning in Thinking Language Models via Steering Vectors](http://arxiv.org/abs/2506.18167v3)** | 2025-07-17 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
