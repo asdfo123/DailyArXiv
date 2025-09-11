@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2025
+title: Latest 15 Papers - September 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition](http://arxiv.org/abs/2509.07555v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted in EMNLP Findings 2025</p></details> |
+| **[MEMIT-Merge: Addressing MEMIT's Key-Value Conflicts in Same-Subject Batch Editing for LLMs](http://arxiv.org/abs/2502.07322v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted by ACL2025 findings</p></details> |
 | **[Knowledge Editing through Chain-of-Thought](http://arxiv.org/abs/2412.17727v2)** | 2025-09-07 |  |
 | **[Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs](http://arxiv.org/abs/2509.05714v1)** | 2025-09-06 | 15 pages, 6 figures |
 | **[From Evaluation to Defense: Constructing Persistent Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v1)** | 2025-09-03 | preprint |
@@ -20,31 +22,30 @@ labels: documentation
 | **[MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](http://arxiv.org/abs/2508.05083v1)** | 2025-08-07 | 18 pages |
 | **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v3)** | 2025-08-05 | ACM MM 2025 |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](http://arxiv.org/abs/2508.02092v1)** | 2025-08-04 |  |
-| **[KEDAS: Knowledge Editing Alignment with Diverse Augmentation and Self-adaptive Inference](http://arxiv.org/abs/2508.01302v1)** | 2025-08-02 | Preprint |
-| **[Latent Knowledge Scalpel: Precise and Massive Knowledge Editing for Large Language Models](http://arxiv.org/abs/2508.03741v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025 - 28th European Conference on Artificial Intelligence</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](http://arxiv.org/abs/2509.08778v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](http://arxiv.org/abs/2506.07899v2)** | 2025-09-08 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
 | **[Reinforced Lifelong Editing for Language Models](http://arxiv.org/abs/2502.05759v4)** | 2025-09-07 | Accepted by ICML2025 |
 | **[REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space](http://arxiv.org/abs/2406.09325v6)** | 2025-09-06 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings, 24 pages, 4 figures</p></details> |
 | **[ThinkEval: Practical Evaluation of Knowledge Leakage in LLM Editing using Thought-based Knowledge Graphs](http://arxiv.org/abs/2506.01386v2)** | 2025-09-06 |  |
 | **[Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing](http://arxiv.org/abs/2412.13341v2)** | 2025-09-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Manipulating Transformer-Based Models: Controllability, Steerability, and Robust Interventions](http://arxiv.org/abs/2509.04549v1)** | 2025-09-04 | 13 pages |
 | **[MEGen: Generative Backdoor into Large Language Models via Model Editing](http://arxiv.org/abs/2408.10722v2)** | 2025-09-01 | ACL 2025 Findings |
+| **[FediLoRA: Heterogeneous LoRA for Federated Multimodal Fine-tuning under Missing Modalities](http://arxiv.org/abs/2509.06984v1)** | 2025-09-01 | 8 pages, 7 figures |
 | **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](http://arxiv.org/abs/2509.00918v1)** | 2025-08-31 |  |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v2)** | 2025-08-30 | <details><summary>25 pa...</summary><p>25 pages, 22 figures, 9 tables</p></details> |
 | **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
 | **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
 | **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](http://arxiv.org/abs/2508.07185v1)** | 2025-08-10 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
-| **[AI-assisted JSON Schema Creation and Mapping](http://arxiv.org/abs/2508.05192v1)** | 2025-08-07 | <details><summary>Accep...</summary><p>Accepted for Tools and Demonstrations Track of ACM/IEEE MODELS'25</p></details> |
-| **[Step More: Going Beyond Single Backpropagation in Meta Learning Based Model Editing](http://arxiv.org/abs/2508.04012v1)** | 2025-08-06 |  |
-| **[Latent Knowledge Scalpel: Precise and Massive Knowledge Editing for Large Language Models](http://arxiv.org/abs/2508.03741v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted by ECAI 2025 - 28th European Conference on Artificial Intelligence</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instruction Agent: Enhancing Agent with Expert Demonstration](http://arxiv.org/abs/2509.07098v1)** | 2025-09-08 |  |
 | **[MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](http://arxiv.org/abs/2509.06477v1)** | 2025-09-08 |  |
 | **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.02544v2)** | 2025-09-05 |  |
 | **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
@@ -59,7 +60,6 @@ labels: documentation
 | **[SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](http://arxiv.org/abs/2508.20018v1)** | 2025-08-27 | 28 pages, 12 figures |
 | **[PG-Agent: An Agent Powered by Page Graph](http://arxiv.org/abs/2509.03536v1)** | 2025-08-27 | <details><summary>Paper...</summary><p>Paper accepted to ACM MM 2025</p></details> |
 | **[AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance](http://arxiv.org/abs/2508.18689v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025. 10 pages, 5 figures. Our code is available at: https://github.com/LaoKuiZe/AppAgent-Pro. The demonstration video could be found at: https://www.dropbox.com/scl/fi/hvzqo5vnusg66srydzixo/AppAgent-Pro-demo-video.mp4?rlkey=o2nlfqgq6ihl125mcqg7bpgqu&st=d29vrzii&dl=0</p></details> |
-| **[DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards](http://arxiv.org/abs/2508.17398v1)** | 2025-08-24 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,7 +83,11 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference](http://arxiv.org/abs/2509.08542v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ASP-DAC 2026</p></details> |
+| **[Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts](http://arxiv.org/abs/2504.21117v3)** | 2025-09-10 | <details><summary>11 pa...</summary><p>11 pages, accepted by Transactions of the Association for Computational Linguistics (TACL)</p></details> |
 | **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP2025 Main</p></details> |
+| **[ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction](http://arxiv.org/abs/2509.07594v1)** | 2025-09-09 | SIGIR 2025 |
+| **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v3)** | 2025-09-09 |  |
 | **[Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent](http://arxiv.org/abs/2509.03990v2)** | 2025-09-08 |  |
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v5)** | 2025-09-05 |  |
 | **[VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving](http://arxiv.org/abs/2509.04827v1)** | 2025-09-05 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[LiquidGEMM: Hardware-Efficient W4A8 GEMM Kernel for High-Performance LLM Serving](http://arxiv.org/abs/2509.01229v1)** | 2025-09-01 | 12 pages, 13 figures |
 | **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v3)** | 2025-08-30 | Accepted by ICCAD'25 |
 | **[Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling](http://arxiv.org/abs/2509.04474v1)** | 2025-08-30 | 18 pages |
-| **[Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading](http://arxiv.org/abs/2508.06312v2)** | 2025-08-28 |  |
-| **[CALR: Corrective Adaptive Low-Rank Decomposition for Efficient Large Language Model Layer Compression](http://arxiv.org/abs/2508.16680v2)** | 2025-08-26 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Artificial Intelligence. This is the preprint version, not peer-reviewed. The final version may differ after peer review. (11 pages, 3 figures)</p></details> |
-| **[Spatio-Temporal Pruning for Compressed Spiking Large Language Models](http://arxiv.org/abs/2508.20122v1)** | 2025-08-23 |  |
-| **[Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism](http://arxiv.org/abs/2503.03182v2)** | 2025-08-23 |  |
 
