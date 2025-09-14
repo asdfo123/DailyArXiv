@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,13 +45,14 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v5)** | 2025-09-11 |  |
+| **[VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification](http://arxiv.org/abs/2503.18492v2)** | 2025-09-11 |  |
 | **[Instruction Agent: Enhancing Agent with Expert Demonstration](http://arxiv.org/abs/2509.07098v1)** | 2025-09-08 |  |
 | **[MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](http://arxiv.org/abs/2509.06477v1)** | 2025-09-08 |  |
 | **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.02544v2)** | 2025-09-05 |  |
 | **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
 | **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v3)** | 2025-09-05 | <details><summary>add b...</summary><p>add baselines, add source code link</p></details> |
 | **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
-| **[MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning](http://arxiv.org/abs/2508.03700v4)** | 2025-09-03 |  |
 | **[Mobile-Agent-v3: Fundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v2)** | 2025-09-01 |  |
 | **[FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](http://arxiv.org/abs/2509.01052v1)** | 2025-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main. Project page: https://ahnjaewoo.github.io/flashadventure</p></details> |
 | **[MobiAgent: A Systematic Framework for Customizable Mobile Agents](http://arxiv.org/abs/2509.00531v1)** | 2025-08-30 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[UItron: Foundational GUI Agent with Advanced Perception and Planning](http://arxiv.org/abs/2508.21767v1)** | 2025-08-29 | 24 pages |
 | **[SWIRL: A Staged Workflow for Interleaved Reinforcement Learning in Mobile GUI Control](http://arxiv.org/abs/2508.20018v1)** | 2025-08-27 | 28 pages, 12 figures |
 | **[PG-Agent: An Agent Powered by Page Graph](http://arxiv.org/abs/2509.03536v1)** | 2025-08-27 | <details><summary>Paper...</summary><p>Paper accepted to ACM MM 2025</p></details> |
-| **[AppAgent-Pro: A Proactive GUI Agent System for Multidomain Information Integration and User Assistance](http://arxiv.org/abs/2508.18689v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted at CIKM 2025. 10 pages, 5 figures. Our code is available at: https://github.com/LaoKuiZe/AppAgent-Pro. The demonstration video could be found at: https://www.dropbox.com/scl/fi/hvzqo5vnusg66srydzixo/AppAgent-Pro-demo-video.mp4?rlkey=o2nlfqgq6ihl125mcqg7bpgqu&st=d29vrzii&dl=0</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v2)** | 2025-09-11 | 12 pages |
+| **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v1)** | 2025-09-11 |  |
+| **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v3)** | 2025-09-11 |  |
+| **[Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](http://arxiv.org/abs/2509.09091v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
 | **[BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference](http://arxiv.org/abs/2509.08542v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ASP-DAC 2026</p></details> |
 | **[Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts](http://arxiv.org/abs/2504.21117v3)** | 2025-09-10 | <details><summary>11 pa...</summary><p>11 pages, accepted by Transactions of the Association for Computational Linguistics (TACL)</p></details> |
 | **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP2025 Main</p></details> |
@@ -92,10 +96,6 @@ labels: documentation
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v5)** | 2025-09-05 |  |
 | **[VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving](http://arxiv.org/abs/2509.04827v1)** | 2025-09-05 |  |
 | **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v2)** | 2025-09-04 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
-| **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v2)** | 2025-09-04 |  |
 | **[MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering](http://arxiv.org/abs/2509.03918v1)** | 2025-09-04 |  |
 | **[Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](http://arxiv.org/abs/2405.14314v3)** | 2025-09-02 | accepted by ACL'2025 |
-| **[LiquidGEMM: Hardware-Efficient W4A8 GEMM Kernel for High-Performance LLM Serving](http://arxiv.org/abs/2509.01229v1)** | 2025-09-01 | 12 pages, 13 figures |
-| **[LP-Spec: Leveraging LPDDR PIM for Efficient LLM Mobile Speculative Inference with Architecture-Dataflow Co-Optimization](http://arxiv.org/abs/2508.07227v3)** | 2025-08-30 | Accepted by ICCAD'25 |
-| **[Scaling Up, Speeding Up: A Benchmark of Speculative Decoding for Efficient LLM Test-Time Scaling](http://arxiv.org/abs/2509.04474v1)** | 2025-08-30 | 18 pages |
 
