@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2025
+title: Latest 15 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -85,8 +85,8 @@ labels: documentation
 | --- | --- | --- |
 | **[VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving](http://arxiv.org/abs/2509.04827v2)** | 2025-09-14 |  |
 | **[MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness](http://arxiv.org/abs/2509.10372v1)** | 2025-09-12 |  |
-| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v2)** | 2025-09-11 | 12 pages |
-| **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v1)** | 2025-09-11 |  |
+| **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v3)** | 2025-09-16 | 12 pages |
+| **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v2)** | 2025-09-15 |  |
 | **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v3)** | 2025-09-11 |  |
 | **[Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](http://arxiv.org/abs/2509.09091v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
 | **[BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference](http://arxiv.org/abs/2509.08542v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ASP-DAC 2026</p></details> |
