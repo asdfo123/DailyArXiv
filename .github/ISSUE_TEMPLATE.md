@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](http://arxiv.org/abs/2509.13704v1)** | 2025-09-17 |  |
 | **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](http://arxiv.org/abs/2509.11548v1)** | 2025-09-15 |  |
 | **[UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](http://arxiv.org/abs/2509.11543v1)** | 2025-09-15 | 22 pages, 17 figures |
 | **[Realistic Environmental Injection Attacks on GUI Agents](http://arxiv.org/abs/2509.11250v1)** | 2025-09-14 |  |
@@ -59,12 +60,14 @@ labels: documentation
 | **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
 | **[Mobile-Agent-v3: Fundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v2)** | 2025-09-01 |  |
 | **[FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](http://arxiv.org/abs/2509.01052v1)** | 2025-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main. Project page: https://ahnjaewoo.github.io/flashadventure</p></details> |
-| **[MobiAgent: A Systematic Framework for Customizable Mobile Agents](http://arxiv.org/abs/2509.00531v1)** | 2025-08-30 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v3)** | 2025-09-17 |  |
+| **[DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models](http://arxiv.org/abs/2509.13702v1)** | 2025-09-17 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v3)** | 2025-09-14 | <details><summary>EMNLP...</summary><p>EMNLP 2025 System Demonstrations. Demo: https://www.youtube.com/watch?v=AkfoiPfp5rQ; code: https://github.com/zjunlp/EasyEdit</p></details> |
+| **[Evaluation Awareness Scales Predictably in Open-Weights Large Language Models](http://arxiv.org/abs/2509.13333v1)** | 2025-09-10 |  |
 | **[Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](http://arxiv.org/abs/2509.06608v1)** | 2025-09-08 | Preprint |
 | **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v2)** | 2025-09-08 | EMNLP 2025 |
 | **[Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects](http://arxiv.org/abs/2509.04794v1)** | 2025-09-05 |  |
@@ -76,17 +79,16 @@ labels: documentation
 | **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
 | **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
 | **[Gaussian Process Regression of Steering Vectors With Physics-Aware Deep Composite Kernels for Augmented Listening](http://arxiv.org/abs/2509.02571v1)** | 2025-08-20 |  |
-| **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v1)** | 2025-08-18 |  |
-| **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](http://arxiv.org/abs/2503.05371v2)** | 2025-08-13 | <details><summary>Submi...</summary><p>Submitted to AACL 2025</p></details> |
-| **[One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in LLMs](http://arxiv.org/abs/2502.18862v2)** | 2025-08-12 | <details><summary>Publi...</summary><p>Published at COLM 2025. 30 pages, 7 figures. Code is available at https://github.com/jacobdunefsky/one-shot-steering-repro and https://github.com/jacobdunefsky/one-shot-steering-misalignment</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving](http://arxiv.org/abs/2509.04827v2)** | 2025-09-14 |  |
-| **[MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness](http://arxiv.org/abs/2509.10372v1)** | 2025-09-12 |  |
+| **[CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration](http://arxiv.org/abs/2509.13710v1)** | 2025-09-17 |  |
+| **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v3)** | 2025-09-16 | EMNLP 2025 |
 | **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v3)** | 2025-09-16 | 12 pages |
 | **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v2)** | 2025-09-15 |  |
+| **[VoltanaLLM: Feedback-Driven Frequency Control and State-Space Routing for Energy-Efficient LLM Serving](http://arxiv.org/abs/2509.04827v2)** | 2025-09-14 |  |
+| **[MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness](http://arxiv.org/abs/2509.10372v1)** | 2025-09-12 |  |
 | **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v3)** | 2025-09-11 |  |
 | **[Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](http://arxiv.org/abs/2509.09091v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
 | **[BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference](http://arxiv.org/abs/2509.08542v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ASP-DAC 2026</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v3)** | 2025-09-09 |  |
 | **[Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent](http://arxiv.org/abs/2509.03990v2)** | 2025-09-08 |  |
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v5)** | 2025-09-05 |  |
-| **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v2)** | 2025-09-04 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
-| **[MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering](http://arxiv.org/abs/2509.03918v1)** | 2025-09-04 |  |
 
