@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering](http://arxiv.org/abs/2411.12590v3)** | 2025-09-18 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 8 Tables. arXiv admin note: text overlap with arXiv:2410.13976</p></details> |
+| **[Movable-Antenna Trajectory Optimization for Wireless Sensing: CRB Scaling Laws over Time and Space](http://arxiv.org/abs/2509.14905v1)** | 2025-09-18 |  |
+| **[ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance](http://arxiv.org/abs/2509.14814v1)** | 2025-09-18 |  |
+| **[Unsupervised Concept Vector Extraction for Bias Control in LLMs](http://arxiv.org/abs/2502.19721v3)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v3)** | 2025-09-17 |  |
 | **[DSCC-HS: A Dynamic Self-Reinforcing Framework for Hallucination Suppression in Large Language Models](http://arxiv.org/abs/2509.13702v1)** | 2025-09-17 |  |
 | **[EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models](http://arxiv.org/abs/2504.15133v3)** | 2025-09-14 | <details><summary>EMNLP...</summary><p>EMNLP 2025 System Demonstrations. Demo: https://www.youtube.com/watch?v=AkfoiPfp5rQ; code: https://github.com/zjunlp/EasyEdit</p></details> |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
 | **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v2)** | 2025-08-31 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
 | **[Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models](http://arxiv.org/abs/2509.00373v1)** | 2025-08-30 |  |
-| **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at CASE@RANLP2025</p></details> |
-| **[Unveiling the Latent Directions of Reflection in Large Language Models](http://arxiv.org/abs/2508.16989v1)** | 2025-08-23 |  |
-| **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
-| **[Gaussian Process Regression of Steering Vectors With Physics-Aware Deep Composite Kernels for Augmented Listening](http://arxiv.org/abs/2509.02571v1)** | 2025-08-20 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
