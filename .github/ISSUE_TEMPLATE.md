@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models](http://arxiv.org/abs/2506.13638v2)** | 2025-09-18 | COLM 2025 |
 | **[SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation](http://arxiv.org/abs/2509.10708v1)** | 2025-09-12 |  |
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](http://arxiv.org/abs/2506.07899v3)** | 2025-09-11 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
 | **[Do All Autoregressive Transformers Remember Facts the Same Way? A Cross-Architecture Analysis of Recall Mechanisms](http://arxiv.org/abs/2509.08778v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
@@ -40,11 +41,13 @@ labels: documentation
 | **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v2)** | 2025-08-30 | <details><summary>25 pa...</summary><p>25 pages, 22 figures, 9 tables</p></details> |
 | **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
 | **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
-| **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
+| **[BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](http://arxiv.org/abs/2509.15566v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents](http://arxiv.org/abs/2509.15532v1)** | 2025-09-19 |  |
 | **[InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](http://arxiv.org/abs/2509.13704v1)** | 2025-09-17 |  |
 | **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](http://arxiv.org/abs/2509.11548v1)** | 2025-09-15 |  |
 | **[UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](http://arxiv.org/abs/2509.11543v1)** | 2025-09-15 | 22 pages, 17 figures |
@@ -57,15 +60,14 @@ labels: documentation
 | **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.02544v2)** | 2025-09-05 |  |
 | **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
 | **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v3)** | 2025-09-05 | <details><summary>add b...</summary><p>add baselines, add source code link</p></details> |
-| **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v2)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
-| **[Mobile-Agent-v3: Fundamental Agents for GUI Automation](http://arxiv.org/abs/2508.15144v2)** | 2025-09-01 |  |
-| **[FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](http://arxiv.org/abs/2509.01052v1)** | 2025-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main. Project page: https://ahnjaewoo.github.io/flashadventure</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
+| **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v4)** | 2025-09-19 | <details><summary>75 pa...</summary><p>75 pages. Accepted to ICML 2025</p></details> |
+| **[Movable-Antenna Trajectory Optimization for Wireless Sensing: CRB Scaling Laws over Time and Space](http://arxiv.org/abs/2509.14905v2)** | 2025-09-19 |  |
 | **[Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering](http://arxiv.org/abs/2411.12590v3)** | 2025-09-18 | <details><summary>10 pa...</summary><p>10 pages, 6 Figures, 8 Tables. arXiv admin note: text overlap with arXiv:2410.13976</p></details> |
-| **[Movable-Antenna Trajectory Optimization for Wireless Sensing: CRB Scaling Laws over Time and Space](http://arxiv.org/abs/2509.14905v1)** | 2025-09-18 |  |
 | **[ReCoVeR the Target Language: Language Steering without Sacrificing Task Performance](http://arxiv.org/abs/2509.14814v1)** | 2025-09-18 |  |
 | **[Unsupervised Concept Vector Extraction for Bias Control in LLMs](http://arxiv.org/abs/2502.19721v3)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025</p></details> |
 | **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v3)** | 2025-09-17 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects](http://arxiv.org/abs/2509.04794v1)** | 2025-09-05 |  |
 | **[Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](http://arxiv.org/abs/2509.03647v1)** | 2025-09-03 |  |
 | **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
-| **[LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](http://arxiv.org/abs/2508.17182v2)** | 2025-08-31 | <details><summary>This ...</summary><p>This preprint is under review</p></details> |
-| **[Activation Steering Meets Preference Optimization: Defense Against Jailbreaks in Vision Language Models](http://arxiv.org/abs/2509.00373v1)** | 2025-08-30 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration](http://arxiv.org/abs/2509.13710v1)** | 2025-09-17 |  |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v3)** | 2025-09-16 | EMNLP 2025 |
 | **[LoRA-PAR: A Flexible Dual-System LoRA Partitioning Approach to Efficient LLM Fine-Tuning](http://arxiv.org/abs/2507.20999v3)** | 2025-09-16 | 12 pages |
@@ -97,5 +98,4 @@ labels: documentation
 | **[ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction](http://arxiv.org/abs/2509.07594v1)** | 2025-09-09 | SIGIR 2025 |
 | **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v3)** | 2025-09-09 |  |
 | **[Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent](http://arxiv.org/abs/2509.03990v2)** | 2025-09-08 |  |
-| **[Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v5)** | 2025-09-05 |  |
 
