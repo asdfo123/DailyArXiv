@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -46,7 +46,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
-| **[BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](http://arxiv.org/abs/2509.15566v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](http://arxiv.org/abs/2509.15566v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents](http://arxiv.org/abs/2509.15532v1)** | 2025-09-19 |  |
 | **[InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](http://arxiv.org/abs/2509.13704v1)** | 2025-09-17 |  |
 | **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](http://arxiv.org/abs/2509.11548v1)** | 2025-09-15 |  |
