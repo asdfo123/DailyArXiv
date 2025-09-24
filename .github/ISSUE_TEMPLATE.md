@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WikiBigEdit: Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published at ICML 2025</p></details> |
 | **[Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition](http://arxiv.org/abs/2509.07555v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted in EMNLP Findings 2025</p></details> |
 | **[MEMIT-Merge: Addressing MEMIT's Key-Value Conflicts in Same-Subject Batch Editing for LLMs](http://arxiv.org/abs/2502.07322v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted by ACL2025 findings</p></details> |
 | **[Knowledge Editing through Chain-of-Thought](http://arxiv.org/abs/2412.17727v2)** | 2025-09-07 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[$μ$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models](http://arxiv.org/abs/2504.01196v2)** | 2025-08-09 | <details><summary>COLM ...</summary><p>COLM 2025. The first two authors contributed equally to this work</p></details> |
 | **[MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models](http://arxiv.org/abs/2508.05083v1)** | 2025-08-07 | 18 pages |
 | **[ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems](http://arxiv.org/abs/2503.20756v3)** | 2025-08-05 | ACM MM 2025 |
-| **[FPEdit: Robust LLM Fingerprinting through Localized Knowledge Editing](http://arxiv.org/abs/2508.02092v1)** | 2025-08-04 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](http://arxiv.org/abs/2505.11876v2)** | 2025-09-22 |  |
+| **[Diagnosing Model Editing via Knowledge Spectrum](http://arxiv.org/abs/2509.17482v1)** | 2025-09-22 |  |
 | **[DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models](http://arxiv.org/abs/2506.13638v2)** | 2025-09-18 | COLM 2025 |
 | **[SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based Instruction Dataset Creation](http://arxiv.org/abs/2509.10708v1)** | 2025-09-12 |  |
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](http://arxiv.org/abs/2506.07899v3)** | 2025-09-11 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
@@ -36,17 +38,18 @@ labels: documentation
 | **[Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing](http://arxiv.org/abs/2412.13341v2)** | 2025-09-04 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Manipulating Transformer-Based Models: Controllability, Steerability, and Robust Interventions](http://arxiv.org/abs/2509.04549v1)** | 2025-09-04 | 13 pages |
 | **[MEGen: Generative Backdoor into Large Language Models via Model Editing](http://arxiv.org/abs/2408.10722v2)** | 2025-09-01 | ACL 2025 Findings |
-| **[FediLoRA: Heterogeneous LoRA for Federated Multimodal Fine-tuning under Missing Modalities](http://arxiv.org/abs/2509.06984v1)** | 2025-09-01 | 8 pages, 7 figures |
+| **[FediLoRA: Heterogeneous LoRA for Federated Multimodal Fine-tuning under Missing Modalities](http://arxiv.org/abs/2509.06984v2)** | 2025-09-23 | 8 pages, 7 figures |
 | **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](http://arxiv.org/abs/2509.00918v1)** | 2025-08-31 |  |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v2)** | 2025-08-30 | <details><summary>25 pa...</summary><p>25 pages, 22 figures, 9 tables</p></details> |
-| **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
-| **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
+| **[Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent](http://arxiv.org/abs/2509.17917v1)** | 2025-09-22 |  |
+| **[Mano Report](http://arxiv.org/abs/2509.17336v1)** | 2025-09-22 |  |
+| **[UIPro: Unleashing Superior Interaction Capability For GUI Agents](http://arxiv.org/abs/2509.17328v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](http://arxiv.org/abs/2509.15566v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](http://arxiv.org/abs/2509.15738v1)** | 2025-09-19 |  |
 | **[GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents](http://arxiv.org/abs/2509.15532v1)** | 2025-09-19 |  |
 | **[InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](http://arxiv.org/abs/2509.13704v1)** | 2025-09-17 |  |
 | **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](http://arxiv.org/abs/2509.11548v1)** | 2025-09-15 |  |
@@ -57,13 +60,13 @@ labels: documentation
 | **[VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification](http://arxiv.org/abs/2503.18492v2)** | 2025-09-11 |  |
 | **[Instruction Agent: Enhancing Agent with Expert Demonstration](http://arxiv.org/abs/2509.07098v1)** | 2025-09-08 |  |
 | **[MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](http://arxiv.org/abs/2509.06477v1)** | 2025-09-08 |  |
-| **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.02544v2)** | 2025-09-05 |  |
-| **[Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions](http://arxiv.org/abs/2408.02544v3)** | 2025-09-05 | ACL 2025 |
-| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v3)** | 2025-09-05 | <details><summary>add b...</summary><p>add baselines, add source code link</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
+| **[DISCO: Disentangled Communication Steering for Large Language Models](http://arxiv.org/abs/2509.16820v1)** | 2025-09-20 |  |
+| **[Steering Towards Fairness: Mitigating Political Bias in LLMs](http://arxiv.org/abs/2508.08846v3)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted at CASE@RANLP2025</p></details> |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Activation Space Interventions Can Be Transferred Between Large Language Models](http://arxiv.org/abs/2503.04429v4)** | 2025-09-19 | <details><summary>75 pa...</summary><p>75 pages. Accepted to ICML 2025</p></details> |
 | **[Movable-Antenna Trajectory Optimization for Wireless Sensing: CRB Scaling Laws over Time and Space](http://arxiv.org/abs/2509.14905v2)** | 2025-09-19 |  |
@@ -76,13 +79,16 @@ labels: documentation
 | **[Evaluation Awareness Scales Predictably in Open-Weights Large Language Models](http://arxiv.org/abs/2509.13333v1)** | 2025-09-10 |  |
 | **[Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](http://arxiv.org/abs/2509.06608v1)** | 2025-09-08 | Preprint |
 | **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v2)** | 2025-09-08 | EMNLP 2025 |
-| **[Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects](http://arxiv.org/abs/2509.04794v1)** | 2025-09-05 |  |
-| **[Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](http://arxiv.org/abs/2509.03647v1)** | 2025-09-03 |  |
-| **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Efficient LLMs](http://arxiv.org/abs/2402.14746v4)** | 2025-09-22 |  |
+| **[Cronus: Efficient LLM inference on Heterogeneous GPU Clusters via Partially Disaggregated Prefill](http://arxiv.org/abs/2509.17357v1)** | 2025-09-22 |  |
+| **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](http://arxiv.org/abs/2509.16989v1)** | 2025-09-21 | under review |
+| **[MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines](http://arxiv.org/abs/2409.15520v3)** | 2025-09-20 |  |
+| **[FastCuRL: Curriculum Reinforcement Learning with Stage-wise Context Scaling for Efficient Training R1-like Reasoning Models](http://arxiv.org/abs/2503.17287v6)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
+| **[EG-MLA: Embedding-Gated Multi-head Latent Attention for Scalable and Efficient LLMs](http://arxiv.org/abs/2509.16686v1)** | 2025-09-20 |  |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration](http://arxiv.org/abs/2509.13710v1)** | 2025-09-17 |  |
 | **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v3)** | 2025-09-16 | EMNLP 2025 |
@@ -92,10 +98,4 @@ labels: documentation
 | **[MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness](http://arxiv.org/abs/2509.10372v1)** | 2025-09-12 |  |
 | **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v3)** | 2025-09-11 |  |
 | **[Towards Confidential and Efficient LLM Inference with Dual Privacy Protection](http://arxiv.org/abs/2509.09091v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by DASFAA2025</p></details> |
-| **[BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference](http://arxiv.org/abs/2509.08542v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ASP-DAC 2026</p></details> |
-| **[Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts](http://arxiv.org/abs/2504.21117v3)** | 2025-09-10 | <details><summary>11 pa...</summary><p>11 pages, accepted by Transactions of the Association for Computational Linguistics (TACL)</p></details> |
-| **[TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review](http://arxiv.org/abs/2506.07642v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP2025 Main</p></details> |
-| **[ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction](http://arxiv.org/abs/2509.07594v1)** | 2025-09-09 | SIGIR 2025 |
-| **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](http://arxiv.org/abs/2507.13833v3)** | 2025-09-09 |  |
-| **[Meta-Policy Reflexion: Reusable Reflective Memory and Rule Admissibility for Resource-Efficient LLM Agent](http://arxiv.org/abs/2509.03990v2)** | 2025-09-08 |  |
 
