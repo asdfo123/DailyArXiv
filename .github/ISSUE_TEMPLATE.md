@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -48,11 +48,11 @@ labels: documentation
 | **[GUI-PRA: Process Reward Agent for GUI Tasks](http://arxiv.org/abs/2509.23263v2)** | 2025-10-03 |  |
 | **[GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](http://arxiv.org/abs/2510.00536v1)** | 2025-10-01 |  |
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v4)** | 2025-10-01 |  |
-| **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v1)** | 2025-10-01 |  |
+| **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v2)** | 2025-10-04 | Under Review |
 | **[Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](http://arxiv.org/abs/2509.26539v1)** | 2025-09-30 |  |
 | **[Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey](http://arxiv.org/abs/2510.00078v1)** | 2025-09-30 |  |
 | **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](http://arxiv.org/abs/2505.12299v3)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
-| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v4)** | 2025-09-29 |  |
+| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v5)** | 2025-10-03 |  |
 | **[Retrieval-augmented GUI Agents with Generative Guidelines](http://arxiv.org/abs/2509.24183v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](http://arxiv.org/abs/2509.23866v1)** | 2025-09-28 |  |
 | **[GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks](http://arxiv.org/abs/2509.23738v1)** | 2025-09-28 |  |
