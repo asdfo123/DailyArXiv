@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,7 +35,7 @@ labels: documentation
 | **[Single-weight Model Editing for Post-hoc Spurious Correlation Neutralization](http://arxiv.org/abs/2501.14182v2)** | 2025-09-26 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v2)** | 2025-09-26 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](http://arxiv.org/abs/2505.14679v2)** | 2025-09-26 |  |
-| **[Diagnosing the Performance Trade-off in Moral Alignment: A Case Study on Gender Stereotypes](http://arxiv.org/abs/2509.21456v1)** | 2025-09-25 |  |
+| **[Diagnosing the Performance Trade-off in Moral Alignment: A Case Study on Gender Stereotypes](http://arxiv.org/abs/2509.21456v2)** | 2025-10-07 |  |
 | **[Distributed Specialization: Rare-Token Neurons in Large Language Models](http://arxiv.org/abs/2509.21163v1)** | 2025-09-25 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v2)** | 2025-09-25 | 18 pages,5 figures |
 | **[bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](http://arxiv.org/abs/2509.19775v1)** | 2025-09-24 |  |
@@ -45,14 +45,14 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v2)** | 2025-10-04 | Under Review |
+| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v5)** | 2025-10-03 |  |
 | **[GUI-PRA: Process Reward Agent for GUI Tasks](http://arxiv.org/abs/2509.23263v2)** | 2025-10-03 |  |
 | **[GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](http://arxiv.org/abs/2510.00536v1)** | 2025-10-01 |  |
 | **[GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents](http://arxiv.org/abs/2504.10458v4)** | 2025-10-01 |  |
-| **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v2)** | 2025-10-04 | Under Review |
 | **[Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents](http://arxiv.org/abs/2509.26539v1)** | 2025-09-30 |  |
 | **[Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey](http://arxiv.org/abs/2510.00078v1)** | 2025-09-30 |  |
 | **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](http://arxiv.org/abs/2505.12299v3)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
-| **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v5)** | 2025-10-03 |  |
 | **[Retrieval-augmented GUI Agents with Generative Guidelines](http://arxiv.org/abs/2509.24183v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](http://arxiv.org/abs/2509.23866v1)** | 2025-09-28 |  |
 | **[GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks](http://arxiv.org/abs/2509.23738v1)** | 2025-09-28 |  |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Steering with a Feedback Controller](http://arxiv.org/abs/2510.04309v1)** | 2025-10-05 | <details><summary>9 pag...</summary><p>9 pages in the main text. Under Review</p></details> |
 | **[Enhancing LLM Steering through Sparse Autoencoder-Based Vector Refinement](http://arxiv.org/abs/2509.23799v2)** | 2025-10-03 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 7 tables</p></details> |
 | **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v3)** | 2025-10-01 | EMNLP 2025 |
 | **[Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](http://arxiv.org/abs/2509.06608v3)** | 2025-10-01 | Preprint |
@@ -78,14 +79,18 @@ labels: documentation
 | **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](http://arxiv.org/abs/2509.22510v1)** | 2025-09-26 |  |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](http://arxiv.org/abs/2506.15882v2)** | 2025-09-25 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, Project website: https://shengliu66.github.io/fractreason/</p></details> |
-| **[SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models](http://arxiv.org/abs/2509.21400v1)** | 2025-09-24 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](http://arxiv.org/abs/2509.22075v2)** | 2025-10-06 |  |
+| **[Beyond Manuals and Tasks: Instance-Level Context Learning for LLM Agents](http://arxiv.org/abs/2510.02369v2)** | 2025-10-06 |  |
+| **[SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba](http://arxiv.org/abs/2510.04595v1)** | 2025-10-06 |  |
+| **[Toward a unified framework for data-efficient evaluation of large language models](http://arxiv.org/abs/2510.04051v1)** | 2025-10-05 | <details><summary>codes...</summary><p>codes available at https://github.com/Rorschach1989/efficient-lm-eval</p></details> |
 | **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](http://arxiv.org/abs/2505.11274v4)** | 2025-10-03 |  |
 | **[PropRAG: Guiding Retrieval with Beam Search over Proposition Paths](http://arxiv.org/abs/2504.18070v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference). Camera-ready version. Code and data: https://github.com/ReLink-Inc/PropRAG</p></details> |
 | **[Litespark Technical Report: High-Throughput, Energy-Efficient LLM Training Framework](http://arxiv.org/abs/2510.02483v1)** | 2025-10-02 | 14 pages |
+| **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](http://arxiv.org/abs/2510.03346v1)** | 2025-10-02 |  |
 | **[Prompt Curriculum Learning for Efficient LLM Post-Training](http://arxiv.org/abs/2510.01135v1)** | 2025-10-01 |  |
 | **[Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](http://arxiv.org/abs/2510.00810v1)** | 2025-10-01 |  |
 | **[Spectral Scaling Laws in Language Models: How Effectively Do Feed-Forward Networks Use Their Latent Space?](http://arxiv.org/abs/2510.00537v1)** | 2025-10-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Long paper)</p></details> |
@@ -93,9 +98,4 @@ labels: documentation
 | **[Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management](http://arxiv.org/abs/2509.26200v1)** | 2025-09-30 | 12 pages, 8 figures |
 | **[Parallax: Efficient LLM Inference Service over Decentralized Environment](http://arxiv.org/abs/2509.26182v1)** | 2025-09-30 |  |
 | **[SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV](http://arxiv.org/abs/2509.25853v1)** | 2025-09-30 |  |
-| **[Scaling with Collapse: Efficient and Predictable Training of LLM Families](http://arxiv.org/abs/2509.25087v1)** | 2025-09-29 |  |
-| **[Intra-request branch orchestration for efficient LLM reasoning](http://arxiv.org/abs/2509.24957v1)** | 2025-09-29 | 15 pages, 6 figures |
-| **[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching](http://arxiv.org/abs/2509.24832v1)** | 2025-09-29 | 11 figures, 14pages |
-| **[Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](http://arxiv.org/abs/2405.14314v4)** | 2025-09-29 | accepted by ACL'2025 |
-| **[Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding](http://arxiv.org/abs/2509.24328v1)** | 2025-09-29 | 14 pages, 6 figures |
 
