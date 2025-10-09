@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v2)** | 2025-10-08 | preprint |
+| **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
 | **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v1)** | 2025-10-01 | Technical report |
@@ -18,14 +20,13 @@ labels: documentation
 | **[MEMIT-Merge: Addressing MEMIT's Key-Value Conflicts in Same-Subject Batch Editing for LLMs](http://arxiv.org/abs/2502.07322v3)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted by ACL2025 findings</p></details> |
 | **[Knowledge Editing through Chain-of-Thought](http://arxiv.org/abs/2412.17727v2)** | 2025-09-07 |  |
 | **[Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs](http://arxiv.org/abs/2509.05714v1)** | 2025-09-06 | 15 pages, 6 figures |
-| **[From Evaluation to Defense: Constructing Persistent Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v1)** | 2025-09-03 | preprint |
 | **[Robust Knowledge Editing via Explicit Reasoning Chains for Distractor-Resilient Multi-Hop QA](http://arxiv.org/abs/2509.01468v1)** | 2025-09-01 | EMNLP 2025 Findings |
 | **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](http://arxiv.org/abs/2509.00918v1)** | 2025-08-31 |  |
-| **[A Dual-Axis Taxonomy of Knowledge Editing for LLMs: From Mechanisms to Functions](http://arxiv.org/abs/2508.08795v1)** | 2025-08-12 | 13 pages, 1 figure |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[POME: Post Optimization Model Edit via Muon-style Projection](http://arxiv.org/abs/2510.06627v1)** | 2025-10-08 |  |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 | **[Is Model Editing Built on Sand? Revealing Its Illusory Success and Fragile Foundation](http://arxiv.org/abs/2510.00625v1)** | 2025-10-01 | <details><summary>This ...</summary><p>This is a work in progress. Comments and suggestions are welcome</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 as Findings</p></details> |
@@ -35,7 +36,6 @@ labels: documentation
 | **[Single-weight Model Editing for Post-hoc Spurious Correlation Neutralization](http://arxiv.org/abs/2501.14182v2)** | 2025-09-26 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v2)** | 2025-09-26 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](http://arxiv.org/abs/2505.14679v2)** | 2025-09-26 |  |
-| **[Diagnosing the Performance Trade-off in Moral Alignment: A Case Study on Gender Stereotypes](http://arxiv.org/abs/2509.21456v2)** | 2025-10-07 |  |
 | **[Distributed Specialization: Rare-Token Neurons in Large Language Models](http://arxiv.org/abs/2509.21163v1)** | 2025-09-25 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v2)** | 2025-09-25 | 18 pages,5 figures |
 | **[bi-GRPO: Bidirectional Optimization for Jailbreak Backdoor Injection on LLMs](http://arxiv.org/abs/2509.19775v1)** | 2025-09-24 |  |
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](http://arxiv.org/abs/2510.06700v1)** | 2025-10-08 |  |
+| **[Prototype-Based Dynamic Steering for Large Language Models](http://arxiv.org/abs/2510.05498v1)** | 2025-10-07 |  |
 | **[Activation Steering with a Feedback Controller](http://arxiv.org/abs/2510.04309v1)** | 2025-10-05 | <details><summary>9 pag...</summary><p>9 pages in the main text. Under Review</p></details> |
 | **[Enhancing LLM Steering through Sparse Autoencoder-Based Vector Refinement](http://arxiv.org/abs/2509.23799v2)** | 2025-10-03 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 7 tables</p></details> |
 | **[Steering LLM Reasoning Through Bias-Only Adaptation](http://arxiv.org/abs/2505.18706v3)** | 2025-10-01 | EMNLP 2025 |
@@ -77,12 +79,14 @@ labels: documentation
 | **[KV Cache Steering for Controlling Frozen LLMs](http://arxiv.org/abs/2507.08799v2)** | 2025-09-26 |  |
 | **[ExpertSteer: Intervening in LLMs through Expert Knowledge](http://arxiv.org/abs/2505.12313v2)** | 2025-09-26 |  |
 | **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](http://arxiv.org/abs/2509.22510v1)** | 2025-09-26 |  |
-| **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
-| **[Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](http://arxiv.org/abs/2506.15882v2)** | 2025-09-25 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, Project website: https://shengliu66.github.io/fractreason/</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](http://arxiv.org/abs/2510.06730v1)** | 2025-10-08 |  |
+| **[VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization](http://arxiv.org/abs/2510.06175v1)** | 2025-10-07 |  |
+| **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v3)** | 2025-10-07 |  |
+| **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](http://arxiv.org/abs/2510.05544v1)** | 2025-10-07 |  |
 | **[COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](http://arxiv.org/abs/2509.22075v2)** | 2025-10-06 |  |
 | **[Beyond Manuals and Tasks: Instance-Level Context Learning for LLM Agents](http://arxiv.org/abs/2510.02369v2)** | 2025-10-06 |  |
 | **[SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba](http://arxiv.org/abs/2510.04595v1)** | 2025-10-06 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Prompt Curriculum Learning for Efficient LLM Post-Training](http://arxiv.org/abs/2510.01135v1)** | 2025-10-01 |  |
 | **[Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](http://arxiv.org/abs/2510.00810v1)** | 2025-10-01 |  |
 | **[Spectral Scaling Laws in Language Models: How Effectively Do Feed-Forward Networks Use Their Latent Space?](http://arxiv.org/abs/2510.00537v1)** | 2025-10-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Long paper)</p></details> |
-| **[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](http://arxiv.org/abs/2510.00419v1)** | 2025-10-01 |  |
-| **[Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management](http://arxiv.org/abs/2509.26200v1)** | 2025-09-30 | 12 pages, 8 figures |
-| **[Parallax: Efficient LLM Inference Service over Decentralized Environment](http://arxiv.org/abs/2509.26182v1)** | 2025-09-30 |  |
-| **[SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV](http://arxiv.org/abs/2509.25853v1)** | 2025-09-30 |  |
 
