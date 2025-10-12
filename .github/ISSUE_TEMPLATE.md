@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](http://arxiv.org/abs/2510.07896v1)** | 2025-10-09 |  |
 | **[From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v2)** | 2025-10-08 | preprint |
 | **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
 | **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Knowledge Editing through Chain-of-Thought](http://arxiv.org/abs/2412.17727v2)** | 2025-09-07 |  |
 | **[Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs](http://arxiv.org/abs/2509.05714v1)** | 2025-09-06 | 15 pages, 6 figures |
 | **[Robust Knowledge Editing via Explicit Reasoning Chains for Distractor-Resilient Multi-Hop QA](http://arxiv.org/abs/2509.01468v1)** | 2025-09-01 | EMNLP 2025 Findings |
-| **[PREE: Towards Harmless and Adaptive Fingerprint Editing in Large Language Models via Knowledge Prefix Enhancement](http://arxiv.org/abs/2509.00918v1)** | 2025-08-31 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation](http://arxiv.org/abs/2510.07988v1)** | 2025-10-09 |  |
 | **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v2)** | 2025-10-04 | Under Review |
 | **[GTA1: GUI Test-time Scaling Agent](http://arxiv.org/abs/2507.05791v5)** | 2025-10-03 |  |
 | **[GUI-PRA: Process Reward Agent for GUI Tasks](http://arxiv.org/abs/2509.23263v2)** | 2025-10-03 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[GUI Agents: A Survey](http://arxiv.org/abs/2412.13501v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
 | **[WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](http://arxiv.org/abs/2509.22644v1)** | 2025-09-26 |  |
 | **[RISK: A Framework for GUI Agents in E-commerce Risk Management](http://arxiv.org/abs/2509.21982v1)** | 2025-09-26 |  |
-| **[ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration](http://arxiv.org/abs/2509.21823v1)** | 2025-09-26 | 10 pages, 7 figures |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v4)** | 2025-10-09 |  |
+| **[LLMs on a Budget? Say HOLA](http://arxiv.org/abs/2506.18952v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 (Industry Track)</p></details> |
 | **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](http://arxiv.org/abs/2510.06730v1)** | 2025-10-08 |  |
 | **[VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization](http://arxiv.org/abs/2510.06175v1)** | 2025-10-07 |  |
 | **[MetaLLMix : An XAI Aided LLM-Meta-learning Based Approach for Hyper-parameters Optimization](http://arxiv.org/abs/2509.09387v3)** | 2025-10-07 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Litespark Technical Report: High-Throughput, Energy-Efficient LLM Training Framework](http://arxiv.org/abs/2510.02483v1)** | 2025-10-02 | 14 pages |
 | **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](http://arxiv.org/abs/2510.03346v1)** | 2025-10-02 |  |
 | **[Prompt Curriculum Learning for Efficient LLM Post-Training](http://arxiv.org/abs/2510.01135v1)** | 2025-10-01 |  |
-| **[Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](http://arxiv.org/abs/2510.00810v1)** | 2025-10-01 |  |
-| **[Spectral Scaling Laws in Language Models: How Effectively Do Feed-Forward Networks Use Their Latent Space?](http://arxiv.org/abs/2510.00537v1)** | 2025-10-01 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference (Long paper)</p></details> |
 
