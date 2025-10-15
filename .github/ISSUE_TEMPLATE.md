@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
 | **[STEAM: A Semantic-Level Knowledge Editing Framework for Large Language Models](http://arxiv.org/abs/2510.10398v1)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v3)** | 2025-10-10 |  |
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](http://arxiv.org/abs/2510.07896v1)** | 2025-10-09 |  |
@@ -14,7 +15,6 @@ labels: documentation
 | **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
 | **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
-| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v1)** | 2025-10-01 | Technical report |
 | **[Knowledge Editing with Subspace-Aware Key-Value Mappings](http://arxiv.org/abs/2509.24502v1)** | 2025-09-29 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 10 tables</p></details> |
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v2)** | 2025-09-23 | EMNLP 2025 |
 | **[Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering](http://arxiv.org/abs/2509.18655v1)** | 2025-09-23 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
@@ -26,6 +26,11 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
+| **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This version has been temporarily withdrawn for procedural review purposes. The withdrawal is unrelated to the technical content of the paper</p></details> |
+| **[EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](http://arxiv.org/abs/2508.04012v2)** | 2025-10-14 |  |
 | **[Exploring and Leveraging Class Vectors for Classifier Editing](http://arxiv.org/abs/2510.11268v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](http://arxiv.org/abs/2510.11137v1)** | 2025-10-13 |  |
 | **[Rethinking the Residual Distribution of Locate-then-Editing Methods in Model Editing](http://arxiv.org/abs/2502.03748v2)** | 2025-10-13 | NeurIPS 2025 |
@@ -35,12 +40,7 @@ labels: documentation
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 | **[Is Model Editing Built on Sand? Revealing Its Illusory Success and Fragile Foundation](http://arxiv.org/abs/2510.00625v1)** | 2025-10-01 | <details><summary>This ...</summary><p>This is a work in progress. Comments and suggestions are welcome</p></details> |
 | **[Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing](http://arxiv.org/abs/2503.11895v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 as Findings</p></details> |
-| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v1)** | 2025-10-01 | Technical report |
 | **[Fine-tuning Done Right in Model Editing](http://arxiv.org/abs/2509.22072v2)** | 2025-09-29 |  |
-| **[Bilinear relational structure fixes reversal curse and enables consistent model editing](http://arxiv.org/abs/2509.21993v1)** | 2025-09-26 | 9 pages |
-| **[Single-weight Model Editing for Post-hoc Spurious Correlation Neutralization](http://arxiv.org/abs/2501.14182v2)** | 2025-09-26 |  |
-| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v2)** | 2025-09-26 |  |
-| **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](http://arxiv.org/abs/2505.14679v2)** | 2025-09-26 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v1)** | 2025-10-13 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v2)** | 2025-10-14 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v3)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Transmuting prompts into weights](http://arxiv.org/abs/2510.08734v1)** | 2025-10-09 |  |
 | **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](http://arxiv.org/abs/2510.06700v1)** | 2025-10-08 |  |
