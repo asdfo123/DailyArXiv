@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models](http://arxiv.org/abs/2510.16917v1)** | 2025-10-19 | Work in progress |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](http://arxiv.org/abs/2508.02092v2)** | 2025-10-17 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
 | **[STEAM: A Semantic-Level Knowledge Editing Framework for Large Language Models](http://arxiv.org/abs/2510.10398v1)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
@@ -21,20 +22,31 @@ labels: documentation
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v2)** | 2025-09-23 | EMNLP 2025 |
 | **[Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering](http://arxiv.org/abs/2509.18655v1)** | 2025-09-23 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[WikiBigEdit: Understanding the Limits of Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2503.05683v2)** | 2025-09-21 | <details><summary>publi...</summary><p>published at ICML 2025</p></details> |
-| **[Avoiding Knowledge Edit Skipping in Multi-hop Question Answering with Guided Decomposition](http://arxiv.org/abs/2509.07555v1)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted in EMNLP Findings 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EditMark: Watermarking Large Language Models based on Model Editing](http://arxiv.org/abs/2510.16367v1)** | 2025-10-18 |  |
+| **[STABLE: Gated Continual Learning for Large Language Models](http://arxiv.org/abs/2510.16089v1)** | 2025-10-17 |  |
 | **[Exploring and Leveraging Class Vectors for Classifier Editing](http://arxiv.org/abs/2510.11268v2)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v1)** | 2025-10-15 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](http://arxiv.org/abs/2510.13462v1)** | 2025-10-15 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
 | **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This version has been temporarily withdrawn for procedural review purposes. The withdrawal is unrelated to the technical content of the paper</p></details> |
+| **[EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](http://arxiv.org/abs/2508.04012v2)** | 2025-10-14 |  |
+| **[CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](http://arxiv.org/abs/2510.11137v1)** | 2025-10-13 |  |
+| **[Rethinking the Residual Distribution of Locate-then-Editing Methods in Model Editing](http://arxiv.org/abs/2502.03748v2)** | 2025-10-13 | NeurIPS 2025 |
+| **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](http://arxiv.org/abs/2510.13851v1)** | 2025-10-11 |  |
+| **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v3)** | 2025-10-10 |  |
+| **[Transmuting prompts into weights](http://arxiv.org/abs/2510.08734v1)** | 2025-10-09 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](http://arxiv.org/abs/2510.16720v1)** | 2025-10-19 |  |
+| **[macOSWorld: A Multilingual Interactive Benchmark for GUI Agents](http://arxiv.org/abs/2506.04135v4)** | 2025-10-18 |  |
 | **[FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](http://arxiv.org/abs/2509.01052v2)** | 2025-10-15 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main. Project page: https://ahnjaewoo.github.io/flashadventure</p></details> |
 | **[GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning](http://arxiv.org/abs/2505.12493v3)** | 2025-10-10 |  |
 | **[Auto-scaling Continuous Memory for GUI Agent](http://arxiv.org/abs/2510.09038v1)** | 2025-10-10 |  |
@@ -48,12 +60,11 @@ labels: documentation
 | **[Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey](http://arxiv.org/abs/2510.00078v1)** | 2025-09-30 |  |
 | **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](http://arxiv.org/abs/2505.12299v3)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
 | **[Retrieval-augmented GUI Agents with Generative Guidelines](http://arxiv.org/abs/2509.24183v1)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
-| **[Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation](http://arxiv.org/abs/2509.23866v1)** | 2025-09-28 |  |
-| **[GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks](http://arxiv.org/abs/2509.23738v1)** | 2025-09-28 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating through the hidden embedding space: steering LLMs to improve mental health assessment](http://arxiv.org/abs/2510.16373v1)** | 2025-10-18 |  |
 | **[Echoes of BERT: Do Modern Language Models Rediscover the Classical NLP Pipeline?](http://arxiv.org/abs/2506.02132v4)** | 2025-10-15 |  |
 | **[Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module](http://arxiv.org/abs/2510.13558v1)** | 2025-10-15 | <details><summary>5 pag...</summary><p>5 pages, 1 figures. Code is available at: https://github.com/forfrt/SteerMoE. Submitted to ICASSP 2026</p></details> |
 | **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v2)** | 2025-10-14 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
@@ -68,15 +79,17 @@ labels: documentation
 | **[VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models](http://arxiv.org/abs/2509.25533v1)** | 2025-09-29 |  |
 | **[EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v1)** | 2025-09-29 | <details><summary>proje...</summary><p>project: https://github.com/ZJU-REAL/EasySteer</p></details> |
 | **[Pixels Versus Priors: Controlling Knowledge Priors in Vision-Language Models through Visual Counterfacts](http://arxiv.org/abs/2505.17127v2)** | 2025-09-29 |  |
-| **[Learning to Ponder: Adaptive Reasoning in Latent Space](http://arxiv.org/abs/2509.24238v1)** | 2025-09-29 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexQuant: A Flexible and Efficient Dynamic Precision Switching Framework for LLM Quantization](http://arxiv.org/abs/2506.12024v2)** | 2025-10-20 | <details><summary>1p pa...</summary><p>1p pages, 7 figures, 2 tables</p></details> |
+| **[MPCache: MPC-Friendly KV Cache Eviction for Efficient Private LLM Inference](http://arxiv.org/abs/2501.06807v2)** | 2025-10-18 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Identity-Link IRT for Label-Free LLM Evaluation: Preserving Additivity in TVD-MI Scores](http://arxiv.org/abs/2510.14966v1)** | 2025-10-16 | 9 pages, 2 figures |
 | **[MoLink: Distributed and Efficient Serving Framework for Large Models](http://arxiv.org/abs/2507.05043v2)** | 2025-10-16 |  |
 | **[Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference](http://arxiv.org/abs/2407.11550v5)** | 2025-10-16 | NeurIPS 2025 |
 | **[MX+: Pushing the Limits of Microscaling Formats for Efficient Large Language Model Serving](http://arxiv.org/abs/2510.14557v1)** | 2025-10-16 | <details><summary>To ap...</summary><p>To appear at the 58th International Symposium on Microarchitecture (MICRO 2025)</p></details> |
+| **[Kelle: Co-design KV Caching and eDRAM for Efficient LLM Serving in Edge Computing](http://arxiv.org/abs/2510.16040v1)** | 2025-10-16 |  |
 | **[Quantize What Counts: More for Keys, Less for Values](http://arxiv.org/abs/2502.15075v3)** | 2025-10-15 |  |
 | **[Improving Planning with Large Language Models: A Modular Agentic Architecture](http://arxiv.org/abs/2310.00194v5)** | 2025-10-14 |  |
 | **[On the Role of Preference Variance in Preference Optimization](http://arxiv.org/abs/2510.13022v1)** | 2025-10-14 |  |
@@ -85,7 +98,4 @@ labels: documentation
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v3)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[LLMSynthor: Macro-Aligned Micro-Records Synthesis with Large Language Models](http://arxiv.org/abs/2505.14752v2)** | 2025-10-11 |  |
 | **[Evaluating LLM-Based Process Explanations under Progressive Behavioral-Input Reduction](http://arxiv.org/abs/2510.09732v1)** | 2025-10-10 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 3 tables; to appear in Enterprise Design, Operations, and Computing. EDOC 2025 Workshops, Lecture Notes in Business Information Processing (LNBIP), Springer, 2025. Part of 29th International Conference on Enterprise Design, Operations, and Computing (EDOC)</p></details> |
-| **[FLRC: Fine-grained Low-Rank Compressor for Efficient LLM Inference](http://arxiv.org/abs/2510.09332v1)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
-| **[Layout-Aware Parsing Meets Efficient LLMs: A Unified, Scalable Framework for Resume Information Extraction and Evaluation](http://arxiv.org/abs/2510.09722v1)** | 2025-10-10 |  |
-| **[Spotlight Attention: Towards Efficient LLM Generation via Non-linear Hashing-based KV Cache Retrieval](http://arxiv.org/abs/2508.19740v4)** | 2025-10-09 |  |
 
