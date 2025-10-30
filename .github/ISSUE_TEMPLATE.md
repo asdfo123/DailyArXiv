@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,6 +36,11 @@ labels: documentation
 | **[Exploring and Leveraging Class Vectors for Classifier Editing](http://arxiv.org/abs/2510.11268v2)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v1)** | 2025-10-15 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](http://arxiv.org/abs/2510.13462v1)** | 2025-10-15 |  |
+| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
+| **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This version has been temporarily withdrawn for procedural review purposes. The withdrawal is unrelated to the technical content of the paper</p></details> |
+| **[EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](http://arxiv.org/abs/2508.04012v2)** | 2025-10-14 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -78,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GPTOpt: Towards Efficient LLM-Based Black-Box Optimization](http://arxiv.org/abs/2510.25404v1)** | 2025-10-29 |  |
+| **[S'MoRE: Structural Mixture of Residual Experts for Parameter-Efficient LLM Fine-tuning](http://arxiv.org/abs/2504.06426v2)** | 2025-10-29 | NeurIPS 2025 |
 | **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](http://arxiv.org/abs/2509.16989v2)** | 2025-10-28 | under review |
 | **[Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](http://arxiv.org/abs/2506.05316v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts](http://arxiv.org/abs/2510.23990v1)** | 2025-10-28 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
@@ -91,6 +98,4 @@ labels: documentation
 | **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](http://arxiv.org/abs/2510.19669v1)** | 2025-10-22 |  |
 | **[Energy-Efficient and Dequantization-Free Q-LLMs: A Spiking Neural Network Approach to Salient Value Mitigation](http://arxiv.org/abs/2510.19498v1)** | 2025-10-22 |  |
 | **[Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment](http://arxiv.org/abs/2509.20214v2)** | 2025-10-22 | NeurIPS 2025 |
-| **[ZipLLM: Efficient LLM Storage via Model-Aware Synergistic Data Deduplication and Compression](http://arxiv.org/abs/2505.06252v2)** | 2025-10-22 |  |
-| **[EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](http://arxiv.org/abs/2510.18546v1)** | 2025-10-21 | NeurIPS 2025 |
 
