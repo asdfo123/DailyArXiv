@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemEIC: A Step Toward Continual and Compositional Knowledge Editing](http://arxiv.org/abs/2510.25798v1)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 38 pages, 8 figures</p></details> |
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](http://arxiv.org/abs/2510.19457v2)** | 2025-10-28 | <details><summary>proje...</summary><p>project page:https://mined-lmm.github.io/</p></details> |
 | **[Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization](http://arxiv.org/abs/2510.21059v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025. Copyright 2025 Association for Computational Linguistics (CC BY 4.0). 12 pages, 5 figures</p></details> |
 | **[Edit Less, Achieve More: Dynamic Sparse Neuron Masking for Lifelong Knowledge Editing in LLMs](http://arxiv.org/abs/2510.22139v1)** | 2025-10-25 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, Accepted by NeurIPS 2025</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v2)** | 2025-10-08 | preprint |
 | **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
 | **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
-| **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust GNN Watermarking via Implicit Perception of Topological Invariants](http://arxiv.org/abs/2510.25934v1)** | 2025-10-29 |  |
 | **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v3)** | 2025-10-28 |  |
 | **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLMs](http://arxiv.org/abs/2510.23891v1)** | 2025-10-27 |  |
 | **[LyapLock: Bounded Knowledge Preservation in Sequential Large Language Model Editing](http://arxiv.org/abs/2505.15702v2)** | 2025-10-26 | EMNLP 2025 main |
@@ -40,11 +41,12 @@ labels: documentation
 | **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
 | **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This version has been temporarily withdrawn for procedural review purposes. The withdrawal is unrelated to the technical content of the paper</p></details> |
-| **[EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](http://arxiv.org/abs/2508.04012v2)** | 2025-10-14 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v4)** | 2025-10-30 | <details><summary>add b...</summary><p>add baselines, add source code link, update emails</p></details> |
+| **[GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in GUI Tasks](http://arxiv.org/abs/2510.26098v1)** | 2025-10-30 |  |
 | **[Mano Technical Report](http://arxiv.org/abs/2509.17336v2)** | 2025-10-28 |  |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](http://arxiv.org/abs/2510.24411v1)** | 2025-10-28 | work in progress |
 | **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](http://arxiv.org/abs/2510.24168v1)** | 2025-10-28 | Submitted to WWW2025 |
@@ -58,12 +60,11 @@ labels: documentation
 | **[FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](http://arxiv.org/abs/2509.01052v2)** | 2025-10-15 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main. Project page: https://ahnjaewoo.github.io/flashadventure</p></details> |
 | **[GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning](http://arxiv.org/abs/2505.12493v3)** | 2025-10-10 |  |
 | **[Auto-scaling Continuous Memory for GUI Agent](http://arxiv.org/abs/2510.09038v1)** | 2025-10-10 |  |
-| **[ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation](http://arxiv.org/abs/2510.07988v1)** | 2025-10-09 |  |
-| **[PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](http://arxiv.org/abs/2510.00413v2)** | 2025-10-04 | Under Review |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v2)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](http://arxiv.org/abs/2510.20487v2)** | 2025-10-27 |  |
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v3)** | 2025-10-25 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 3 tables</p></details> |
 | **[SteerX: Disentangled Steering for LLM Personalization](http://arxiv.org/abs/2510.22256v1)** | 2025-10-25 |  |
@@ -78,11 +79,15 @@ labels: documentation
 | **[Transmuting prompts into weights](http://arxiv.org/abs/2510.08734v1)** | 2025-10-09 |  |
 | **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](http://arxiv.org/abs/2510.06700v1)** | 2025-10-08 |  |
 | **[Prototype-Based Dynamic Steering for Large Language Models](http://arxiv.org/abs/2510.05498v1)** | 2025-10-07 |  |
-| **[Activation Steering with a Feedback Controller](http://arxiv.org/abs/2510.04309v1)** | 2025-10-05 | <details><summary>9 pag...</summary><p>9 pages in the main text. Under Review</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model](http://arxiv.org/abs/2510.26622v1)** | 2025-10-30 | <details><summary>The s...</summary><p>The scaling study inspiring T5Gemma</p></details> |
+| **[RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation](http://arxiv.org/abs/2502.08271v2)** | 2025-10-30 |  |
+| **[1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models](http://arxiv.org/abs/2510.26446v1)** | 2025-10-30 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, EMNLP 2025 findings</p></details> |
+| **[HyGen: Efficient LLM Serving via Elastic Online-Offline Request Co-location](http://arxiv.org/abs/2501.14808v4)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 21 pages, 17 figures</p></details> |
+| **[A Survey on Efficient Large Language Model Training: From Data-centric Perspectives](http://arxiv.org/abs/2510.25817v1)** | 2025-10-29 | ACL 2025 |
 | **[GPTOpt: Towards Efficient LLM-Based Black-Box Optimization](http://arxiv.org/abs/2510.25404v1)** | 2025-10-29 |  |
 | **[S'MoRE: Structural Mixture of Residual Experts for Parameter-Efficient LLM Fine-tuning](http://arxiv.org/abs/2504.06426v2)** | 2025-10-29 | NeurIPS 2025 |
 | **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](http://arxiv.org/abs/2509.16989v2)** | 2025-10-28 | under review |
@@ -93,9 +98,4 @@ labels: documentation
 | **[TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](http://arxiv.org/abs/2510.22767v1)** | 2025-10-26 |  |
 | **[SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training](http://arxiv.org/abs/2505.24749v2)** | 2025-10-25 |  |
 | **[Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning](http://arxiv.org/abs/2505.13866v2)** | 2025-10-24 |  |
-| **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](http://arxiv.org/abs/2503.05179v4)** | 2025-10-24 | EMNLP 2025 |
-| **[Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples](http://arxiv.org/abs/2510.20800v1)** | 2025-10-23 |  |
-| **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](http://arxiv.org/abs/2510.19669v1)** | 2025-10-22 |  |
-| **[Energy-Efficient and Dequantization-Free Q-LLMs: A Spiking Neural Network Approach to Salient Value Mitigation](http://arxiv.org/abs/2510.19498v1)** | 2025-10-22 |  |
-| **[Q-Palette: Fractional-Bit Quantizers Toward Optimal Bit Allocation for Efficient LLM Deployment](http://arxiv.org/abs/2509.20214v2)** | 2025-10-22 | NeurIPS 2025 |
 
