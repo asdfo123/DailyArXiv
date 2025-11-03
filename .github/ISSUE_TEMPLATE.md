@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
 | **[STEAM: A Semantic-Level Knowledge Editing Framework for Large Language Models](http://arxiv.org/abs/2510.10398v1)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](http://arxiv.org/abs/2510.13851v1)** | 2025-10-11 |  |
-| **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v3)** | 2025-10-10 |  |
-| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](http://arxiv.org/abs/2510.07896v1)** | 2025-10-09 |  |
-| **[From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v2)** | 2025-10-08 | preprint |
-| **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
-| **[When Disagreements Elicit Robustness: Investigating Self-Repair Capabilities under LLM Multi-Agent Disagreements](http://arxiv.org/abs/2502.15153v2)** | 2025-10-02 | Working in progress |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -47,7 +42,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](http://arxiv.org/abs/2503.15937v4)** | 2025-10-30 | <details><summary>add b...</summary><p>add baselines, add source code link, update emails</p></details> |
 | **[GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in GUI Tasks](http://arxiv.org/abs/2510.26098v1)** | 2025-10-30 |  |
-| **[Mano Technical Report](http://arxiv.org/abs/2509.17336v2)** | 2025-10-28 |  |
+| **[Mano Technical Report](http://arxiv.org/abs/2509.17336v3)** | 2025-10-31 |  |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](http://arxiv.org/abs/2510.24411v1)** | 2025-10-28 | work in progress |
 | **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](http://arxiv.org/abs/2510.24168v1)** | 2025-10-28 | Submitted to WWW2025 |
 | **[BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent](http://arxiv.org/abs/2509.15566v4)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
