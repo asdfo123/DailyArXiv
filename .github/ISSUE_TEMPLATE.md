@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Exploration of Knowledge Editing for Arabic](http://arxiv.org/abs/2507.09629v2)** | 2025-11-02 |  |
+| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](http://arxiv.org/abs/2505.14393v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[Balancing Knowledge Updates: Toward Unified Modular Editing in LLMs](http://arxiv.org/abs/2510.27400v1)** | 2025-10-31 |  |
 | **[MemEIC: A Step Toward Continual and Compositional Knowledge Editing](http://arxiv.org/abs/2510.25798v1)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 38 pages, 8 figures</p></details> |
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](http://arxiv.org/abs/2510.19457v2)** | 2025-10-28 | <details><summary>proje...</summary><p>project page:https://mined-lmm.github.io/</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](http://arxiv.org/abs/2510.13851v1)** | 2025-10-11 |  |
 | **[AnyEdit: Edit Any Knowledge Encoded in Language Models](http://arxiv.org/abs/2502.05628v3)** | 2025-10-10 |  |
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](http://arxiv.org/abs/2510.07896v1)** | 2025-10-09 |  |
-| **[From Injection to Defense: Constructing Edit-Based Fingerprints for Large Language Models](http://arxiv.org/abs/2509.03122v2)** | 2025-10-08 | preprint |
-| **[Aligning Language Models with Real-time Knowledge Editing](http://arxiv.org/abs/2508.01302v2)** | 2025-10-07 | Pre-print |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](http://arxiv.org/abs/2505.14393v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 | **[Robust GNN Watermarking via Implicit Perception of Topological Invariants](http://arxiv.org/abs/2510.25934v1)** | 2025-10-29 |  |
 | **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v3)** | 2025-10-28 |  |
 | **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLMs](http://arxiv.org/abs/2510.23891v1)** | 2025-10-27 |  |
@@ -35,12 +37,10 @@ labels: documentation
 | **[EditMark: Watermarking Large Language Models based on Model Editing](http://arxiv.org/abs/2510.16367v1)** | 2025-10-18 |  |
 | **[STABLE: Gated Continual Learning for Large Language Models](http://arxiv.org/abs/2510.16089v1)** | 2025-10-17 |  |
 | **[Exploring and Leveraging Class Vectors for Classifier Editing](http://arxiv.org/abs/2510.11268v2)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](http://arxiv.org/abs/2510.13462v1)** | 2025-10-15 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
 | **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
 | **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
-| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](http://arxiv.org/abs/2503.07392v3)** | 2025-10-14 | <details><summary>This ...</summary><p>This version has been temporarily withdrawn for procedural review purposes. The withdrawal is unrelated to the technical content of the paper</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v2)** | 2025-11-02 | NeurIPS 2025 |
+| **[Transferring Linear Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v3)** | 2025-11-01 |  |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v2)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](http://arxiv.org/abs/2510.20487v2)** | 2025-10-27 |  |
 | **[EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering](http://arxiv.org/abs/2508.03543v3)** | 2025-10-25 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 3 tables</p></details> |
@@ -77,12 +79,11 @@ labels: documentation
 | **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v2)** | 2025-10-14 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](http://arxiv.org/abs/2509.15888v3)** | 2025-10-12 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Transmuting prompts into weights](http://arxiv.org/abs/2510.08734v1)** | 2025-10-09 |  |
-| **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](http://arxiv.org/abs/2510.06700v1)** | 2025-10-08 |  |
-| **[Prototype-Based Dynamic Steering for Large Language Models](http://arxiv.org/abs/2510.05498v1)** | 2025-10-07 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](http://arxiv.org/abs/2510.12872v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted for publication in NeurIPS2025. Code is available at \url{https://github.com/FastMAS/KVCOMM}</p></details> |
 | **[HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving](http://arxiv.org/abs/2504.10724v2)** | 2025-10-31 |  |
 | **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](http://arxiv.org/abs/2510.19669v2)** | 2025-10-30 |  |
 | **[Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model](http://arxiv.org/abs/2510.26622v1)** | 2025-10-30 | <details><summary>The s...</summary><p>The scaling study inspiring T5Gemma</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts](http://arxiv.org/abs/2510.23990v1)** | 2025-10-28 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 | **[Bilevel ZOFO: Bridging Parameter-Efficient and Zeroth-Order Techniques for Efficient LLM Fine-Tuning and Meta-Training](http://arxiv.org/abs/2502.03604v2)** | 2025-10-27 |  |
 | **[Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](http://arxiv.org/abs/2502.14305v2)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Industry Track - Oral Presentation</p></details> |
-| **[TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](http://arxiv.org/abs/2510.22767v1)** | 2025-10-26 |  |
 
