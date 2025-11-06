@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Singular Damage: Efficient LLM Inference in Low Storage Regimes](http://arxiv.org/abs/2511.02681v1)** | 2025-11-04 |  |
+| **[TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance](http://arxiv.org/abs/2503.24198v2)** | 2025-11-04 |  |
+| **[KV Cache Transform Coding for Compact Storage in LLM Inference](http://arxiv.org/abs/2511.01815v1)** | 2025-11-03 |  |
+| **[Scaling Graph Chain-of-Thought Reasoning: A Multi-Agent Framework with Efficient LLM Serving](http://arxiv.org/abs/2511.01633v1)** | 2025-11-03 |  |
 | **[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](http://arxiv.org/abs/2510.12872v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted for publication in NeurIPS2025. Code is available at \url{https://github.com/FastMAS/KVCOMM}</p></details> |
 | **[HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving](http://arxiv.org/abs/2504.10724v2)** | 2025-10-31 |  |
 | **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](http://arxiv.org/abs/2510.19669v2)** | 2025-10-30 |  |
@@ -93,9 +97,5 @@ labels: documentation
 | **[A Survey on Efficient Large Language Model Training: From Data-centric Perspectives](http://arxiv.org/abs/2510.25817v1)** | 2025-10-29 | ACL 2025 |
 | **[GPTOpt: Towards Efficient LLM-Based Black-Box Optimization](http://arxiv.org/abs/2510.25404v1)** | 2025-10-29 |  |
 | **[S'MoRE: Structural Mixture of Residual Experts for Parameter-Efficient LLM Fine-tuning](http://arxiv.org/abs/2504.06426v2)** | 2025-10-29 | NeurIPS 2025 |
-| **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](http://arxiv.org/abs/2509.16989v2)** | 2025-10-28 | under review |
-| **[Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](http://arxiv.org/abs/2506.05316v3)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Resource-Efficient LLM Application for Structured Transformation of Unstructured Financial Contracts](http://arxiv.org/abs/2510.23990v1)** | 2025-10-28 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
-| **[Bilevel ZOFO: Bridging Parameter-Efficient and Zeroth-Order Techniques for Efficient LLM Fine-Tuning and Meta-Training](http://arxiv.org/abs/2502.03604v2)** | 2025-10-27 |  |
-| **[Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](http://arxiv.org/abs/2502.14305v2)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Industry Track - Oral Presentation</p></details> |
+| **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](http://arxiv.org/abs/2511.00056v1)** | 2025-10-28 |  |
 
