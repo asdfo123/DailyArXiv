@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -66,7 +66,7 @@ labels: documentation
 | --- | --- | --- |
 | **[But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v2)** | 2025-11-06 |  |
 | **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v3)** | 2025-11-06 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v2)** | 2025-11-05 |  |
+| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v3)** | 2025-11-07 |  |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v2)** | 2025-11-02 | NeurIPS 2025 |
 | **[Transferring Linear Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v3)** | 2025-11-01 |  |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v2)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
@@ -93,4 +93,9 @@ labels: documentation
 | **[KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](http://arxiv.org/abs/2510.12872v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted for publication in NeurIPS2025. Code is available at \url{https://github.com/FastMAS/KVCOMM}</p></details> |
 | **[HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving](http://arxiv.org/abs/2504.10724v2)** | 2025-10-31 |  |
 | **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](http://arxiv.org/abs/2510.19669v2)** | 2025-10-30 |  |
+| **[Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model](http://arxiv.org/abs/2510.26622v1)** | 2025-10-30 | <details><summary>The s...</summary><p>The scaling study inspiring T5Gemma</p></details> |
+| **[RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation](http://arxiv.org/abs/2502.08271v2)** | 2025-10-30 |  |
+| **[1+1>2: A Synergistic Sparse and Low-Rank Compression Method for Large Language Models](http://arxiv.org/abs/2510.26446v1)** | 2025-10-30 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, EMNLP 2025 findings</p></details> |
+| **[HyGen: Efficient LLM Serving via Elastic Online-Offline Request Co-location](http://arxiv.org/abs/2501.14808v4)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 21 pages, 17 figures</p></details> |
+| **[A Survey on Efficient Large Language Model Training: From Data-centric Perspectives](http://arxiv.org/abs/2510.25817v1)** | 2025-10-29 | ACL 2025 |
 
