@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bilinear relational structure fixes reversal curse and enables consistent model editing](http://arxiv.org/abs/2509.21993v2)** | 2025-11-07 | 9 pages |
 | **[Understanding Robustness of Model Editing in Code LLMs: An Empirical Study](http://arxiv.org/abs/2511.03182v1)** | 2025-11-05 | <details><summary>26 pa...</summary><p>26 pages, 2 figures, 15 tables</p></details> |
 | **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](http://arxiv.org/abs/2505.14393v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Exploring and Leveraging Class Vectors for Classifier Editing](http://arxiv.org/abs/2510.11268v2)** | 2025-10-17 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers](http://arxiv.org/abs/2510.13462v1)** | 2025-10-15 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](http://arxiv.org/abs/2510.02392v2)** | 2025-10-14 | Technical report |
-| **[ECMSim: A high-performance web simulation of cardiac ECM remodeling through integrated ODE-based signaling and diffusion](http://arxiv.org/abs/2510.12577v1)** | 2025-10-14 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,10 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v3)** | 2025-11-07 |  |
+| **[Minimal and Mechanistic Conditions for Behavioral Self-Awareness in LLMs](http://arxiv.org/abs/2511.04875v2)** | 2025-11-10 |  |
 | **[But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](http://arxiv.org/abs/2505.17760v2)** | 2025-11-06 |  |
 | **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2510.11190v3)** | 2025-11-06 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[CASteer: Steering Diffusion Models for Controllable Generation](http://arxiv.org/abs/2503.09630v3)** | 2025-11-07 |  |
 | **[Learning to Steer: Input-dependent Steering for Multimodal LLMs](http://arxiv.org/abs/2508.12815v2)** | 2025-11-02 | NeurIPS 2025 |
 | **[Transferring Linear Features Across Language Models With Model Stitching](http://arxiv.org/abs/2506.06609v3)** | 2025-11-01 |  |
 | **[Controlling Thinking Speed in Reasoning Models](http://arxiv.org/abs/2507.03704v2)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Annotating the Chain-of-Thought: A Behavior-Labeled Dataset for AI Safety](http://arxiv.org/abs/2510.18154v1)** | 2025-10-20 |  |
 | **[Navigating through the hidden embedding space: steering LLMs to improve mental health assessment](http://arxiv.org/abs/2510.16373v1)** | 2025-10-18 |  |
 | **[Echoes of BERT: Do Modern Language Models Rediscover the Classical NLP Pipeline?](http://arxiv.org/abs/2506.02132v4)** | 2025-10-15 |  |
-| **[Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module](http://arxiv.org/abs/2510.13558v1)** | 2025-10-15 | <details><summary>5 pag...</summary><p>5 pages, 1 figures. Code is available at: https://github.com/forfrt/SteerMoE. Submitted to ICASSP 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
