@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,14 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One algebra for all : Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering](https://arxiv.org/abs/2511.15398v1)** | 2025-11-19 | 10 pages, 9 Figures |
+| **[ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing](https://arxiv.org/abs/2511.15266v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accept to AAAI 2026 Main Track</p></details> |
+| **[Step-Audio-EditX Technical Report](https://arxiv.org/abs/2511.03601v2)** | 2025-11-19 |  |
+| **[FinCriticalED: A Visual Benchmark for Financial Fact-Level OCR Evaluation](https://arxiv.org/abs/2511.14998v1)** | 2025-11-19 | <details><summary>Yueru...</summary><p>Yueru He, Xueqing Peng: These two authors contributed equally to this work</p></details> |
+| **[InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization](https://arxiv.org/abs/2511.14899v1)** | 2025-11-18 |  |
+| **[Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917v2)** | 2025-11-18 | <details><summary>Plan ...</summary><p>Plan to resubmit after significant revisions</p></details> |
+| **[UniGen-1.5: Enhancing Image Generation and Editing through Reward Unification in Reinforcement Learning](https://arxiv.org/abs/2511.14760v1)** | 2025-11-18 |  |
+| **[StrokeFusion: Vector Sketch Generation via Joint Stroke-UDF Encoding and Latent Sequence Diffusion](https://arxiv.org/abs/2503.23752v4)** | 2025-11-18 |  |
 | **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[Task Addition and Weight Disentanglement in Closed-Vocabulary Models](https://arxiv.org/abs/2511.14569v1)** | 2025-11-18 |  |
 | **[MedGEN-Bench: Contextually entangled benchmark for open-ended multimodal medical generation](https://arxiv.org/abs/2511.13135v2)** | 2025-11-18 | <details><summary>CVPR ...</summary><p>CVPR 2026 Under Review</p></details> |
@@ -33,18 +41,13 @@ labels: documentation
 | **[ArbESC+: Arabic Enhanced Edit Selection System Combination for Grammatical Error Correction Resolving conflict and improving system combination in Arabic GEC](https://arxiv.org/abs/2511.14230v1)** | 2025-11-18 | 26 pages |
 | **[InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](https://arxiv.org/abs/2511.14208v1)** | 2025-11-18 |  |
 | **[MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers](https://arxiv.org/abs/2511.04376v3)** | 2025-11-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline](https://arxiv.org/abs/2511.13442v2)** | 2025-11-18 |  |
-| **[UniSER: A Foundation Model for Unified Soft Effects Removal](https://arxiv.org/abs/2511.14183v1)** | 2025-11-18 |  |
-| **[MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/abs/2511.09611v3)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project Page: https://tyfeld.github.io/mmadaparellel.github.io/</p></details> |
-| **[The Promise of RL for Autoregressive Image Editing](https://arxiv.org/abs/2508.01119v3)** | 2025-11-18 |  |
-| **[Text-Driven Reasoning Video Editing via Reinforcement Learning on Digital Twin Representations](https://arxiv.org/abs/2511.14100v1)** | 2025-11-18 |  |
-| **[Error-Driven Scene Editing for 3D Grounding in Large Language Models](https://arxiv.org/abs/2511.14086v1)** | 2025-11-18 | <details><summary>Code:...</summary><p>Code: https://github.com/zhangyuejoslin/Deer-3D</p></details> |
-| **[Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models](https://arxiv.org/abs/2511.08252v3)** | 2025-11-18 | AAAI 2026 (Oral) |
-| **[Semantic Context Matters: Improving Conditioning for Autoregressive Models](https://arxiv.org/abs/2511.14063v1)** | 2025-11-18 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agent-SAMA: State-Aware Mobile Assistant](https://arxiv.org/abs/2505.23596v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI-26 (Main Technical Track)</p></details> |
+| **[Computer-Use Agents as Judges for Generative User Interface](https://arxiv.org/abs/2511.15567v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project: https://showlab.github.io/AUI Github: https://github.com/showlab/AUI</p></details> |
+| **[TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](https://arxiv.org/abs/2504.12679v3)** | 2025-11-19 | AAAI 2026 |
 | **[LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838v3)** | 2025-11-17 | <details><summary>Paper...</summary><p>Paper accepted to TMLR 2025, Project Homepage: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents</p></details> |
 | **[KForge: Program Synthesis for Diverse AI Hardware Accelerators](https://arxiv.org/abs/2511.13274v1)** | 2025-11-17 | <details><summary>Under...</summary><p>Under review at MLSys 2026</p></details> |
 | **[DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents](https://arxiv.org/abs/2511.13248v1)** | 2025-11-17 |  |
@@ -57,9 +60,6 @@ labels: documentation
 | **[History-Aware Reasoning for GUI Agents](https://arxiv.org/abs/2511.09127v1)** | 2025-11-12 | <details><summary>Paper...</summary><p>Paper accepted to AAAI 2026</p></details> |
 | **[Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds](https://arxiv.org/abs/2511.08892v1)** | 2025-11-12 |  |
 | **[OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents](https://arxiv.org/abs/2510.24563v2)** | 2025-11-11 |  |
-| **[GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://arxiv.org/abs/2511.00810v2)** | 2025-11-10 |  |
-| **[GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://arxiv.org/abs/2511.04307v2)** | 2025-11-10 |  |
-| **[AUTO-Explorer: Automated Data Collection for GUI Agent](https://arxiv.org/abs/2511.06417v1)** | 2025-11-09 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,19 +83,19 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoTool: Efficient Tool Selection for Large Language Model Agents](https://arxiv.org/abs/2511.14650v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026, 18 pages, 11 figures, Code: https://github.com/jiajingyyyyyy/AutoTool</p></details> |
-| **[Quartet: Native FP4 Training Can Be Optimal for Large Language Models](https://arxiv.org/abs/2505.14669v3)** | 2025-11-18 |  |
-| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
-| **[Seer: Online Context Learning for Fast Synchronous LLM Reinforcement Learning](https://arxiv.org/abs/2511.14617v1)** | 2025-11-18 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 6 tables</p></details> |
-| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v2)** | 2025-11-18 | Technical Report |
-| **[GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](https://arxiv.org/abs/2506.15681v2)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/GenRecal-page/</p></details> |
-| **[Masked IRL: LLM-Guided Reward Disambiguation from Demonstrations and Language](https://arxiv.org/abs/2511.14565v1)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[CLO: Efficient LLM Inference System with CPU-Light KVCache Offloading via Algorithm-System Co-Design](https://arxiv.org/abs/2511.14510v1)** | 2025-11-18 |  |
-| **[O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593v2)** | 2025-11-18 |  |
-| **[SpecEdge: Scalable Edge-Assisted Serving Framework for Interactive LLMs](https://arxiv.org/abs/2505.17052v2)** | 2025-11-18 |  |
-| **[When Words Change the Model: Sensitivity of LLMs for Constraint Programming Modelling](https://arxiv.org/abs/2511.14334v1)** | 2025-11-18 |  |
-| **[Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning](https://arxiv.org/abs/2511.14249v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models](https://arxiv.org/abs/2505.14454v2)** | 2025-11-18 | EMNLP 2025 main |
-| **[LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls](https://arxiv.org/abs/2511.09148v2)** | 2025-11-18 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/Rednote-DeepExperience/LoopTool. The LoopTool-8B is accessible at https://huggingface.co/zhuiguang-ning/LoopTool-8B</p></details> |
+| **[Insights from the ICLR Peer Review and Rebuttal Process](https://arxiv.org/abs/2511.15462v1)** | 2025-11-19 |  |
+| **[Retrieval Augmented Generation based context discovery for ASR](https://arxiv.org/abs/2509.19567v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs](https://arxiv.org/abs/2511.15434v1)** | 2025-11-19 |  |
+| **[A Data-driven ML Approach for Maximizing Performance in LLM-Adapter Serving](https://arxiv.org/abs/2508.08343v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in a computer science workshop</p></details> |
+| **[Cortex AISQL: A Production SQL Engine for Unstructured Data](https://arxiv.org/abs/2511.07663v2)** | 2025-11-19 |  |
+| **[S-DAG: A Subject-Based Directed Acyclic Graph for Multi-Agent Heterogeneous Reasoning](https://arxiv.org/abs/2511.06727v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[DEPO: Dual-Efficiency Preference Optimization for LLM Agents](https://arxiv.org/abs/2511.15392v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[A Compliance-Preserving Retrieval System for Aircraft MRO Task Search](https://arxiv.org/abs/2511.15383v1)** | 2025-11-19 |  |
+| **[Harli: SLO-Aware Co-location of LLM Inference and PEFT-based Finetuning on Model-as-a-Service Platforms](https://arxiv.org/abs/2511.11729v2)** | 2025-11-19 |  |
+| **[ReFactX: Scalable Reasoning with Reliable Facts via Constrained Generation](https://arxiv.org/abs/2508.16983v2)** | 2025-11-19 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, accepted at ISWC</p></details> |
+| **[When Words Change the Model: Sensitivity of LLMs for Constraint Programming Modelling](https://arxiv.org/abs/2511.14334v2)** | 2025-11-19 |  |
+| **[Leveraging the Power of Large Language Models in Entity Linking via Adaptive Routing and Targeted Reasoning](https://arxiv.org/abs/2510.20098v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Industry Track</p></details> |
+| **[EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248v1)** | 2025-11-19 |  |
+| **[Assemble Your Crew: Automatic Multi-agent Communication Topology Design via Autoregressive Graph Generation](https://arxiv.org/abs/2507.18224v4)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted as an oral presentation by AAAI 2026</p></details> |
+| **[Tasa: Thermal-aware 3D-Stacked Architecture Design with Bandwidth Sharing for LLM Inference](https://arxiv.org/abs/2508.07252v3)** | 2025-11-19 |  |
 
