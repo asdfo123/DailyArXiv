@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/abs/2511.21688v1)** | 2025-11-26 | <details><summary>code ...</summary><p>code are released at https://github.com/InternRobotics/G2VLM</p></details> |
+| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
+| **[TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data](https://arxiv.org/abs/2511.21600v1)** | 2025-11-26 |  |
 | **[A Gray-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse](https://arxiv.org/abs/2408.10901v4)** | 2025-11-26 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 9 tables</p></details> |
 | **[Multi-Agent Systems for Dataset Adaptation in Software Engineering: Capabilities, Limitations, and Future Directions](https://arxiv.org/abs/2511.21380v1)** | 2025-11-26 |  |
 | **[Towards Consistent and Controllable Image Synthesis for Face Editing](https://arxiv.org/abs/2502.02465v3)** | 2025-11-26 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[MUSE: Manipulating Unified Framework for Synthesizing Emotions in Images via Test-Time Optimization](https://arxiv.org/abs/2511.21051v1)** | 2025-11-26 |  |
 | **[FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation](https://arxiv.org/abs/2511.21029v1)** | 2025-11-26 |  |
 | **[CameraMaster: Unified Camera Semantic-Parameter Control for Photography Retouching](https://arxiv.org/abs/2511.21024v1)** | 2025-11-26 |  |
-| **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v2)** | 2025-11-26 |  |
-| **[Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v1)** | 2025-11-26 |  |
-| **[From Inpainting to Layer Decomposition: Repurposing Generative Inpainting Models for Image Layer Decomposition](https://arxiv.org/abs/2511.20996v1)** | 2025-11-26 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](https://arxiv.org/abs/2511.16595v2)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project page: https://xuboshen.github.io/TimeViper; Code: https://github.com/xiaomi-research/timeviper</p></details> |
+| **[Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining](https://arxiv.org/abs/2511.21613v1)** | 2025-11-26 |  |
+| **[Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding](https://arxiv.org/abs/2511.01695v3)** | 2025-11-26 |  |
 | **[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746v5)** | 2025-11-26 |  |
 | **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v2)** | 2025-11-26 |  |
 | **[MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning](https://arxiv.org/abs/2511.21460v1)** | 2025-11-26 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[CLLMRec: LLM-powered Cognitive-Aware Concept Recommendation via Semantic Alignment and Prerequisite Knowledge Distillation](https://arxiv.org/abs/2511.17041v2)** | 2025-11-26 |  |
 | **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866v3)** | 2025-11-26 | Work in progress |
 | **[Enhancing Training Data Attribution with Representational Optimization](https://arxiv.org/abs/2505.18513v2)** | 2025-11-26 | NeurIPS 2025 |
-| **[How to Correctly Report LLM-as-a-Judge Evaluations](https://arxiv.org/abs/2511.21140v1)** | 2025-11-26 |  |
-| **[AutoDiscovery: Open-ended Scientific Discovery via Bayesian Surprise](https://arxiv.org/abs/2507.00310v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025; https://neurips.cc/virtual/2025/loc/san-diego/poster/116398</p></details> |
-| **[Beyond Patch Aggregation: 3-Pass Pyramid Indexing for Vision-Enhanced Document Retrieval](https://arxiv.org/abs/2511.21121v1)** | 2025-11-26 |  |
 
