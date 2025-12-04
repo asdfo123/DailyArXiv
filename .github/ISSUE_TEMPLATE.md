@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration](https://arxiv.org/abs/2512.02981v1)** | 2025-12-02 | <details><summary>Publi...</summary><p>Published in AAAI 2026</p></details> |
-| **[GAPO: Robust Advantage Estimation for Real-World Code LLMs](https://arxiv.org/abs/2510.21830v3)** | 2025-12-02 |  |
-| **[An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/abs/2512.02689v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in PACLIC 2025</p></details> |
-| **[Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](https://arxiv.org/abs/2512.02650v1)** | 2025-12-02 |  |
-| **[PPTBench: Towards Holistic Evaluation of Large Language Models for PowerPoint Layout and Design Understanding](https://arxiv.org/abs/2512.02624v1)** | 2025-12-02 |  |
-| **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589v1)** | 2025-12-02 |  |
-| **[Walk Before You Dance: High-fidelity and Editable Dance Synthesis via Generative Masked Motion Prior](https://arxiv.org/abs/2504.04634v3)** | 2025-12-02 |  |
-| **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v2)** | 2025-12-02 |  |
-| **[TaleFrame: An Interactive Story Generation System with Fine-Grained Control and Large Language Models](https://arxiv.org/abs/2512.02402v1)** | 2025-12-02 | 11 pages |
-| **[Rainbow Noise: Stress-Testing Multimodal Harmful-Meme Detectors on LGBTQ Content](https://arxiv.org/abs/2507.19551v3)** | 2025-12-02 | 14 pages, 1 figure |
-| **[LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences](https://arxiv.org/abs/2508.03692v3)** | 2025-12-02 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral Presentation; 38 pages, 18 figures, 12 tables; Project Page at https://lidarcrafter.github.io</p></details> |
-| **[Enhancing Cross Domain SAR Oil Spill Segmentation via Morphological Region Perturbation and Synthetic Label-to-SAR Generation](https://arxiv.org/abs/2512.02290v1)** | 2025-12-02 |  |
-| **[DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction](https://arxiv.org/abs/2512.02263v1)** | 2025-12-01 |  |
-| **[B-repLer: Language-guided Editing of CAD Models](https://arxiv.org/abs/2508.10201v2)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project page: https://yilinliu77.github.io/brepler.github.io/</p></details> |
-| **[Generative AI in Sociological Research: State of the Discipline](https://arxiv.org/abs/2511.16884v2)** | 2025-12-01 |  |
+| **[DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment](https://arxiv.org/abs/2512.03981v1)** | 2025-12-03 |  |
+| **[Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence](https://arxiv.org/abs/2512.03905v1)** | 2025-12-03 | <details><summary>Code:...</summary><p>Code: https://github.com/Sunnycookies/FRESCO-v2, Project: https://williamyang1991.github.io/projects/FRESCOv2/</p></details> |
+| **[Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code](https://arxiv.org/abs/2512.02170v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to EACL 2026 Demo Track</p></details> |
+| **[GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces](https://arxiv.org/abs/2512.03683v1)** | 2025-12-03 |  |
+| **[Can VLMs Detect and Localize Fine-Grained AI-Edited Images?](https://arxiv.org/abs/2505.15644v2)** | 2025-12-03 | 14pages,19 figures |
+| **[Global-Local Aware Scene Text Editing](https://arxiv.org/abs/2512.03574v1)** | 2025-12-03 |  |
+| **[Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](https://arxiv.org/abs/2512.03463v1)** | 2025-12-03 |  |
+| **[ViDiC: Video Difference Captioning](https://arxiv.org/abs/2512.03405v1)** | 2025-12-03 |  |
+| **[FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation](https://arxiv.org/abs/2512.03350v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://yuyuanspace.com/SeeU/</p></details> |
+| **[DAWZY: A New Addition to AI powered "Human in the Loop" Music Co-creation](https://arxiv.org/abs/2512.03289v1)** | 2025-12-02 |  |
+| **[PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement](https://arxiv.org/abs/2512.03247v1)** | 2025-12-02 | <details><summary>Publi...</summary><p>Published in the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying](https://arxiv.org/abs/2508.03142v2)** | 2025-12-02 |  |
+| **[MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues](https://arxiv.org/abs/2512.03046v1)** | 2025-12-02 | <details><summary>Code ...</summary><p>Code and demo available at https://magicquill.art/v2/</p></details> |
+| **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,19 +83,19 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SkyLadder: Better and Faster Pretraining via Context Window Scheduling](https://arxiv.org/abs/2503.15450v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. 10 pages</p></details> |
-| **[HLPD: Aligning LLMs to Human Language Preference for Machine-Revised Text Detection](https://arxiv.org/abs/2511.06942v3)** | 2025-12-02 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, accepted by AAAI'26</p></details> |
-| **[Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation](https://arxiv.org/abs/2405.13068v3)** | 2025-12-02 |  |
-| **[CoT-X: An Adaptive Framework for Cross-Model Chain-of-Thought Transfer and Optimization](https://arxiv.org/abs/2511.05747v2)** | 2025-12-02 | TKDD 2025 |
-| **[FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization](https://arxiv.org/abs/2512.02901v1)** | 2025-12-02 | 15 pages, 3 figures |
-| **[OptPO: Optimal Rollout Allocation for Test-time Policy Optimization](https://arxiv.org/abs/2512.02882v1)** | 2025-12-02 | Work in Progress |
-| **[Data-Semantics-Aware Recommendation of Diverse Pivot Tables](https://arxiv.org/abs/2507.06171v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
-| **[Network Self-Configuration based on Fine-Tuned Small Language Models](https://arxiv.org/abs/2512.02861v1)** | 2025-12-02 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 3 tables</p></details> |
-| **[PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs](https://arxiv.org/abs/2312.15230v4)** | 2025-12-02 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 24 tables</p></details> |
-| **[A Comparative Study on How Data Normalization Affects Zero-Shot Generalization in Time Series Foundation Models](https://arxiv.org/abs/2512.02833v1)** | 2025-12-02 |  |
-| **[Phase-Adaptive LLM Framework with Multi-Stage Validation for Construction Robot Task Allocation: A Systematic Benchmark Against Traditional Optimization Algorithms](https://arxiv.org/abs/2512.02810v1)** | 2025-12-02 |  |
-| **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
-| **[Adaptive Prediction-Powered AutoEval with Reliability and Efficiency Guarantees](https://arxiv.org/abs/2505.18659v2)** | 2025-12-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (spotlight)</p></details> |
-| **[PEFT-Factory: Unified Parameter-Efficient Fine-Tuning of Autoregressive Large Language Models](https://arxiv.org/abs/2512.02764v1)** | 2025-12-02 |  |
-| **[GAPO: Robust Advantage Estimation for Real-World Code LLMs](https://arxiv.org/abs/2510.21830v3)** | 2025-12-02 |  |
+| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
+| **[Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study](https://arxiv.org/abs/2512.04031v1)** | 2025-12-03 | 10 pages, 5 figures |
+| **[AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving](https://arxiv.org/abs/2512.04013v1)** | 2025-12-03 |  |
+| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v2)** | 2025-12-03 | 10 pages, 5 figures |
+| **[Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](https://arxiv.org/abs/2512.03994v1)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to the AAAI 2026 Deployable AI (DAI) Workshop</p></details> |
+| **[Sponsored Questions and How to Auction Them](https://arxiv.org/abs/2512.03975v1)** | 2025-12-03 |  |
+| **[SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235v2)** | 2025-12-03 |  |
+| **[UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework](https://arxiv.org/abs/2512.03918v1)** | 2025-12-03 | <details><summary>https...</summary><p>https://carlyx.github.io/UniMo/</p></details> |
+| **[Reconstructing KV Caches with Cross-layer Fusion For Enhanced Transformers](https://arxiv.org/abs/2512.03870v1)** | 2025-12-03 | under review |
+| **[Uncertainty Quantification for LLMs through Minimum Bayes Risk: Bridging Confidence and Consistency](https://arxiv.org/abs/2502.04964v5)** | 2025-12-03 |  |
+| **[Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in $\{\pm 1, \pm i\}$](https://arxiv.org/abs/2512.02901v2)** | 2025-12-03 | 15 pages, 3 figures |
+| **[RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/abs/2512.03762v1)** | 2025-12-03 |  |
+| **[AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation](https://arxiv.org/abs/2512.03737v1)** | 2025-12-03 |  |
+| **[Tutorial on Large Language Model-Enhanced Reinforcement Learning for Wireless Networks](https://arxiv.org/abs/2512.03722v1)** | 2025-12-03 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, survey paper</p></details> |
+| **[FFTrainer: Fast Failover in Large-Language Model Training with Almost-Free State Management](https://arxiv.org/abs/2512.03644v1)** | 2025-12-03 |  |
 
