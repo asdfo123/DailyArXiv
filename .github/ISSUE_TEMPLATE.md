@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Clinical Note Generation with ICD-10, Clinical Ontology Knowledge Graphs, and Chain-of-Thought Prompting Using GPT-4](https://arxiv.org/abs/2512.05256v1)** | 2025-12-04 |  |
-| **[DEAR: Dataset for Evaluating the Aesthetics of RenderingDEAR: Dataset for Evaluating the Aesthetics of Rendering](https://arxiv.org/abs/2512.05209v1)** | 2025-12-04 |  |
+| **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
 | **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v1)** | 2025-12-04 |  |
 | **[EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545v1)** | 2025-12-04 |  |
-| **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v1)** | 2025-12-03 |  |
-| **[UnicEdit-10M: A Dataset and Benchmark Breaking the Scale-Quality Barrier via Unified Verification for Reasoning-Enriched Edits](https://arxiv.org/abs/2512.02790v1)** | 2025-12-01 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 12 tables</p></details> |
-| **[ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](https://arxiv.org/abs/2511.22625v2)** | 2025-12-01 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
-| **[How Similar Are Grokipedia and Wikipedia? A Multi-Dimensional Textual and Structural Comparison](https://arxiv.org/abs/2510.26899v3)** | 2025-11-30 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables, updated with a larger sample size of 20,000 articles, better text cleaning procedure + Reference analysis, topical analysis</p></details> |
-| **[Graph Queries from Natural Language using Constrained Language Models and Visual Editing](https://arxiv.org/abs/2512.00948v1)** | 2025-11-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tables, accepted and presented at ICKG 2025</p></details> |
 | **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](https://arxiv.org/abs/2512.00387v1)** | 2025-11-29 | <details><summary>32 pa...</summary><p>32 pages, 20 figures. Project Page: https://qnancy.github.io/wiseedit_project_page/</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](https://arxiv.org/abs/2510.06187v2)** | 2025-11-28 | <details><summary>In Pr...</summary><p>In Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2 (SIGCSE TS 2026)</p></details> |
-| **[Constructing Efficient Fact-Storing MLPs for Transformers](https://arxiv.org/abs/2512.00207v1)** | 2025-11-28 |  |
 | **[MolEdit: Knowledge Editing for Multimodal Molecule Language Models](https://arxiv.org/abs/2511.12770v2)** | 2025-11-28 |  |
 | **[On the Superimposed Noise Accumulation Problem in Sequential Knowledge Editing of Large Language Models](https://arxiv.org/abs/2505.07899v2)** | 2025-11-27 |  |
+| **[Representation Interventions Enable Lifelong Unstructured Knowledge Control](https://arxiv.org/abs/2511.20892v1)** | 2025-11-25 | 18 Page |
+| **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](https://arxiv.org/abs/2503.16356v3)** | 2025-11-20 | EMNLP 2025 |
+| **[ALEX:A Light Editing-knowledge Extractor](https://arxiv.org/abs/2511.14018v1)** | 2025-11-18 |  |
+| **[Catastrophic Forgetting in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.12828v1)** | 2025-11-16 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, accepted in the main technical track of AAAI 2026</p></details> |
+| **[Reason-KE++: Aligning the Process, Not Just the Outcome, for Faithful LLM Knowledge Editing](https://arxiv.org/abs/2511.12661v1)** | 2025-11-16 |  |
+| **[Probing then Editing: A Push-Pull Framework for Retain-Free Machine Unlearning in Industrial IoT](https://arxiv.org/abs/2511.09414v1)** | 2025-11-12 |  |
+| **[UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models](https://arxiv.org/abs/2505.12345v3)** | 2025-11-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Track on Datasets and Benchmarks. Dataset Download: https://huggingface.co/datasets/qizhou/UniEdit Code Download: https://github.com/qizhou000/UniEdit</p></details> |
+| **[An Exploration of Knowledge Editing for Arabic](https://arxiv.org/abs/2507.09629v2)** | 2025-11-02 |  |
+| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](https://arxiv.org/abs/2505.14393v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty](https://arxiv.org/abs/2512.05927v1)** | 2025-12-05 |  |
-| **[Edit-aware RAW Reconstruction](https://arxiv.org/abs/2512.05859v1)** | 2025-12-05 |  |
-| **[EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture](https://arxiv.org/abs/2512.04810v2)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project Page: https://emma-umm.github.io/emma/</p></details> |
-| **[InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem](https://arxiv.org/abs/2512.05672v1)** | 2025-12-05 |  |
-| **[2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency](https://arxiv.org/abs/2512.05557v1)** | 2025-12-05 |  |
-| **[V-CECE: Visual Counterfactual Explanations via Conceptual Edits](https://arxiv.org/abs/2509.16567v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[FieldSeer I: Physics-Guided World Models for Long-Horizon Electromagnetic Dynamics under Partial Observability](https://arxiv.org/abs/2512.05361v1)** | 2025-12-05 |  |
-| **[SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354v1)** | 2025-12-05 | <details><summary>proje...</summary><p>project page https://y-zheng18.github.io/SplatPainter/</p></details> |
-| **[SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling](https://arxiv.org/abs/2512.05343v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://spacecontrol3d.github.io/</p></details> |
-| **[Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification](https://arxiv.org/abs/2512.05288v1)** | 2025-12-04 |  |
-| **[Enhancing Clinical Note Generation with ICD-10, Clinical Ontology Knowledge Graphs, and Chain-of-Thought Prompting Using GPT-4](https://arxiv.org/abs/2512.05256v1)** | 2025-12-04 |  |
-| **[DEAR: Dataset for Evaluating the Aesthetics of RenderingDEAR: Dataset for Evaluating the Aesthetics of Rendering](https://arxiv.org/abs/2512.05209v1)** | 2025-12-04 |  |
-| **[Your Latent Mask is Wrong: Pixel-Equivalent Latent Compositing for Diffusion Models](https://arxiv.org/abs/2512.05198v1)** | 2025-12-04 | 16 pages, 10 figures |
-| **[Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints](https://arxiv.org/abs/2512.05079v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://contactgen3d.github.io/</p></details> |
+| **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
+| **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v1)** | 2025-12-03 |  |
+| **[TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](https://arxiv.org/abs/2512.01329v1)** | 2025-12-01 |  |
+| **[Reasoning Transfer for an Extremely Low-Resource and Endangered Language: Bridging Languages Through Sample-Efficient Language Understanding](https://arxiv.org/abs/2504.02890v2)** | 2025-11-26 |  |
+| **[Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v1)** | 2025-11-26 |  |
+| **[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832v2)** | 2025-11-25 |  |
+| **[BlockCert: Certified Blockwise Extraction of Transformer Mechanisms](https://arxiv.org/abs/2511.17645v1)** | 2025-11-20 | 16 pages, 1 figure |
+| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
+| **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
+| **[Uncovering and Mitigating Transient Blindness in Multimodal Model Editing](https://arxiv.org/abs/2511.13243v1)** | 2025-11-17 | Accepted at AAAI'26 |
+| **[CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407v2)** | 2025-11-17 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](https://arxiv.org/abs/2510.12487v2)** | 2025-11-17 |  |
+| **[Dynamic Risk Assessment for Autonomous Vehicles from Spatio-Temporal Probabilistic Occupancy Heatmaps](https://arxiv.org/abs/2501.16480v2)** | 2025-11-16 |  |
+| **[SEAL: Subspace-Anchored Watermarks for LLM Ownership](https://arxiv.org/abs/2511.11356v1)** | 2025-11-14 |  |
+| **[UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models](https://arxiv.org/abs/2505.12345v3)** | 2025-11-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Track on Datasets and Benchmarks. Dataset Download: https://huggingface.co/datasets/qizhou/UniEdit Code Download: https://github.com/qizhou000/UniEdit</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -48,54 +48,54 @@ labels: documentation
 | **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
 | **[TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents](https://arxiv.org/abs/2504.12679v4)** | 2025-12-04 | AAAI 2026 |
 | **[GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2512.02423v1)** | 2025-12-02 | 26 pages |
-| **[RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users](https://arxiv.org/abs/2504.10445v2)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project Website: https://scai.cs.jhu.edu/projects/RealWebAssist/ Code: https://github.com/SCAI-JHU/RealWebAssist</p></details> |
 | **[HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://arxiv.org/abs/2512.01763v1)** | 2025-12-01 |  |
 | **[Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent](https://arxiv.org/abs/2509.20729v2)** | 2025-12-01 | 50 pages, 14 figures |
-| **[DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks](https://arxiv.org/abs/2512.01174v1)** | 2025-12-01 | <details><summary>AAAI ...</summary><p>AAAI 2026 TrustAgent Workshop</p></details> |
 | **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
 | **[MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents](https://arxiv.org/abs/2512.00756v1)** | 2025-11-30 | 27pages, 12figures |
 | **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v1)** | 2025-11-27 |  |
 | **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](https://arxiv.org/abs/2506.11127v3)** | 2025-11-26 |  |
 | **[MobileViews: A Million-scale and Diverse Mobile GUI Dataset](https://arxiv.org/abs/2409.14337v3)** | 2025-11-25 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/mllmTeam/MobileViews</p></details> |
-| **[Agint: Agentic Graph Compilation for Software Engineering Agents](https://arxiv.org/abs/2511.19635v1)** | 2025-11-24 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, NeurIPS 2025: Deep Learning for Code in the Agentic Era</p></details> |
-| **[Yanyun-3: Enabling Cross-Platform Strategy Game Operation with Vision-Language Models](https://arxiv.org/abs/2511.12937v2)** | 2025-11-24 | 32 pages, 13 figures |
 | **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](https://arxiv.org/abs/2505.12842v4)** | 2025-11-22 |  |
+| **[D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies](https://arxiv.org/abs/2511.16590v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Agent-SAMA: State-Aware Mobile Assistant](https://arxiv.org/abs/2505.23596v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI-26 (Main Technical Track)</p></details> |
+| **[LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838v3)** | 2025-11-17 | <details><summary>Paper...</summary><p>Paper accepted to TMLR 2025, Project Homepage: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents</p></details> |
+| **[DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents](https://arxiv.org/abs/2511.13248v1)** | 2025-11-17 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models](https://arxiv.org/abs/2512.05546v1)** | 2025-12-05 | 6 pages, 6 figures |
-| **[Wake Vectoring for Efficient Morphing Flight](https://arxiv.org/abs/2512.05211v1)** | 2025-12-04 |  |
 | **[Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time](https://arxiv.org/abs/2512.04748v1)** | 2025-12-04 | accepted to aaai2026 |
 | **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v1)** | 2025-12-01 |  |
-| **[Do different prompting methods yield a common task representation in language models?](https://arxiv.org/abs/2505.12075v3)** | 2025-11-30 | <details><summary>10 pa...</summary><p>10 pages, 4 figures; presented at NeurIPS 2025</p></details> |
-| **[Bias Injection Attacks on RAG Databases and Sanitization Defenses](https://arxiv.org/abs/2512.00804v1)** | 2025-11-30 |  |
-| **[Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering](https://arxiv.org/abs/2511.23231v1)** | 2025-11-28 |  |
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v2)** | 2025-11-28 |  |
-| **[Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/abs/2511.20798v2)** | 2025-11-28 | <details><summary>16 Pa...</summary><p>16 Pages, 9 Figures. Code available soon at https://github.com/DJ-Fear/walrus_steering</p></details> |
-| **[Defending Large Language Models Against Jailbreak Exploits with Responsible AI Considerations](https://arxiv.org/abs/2511.18933v1)** | 2025-11-24 | <details><summary>20 pa...</summary><p>20 pages including appendix; technical report; NeurIPS 2024 style</p></details> |
-| **[Conversations: Love Them, Hate Them, Steer Them](https://arxiv.org/abs/2505.17413v2)** | 2025-11-23 | <details><summary>We ha...</summary><p>We have created a new arXiv submission with a more up to date version of this paper at arXiv:2511.12832</p></details> |
-| **[Steering Latent Traits, Not Learned Facts: An Empirical Study of Activation Control Limits](https://arxiv.org/abs/2511.18284v1)** | 2025-11-23 |  |
 | **[SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought](https://arxiv.org/abs/2511.07772v2)** | 2025-11-21 |  |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v3)** | 2025-11-19 |  |
+| **[Interpretable LLM Guardrails via Sparse Representation Steering](https://arxiv.org/abs/2503.16851v2)** | 2025-11-14 |  |
+| **[Steering Pretrained Drafters during Speculative Decoding](https://arxiv.org/abs/2511.09844v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/abs/2511.08305v1)** | 2025-11-11 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted for publication at AAAI 2026 (40th AAAI Conference on Artificial Intelligence)</p></details> |
+| **[Minimal and Mechanistic Conditions for Behavioral Self-Awareness in LLMs](https://arxiv.org/abs/2511.04875v2)** | 2025-11-10 |  |
+| **[Evaluation Awareness Scales Predictably in Open-Weights Large Language Models](https://arxiv.org/abs/2509.13333v2)** | 2025-11-09 |  |
+| **[CASteer: Steering Diffusion Models for Controllable Generation](https://arxiv.org/abs/2503.09630v3)** | 2025-11-07 |  |
+| **[But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](https://arxiv.org/abs/2505.17760v2)** | 2025-11-06 |  |
+| **[FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2510.11190v3)** | 2025-11-06 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Accepted by the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MaxShapley: Towards Incentive-compatible Generative Search with Fair Context Attribution](https://arxiv.org/abs/2512.05958v1)** | 2025-12-05 |  |
-| **[KQ-SVD: Compressing the KV Cache with Provable Guarantees on Attention Fidelity](https://arxiv.org/abs/2512.05916v1)** | 2025-12-05 |  |
-| **[From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation](https://arxiv.org/abs/2512.05907v1)** | 2025-12-05 |  |
-| **[MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling](https://arxiv.org/abs/2511.05811v2)** | 2025-12-05 |  |
-| **[Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework](https://arxiv.org/abs/2512.05863v1)** | 2025-12-05 |  |
-| **[Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision](https://arxiv.org/abs/2512.05740v1)** | 2025-12-05 |  |
-| **[Efficient Text Classification with Conformal In-Context Learning](https://arxiv.org/abs/2512.05732v1)** | 2025-12-05 | <details><summary>10 pa...</summary><p>10 pages, 4 tables, 2 figures</p></details> |
-| **[Efficient Distributed MLLM Training with Cornstarch](https://arxiv.org/abs/2503.11367v3)** | 2025-12-05 |  |
-| **[Vision-centric Token Compression in Large Language Model](https://arxiv.org/abs/2502.00791v4)** | 2025-12-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
-| **[Chinese Discharge Drug Recommendation in Metabolic Diseases with Large Language Models](https://arxiv.org/abs/2510.21084v2)** | 2025-12-05 |  |
-| **[Poodle: Seamlessly Scaling Down Large Language Models with Just-in-Time Model Replacement](https://arxiv.org/abs/2512.05525v1)** | 2025-12-05 |  |
-| **[A Hybrid Approach for EMF Code Generation:Code Templates Meet Large Language Models](https://arxiv.org/abs/2512.05498v1)** | 2025-12-05 |  |
-| **[GTM: Simulating the World of Tools for AI Agents](https://arxiv.org/abs/2512.04535v2)** | 2025-12-05 |  |
-| **[BEAVER: An Efficient Deterministic LLM Verifier](https://arxiv.org/abs/2512.05439v1)** | 2025-12-05 |  |
-| **[LMCache: An Efficient KV Cache Layer for Enterprise-Scale LLM Inference](https://arxiv.org/abs/2510.09665v2)** | 2025-12-05 |  |
+| **[KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models](https://arxiv.org/abs/2512.06727v1)** | 2025-12-07 |  |
+| **[SLO-aware GPU Frequency Scaling for Energy Efficient LLM Inference Serving](https://arxiv.org/abs/2408.05235v2)** | 2025-12-03 |  |
+| **[MemOS: A Memory OS for AI System](https://arxiv.org/abs/2507.03724v4)** | 2025-12-03 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
+| **[KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference](https://arxiv.org/abs/2512.01953v1)** | 2025-12-01 |  |
+| **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
+| **[Efficient LLM-Jailbreaking via Multimodal-LLM Jailbreak](https://arxiv.org/abs/2405.20015v3)** | 2025-11-30 |  |
+| **[Instruction Tuning of Large Language Models for Tabular Data Generation-in One Day](https://arxiv.org/abs/2511.23220v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted International Conference on Machine Learning (ICML 2025), 1st Workshop on Foundation Models for Structured Data</p></details> |
+| **[EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546v2)** | 2025-11-27 | NeurIPS 2025 |
+| **[KeepKV: Achieving Periodic Lossless KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2504.09936v2)** | 2025-11-27 | 14 pages, 20 figures |
+| **[Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information](https://arxiv.org/abs/2511.22176v1)** | 2025-11-27 |  |
+| **[Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management](https://arxiv.org/abs/2511.20172v2)** | 2025-11-27 | <details><summary>13 pa...</summary><p>13 pages, accepted by SIGMOD'26</p></details> |
+| **[Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining](https://arxiv.org/abs/2511.21613v1)** | 2025-11-26 |  |
+| **[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746v5)** | 2025-11-26 |  |
+| **[FastForward Pruning: Efficient LLM Pruning via Single-Step Reinforcement Learning](https://arxiv.org/abs/2511.18977v1)** | 2025-11-24 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 4 tables</p></details> |
+| **[Power Lines: Scaling Laws for Weight Decay and Batch Size in LLM Pre-training](https://arxiv.org/abs/2505.13738v2)** | 2025-11-23 | NeurIPS 2025 |
 
