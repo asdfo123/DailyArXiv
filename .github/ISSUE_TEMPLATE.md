@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407v3)** | 2025-12-10 |  |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v1)** | 2025-12-03 |  |
 | **[TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](https://arxiv.org/abs/2512.01329v1)** | 2025-12-01 |  |
@@ -36,7 +37,6 @@ labels: documentation
 | **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
 | **[Uncovering and Mitigating Transient Blindness in Multimodal Model Editing](https://arxiv.org/abs/2511.13243v1)** | 2025-11-17 | Accepted at AAAI'26 |
-| **[CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407v2)** | 2025-11-17 |  |
 | **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](https://arxiv.org/abs/2510.12487v2)** | 2025-11-17 |  |
 | **[Dynamic Risk Assessment for Autonomous Vehicles from Spatio-Temporal Probabilistic Occupancy Heatmaps](https://arxiv.org/abs/2501.16480v2)** | 2025-11-16 |  |
 | **[SEAL: Subspace-Anchored Watermarks for LLM Ownership](https://arxiv.org/abs/2511.11356v1)** | 2025-11-14 |  |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v1)** | 2025-12-10 | 10 pages, 5 figures |
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2508.16653v2)** | 2025-12-08 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples](https://arxiv.org/abs/2512.07375v1)** | 2025-12-08 |  |
 | **[Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning](https://arxiv.org/abs/2512.07374v1)** | 2025-12-08 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546v2)** | 2025-11-27 | NeurIPS 2025 |
 | **[KeepKV: Achieving Periodic Lossless KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2504.09936v2)** | 2025-11-27 | 14 pages, 20 figures |
 | **[Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information](https://arxiv.org/abs/2511.22176v1)** | 2025-11-27 |  |
-| **[Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management](https://arxiv.org/abs/2511.20172v2)** | 2025-11-27 | <details><summary>13 pa...</summary><p>13 pages, accepted by SIGMOD'26</p></details> |
 
