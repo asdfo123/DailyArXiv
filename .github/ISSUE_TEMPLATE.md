@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 14, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using GUI Agent for Electronic Design Automation](https://arxiv.org/abs/2512.11611v1)** | 2025-12-12 | <details><summary>17 pa...</summary><p>17 pages, 15 figures, 8 tables</p></details> |
 | **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v2)** | 2025-12-09 | work in progress |
@@ -59,7 +60,6 @@ labels: documentation
 | **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](https://arxiv.org/abs/2506.11127v3)** | 2025-11-26 |  |
 | **[MobileViews: A Million-scale and Diverse Mobile GUI Dataset](https://arxiv.org/abs/2409.14337v3)** | 2025-11-25 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/mllmTeam/MobileViews</p></details> |
 | **[GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection in GUI Agents](https://arxiv.org/abs/2505.12842v4)** | 2025-11-22 |  |
-| **[D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies](https://arxiv.org/abs/2511.16590v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,7 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/abs/2512.09972v1)** | 2025-12-10 |  |
+| **[BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/abs/2512.09972v2)** | 2025-12-12 |  |
+| **[Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference](https://arxiv.org/abs/2512.11221v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 3 tables , 1 figure</p></details> |
 | **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v1)** | 2025-12-10 | 10 pages, 5 figures |
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2508.16653v2)** | 2025-12-08 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples](https://arxiv.org/abs/2512.07375v1)** | 2025-12-08 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
 | **[Efficient LLM-Jailbreaking via Multimodal-LLM Jailbreak](https://arxiv.org/abs/2405.20015v3)** | 2025-11-30 |  |
 | **[Instruction Tuning of Large Language Models for Tabular Data Generation-in One Day](https://arxiv.org/abs/2511.23220v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted International Conference on Machine Learning (ICML 2025), 1st Workshop on Foundation Models for Structured Data</p></details> |
-| **[EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546v2)** | 2025-11-27 | NeurIPS 2025 |
 
