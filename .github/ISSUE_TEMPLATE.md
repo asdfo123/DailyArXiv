@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v1)** | 2025-12-16 | 27 pages, 8 figures |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
 | **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v1)** | 2025-12-04 |  |
 | **[EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545v1)** | 2025-12-04 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Probing then Editing: A Push-Pull Framework for Retain-Free Machine Unlearning in Industrial IoT](https://arxiv.org/abs/2511.09414v1)** | 2025-11-12 |  |
 | **[UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models](https://arxiv.org/abs/2505.12345v3)** | 2025-11-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Track on Datasets and Benchmarks. Dataset Download: https://huggingface.co/datasets/qizhou/UniEdit Code Download: https://github.com/qizhou000/UniEdit</p></details> |
 | **[An Exploration of Knowledge Editing for Arabic](https://arxiv.org/abs/2507.09629v2)** | 2025-11-02 |  |
-| **[Editing Across Languages: A Survey of Multilingual Knowledge Editing](https://arxiv.org/abs/2505.14393v2)** | 2025-11-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://arxiv.org/abs/2512.14014v1)** | 2025-12-16 | 21 pages, 13 figures |
 | **[Modular and Multi-Path-Aware Offline Benchmarking for Mobile GUI Agents](https://arxiv.org/abs/2512.12634v1)** | 2025-12-14 |  |
 | **[Using GUI Agent for Electronic Design Automation](https://arxiv.org/abs/2512.11611v1)** | 2025-12-12 | <details><summary>17 pa...</summary><p>17 pages, 15 figures, 8 tables</p></details> |
 | **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents](https://arxiv.org/abs/2512.00756v1)** | 2025-11-30 | 27pages, 12figures |
 | **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v1)** | 2025-11-27 |  |
 | **[UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](https://arxiv.org/abs/2506.11127v3)** | 2025-11-26 |  |
-| **[MobileViews: A Million-scale and Diverse Mobile GUI Dataset](https://arxiv.org/abs/2409.14337v3)** | 2025-11-25 | <details><summary>Datas...</summary><p>Dataset: https://huggingface.co/datasets/mllmTeam/MobileViews</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -69,7 +69,7 @@ labels: documentation
 | **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models](https://arxiv.org/abs/2512.05546v1)** | 2025-12-05 | 6 pages, 6 figures |
 | **[Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time](https://arxiv.org/abs/2512.04748v1)** | 2025-12-04 | accepted to aaai2026 |
-| **[D-STEER - Preference Alignment Techniques Learn to Behave, not to Believe - Beneath the Surface, DPO as Steering Vector Perturbation in Activation Space](https://arxiv.org/abs/2512.11838v1)** | 2025-12-03 |  |
+| **[D-STEER - Preference Alignment Techniques Learn to Behave, not to Believe -- Beneath the Surface, DPO as Steering Vector Perturbation in Activation Space](https://arxiv.org/abs/2512.11838v1)** | 2025-12-03 |  |
 | **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v1)** | 2025-12-01 |  |
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v2)** | 2025-11-28 |  |
 | **[SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought](https://arxiv.org/abs/2511.07772v2)** | 2025-11-21 |  |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](https://arxiv.org/abs/2505.13109v3)** | 2025-12-16 |  |
 | **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v3)** | 2025-12-15 |  |
 | **[BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/abs/2512.09972v2)** | 2025-12-12 |  |
 | **[Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference](https://arxiv.org/abs/2512.11221v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 3 tables , 1 figure</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[MemOS: A Memory OS for AI System](https://arxiv.org/abs/2507.03724v4)** | 2025-12-03 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
 | **[KV Pareto: Systems-Level Optimization of KV Cache and Model Compression for Long Context Inference](https://arxiv.org/abs/2512.01953v1)** | 2025-12-01 |  |
 | **[Optimal Scheduling Algorithms for LLM Inference: Theory and Practice](https://arxiv.org/abs/2508.01002v2)** | 2025-12-01 |  |
-| **[Efficient LLM-Jailbreaking via Multimodal-LLM Jailbreak](https://arxiv.org/abs/2405.20015v3)** | 2025-11-30 |  |
 
