@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 21, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Step-GUI Technical Report](https://arxiv.org/abs/2512.15431v2)** | 2025-12-19 | 41 pages, 26 figures |
 | **[VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://arxiv.org/abs/2512.16501v1)** | 2025-12-18 |  |
 | **[OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](https://arxiv.org/abs/2512.16295v1)** | 2025-12-18 |  |
-| **[Step-GUI Technical Report](https://arxiv.org/abs/2512.15431v1)** | 2025-12-17 | 41 pages, 26 figures |
 | **[MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://arxiv.org/abs/2512.14014v1)** | 2025-12-16 | 21 pages, 13 figures |
 | **[Modular and Multi-Path-Aware Offline Benchmarking for Mobile GUI Agents](https://arxiv.org/abs/2512.12634v1)** | 2025-12-14 |  |
 | **[Using GUI Agent for Electronic Design Automation](https://arxiv.org/abs/2512.11611v1)** | 2025-12-12 | <details><summary>17 pa...</summary><p>17 pages, 15 figures, 8 tables</p></details> |
