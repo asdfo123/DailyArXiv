@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
 | **[Step-GUI Technical Report](https://arxiv.org/abs/2512.15431v2)** | 2025-12-19 | 41 pages, 26 figures |
 | **[VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://arxiv.org/abs/2512.16501v1)** | 2025-12-18 |  |
 | **[OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](https://arxiv.org/abs/2512.16295v1)** | 2025-12-18 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents](https://arxiv.org/abs/2504.12679v4)** | 2025-12-04 | AAAI 2026 |
 | **[GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2512.02423v1)** | 2025-12-02 | 26 pages |
 | **[HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://arxiv.org/abs/2512.01763v1)** | 2025-12-01 |  |
-| **[Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent](https://arxiv.org/abs/2509.20729v2)** | 2025-12-01 | 50 pages, 14 figures |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
+| **[LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer](https://arxiv.org/abs/2512.18930v1)** | 2025-12-22 |  |
 | **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v1)** | 2025-12-18 |  |
 | **[Unveiling the Latent Directions of Reflection in Large Language Models](https://arxiv.org/abs/2508.16989v2)** | 2025-12-11 |  |
 | **[SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models](https://arxiv.org/abs/2512.07993v1)** | 2025-12-08 |  |
@@ -77,12 +79,12 @@ labels: documentation
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v3)** | 2025-11-19 |  |
 | **[Interpretable LLM Guardrails via Sparse Representation Steering](https://arxiv.org/abs/2503.16851v2)** | 2025-11-14 |  |
 | **[Steering Pretrained Drafters during Speculative Decoding](https://arxiv.org/abs/2511.09844v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[Test-time Diverse Reasoning by Riemannian Activation Steering](https://arxiv.org/abs/2511.08305v1)** | 2025-11-11 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted for publication at AAAI 2026 (40th AAAI Conference on Artificial Intelligence)</p></details> |
-| **[Minimal and Mechanistic Conditions for Behavioral Self-Awareness in LLMs](https://arxiv.org/abs/2511.04875v2)** | 2025-11-10 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v2)** | 2025-12-20 |  |
+| **[Accelerated Preference Elicitation with LLM-Based Proxies](https://arxiv.org/abs/2501.14625v2)** | 2025-12-19 | <details><summary>In Pr...</summary><p>In Proceedings of The 21st Conference on Web and Internet Economics (WINE '25)</p></details> |
 | **[Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference](https://arxiv.org/abs/2512.16134v1)** | 2025-12-18 |  |
 | **[WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning](https://arxiv.org/abs/2512.16108v1)** | 2025-12-18 |  |
 | **[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching](https://arxiv.org/abs/2509.24832v2)** | 2025-12-16 | 11 figures, 14pages |
@@ -96,6 +98,4 @@ labels: documentation
 | **[LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples](https://arxiv.org/abs/2512.07375v1)** | 2025-12-08 |  |
 | **[Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning](https://arxiv.org/abs/2512.07374v1)** | 2025-12-08 |  |
 | **[FOAM: Blocked State Folding for Memory-Efficient LLM Training](https://arxiv.org/abs/2512.07112v1)** | 2025-12-08 |  |
-| **[ELANA: A Simple Energy and Latency Analyzer for LLMs](https://arxiv.org/abs/2512.09946v1)** | 2025-12-07 |  |
-| **[KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models](https://arxiv.org/abs/2512.06727v1)** | 2025-12-07 |  |
 
