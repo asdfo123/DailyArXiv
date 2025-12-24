@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System](https://arxiv.org/abs/2512.20299v1)** | 2025-12-23 |  |
 | **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v2)** | 2025-12-20 |  |
 | **[Accelerated Preference Elicitation with LLM-Based Proxies](https://arxiv.org/abs/2501.14625v2)** | 2025-12-19 | <details><summary>In Pr...</summary><p>In Proceedings of The 21st Conference on Web and Internet Economics (WINE '25)</p></details> |
 | **[Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference](https://arxiv.org/abs/2512.16134v1)** | 2025-12-18 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2508.16653v2)** | 2025-12-08 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples](https://arxiv.org/abs/2512.07375v1)** | 2025-12-08 |  |
 | **[Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning](https://arxiv.org/abs/2512.07374v1)** | 2025-12-08 |  |
-| **[FOAM: Blocked State Folding for Memory-Efficient LLM Training](https://arxiv.org/abs/2512.07112v1)** | 2025-12-08 |  |
 
