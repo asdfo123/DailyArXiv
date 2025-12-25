@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating Model Editing for Unlearning in Large Language Models](https://arxiv.org/abs/2512.20794v1)** | 2025-12-23 |  |
 | **[An Information-Theoretic Framework for Robust Large Language Model Editing](https://arxiv.org/abs/2512.16227v1)** | 2025-12-18 |  |
 | **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v1)** | 2025-12-17 | Under review |
 | **[Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676v1)** | 2025-12-15 | <details><summary>15 pa...</summary><p>15 pages (including appendix), 7 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[BlockCert: Certified Blockwise Extraction of Transformer Mechanisms](https://arxiv.org/abs/2511.17645v1)** | 2025-11-20 | 16 pages, 1 figure |
 | **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606v2)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral. 14 pages (including appendix), 11 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
-| **[Uncovering and Mitigating Transient Blindness in Multimodal Model Editing](https://arxiv.org/abs/2511.13243v1)** | 2025-11-17 | Accepted at AAAI'26 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents](https://arxiv.org/abs/2512.21302v1)** | 2025-12-24 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 8 tables</p></details> |
 | **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
 | **[Step-GUI Technical Report](https://arxiv.org/abs/2512.15431v2)** | 2025-12-19 | 41 pages, 26 figures |
 | **[VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://arxiv.org/abs/2512.16501v1)** | 2025-12-18 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
 | **[TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents](https://arxiv.org/abs/2504.12679v4)** | 2025-12-04 | AAAI 2026 |
 | **[GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2512.02423v1)** | 2025-12-02 | 26 pages |
-| **[HiconAgent: History Context-aware Policy Optimization for GUI Agents](https://arxiv.org/abs/2512.01763v1)** | 2025-12-01 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
