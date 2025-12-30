@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v2)** | 2025-12-26 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
+| **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 | **[An Information-Theoretic Framework for Robust Large Language Model Editing](https://arxiv.org/abs/2512.16227v1)** | 2025-12-18 |  |
 | **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v2)** | 2025-12-17 | 27 pages, 8 figures |
 | **[Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v2)** | 2025-12-17 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 10 tables</p></details> |
@@ -26,7 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v2)** | 2025-12-26 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
+| **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
+| **[Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/abs/2512.22511v1)** | 2025-12-27 | 16 pages |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](https://arxiv.org/abs/2502.18848v3)** | 2025-12-24 | <details><summary>Publi...</summary><p>Published at EMNLP 2025; 25 pages, 22 figures, 9 tables</p></details> |
 | **[Investigating Model Editing for Unlearning in Large Language Models](https://arxiv.org/abs/2512.20794v1)** | 2025-12-23 |  |
 | **[An Information-Theoretic Framework for Robust Large Language Model Editing](https://arxiv.org/abs/2512.16227v1)** | 2025-12-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Reasoning Transfer for an Extremely Low-Resource and Endangered Language: Bridging Languages Through Sample-Efficient Language Understanding](https://arxiv.org/abs/2504.02890v2)** | 2025-11-26 |  |
 | **[Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v1)** | 2025-11-26 |  |
 | **[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832v2)** | 2025-11-25 |  |
-| **[BlockCert: Certified Blockwise Extraction of Transformer Mechanisms](https://arxiv.org/abs/2511.17645v1)** | 2025-11-20 | 16 pages, 1 figure |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v2)** | 2025-12-29 | 10 pages, 5 figures |
 | **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v2)** | 2025-12-26 |  |
 | **[nncase: An End-to-End Compiler for Efficient LLM Deployment on Heterogeneous Storage Architectures](https://arxiv.org/abs/2512.21571v1)** | 2025-12-25 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](https://arxiv.org/abs/2505.13109v3)** | 2025-12-16 |  |
 | **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v3)** | 2025-12-15 |  |
 | **[BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/abs/2512.09972v2)** | 2025-12-12 |  |
-| **[Adaptive Soft Rolling KV Freeze with Entropy-Guided Recovery: Sublinear Memory Growth for Efficient LLM Inference](https://arxiv.org/abs/2512.11221v1)** | 2025-12-12 | <details><summary>6 pag...</summary><p>6 pages, 3 tables , 1 figure</p></details> |
 
