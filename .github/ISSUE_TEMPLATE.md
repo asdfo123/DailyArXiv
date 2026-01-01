@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://arxiv.org/abs/2512.24965v1)** | 2025-12-31 | 17 pages, 15 figures |
 | **[MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2512.22047v1)** | 2025-12-26 |  |
 | **[iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://arxiv.org/abs/2512.22009v1)** | 2025-12-26 |  |
 | **[AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents](https://arxiv.org/abs/2512.21302v1)** | 2025-12-24 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 8 tables</p></details> |
@@ -59,11 +60,12 @@ labels: documentation
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v2)** | 2025-12-09 | work in progress |
 | **[MVP: Multiple View Prediction Improves GUI Grounding](https://arxiv.org/abs/2512.08529v1)** | 2025-12-09 |  |
-| **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941v1)** | 2025-12-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Princeton-AI2-Lab/ZoomClick</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v1)** | 2025-12-31 |  |
+| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
 | **[LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer](https://arxiv.org/abs/2512.18930v1)** | 2025-12-22 |  |
 | **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v1)** | 2025-12-18 |  |
@@ -77,8 +79,6 @@ labels: documentation
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v2)** | 2025-11-28 |  |
 | **[SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought](https://arxiv.org/abs/2511.07772v2)** | 2025-11-21 |  |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v3)** | 2025-11-19 |  |
-| **[Interpretable LLM Guardrails via Sparse Representation Steering](https://arxiv.org/abs/2503.16851v2)** | 2025-11-14 |  |
-| **[Steering Pretrained Drafters during Speculative Decoding](https://arxiv.org/abs/2511.09844v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
