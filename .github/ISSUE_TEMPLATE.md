@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controllable Concept Bottleneck Models](https://arxiv.org/abs/2601.00451v1)** | 2026-01-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2405.15476</p></details> |
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 | **[Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/abs/2512.22511v1)** | 2025-12-27 | 16 pages |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](https://arxiv.org/abs/2502.18848v3)** | 2025-12-24 | <details><summary>Publi...</summary><p>Published at EMNLP 2025; 25 pages, 22 figures, 9 tables</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](https://arxiv.org/abs/2512.01329v1)** | 2025-12-01 |  |
 | **[Reasoning Transfer for an Extremely Low-Resource and Endangered Language: Bridging Languages Through Sample-Efficient Language Understanding](https://arxiv.org/abs/2504.02890v2)** | 2025-11-26 |  |
 | **[Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v1)** | 2025-11-26 |  |
-| **[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832v2)** | 2025-11-25 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
 | **[ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://arxiv.org/abs/2512.24965v1)** | 2025-12-31 | 17 pages, 15 figures |
 | **[MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2512.22047v1)** | 2025-12-26 |  |
 | **[iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://arxiv.org/abs/2512.22009v1)** | 2025-12-26 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v2)** | 2025-12-09 | work in progress |
-| **[MVP: Multiple View Prediction Improves GUI Grounding](https://arxiv.org/abs/2512.08529v1)** | 2025-12-09 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts](https://arxiv.org/abs/2601.00583v1)** | 2026-01-02 | 14 pages, 16 figures |
+| **[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746v6)** | 2026-01-02 |  |
+| **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989v3)** | 2026-01-01 | <details><summary>Terna...</summary><p>Ternary Quantization, Under review</p></details> |
+| **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](https://arxiv.org/abs/2410.06364v3)** | 2026-01-01 | <details><summary>Publi...</summary><p>Published in ICML 2025</p></details> |
 | **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v2)** | 2025-12-29 | 10 pages, 5 figures |
 | **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v2)** | 2025-12-26 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference](https://arxiv.org/abs/2512.16134v1)** | 2025-12-18 |  |
 | **[WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning](https://arxiv.org/abs/2512.16108v1)** | 2025-12-18 |  |
 | **[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching](https://arxiv.org/abs/2509.24832v2)** | 2025-12-16 | 11 figures, 14pages |
-| **[EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving](https://arxiv.org/abs/2512.14946v1)** | 2025-12-16 |  |
-| **[FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference](https://arxiv.org/abs/2505.13109v3)** | 2025-12-16 |  |
-| **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v3)** | 2025-12-15 |  |
-| **[BAMBO: Construct Ability and Efficiency LLM Pareto Set via Bayesian Adaptive Multi-objective Block-wise Optimization](https://arxiv.org/abs/2512.09972v2)** | 2025-12-12 |  |
 
