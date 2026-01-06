@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing](https://arxiv.org/abs/2601.01957v1)** | 2026-01-05 |  |
+| **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v4)** | 2026-01-05 |  |
 | **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v1)** | 2025-12-31 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
@@ -77,16 +79,16 @@ labels: documentation
 | **[D-STEER - Preference Alignment Techniques Learn to Behave, not to Believe -- Beneath the Surface, DPO as Steering Vector Perturbation in Activation Space](https://arxiv.org/abs/2512.11838v1)** | 2025-12-03 |  |
 | **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v1)** | 2025-12-01 |  |
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance](https://arxiv.org/abs/2511.20233v2)** | 2025-11-28 |  |
-| **[SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought](https://arxiv.org/abs/2511.07772v2)** | 2025-11-21 |  |
-| **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v3)** | 2025-11-19 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772v2)** | 2026-01-03 |  |
 | **[HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts](https://arxiv.org/abs/2601.00583v1)** | 2026-01-02 | 14 pages, 16 figures |
 | **[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746v6)** | 2026-01-02 |  |
 | **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989v3)** | 2026-01-01 | <details><summary>Terna...</summary><p>Ternary Quantization, Under review</p></details> |
 | **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](https://arxiv.org/abs/2410.06364v3)** | 2026-01-01 | <details><summary>Publi...</summary><p>Published in ICML 2025</p></details> |
+| **[Universal Conditional Logic: A Formal Language for Prompt Engineering](https://arxiv.org/abs/2601.00880v1)** | 2025-12-31 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 5 tables. Includes appendices with variable reference, pattern library, and O_s calculation examples. Supplementary materials: V1-V4.1 prompt source code and 305 model responses available at GitHub repositories</p></details> |
 | **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v2)** | 2025-12-29 | 10 pages, 5 figures |
 | **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v2)** | 2025-12-26 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v2)** | 2025-12-20 |  |
 | **[Accelerated Preference Elicitation with LLM-Based Proxies](https://arxiv.org/abs/2501.14625v2)** | 2025-12-19 | <details><summary>In Pr...</summary><p>In Proceedings of The 21st Conference on Web and Internet Economics (WINE '25)</p></details> |
 | **[Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference](https://arxiv.org/abs/2512.16134v1)** | 2025-12-18 |  |
-| **[WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning](https://arxiv.org/abs/2512.16108v1)** | 2025-12-18 |  |
-| **[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts via Token-Level LSH Matching](https://arxiv.org/abs/2509.24832v2)** | 2025-12-16 | 11 figures, 14pages |
 
