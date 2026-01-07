@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering](https://arxiv.org/abs/2509.18655v2)** | 2026-01-06 |  |
+| **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v3)** | 2026-01-06 | 27 pages, 8 figures |
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 | **[An Information-Theoretic Framework for Robust Large Language Model Editing](https://arxiv.org/abs/2512.16227v1)** | 2025-12-18 |  |
-| **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v2)** | 2025-12-17 | 27 pages, 8 figures |
 | **[Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v2)** | 2025-12-17 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 10 tables</p></details> |
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457v3)** | 2025-12-17 | <details><summary>Due t...</summary><p>Due to the fact that this paper was completed without informing the mentor, there are ethical issues that require retraction. We hope for your understanding</p></details> |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
@@ -18,7 +19,6 @@ labels: documentation
 | **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[MolEdit: Knowledge Editing for Multimodal Molecule Language Models](https://arxiv.org/abs/2511.12770v2)** | 2025-11-28 |  |
 | **[On the Superimposed Noise Accumulation Problem in Sequential Knowledge Editing of Large Language Models](https://arxiv.org/abs/2505.07899v2)** | 2025-11-27 |  |
-| **[Representation Interventions Enable Lifelong Unstructured Knowledge Control](https://arxiv.org/abs/2511.20892v1)** | 2025-11-25 | 18 Page |
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](https://arxiv.org/abs/2503.16356v3)** | 2025-11-20 | EMNLP 2025 |
 | **[ALEX:A Light Editing-knowledge Extractor](https://arxiv.org/abs/2511.14018v1)** | 2025-11-18 |  |
 | **[Catastrophic Forgetting in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.12828v1)** | 2025-11-16 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, accepted in the main technical track of AAAI 2026</p></details> |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://arxiv.org/abs/2509.21799v2)** | 2026-01-06 |  |
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
 | **[ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://arxiv.org/abs/2512.24965v1)** | 2025-12-31 | 17 pages, 15 figures |
 | **[MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2512.22047v1)** | 2025-12-26 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Using GUI Agent for Electronic Design Automation](https://arxiv.org/abs/2512.11611v1)** | 2025-12-12 | <details><summary>17 pa...</summary><p>17 pages, 15 figures, 8 tables</p></details> |
 | **[AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://arxiv.org/abs/2512.00846v2)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Conference</p></details> |
 | **[AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management](https://arxiv.org/abs/2512.10371v1)** | 2025-12-11 | 16 pages, 8 figures |
-| **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v2)** | 2025-12-09 | work in progress |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference](https://arxiv.org/abs/2601.02569v1)** | 2026-01-05 |  |
 | **[Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772v2)** | 2026-01-03 |  |
 | **[HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts](https://arxiv.org/abs/2601.00583v1)** | 2026-01-02 | 14 pages, 16 figures |
 | **[Scaling Efficient LLMs](https://arxiv.org/abs/2402.14746v6)** | 2026-01-02 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System](https://arxiv.org/abs/2512.20299v1)** | 2025-12-23 |  |
 | **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v2)** | 2025-12-20 |  |
 | **[Accelerated Preference Elicitation with LLM-Based Proxies](https://arxiv.org/abs/2501.14625v2)** | 2025-12-19 | <details><summary>In Pr...</summary><p>In Proceedings of The 21st Conference on Web and Internet Economics (WINE '25)</p></details> |
-| **[Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference](https://arxiv.org/abs/2512.16134v1)** | 2025-12-18 |  |
 
