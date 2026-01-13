@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation](https://arxiv.org/abs/2601.07262v1)** | 2026-01-12 |  |
+| **[A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149v3)** | 2026-01-12 |  |
+| **[ShowUI-Aloha: Human-Taught GUI Agent](https://arxiv.org/abs/2601.07181v1)** | 2026-01-12 | 13 Pages, 16 Figures |
+| **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2601.06899v1)** | 2026-01-11 |  |
+| **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v2)** | 2026-01-10 |  |
 | **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v2)** | 2026-01-08 |  |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v2)** | 2026-01-08 | Work In Progress |
@@ -55,18 +60,15 @@ labels: documentation
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
 | **[ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://arxiv.org/abs/2512.24965v1)** | 2025-12-31 | 17 pages, 15 figures |
 | **[MAI-UI Technical Report: Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2512.22047v1)** | 2025-12-26 |  |
-| **[iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://arxiv.org/abs/2512.22009v1)** | 2025-12-26 |  |
-| **[AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents](https://arxiv.org/abs/2512.21302v1)** | 2025-12-24 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 8 tables</p></details> |
-| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v1)** | 2025-12-22 |  |
-| **[Step-GUI Technical Report](https://arxiv.org/abs/2512.15431v2)** | 2025-12-19 | 41 pages, 26 figures |
-| **[VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://arxiv.org/abs/2512.16501v1)** | 2025-12-18 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Unified Understanding and Evaluation of Steering Methods](https://arxiv.org/abs/2502.02716v2)** | 2026-01-09 |  |
 | **[TRYLOCK: Defense-in-Depth Against LLM Jailbreaks via Layered Preference and Representation Engineering](https://arxiv.org/abs/2601.03300v1)** | 2026-01-06 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Code and datasets at https://github.com/scthornton/trylock</p></details> |
 | **[AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing](https://arxiv.org/abs/2601.01957v1)** | 2026-01-05 |  |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v4)** | 2026-01-05 |  |
+| **[CBMAS: Cognitive Behavioral Modeling via Activation Steering](https://arxiv.org/abs/2601.06109v1)** | 2026-01-03 | <details><summary>Accep...</summary><p>Accepted to CogInterp @ NeurIPS 2025. Equal contribution by Ahmed H. Ismail and Anthony Kuang</p></details> |
 | **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v1)** | 2025-12-31 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
@@ -77,12 +79,12 @@ labels: documentation
 | **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models](https://arxiv.org/abs/2512.05546v1)** | 2025-12-05 | 6 pages, 6 figures |
 | **[Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time](https://arxiv.org/abs/2512.04748v1)** | 2025-12-04 | accepted to aaai2026 |
-| **[D-STEER - Preference Alignment Techniques Learn to Behave, not to Believe -- Beneath the Surface, DPO as Steering Vector Perturbation in Activation Space](https://arxiv.org/abs/2512.11838v1)** | 2025-12-03 |  |
-| **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v1)** | 2025-12-01 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving](https://arxiv.org/abs/2503.05096v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This paper is accepted by ACM SoCC 2025</p></details> |
+| **[MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning](https://arxiv.org/abs/2601.07005v1)** | 2026-01-11 |  |
 | **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274v5)** | 2026-01-09 |  |
 | **[N-GLARE: An Non-Generative Latent Representation-Efficient LLM Safety Evaluator](https://arxiv.org/abs/2511.14195v2)** | 2026-01-08 |  |
 | **[Pruning the Unsurprising: Efficient LLM Reasoning via First-Token Surprisal](https://arxiv.org/abs/2508.05988v2)** | 2026-01-08 | <details><summary>Code ...</summary><p>Code and model available at https://github.com/Zengwh02/ASAP</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989v3)** | 2026-01-01 | <details><summary>Terna...</summary><p>Ternary Quantization, Under review</p></details> |
 | **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](https://arxiv.org/abs/2410.06364v3)** | 2026-01-01 | <details><summary>Publi...</summary><p>Published in ICML 2025</p></details> |
 | **[Universal Conditional Logic: A Formal Language for Prompt Engineering](https://arxiv.org/abs/2601.00880v1)** | 2025-12-31 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 5 tables. Includes appendices with variable reference, pattern library, and O_s calculation examples. Supplementary materials: V1-V4.1 prompt source code and 305 model responses available at GitHub repositories</p></details> |
-| **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v2)** | 2025-12-29 | 10 pages, 5 figures |
-| **[Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling](https://arxiv.org/abs/2512.22066v1)** | 2025-12-26 |  |
 
