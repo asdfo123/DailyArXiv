@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multiplicative Orthogonal Sequential Editing for Language Models](https://arxiv.org/abs/2601.07873v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions](https://arxiv.org/abs/2601.04600v1)** | 2026-01-08 |  |
 | **[Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering](https://arxiv.org/abs/2509.18655v2)** | 2026-01-06 |  |
 | **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v3)** | 2026-01-06 | 27 pages, 8 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MolEdit: Knowledge Editing for Multimodal Molecule Language Models](https://arxiv.org/abs/2511.12770v2)** | 2025-11-28 |  |
 | **[On the Superimposed Noise Accumulation Problem in Sequential Knowledge Editing of Large Language Models](https://arxiv.org/abs/2505.07899v2)** | 2025-11-27 |  |
 | **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](https://arxiv.org/abs/2503.16356v3)** | 2025-11-20 | EMNLP 2025 |
-| **[ALEX:A Light Editing-knowledge Extractor](https://arxiv.org/abs/2511.14018v1)** | 2025-11-18 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation](https://arxiv.org/abs/2601.08441v1)** | 2026-01-13 |  |
 | **[A Unified Understanding and Evaluation of Steering Methods](https://arxiv.org/abs/2502.02716v2)** | 2026-01-09 |  |
 | **[TRYLOCK: Defense-in-Depth Against LLM Jailbreaks via Layered Preference and Representation Engineering](https://arxiv.org/abs/2601.03300v1)** | 2026-01-06 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Code and datasets at https://github.com/scthornton/trylock</p></details> |
 | **[AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing](https://arxiv.org/abs/2601.01957v1)** | 2026-01-05 |  |
@@ -78,11 +79,11 @@ labels: documentation
 | **[SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models](https://arxiv.org/abs/2512.07993v1)** | 2025-12-08 |  |
 | **[SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models](https://arxiv.org/abs/2505.16188v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models](https://arxiv.org/abs/2512.05546v1)** | 2025-12-05 | 6 pages, 6 figures |
-| **[Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time](https://arxiv.org/abs/2512.04748v1)** | 2025-12-04 | accepted to aaai2026 |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment](https://arxiv.org/abs/2601.08089v1)** | 2026-01-13 |  |
 | **[AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving](https://arxiv.org/abs/2503.05096v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This paper is accepted by ACM SoCC 2025</p></details> |
 | **[MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning](https://arxiv.org/abs/2601.07005v1)** | 2026-01-11 |  |
 | **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274v5)** | 2026-01-09 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[$α^3$-Bench: A Unified Benchmark of Safety, Robustness, and Efficiency for LLM-Based UAV Agents over 6G Networks](https://arxiv.org/abs/2601.03281v1)** | 2026-01-01 | 20 pages |
 | **[PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models](https://arxiv.org/abs/2509.16989v3)** | 2026-01-01 | <details><summary>Terna...</summary><p>Ternary Quantization, Under review</p></details> |
 | **[Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation](https://arxiv.org/abs/2410.06364v3)** | 2026-01-01 | <details><summary>Publi...</summary><p>Published in ICML 2025</p></details> |
-| **[Universal Conditional Logic: A Formal Language for Prompt Engineering](https://arxiv.org/abs/2601.00880v1)** | 2025-12-31 | <details><summary>25 pa...</summary><p>25 pages, 15 figures, 5 tables. Includes appendices with variable reference, pattern library, and O_s calculation examples. Supplementary materials: V1-V4.1 prompt source code and 305 model responses available at GitHub repositories</p></details> |
 
