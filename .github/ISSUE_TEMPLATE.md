@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639v1)** | 2026-01-15 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v1)** | 2026-01-14 |  |
 | **[Can Editing LLMs Inject Harm?](https://arxiv.org/abs/2407.20224v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to Proceedings of AAAI 2026. The first two authors contributed equally. 7 pages for main paper, 31 pages including appendix. The code, results, dataset for this paper and more resources are on the project website: https://llm-editing.github.io</p></details> |
 | **[Multiplicative Orthogonal Sequential Editing for Language Models](https://arxiv.org/abs/2601.07873v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v1)** | 2025-12-04 |  |
 | **[EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545v1)** | 2025-12-04 |  |
 | **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[MolEdit: Knowledge Editing for Multimodal Molecule Language Models](https://arxiv.org/abs/2511.12770v2)** | 2025-11-28 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OUTLINEFORGE: Hierarchical Reinforcement Learning with Explicit States for Scientific Writing](https://arxiv.org/abs/2601.09858v1)** | 2026-01-14 |  |
 | **[Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072v3)** | 2026-01-09 |  |
 | **[On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions](https://arxiv.org/abs/2601.04600v1)** | 2026-01-08 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v3)** | 2026-01-07 | 18 pages,5 figures |
@@ -40,12 +41,12 @@ labels: documentation
 | **[Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676v1)** | 2025-12-15 | <details><summary>15 pa...</summary><p>15 pages (including appendix), 7 figures. Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
 | **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v2)** | 2025-12-14 | <details><summary>Techn...</summary><p>Technical Report. We propose MotionEdit, a dataset and benchmark for motion-centric image editing. We also introduce MotionNFT, a reward training framework to improve existing models with motion-aware guidance. Github: https://github.com/elainew728/motion-edit/</p></details> |
 | **[CREME: Robustness Enhancement of Code LLMs via Layer-Aware Model Editing](https://arxiv.org/abs/2507.16407v3)** | 2025-12-10 |  |
-| **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
+| **[GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://arxiv.org/abs/2601.09770v1)** | 2026-01-14 |  |
 | **[ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation](https://arxiv.org/abs/2601.07262v1)** | 2026-01-12 |  |
 | **[A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149v3)** | 2026-01-12 |  |
 | **[ShowUI-Aloha: Human-Taught GUI Agent](https://arxiv.org/abs/2601.07181v1)** | 2026-01-12 | 13 Pages, 16 Figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[MobileDreamer: Generative Sketch World Model for GUI Agent](https://arxiv.org/abs/2601.04035v1)** | 2026-01-07 |  |
 | **[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://arxiv.org/abs/2509.21799v3)** | 2026-01-07 |  |
 | **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006v6)** | 2026-01-01 |  |
-| **[ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://arxiv.org/abs/2512.24965v1)** | 2025-12-31 | 17 pages, 15 figures |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
