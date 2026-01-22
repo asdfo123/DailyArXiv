@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2508.13634v3)** | 2026-01-20 |  |
 | **[MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux](https://arxiv.org/abs/2601.13060v1)** | 2026-01-19 |  |
 | **[Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349v1)** | 2026-01-18 |  |
-| **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2508.13634v2)** | 2026-01-16 |  |
 | **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2601.06899v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This work was intended as a replacement of arXiv:2508.13634 and any subsequent updates will appear there</p></details> |
 | **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
 | **[GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://arxiv.org/abs/2601.09770v1)** | 2026-01-14 |  |
@@ -83,6 +83,12 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](https://arxiv.org/abs/2510.06730v2)** | 2026-01-21 |  |
+| **[Stackelberg Self-Annotation: A Robust Approach to Data-Efficient LLM Alignment](https://arxiv.org/abs/2502.18099v3)** | 2026-01-21 |  |
+| **[DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs](https://arxiv.org/abs/2601.14711v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference (WWW) 2026</p></details> |
+| **[Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores](https://arxiv.org/abs/2601.13885v1)** | 2026-01-20 |  |
+| **[ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks](https://arxiv.org/abs/2601.13824v1)** | 2026-01-20 | 11 pages, 16 figures |
+| **[HybridFlow: Adaptive Task Scheduling for Fast and Token-Efficient LLM Inference in Edge-Cloud Collaboration](https://arxiv.org/abs/2512.22137v2)** | 2026-01-20 |  |
 | **[RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering](https://arxiv.org/abs/2601.09269v2)** | 2026-01-19 |  |
 | **[SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2508.02751v2)** | 2026-01-19 |  |
 | **[PASTA: A Scalable Framework for Multi-Policy AI Compliance Evaluation](https://arxiv.org/abs/2601.11702v1)** | 2026-01-16 | 28 pages, 7 figures |
@@ -92,10 +98,4 @@ labels: documentation
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v3)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper is accepted to Neural Information Processing Systems (NeurIPS) 2025</p></details> |
 | **[Beyond Uniform SVD:Dual-Level Optimization across Columns and Modules for LLM Compression](https://arxiv.org/abs/2510.19385v2)** | 2026-01-14 |  |
 | **[Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment](https://arxiv.org/abs/2601.08089v1)** | 2026-01-13 |  |
-| **[AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving](https://arxiv.org/abs/2503.05096v2)** | 2026-01-12 | <details><summary>This ...</summary><p>This paper is accepted by ACM SoCC 2025</p></details> |
-| **[MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning](https://arxiv.org/abs/2601.07005v1)** | 2026-01-11 |  |
-| **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274v5)** | 2026-01-09 |  |
-| **[N-GLARE: An Non-Generative Latent Representation-Efficient LLM Safety Evaluator](https://arxiv.org/abs/2511.14195v2)** | 2026-01-08 |  |
-| **[Pruning the Unsurprising: Efficient LLM Reasoning via First-Token Surprisal](https://arxiv.org/abs/2508.05988v2)** | 2026-01-08 | <details><summary>Code ...</summary><p>Code and model available at https://github.com/Zengwh02/ASAP</p></details> |
-| **[Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.04710v1)** | 2026-01-08 | 12pages, 6figures |
 
