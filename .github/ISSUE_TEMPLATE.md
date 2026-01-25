@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Your Writing Being Mimicked by AI? Unveiling Imitation with Invisible Watermarks in Creative Writing](https://arxiv.org/abs/2504.00035v3)** | 2026-01-22 |  |
+| **[Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge](https://arxiv.org/abs/2601.15495v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 (Main)</p></details> |
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v1)** | 2026-01-16 | 22 pages, 18 figures |
 | **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639v1)** | 2026-01-15 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v1)** | 2026-01-14 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v2)** | 2025-12-17 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 10 tables</p></details> |
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457v3)** | 2025-12-17 | <details><summary>Due t...</summary><p>Due to the fact that this paper was completed without informing the mentor, there are ethical issues that require retraction. We hope for your understanding</p></details> |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
-| **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v1)** | 2025-12-04 |  |
-| **[EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion](https://arxiv.org/abs/2512.04545v1)** | 2025-12-04 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing](https://arxiv.org/abs/2601.15686v1)** | 2026-01-22 |  |
+| **[CoSPED: Consistent Soft Prompt Targeted Data Extraction and Defense](https://arxiv.org/abs/2510.11137v3)** | 2026-01-22 |  |
 | **[Rethinking Residual Distribution in Locate-then-Edit Model Editing](https://arxiv.org/abs/2502.03748v3)** | 2026-01-17 | NeurIPS 2025 |
 | **[Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/abs/2601.11441v1)** | 2026-01-16 | ICASSP 2026 |
 | **[AI-assisted JSON Schema Creation and Mapping](https://arxiv.org/abs/2508.05192v2)** | 2026-01-16 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 | **[Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/abs/2512.22511v1)** | 2025-12-27 | 16 pages |
 | **[A Causal Lens for Evaluating Faithfulness Metrics](https://arxiv.org/abs/2502.18848v3)** | 2025-12-24 | <details><summary>Publi...</summary><p>Published at EMNLP 2025; 25 pages, 22 figures, 9 tables</p></details> |
-| **[Investigating Model Editing for Unlearning in Large Language Models](https://arxiv.org/abs/2512.20794v1)** | 2025-12-23 |  |
-| **[Consistency-Aware Editing for Entity-level Unlearning in Language Models](https://arxiv.org/abs/2601.08840v1)** | 2025-12-19 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v3)** | 2026-01-21 |  |
 | **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2508.13634v3)** | 2026-01-20 |  |
 | **[MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux](https://arxiv.org/abs/2601.13060v1)** | 2026-01-19 |  |
 | **[Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349v1)** | 2026-01-18 |  |
@@ -55,7 +56,6 @@ labels: documentation
 | **[ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation](https://arxiv.org/abs/2601.07262v1)** | 2026-01-12 |  |
 | **[A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149v3)** | 2026-01-12 |  |
 | **[ShowUI-Aloha: Human-Taught GUI Agent](https://arxiv.org/abs/2601.07181v1)** | 2026-01-12 | 13 Pages, 16 Figures |
-| **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v2)** | 2026-01-10 |  |
 | **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v2)** | 2026-01-08 |  |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v2)** | 2026-01-08 | Work In Progress |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v2)** | 2026-01-22 |  |
 | **[Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty](https://arxiv.org/abs/2601.13549v1)** | 2026-01-20 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, submitted to IEEE for possible publication</p></details> |
 | **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v2)** | 2026-01-19 |  |
 | **[Do Clinical Question Answering Systems Really Need Specialised Medical Fine Tuning?](https://arxiv.org/abs/2601.12812v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Industry Track)</p></details> |
@@ -77,12 +78,12 @@ labels: documentation
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
 | **[LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer](https://arxiv.org/abs/2512.18930v1)** | 2025-12-22 |  |
-| **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v1)** | 2025-12-18 |  |
 | **[Unveiling the Latent Directions of Reflection in Large Language Models](https://arxiv.org/abs/2508.16989v2)** | 2025-12-11 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform](https://arxiv.org/abs/2601.15528v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by AISC 2026</p></details> |
 | **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](https://arxiv.org/abs/2510.06730v2)** | 2026-01-21 |  |
 | **[Stackelberg Self-Annotation: A Robust Approach to Data-Efficient LLM Alignment](https://arxiv.org/abs/2502.18099v3)** | 2026-01-21 |  |
 | **[DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs](https://arxiv.org/abs/2601.14711v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference (WWW) 2026</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Mugi: Value Level Parallelism For Efficient LLMs](https://arxiv.org/abs/2601.10823v1)** | 2026-01-15 | <details><summary>2026 ...</summary><p>2026 International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v3)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper is accepted to Neural Information Processing Systems (NeurIPS) 2025</p></details> |
 | **[Beyond Uniform SVD:Dual-Level Optimization across Columns and Modules for LLM Compression](https://arxiv.org/abs/2510.19385v2)** | 2026-01-14 |  |
-| **[Q-realign: Piggybacking Realignment on Quantization for Safe and Efficient LLM Deployment](https://arxiv.org/abs/2601.08089v1)** | 2026-01-13 |  |
 
