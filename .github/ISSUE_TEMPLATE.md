@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 25, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persuasion Tokens for Editing Factual Knowledge in LLMs](https://arxiv.org/abs/2601.16781v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted at EACL Main 2026</p></details> |
+| **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](https://arxiv.org/abs/2506.03490v3)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Main Conference</p></details> |
 | **[Is Your Writing Being Mimicked by AI? Unveiling Imitation with Invisible Watermarks in Creative Writing](https://arxiv.org/abs/2504.00035v3)** | 2026-01-22 |  |
 | **[Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge](https://arxiv.org/abs/2601.15495v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 (Main)</p></details> |
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v1)** | 2026-01-16 | 22 pages, 18 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 | **[An Information-Theoretic Framework for Robust Large Language Model Editing](https://arxiv.org/abs/2512.16227v1)** | 2025-12-18 |  |
 | **[Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v2)** | 2025-12-17 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 10 tables</p></details> |
-| **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457v3)** | 2025-12-17 | <details><summary>Due t...</summary><p>Due to the fact that this paper was completed without informing the mentor, there are ethical issues that require retraction. We hope for your understanding</p></details> |
-| **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v3)** | 2025-12-07 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes](https://arxiv.org/abs/2601.16356v1)** | 2026-01-22 |  |
 | **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v3)** | 2026-01-21 |  |
 | **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2508.13634v3)** | 2026-01-20 |  |
 | **[MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux](https://arxiv.org/abs/2601.13060v1)** | 2026-01-19 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v2)** | 2026-01-08 |  |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v2)** | 2026-01-08 | Work In Progress |
-| **[Modular and Multi-Path-Aware Offline Benchmarking for Mobile GUI Agents](https://arxiv.org/abs/2512.12634v2)** | 2026-01-08 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Beam Alignment using Noisy Twenty Questions Estimation with Trained Questioner](https://arxiv.org/abs/2601.16799v1)** | 2026-01-23 |  |
+| **[White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398v1)** | 2026-01-23 |  |
 | **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v2)** | 2026-01-22 |  |
 | **[Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty](https://arxiv.org/abs/2601.13549v1)** | 2026-01-20 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, submitted to IEEE for possible publication</p></details> |
 | **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v2)** | 2026-01-19 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[CBMAS: Cognitive Behavioral Modeling via Activation Steering](https://arxiv.org/abs/2601.06109v1)** | 2026-01-03 | <details><summary>Accep...</summary><p>Accepted to CogInterp @ NeurIPS 2025. Equal contribution by Ahmed H. Ismail and Anthony Kuang</p></details> |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Can abstract concepts from LLM improve SLM performance?](https://arxiv.org/abs/2512.19069v1)** | 2025-12-22 |  |
-| **[LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer](https://arxiv.org/abs/2512.18930v1)** | 2025-12-22 |  |
-| **[Unveiling the Latent Directions of Reflection in Large Language Models](https://arxiv.org/abs/2508.16989v2)** | 2025-12-11 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Fine-Grained I/O Complexity of Attention Backward Passes](https://arxiv.org/abs/2410.09397v2)** | 2026-01-23 |  |
 | **[Securing LLM-as-a-Service for Small Businesses: An Industry Case Study of a Distributed Chatbot Deployment Platform](https://arxiv.org/abs/2601.15528v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted by AISC 2026</p></details> |
 | **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](https://arxiv.org/abs/2510.06730v2)** | 2026-01-21 |  |
 | **[Stackelberg Self-Annotation: A Robust Approach to Data-Efficient LLM Alignment](https://arxiv.org/abs/2502.18099v3)** | 2026-01-21 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SwiftKV: An Edge-Oriented Attention Algorithm and Multi-Head Accelerator for Fast, Efficient LLM Decoding](https://arxiv.org/abs/2601.10953v1)** | 2026-01-16 |  |
 | **[Mugi: Value Level Parallelism For Efficient LLMs](https://arxiv.org/abs/2601.10823v1)** | 2026-01-15 | <details><summary>2026 ...</summary><p>2026 International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
 | **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v3)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper is accepted to Neural Information Processing Systems (NeurIPS) 2025</p></details> |
-| **[Beyond Uniform SVD:Dual-Level Optimization across Columns and Modules for LLM Compression](https://arxiv.org/abs/2510.19385v2)** | 2026-01-14 |  |
 
