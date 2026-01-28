@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing](https://arxiv.org/abs/2601.19700v1)** | 2026-01-27 |  |
 | **[Persuasion Tokens for Editing Factual Knowledge in LLMs](https://arxiv.org/abs/2601.16781v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at EACL Main 2026</p></details> |
 | **[CLM-Bench: Benchmarking and Analyzing Cross-lingual Misalignment of LLMs in Knowledge Editing](https://arxiv.org/abs/2601.17397v1)** | 2026-01-24 | <details><summary>EACL ...</summary><p>EACL MME workshop paper</p></details> |
 | **[SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS](https://arxiv.org/abs/2601.17086v1)** | 2026-01-23 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions](https://arxiv.org/abs/2601.04600v1)** | 2026-01-08 |  |
 | **[Consistency-Aware Parameter-Preserving Knowledge Editing Framework for Multi-Hop Question Answering](https://arxiv.org/abs/2509.18655v2)** | 2026-01-06 |  |
 | **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v3)** | 2026-01-06 | 27 pages, 8 figures |
-| **[DySK-Attn: A Framework for Efficient, Real-Time Knowledge Updating in Large Language Models via Dynamic Sparse Knowledge Attention](https://arxiv.org/abs/2508.07185v3)** | 2025-12-29 | <details><summary>Prepr...</summary><p>Preprint; 7 figures, 3 tables, 1 algorithm; v1. Code and data will be released</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing](https://arxiv.org/abs/2601.19700v1)** | 2026-01-27 |  |
 | **[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832v3)** | 2026-01-26 |  |
 | **[Are We Evaluating the Edit Locality of LLM Model Editing Properly?](https://arxiv.org/abs/2601.17343v1)** | 2026-01-24 |  |
 | **[SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS](https://arxiv.org/abs/2601.17086v1)** | 2026-01-23 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072v3)** | 2026-01-09 |  |
 | **[On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions](https://arxiv.org/abs/2601.04600v1)** | 2026-01-08 |  |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v3)** | 2026-01-07 | 18 pages,5 figures |
-| **[Controllable Concept Bottleneck Models](https://arxiv.org/abs/2601.00451v1)** | 2026-01-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2405.15476</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199v1)** | 2026-01-27 |  |
+| **[GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents](https://arxiv.org/abs/2601.18842v1)** | 2026-01-26 |  |
 | **[SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://arxiv.org/abs/2601.18305v1)** | 2026-01-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Under review. Code and dataset will be released upon acceptance</p></details> |
 | **[GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://arxiv.org/abs/2601.18197v1)** | 2026-01-26 |  |
 | **[EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents](https://arxiv.org/abs/2601.17722v1)** | 2026-01-25 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
 | **[GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://arxiv.org/abs/2601.09770v1)** | 2026-01-14 |  |
 | **[Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents](https://arxiv.org/abs/2601.11631v1)** | 2026-01-14 |  |
-| **[ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation](https://arxiv.org/abs/2601.07262v1)** | 2026-01-12 |  |
-| **[A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149v3)** | 2026-01-12 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search](https://arxiv.org/abs/2601.19622v1)** | 2026-01-27 | <details><summary>accep...</summary><p>accepted at EvoStar conference; Code: https://github.com/tb-git-tud/a-ceoh-evolution-of-heuristics?tab=readme-ov-file</p></details> |
+| **[Native LLM and MLLM Inference at Scale on Apple Silicon](https://arxiv.org/abs/2601.19139v1)** | 2026-01-27 |  |
+| **[Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding](https://arxiv.org/abs/2511.10492v3)** | 2026-01-26 |  |
+| **[Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://arxiv.org/abs/2506.14852v2)** | 2026-01-26 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 27 pages</p></details> |
 | **[TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](https://arxiv.org/abs/2510.22767v2)** | 2026-01-24 |  |
 | **[Sentinel: Decoding Context Utilization via Attention Probing for Efficient LLM Context Compression](https://arxiv.org/abs/2505.23277v2)** | 2026-01-24 | Preprint |
 | **[Latent-Space Contrastive Reinforcement Learning for Stable and Efficient LLM Reasoning](https://arxiv.org/abs/2601.17275v1)** | 2026-01-24 | 12 pages, |
@@ -93,9 +97,5 @@ labels: documentation
 | **[DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs](https://arxiv.org/abs/2601.14711v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference (WWW) 2026</p></details> |
 | **[Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores](https://arxiv.org/abs/2601.13885v1)** | 2026-01-20 |  |
 | **[ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks](https://arxiv.org/abs/2601.13824v1)** | 2026-01-20 | 11 pages, 16 figures |
-| **[HybridFlow: Adaptive Task Scheduling for Fast and Token-Efficient LLM Inference in Edge-Cloud Collaboration](https://arxiv.org/abs/2512.22137v2)** | 2026-01-20 |  |
 | **[RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering](https://arxiv.org/abs/2601.09269v2)** | 2026-01-19 |  |
-| **[SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2508.02751v2)** | 2026-01-19 |  |
-| **[PASTA: A Scalable Framework for Multi-Policy AI Compliance Evaluation](https://arxiv.org/abs/2601.11702v1)** | 2026-01-16 | 28 pages, 7 figures |
-| **[Efficient LLM Collaboration via Planning](https://arxiv.org/abs/2506.11578v3)** | 2026-01-16 |  |
 
