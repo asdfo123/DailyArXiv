@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual GUI Agents](https://arxiv.org/abs/2601.20732v1)** | 2026-01-28 |  |
+| **[OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution](https://arxiv.org/abs/2601.20380v1)** | 2026-01-28 |  |
+| **[MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment](https://arxiv.org/abs/2601.20335v1)** | 2026-01-28 |  |
 | **[MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199v1)** | 2026-01-27 |  |
 | **[GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents](https://arxiv.org/abs/2601.18842v1)** | 2026-01-26 |  |
 | **[SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://arxiv.org/abs/2601.18305v1)** | 2026-01-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Under review. Code and dataset will be released upon acceptance</p></details> |
@@ -57,9 +60,6 @@ labels: documentation
 | **[MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux](https://arxiv.org/abs/2601.13060v1)** | 2026-01-19 |  |
 | **[Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349v1)** | 2026-01-18 |  |
 | **[V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking](https://arxiv.org/abs/2601.06899v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This work was intended as a replacement of arXiv:2508.13634 and any subsequent updates will appear there</p></details> |
-| **[PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records](https://arxiv.org/abs/2601.09636v1)** | 2026-01-14 |  |
-| **[GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents](https://arxiv.org/abs/2601.09770v1)** | 2026-01-14 |  |
-| **[Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents](https://arxiv.org/abs/2601.11631v1)** | 2026-01-14 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning](https://arxiv.org/abs/2506.11300v2)** | 2026-01-28 |  |
 | **[Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search](https://arxiv.org/abs/2601.19622v1)** | 2026-01-27 | <details><summary>accep...</summary><p>accepted at EvoStar conference; Code: https://github.com/tb-git-tud/a-ceoh-evolution-of-heuristics?tab=readme-ov-file</p></details> |
 | **[Native LLM and MLLM Inference at Scale on Apple Silicon](https://arxiv.org/abs/2601.19139v1)** | 2026-01-27 |  |
 | **[Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding](https://arxiv.org/abs/2511.10492v3)** | 2026-01-26 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs](https://arxiv.org/abs/2601.14711v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at The ACM Web Conference (WWW) 2026</p></details> |
 | **[Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores](https://arxiv.org/abs/2601.13885v1)** | 2026-01-20 |  |
 | **[ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over Resource-Constrained Edge Networks](https://arxiv.org/abs/2601.13824v1)** | 2026-01-20 | 11 pages, 16 figures |
-| **[RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering](https://arxiv.org/abs/2601.09269v2)** | 2026-01-19 |  |
 
