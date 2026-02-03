@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v1)** | 2026-02-02 | under review |
+| **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v1)** | 2026-02-02 |  |
+| **[PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning](https://arxiv.org/abs/2602.01875v1)** | 2026-02-02 |  |
 | **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v2)** | 2026-01-30 |  |
 | **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v1)** | 2026-01-29 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v1)** | 2026-01-16 | 22 pages, 18 figures |
 | **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639v1)** | 2026-01-15 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v1)** | 2026-01-14 |  |
-| **[Can Editing LLMs Inject Harm?](https://arxiv.org/abs/2407.20224v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to Proceedings of AAAI 2026. The first two authors contributed equally. 7 pages for main paper, 31 pages including appendix. The code, results, dataset for this paper and more resources are on the project website: https://llm-editing.github.io</p></details> |
-| **[Multiplicative Orthogonal Sequential Editing for Language Models](https://arxiv.org/abs/2601.07873v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[On the Limitations of Rank-One Model Editing in Answering Multi-hop Questions](https://arxiv.org/abs/2601.04600v1)** | 2026-01-08 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v1)** | 2026-02-02 |  |
+| **[Model Editing with Graph-Based External Memory](https://arxiv.org/abs/2505.18343v2)** | 2026-01-31 |  |
 | **[Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data](https://arxiv.org/abs/2601.23153v1)** | 2026-01-30 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v4)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
@@ -39,12 +41,14 @@ labels: documentation
 | **[Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/abs/2601.11441v1)** | 2026-01-16 | ICASSP 2026 |
 | **[AI-assisted JSON Schema Creation and Mapping](https://arxiv.org/abs/2508.05192v2)** | 2026-01-16 |  |
 | **[Attesting Model Lineage by Consisted Knowledge Evolution with Fine-Tuning Trajectory](https://arxiv.org/abs/2601.11683v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted to the 35th USENIX Security Symposium (USENIX Security 2026)</p></details> |
-| **[ThinkEval: Practical Evaluation of Knowledge Leakage in LLM Editing using Thought-based Knowledge Graphs](https://arxiv.org/abs/2506.01386v3)** | 2026-01-16 | Accepted to TMLR |
-| **[OUTLINEFORGE: Hierarchical Reinforcement Learning with Explicit States for Scientific Writing](https://arxiv.org/abs/2601.09858v1)** | 2026-01-14 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Visual Code Mobile World Models](https://arxiv.org/abs/2602.01576v1)** | 2026-02-02 | <details><summary>Pre-p...</summary><p>Pre-print (technical report)</p></details> |
+| **[MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199v2)** | 2026-01-31 |  |
+| **[Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments](https://arxiv.org/abs/2509.11250v2)** | 2026-01-31 |  |
+| **[Agentic Reward Modeling: Verifying GUI Agent via Online Proactive Interaction](https://arxiv.org/abs/2602.00575v1)** | 2026-01-31 | 21 pages, 11 figures |
 | **[Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training](https://arxiv.org/abs/2601.22781v1)** | 2026-01-30 |  |
 | **[Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models](https://arxiv.org/abs/2601.22770v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ACISP 2026</p></details> |
 | **[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](https://arxiv.org/abs/2601.22528v1)** | 2026-01-30 |  |
@@ -53,17 +57,15 @@ labels: documentation
 | **[MobileBench-OL: A Comprehensive Chinese Benchmark for Evaluating Mobile GUI Agents in Real-World Environment](https://arxiv.org/abs/2601.20335v2)** | 2026-01-29 |  |
 | **[GUIGuard: Toward a General Framework for Privacy-Preserving GUI Agents](https://arxiv.org/abs/2601.18842v2)** | 2026-01-29 |  |
 | **[OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution](https://arxiv.org/abs/2601.20380v1)** | 2026-01-28 |  |
-| **[MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution](https://arxiv.org/abs/2601.19199v1)** | 2026-01-27 |  |
 | **[SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://arxiv.org/abs/2601.18305v1)** | 2026-01-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Under review. Code and dataset will be released upon acceptance</p></details> |
 | **[GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://arxiv.org/abs/2601.18197v1)** | 2026-01-26 |  |
 | **[EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents](https://arxiv.org/abs/2601.17722v1)** | 2026-01-25 |  |
-| **[GraphPilot: GUI Task Automation with One-Step LLM Reasoning Powered by Knowledge Graph](https://arxiv.org/abs/2601.17418v1)** | 2026-01-24 | <details><summary>This ...</summary><p>This paper is accepted by the Journal of Intelligent Computing and Networking (JICN) for publication</p></details> |
-| **[The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes](https://arxiv.org/abs/2601.16356v1)** | 2026-01-22 |  |
-| **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v3)** | 2026-01-21 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](https://arxiv.org/abs/2602.01654v1)** | 2026-02-02 |  |
+| **[Controlling Repetition in Protein Language Models](https://arxiv.org/abs/2602.00782v1)** | 2026-01-31 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[One-shot Optimized Steering Vector for Hallucination Mitigation for VLMs](https://arxiv.org/abs/2601.23041v1)** | 2026-01-30 |  |
 | **[EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis](https://arxiv.org/abs/2601.22873v1)** | 2026-01-30 | <details><summary>Activ...</summary><p>Activation Steering; Emotion-Aware TTS; Speech Synthesis; Accepted by ICASSP 2026</p></details> |
 | **[CASteer: Cross-Attention Steering for Controllable Concept Erasure](https://arxiv.org/abs/2503.09630v4)** | 2026-01-30 |  |
@@ -77,12 +79,16 @@ labels: documentation
 | **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](https://arxiv.org/abs/2509.22510v2)** | 2026-01-19 |  |
 | **[YaPO: Learnable Sparse Activation Steering Vectors for Domain Adaptation](https://arxiv.org/abs/2601.08441v1)** | 2026-01-13 |  |
 | **[A Unified Understanding and Evaluation of Steering Methods](https://arxiv.org/abs/2502.02716v2)** | 2026-01-09 |  |
-| **[TRYLOCK: Defense-in-Depth Against LLM Jailbreaks via Layered Preference and Representation Engineering](https://arxiv.org/abs/2601.03300v1)** | 2026-01-06 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. Code and datasets at https://github.com/scthornton/trylock</p></details> |
-| **[AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing](https://arxiv.org/abs/2601.01957v1)** | 2026-01-05 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAS-Shield: A Defense Framework for Secure and Efficient LLM MAS](https://arxiv.org/abs/2511.22924v2)** | 2026-02-02 |  |
+| **[Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models](https://arxiv.org/abs/2602.01237v1)** | 2026-02-01 | ICML ES-FoMo 2025 |
+| **[Lotus: Efficient LLM Training by Randomized Low-Rank Gradient Projection with Adaptive Subspace Switching](https://arxiv.org/abs/2602.01233v1)** | 2026-02-01 |  |
+| **[A State-Transition Framework for Efficient LLM Reasoning](https://arxiv.org/abs/2602.01198v1)** | 2026-02-01 | ICLR 2026 |
+| **[ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning](https://arxiv.org/abs/2602.01003v1)** | 2026-02-01 |  |
+| **[Sparsity-Aware Unlearning for Large Language Models](https://arxiv.org/abs/2602.00577v1)** | 2026-01-31 |  |
 | **[InstructDiff: Domain-Adaptive Data Selection via Differential Entropy for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.23006v1)** | 2026-01-30 |  |
 | **[Matterhorn: Efficient Analog Sparse Spiking Transformer Architecture with Masked Time-To-First-Spike Encoding](https://arxiv.org/abs/2601.22876v1)** | 2026-01-30 |  |
 | **[Small is Beautiful: A Practical and Efficient Log Parsing Framework](https://arxiv.org/abs/2601.22590v1)** | 2026-01-30 | Accepted by FSE'26 |
@@ -92,10 +98,4 @@ labels: documentation
 | **[ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management](https://arxiv.org/abs/2601.21473v1)** | 2026-01-29 |  |
 | **[Native LLM and MLLM Inference at Scale on Apple Silicon](https://arxiv.org/abs/2601.19139v2)** | 2026-01-29 |  |
 | **[SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS](https://arxiv.org/abs/2509.20802v3)** | 2026-01-29 | ICASSP 2026 |
-| **[ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference](https://arxiv.org/abs/2601.21109v1)** | 2026-01-28 | <details><summary>Prese...</summary><p>Presented at 13th IEEE International Conference on Intelligent Systems and Embedded Design</p></details> |
-| **[Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning](https://arxiv.org/abs/2506.11300v2)** | 2026-01-28 |  |
-| **[Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search](https://arxiv.org/abs/2601.19622v1)** | 2026-01-27 | <details><summary>accep...</summary><p>accepted at EvoStar conference; Code: https://github.com/tb-git-tud/a-ceoh-evolution-of-heuristics?tab=readme-ov-file</p></details> |
-| **[Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding](https://arxiv.org/abs/2511.10492v3)** | 2026-01-26 |  |
-| **[Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents](https://arxiv.org/abs/2506.14852v2)** | 2026-01-26 | <details><summary>NeurI...</summary><p>NeurIPS 2025. 27 pages</p></details> |
-| **[TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](https://arxiv.org/abs/2510.22767v2)** | 2026-01-24 |  |
 
