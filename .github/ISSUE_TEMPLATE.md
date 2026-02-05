@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v2)** | 2026-02-04 | Accepted by ICLR2026 |
 | **[Conflict-Resolving and Sharpness-Aware Minimization for Generalized Knowledge Editing with Multiple Updates](https://arxiv.org/abs/2602.03696v1)** | 2026-02-03 | <details><summary>22 pa...</summary><p>22 pages, 8 figures. Code link: https://github.com/duykhuongnguyen/CoRSA</p></details> |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v1)** | 2026-02-02 | under review |
 | **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v1)** | 2026-02-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Is Your Writing Being Mimicked by AI? Unveiling Imitation with Invisible Watermarks in Creative Writing](https://arxiv.org/abs/2504.00035v3)** | 2026-01-22 |  |
 | **[Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge](https://arxiv.org/abs/2601.15495v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 (Main)</p></details> |
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v1)** | 2026-01-16 | 22 pages, 18 figures |
-| **[STEM: Scaling Transformers with Embedding Modules](https://arxiv.org/abs/2601.10639v1)** | 2026-01-15 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613v1)** | 2026-02-04 | 61 pages, 70 figures |
 | **[Language Steering for Multilingual In-Context Learning](https://arxiv.org/abs/2602.02326v1)** | 2026-02-02 |  |
 | **[Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](https://arxiv.org/abs/2509.06608v4)** | 2026-02-02 | Preprint |
 | **[Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](https://arxiv.org/abs/2602.01654v1)** | 2026-02-02 |  |
@@ -78,11 +79,13 @@ labels: documentation
 | **[Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty](https://arxiv.org/abs/2601.13549v1)** | 2026-01-20 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, submitted to IEEE for possible publication</p></details> |
 | **[Understanding and Steering the Cognitive Behaviors of Reasoning Models at Test-Time](https://arxiv.org/abs/2512.24574v2)** | 2026-01-19 |  |
 | **[Do Clinical Question Answering Systems Really Need Specialised Medical Fine Tuning?](https://arxiv.org/abs/2601.12812v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at EACL 2026 (Industry Track)</p></details> |
-| **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](https://arxiv.org/abs/2509.22510v2)** | 2026-01-19 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mugi: Value Level Parallelism For Efficient LLMs](https://arxiv.org/abs/2601.10823v2)** | 2026-02-04 | <details><summary>2026 ...</summary><p>2026 International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
+| **[LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse](https://arxiv.org/abs/2602.04693v1)** | 2026-02-04 |  |
+| **[Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning](https://arxiv.org/abs/2602.04284v1)** | 2026-02-04 | Under Review |
 | **[MeKi: Memory-based Expert Knowledge Injection for Efficient LLM Scaling](https://arxiv.org/abs/2602.03359v1)** | 2026-02-03 |  |
 | **[NLI:Non-uniform Linear Interpolation Approximation of Nonlinear Operations for Efficient LLMs Inference](https://arxiv.org/abs/2602.02988v1)** | 2026-02-03 | <details><summary>Admit...</summary><p>Admitted to ICLR 18pages 5 figures</p></details> |
 | **[A Single Revision Step Improves Token-Efficient LLM Reasoning](https://arxiv.org/abs/2602.02828v1)** | 2026-02-02 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Sparsity-Aware Unlearning for Large Language Models](https://arxiv.org/abs/2602.00577v1)** | 2026-01-31 |  |
 | **[InstructDiff: Domain-Adaptive Data Selection via Differential Entropy for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.23006v1)** | 2026-01-30 |  |
 | **[Matterhorn: Efficient Analog Sparse Spiking Transformer Architecture with Masked Time-To-First-Spike Encoding](https://arxiv.org/abs/2601.22876v1)** | 2026-01-30 |  |
-| **[HyPAC: Cost-Efficient LLMs-Human Hybrid Annotation with PAC Error Guarantees](https://arxiv.org/abs/2602.02550v1)** | 2026-01-30 |  |
-| **[Small is Beautiful: A Practical and Efficient Log Parsing Framework](https://arxiv.org/abs/2601.22590v1)** | 2026-01-30 | Accepted by FSE'26 |
-| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v3)** | 2026-01-30 |  |
 
