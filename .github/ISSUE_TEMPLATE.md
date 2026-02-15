@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262v2)** | 2026-02-12 |  |
 | **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876v3)** | 2026-02-10 | <details><summary>This ...</summary><p>This paper was accepted to ICLR 2026</p></details> |
 | **[Toward Ultra-Long-Horizon Sequential Model Editing](https://arxiv.org/abs/2602.02543v2)** | 2026-02-10 |  |
 | **[GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing](https://arxiv.org/abs/2602.08550v1)** | 2026-02-09 | <details><summary>ICLR ...</summary><p>ICLR 2026. This is a preprint version. The camera-ready version will be updated soon</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data](https://arxiv.org/abs/2601.23153v1)** | 2026-01-30 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v4)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
-| **[EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing](https://arxiv.org/abs/2508.04012v3)** | 2026-01-29 | Accepted at WWW2026 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v1)** | 2026-02-12 |  |
+| **[AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://arxiv.org/abs/2602.11750v1)** | 2026-02-12 | 21 pages, 7 figures |
+| **[Adaptive Milestone Reward for GUI Agents](https://arxiv.org/abs/2602.11524v1)** | 2026-02-12 |  |
+| **[How Smart Is Your GUI Agent? A Framework for the Future of Software Interaction](https://arxiv.org/abs/2602.11514v1)** | 2026-02-12 |  |
 | **[See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch](https://arxiv.org/abs/2602.10814v1)** | 2026-02-11 |  |
 | **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v2)** | 2026-02-10 | Work In Progress |
 | **[Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856v1)** | 2026-02-10 | <details><summary>githu...</summary><p>github: https://github.com/AMAP-ML/Code2World project page: https://amap-ml.github.io/Code2World/</p></details> |
@@ -56,14 +60,11 @@ labels: documentation
 | **[ANCHOR: Branch-Point Data Generation for GUI Agents](https://arxiv.org/abs/2602.07153v1)** | 2026-02-06 |  |
 | **[POINTS-GUI-G: GUI-Grounding Journey](https://arxiv.org/abs/2602.06391v1)** | 2026-02-06 |  |
 | **[Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion](https://arxiv.org/abs/2602.06351v1)** | 2026-02-06 | 17 pages, 10 figures |
-| **[UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents](https://arxiv.org/abs/2602.05832v1)** | 2026-02-05 | <details><summary>23 pa...</summary><p>23 pages, 16 figures. Project page: https://ui-mem.github.io</p></details> |
-| **[M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI Agent Data Mining](https://arxiv.org/abs/2602.05429v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. Supplementary material is included at the end of the main paper (16 pages, 15 figures, 2 tables)</p></details> |
-| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v1)** | 2026-02-03 | <details><summary>https...</summary><p>https://lgy0404.github.io/MemGUI-Bench/</p></details> |
-| **[Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents](https://arxiv.org/abs/2602.02995v1)** | 2026-02-03 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[General and Efficient Steering of Unconditional Diffusion](https://arxiv.org/abs/2602.11395v1)** | 2026-02-11 |  |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v1)** | 2026-02-10 |  |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](https://arxiv.org/abs/2509.15888v4)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint](https://arxiv.org/abs/2506.07022v2)** | 2026-02-08 | ICLR 2026 |
@@ -78,15 +79,17 @@ labels: documentation
 | **[Phantom Transfer: Data-level Defences are Insufficient Against Data Poisoning](https://arxiv.org/abs/2602.04899v1)** | 2026-02-03 |  |
 | **[Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](https://arxiv.org/abs/2602.04896v1)** | 2026-02-03 |  |
 | **[Language Steering for Multilingual In-Context Learning](https://arxiv.org/abs/2602.02326v1)** | 2026-02-02 |  |
-| **[Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](https://arxiv.org/abs/2509.06608v4)** | 2026-02-02 | Preprint |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v1)** | 2026-02-12 |  |
+| **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://arxiv.org/abs/2510.03346v2)** | 2026-02-12 | ICLR 2026 |
+| **[Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation](https://arxiv.org/abs/2602.09829v2)** | 2026-02-12 |  |
+| **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v2)** | 2026-02-12 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
+| **[LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection](https://arxiv.org/abs/2602.11655v1)** | 2026-02-12 |  |
 | **[BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2602.10729v1)** | 2026-02-11 | MLSys 2026 |
-| **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v1)** | 2026-02-11 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
 | **[KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](https://arxiv.org/abs/2511.18868v2)** | 2026-02-11 | <details><summary>19 pa...</summary><p>19 pages (9 pages main text), 4 figures. v2: Full revision</p></details> |
-| **[Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation](https://arxiv.org/abs/2602.09829v1)** | 2026-02-10 |  |
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](https://arxiv.org/abs/2509.15888v4)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.09578v1)** | 2026-02-10 |  |
 | **[LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms](https://arxiv.org/abs/2602.09323v1)** | 2026-02-10 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Agentic AI Reasoning for Mobile Edge General Intelligence: Fundamentals, Approaches, and Directions](https://arxiv.org/abs/2509.23248v2)** | 2026-02-09 |  |
 | **[Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](https://arxiv.org/abs/2602.07397v1)** | 2026-02-07 |  |
 | **[Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://arxiv.org/abs/2502.16174v3)** | 2026-02-06 |  |
-| **[RoPE-LIME: RoPE-Space Locality + Sparse-K Sampling for Efficient LLM Attribution](https://arxiv.org/abs/2602.06275v1)** | 2026-02-06 |  |
-| **[RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs](https://arxiv.org/abs/2602.05367v1)** | 2026-02-05 |  |
-| **[Opt4GPTQ: Co-Optimizing Memory and Computation for 4-bit GPTQ Quantized LLM Inference on Heterogeneous Platforms](https://arxiv.org/abs/2511.19438v2)** | 2026-02-05 |  |
 
