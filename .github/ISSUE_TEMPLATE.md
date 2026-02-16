@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 15, 2026
+title: Latest 15 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats](https://arxiv.org/abs/2602.12635v1)** | 2026-02-13 |  |
 | **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v1)** | 2026-02-12 |  |
 | **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://arxiv.org/abs/2510.03346v2)** | 2026-02-12 | ICLR 2026 |
 | **[Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation](https://arxiv.org/abs/2602.09829v2)** | 2026-02-12 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[QUOKA: Query-Oriented KV Selection For Efficient LLM Prefill](https://arxiv.org/abs/2602.08722v1)** | 2026-02-09 |  |
 | **[Agentic AI Reasoning for Mobile Edge General Intelligence: Fundamentals, Approaches, and Directions](https://arxiv.org/abs/2509.23248v2)** | 2026-02-09 |  |
 | **[Scout Before You Attend: Sketch-and-Walk Sparse Attention for Efficient LLM Inference](https://arxiv.org/abs/2602.07397v1)** | 2026-02-07 |  |
-| **[Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://arxiv.org/abs/2502.16174v3)** | 2026-02-06 |  |
 
