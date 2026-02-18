@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
 | **[On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262v2)** | 2026-02-12 |  |
 | **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876v3)** | 2026-02-10 | <details><summary>This ...</summary><p>This paper was accepted to ICLR 2026</p></details> |
 | **[Toward Ultra-Long-Horizon Sequential Model Editing](https://arxiv.org/abs/2602.02543v2)** | 2026-02-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Model Editing with Graph-Based External Memory](https://arxiv.org/abs/2505.18343v2)** | 2026-01-31 |  |
 | **[Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data](https://arxiv.org/abs/2601.23153v1)** | 2026-01-30 |  |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v4)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-as-Judge on a Budget](https://arxiv.org/abs/2602.15481v1)** | 2026-02-17 |  |
 | **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
 | **[Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316v4)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity](https://arxiv.org/abs/2602.14452v1)** | 2026-02-16 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](https://arxiv.org/abs/2509.15888v4)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25</p></details> |
 | **[Rollout-Training Co-Design for Efficient LLM-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.09578v1)** | 2026-02-10 |  |
 | **[LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms](https://arxiv.org/abs/2602.09323v1)** | 2026-02-10 |  |
-| **[PABU: Progress-Aware Belief Update for Efficient LLM Agents](https://arxiv.org/abs/2602.09138v1)** | 2026-02-09 |  |
 
