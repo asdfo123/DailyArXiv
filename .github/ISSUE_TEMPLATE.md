@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 22, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://arxiv.org/abs/2508.03923v3)** | 2026-02-20 |  |
 | **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v2)** | 2026-02-16 |  |
 | **[AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines](https://arxiv.org/abs/2602.14296v1)** | 2026-02-15 |  |
 | **[GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://arxiv.org/abs/2602.14093v1)** | 2026-02-15 |  |
@@ -59,12 +60,13 @@ labels: documentation
 | **[Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856v1)** | 2026-02-10 | <details><summary>githu...</summary><p>github: https://github.com/AMAP-ML/Code2World project page: https://amap-ml.github.io/Code2World/</p></details> |
 | **[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page at https://greenoso.github.io/NextGen-CAPTCHAs_webpage/</p></details> |
 | **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v1)** | 2026-02-09 |  |
-| **[GUI Knowledge Bench: Revealing the Knowledge Gap of VLMs in GUI Tasks](https://arxiv.org/abs/2510.26098v2)** | 2026-02-09 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations](https://arxiv.org/abs/2602.17881v1)** | 2026-02-19 | <details><summary>Maste...</summary><p>Master's Thesis, University of Tübingen. 89 pages, 34 figures. Portions of this work were published at the ICLR 2025 Workshop on Foundation Models in the Wild (see arXiv:2505.22637)</p></details> |
 | **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v2)** | 2026-02-18 |  |
+| **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 | **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v2)** | 2026-02-16 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 4 tables</p></details> |
 | **[General and Efficient Steering of Unconditional Diffusion](https://arxiv.org/abs/2602.11395v1)** | 2026-02-11 |  |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v1)** | 2026-02-10 |  |
@@ -73,12 +75,10 @@ labels: documentation
 | **[ASA: Training-Free Representation Engineering for Tool-Calling Agents](https://arxiv.org/abs/2602.04935v2)** | 2026-02-08 |  |
 | **[Letting Tutor Personas "Speak Up" for LLMs: Learning Steering Vectors from Dialogue via Preference Optimization](https://arxiv.org/abs/2602.07639v1)** | 2026-02-07 |  |
 | **[Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs](https://arxiv.org/abs/2602.07276v1)** | 2026-02-07 |  |
+| **[Tethered Reasoning: Decoupling Entropy from Hallucination in Quantized LLMs via Manifold Steering](https://arxiv.org/abs/2602.17691v1)** | 2026-02-06 | 16 pages, 6 tables |
 | **[Simulated Adoption: Decoupling Magnitude and Direction in LLM In-Context Conflict Resolution](https://arxiv.org/abs/2602.04918v2)** | 2026-02-06 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v2)** | 2026-02-05 |  |
 | **[Low-complexity Design for Beam Coverage in Near-field and Far-field: A Fourier Transform Approach](https://arxiv.org/abs/2602.05666v1)** | 2026-02-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, submitted to IEEE for possible publication</p></details> |
-| **[Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613v1)** | 2026-02-04 | 61 pages, 70 figures |
-| **[Phantom Transfer: Data-level Defences are Insufficient Against Data Poisoning](https://arxiv.org/abs/2602.04899v1)** | 2026-02-03 |  |
-| **[Steering Externalities: Benign Activation Steering Unintentionally Increases Jailbreak Risk for Large Language Models](https://arxiv.org/abs/2602.04896v1)** | 2026-02-03 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
