@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncovering Context Reliance in Unstructured Knowledge Editing](https://arxiv.org/abs/2602.19043v1)** | 2026-02-22 | 21 pages, 14 figures |
 | **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](https://arxiv.org/abs/2506.03490v4)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Main Conference</p></details> |
 | **[Bridging the Multilingual Safety Divide: Efficient, Culturally-Aware Alignment for Global South Languages](https://arxiv.org/abs/2602.13867v1)** | 2026-02-14 | <details><summary>Accep...</summary><p>Accepted to the EGSAI Workshop at AAAI 2026</p></details> |
 | **[MoEEdit: Efficient and Routing-Stable Knowledge Editing for Mixture-of-Experts LLMs](https://arxiv.org/abs/2602.10965v1)** | 2026-02-11 |  |
@@ -21,17 +22,17 @@ labels: documentation
 | **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v1)** | 2026-01-29 |  |
 | **[Persuasion Tokens for Editing Factual Knowledge in LLMs](https://arxiv.org/abs/2601.16781v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at EACL Main 2026</p></details> |
-| **[CLM-Bench: Benchmarking and Analyzing Cross-lingual Misalignment of LLMs in Knowledge Editing](https://arxiv.org/abs/2601.17397v1)** | 2026-01-24 | <details><summary>EACL ...</summary><p>EACL MME workshop paper</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing](https://arxiv.org/abs/2602.08550v2)** | 2026-02-23 | ICLR 2026 |
+| **[HIME: Mitigating Object Hallucinations in LVLMs via Hallucination Insensitivity Model Editing](https://arxiv.org/abs/2602.18711v1)** | 2026-02-21 |  |
 | **[Pretraining Language Models for Diachronic Linguistic Change Discovery](https://arxiv.org/abs/2504.05523v3)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Findings of the EACL 2026</p></details> |
 | **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
 | **[On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262v2)** | 2026-02-12 |  |
 | **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876v3)** | 2026-02-10 | <details><summary>This ...</summary><p>This paper was accepted to ICLR 2026</p></details> |
 | **[Toward Ultra-Long-Horizon Sequential Model Editing](https://arxiv.org/abs/2602.02543v2)** | 2026-02-10 |  |
-| **[GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing](https://arxiv.org/abs/2602.08550v1)** | 2026-02-09 | <details><summary>ICLR ...</summary><p>ICLR 2026. This is a preprint version. The camera-ready version will be updated soon</p></details> |
 | **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v1)** | 2026-02-07 |  |
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v3)** | 2026-02-07 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v2)** | 2026-02-05 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](https://arxiv.org/abs/2506.07899v4)** | 2026-02-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; Accepted to NeurIPS 2025</p></details> |
 | **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v1)** | 2026-02-02 |  |
 | **[Model Editing with Graph-Based External Memory](https://arxiv.org/abs/2505.18343v2)** | 2026-01-31 |  |
-| **[Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data](https://arxiv.org/abs/2601.23153v1)** | 2026-01-30 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point](https://arxiv.org/abs/2502.08047v4)** | 2026-02-22 | Technique Report |
+| **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937v5)** | 2026-02-21 | <details><summary>"V-Dr...</summary><p>"V-Droid: Advancing Mobile GUI Agent Through Generative Verifiers", got accepted to MobiCom 2026</p></details> |
 | **[CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://arxiv.org/abs/2508.03923v3)** | 2026-02-20 |  |
 | **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v2)** | 2026-02-16 |  |
 | **[AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines](https://arxiv.org/abs/2602.14296v1)** | 2026-02-15 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch](https://arxiv.org/abs/2602.10814v1)** | 2026-02-11 |  |
 | **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v2)** | 2026-02-10 | Work In Progress |
 | **[Code2World: A GUI World Model via Renderable Code Generation](https://arxiv.org/abs/2602.09856v1)** | 2026-02-10 | <details><summary>githu...</summary><p>github: https://github.com/AMAP-ML/Code2World project page: https://amap-ml.github.io/Code2World/</p></details> |
-| **[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page at https://greenoso.github.io/NextGen-CAPTCHAs_webpage/</p></details> |
-| **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v1)** | 2026-02-09 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://arxiv.org/abs/2510.03346v3)** | 2026-02-22 | ICLR 2026 |
 | **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v1)** | 2026-02-19 |  |
 | **[RoPE-LIME: RoPE-Space Locality + Sparse-K Sampling for Efficient LLM Attribution](https://arxiv.org/abs/2602.06275v2)** | 2026-02-18 |  |
 | **[Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark](https://arxiv.org/abs/2602.16811v1)** | 2026-02-18 |  |
@@ -92,7 +93,6 @@ labels: documentation
 | **[WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity](https://arxiv.org/abs/2602.14452v1)** | 2026-02-16 |  |
 | **[Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats](https://arxiv.org/abs/2602.12635v1)** | 2026-02-13 |  |
 | **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v1)** | 2026-02-12 |  |
-| **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://arxiv.org/abs/2510.03346v2)** | 2026-02-12 | ICLR 2026 |
 | **[Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation](https://arxiv.org/abs/2602.09829v2)** | 2026-02-12 |  |
 | **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v2)** | 2026-02-12 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
 | **[LoRA-based Parameter-Efficient LLMs for Continuous Learning in Edge-based Malware Detection](https://arxiv.org/abs/2602.11655v1)** | 2026-02-12 |  |
