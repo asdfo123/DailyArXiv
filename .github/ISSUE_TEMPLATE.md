@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 26, 2026
+title: Latest 15 Papers - March 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072v4)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2026</p></details> |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876v4)** | 2026-02-24 | <details><summary>This ...</summary><p>This paper was accepted to ICLR 2026</p></details> |
 | **[GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing](https://arxiv.org/abs/2602.08550v3)** | 2026-02-24 | ICLR 2026 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Structural Disentanglement in Bilinear MLPs via Architectural Inductive Bias](https://arxiv.org/abs/2602.05635v1)** | 2026-02-05 |  |
 | **[Conflict-Resolving and Sharpness-Aware Minimization for Generalized Knowledge Editing with Multiple Updates](https://arxiv.org/abs/2602.03696v1)** | 2026-02-03 | <details><summary>22 pa...</summary><p>22 pages, 8 figures. Code link: https://github.com/duykhuongnguyen/CoRSA</p></details> |
 | **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](https://arxiv.org/abs/2506.07899v4)** | 2026-02-02 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; Accepted to NeurIPS 2025</p></details> |
-| **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v1)** | 2026-02-02 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents](https://arxiv.org/abs/2602.23235v1)** | 2026-02-26 |  |
 | **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190v1)** | 2026-02-25 | 57 pages, 17 figures |
 | **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v2)** | 2026-02-24 |  |
 | **[Towards Trustworthy GUI Agents: A Survey](https://arxiv.org/abs/2503.23434v2)** | 2026-02-24 | <details><summary>14 pa...</summary><p>14 pages, work in process</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization](https://arxiv.org/abs/2602.13653v1)** | 2026-02-14 |  |
 | **[Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible](https://arxiv.org/abs/2602.10139v2)** | 2026-02-14 | 15 pages, 4 figures |
 | **[AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://arxiv.org/abs/2602.11750v1)** | 2026-02-12 | 21 pages, 7 figures |
-| **[Adaptive Milestone Reward for GUI Agents](https://arxiv.org/abs/2602.11524v1)** | 2026-02-12 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,8 +83,12 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681v1)** | 2026-02-26 |  |
+| **[Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642v1)** | 2026-02-26 |  |
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v4)** | 2026-02-25 |  |
 | **[Unleashing Low-Bit Inference on Ascend NPUs: A Comprehensive Evaluation of HiFloat Formats](https://arxiv.org/abs/2602.12635v2)** | 2026-02-25 |  |
+| **[AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2602.22268v1)** | 2026-02-25 | 15 pages, 10 figures |
+| **[Sustainable LLM Inference using Context-Aware Model Switching](https://arxiv.org/abs/2602.22261v1)** | 2026-02-25 | 15 pages, 6 figures |
 | **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v3)** | 2026-02-25 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
 | **[Characterizing LLM Inference Energy-Performance Tradeoffs across Workloads and GPU Scaling](https://arxiv.org/abs/2501.08219v4)** | 2026-02-24 |  |
 | **[SEFL: A Framework for Generating Synthetic Educational Assignment Feedback with LLM Agents](https://arxiv.org/abs/2502.12927v3)** | 2026-02-24 | LREC 2026 |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark](https://arxiv.org/abs/2602.16811v1)** | 2026-02-18 |  |
 | **[LLM-as-Judge on a Budget](https://arxiv.org/abs/2602.15481v1)** | 2026-02-17 |  |
 | **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
-| **[Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316v4)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[WiSparse: Boosting LLM Inference Efficiency with Weight-Aware Mixed Activation Sparsity](https://arxiv.org/abs/2602.14452v1)** | 2026-02-16 |  |
-| **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v1)** | 2026-02-12 |  |
-| **[Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation](https://arxiv.org/abs/2602.09829v2)** | 2026-02-12 |  |
 
