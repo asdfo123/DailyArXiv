@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 01, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tracing and Reversing Edits in LLMs](https://arxiv.org/abs/2505.20819v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v1)** | 2026-02-22 |  |
 | **[Uncovering Context Reliance in Unstructured Knowledge Editing](https://arxiv.org/abs/2602.19043v1)** | 2026-02-22 | 21 pages, 14 figures |
 | **[Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing](https://arxiv.org/abs/2506.03490v4)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Main Conference</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning](https://arxiv.org/abs/2602.01875v1)** | 2026-02-02 |  |
 | **[EtCon: Edit-then-Consolidate for Reliable Knowledge Editing](https://arxiv.org/abs/2512.04753v2)** | 2026-01-30 |  |
 | **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
-| **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v1)** | 2026-01-29 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering](https://arxiv.org/abs/2602.23676v1)** | 2026-02-27 | 15 pages, 5 figures |
 | **[Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models](https://arxiv.org/abs/2602.21704v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Refusal Steering: Fine-grained Control over LLM Refusal Behaviour for Sensitive Topics](https://arxiv.org/abs/2512.16602v3)** | 2026-02-24 |  |
 | **[Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations](https://arxiv.org/abs/2602.17881v1)** | 2026-02-19 | <details><summary>Maste...</summary><p>Master's Thesis, University of Tübingen. 89 pages, 34 figures. Portions of this work were published at the ICLR 2025 Workshop on Foundation Models in the Wild (see arXiv:2505.22637)</p></details> |
@@ -78,11 +79,12 @@ labels: documentation
 | **[Letting Tutor Personas "Speak Up" for LLMs: Learning Steering Vectors from Dialogue via Preference Optimization](https://arxiv.org/abs/2602.07639v1)** | 2026-02-07 |  |
 | **[Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs](https://arxiv.org/abs/2602.07276v1)** | 2026-02-07 |  |
 | **[Tethered Reasoning: Decoupling Entropy from Hallucination in Quantized LLMs via Manifold Steering](https://arxiv.org/abs/2602.17691v1)** | 2026-02-06 | 16 pages, 6 tables |
-| **[Simulated Adoption: Decoupling Magnitude and Direction in LLM In-Context Conflict Resolution](https://arxiv.org/abs/2602.04918v2)** | 2026-02-06 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PTEB: Towards Robust Text Embedding Evaluation via Stochastic Paraphrasing at Evaluation Time with LLMs](https://arxiv.org/abs/2510.06730v3)** | 2026-02-27 | EACL 2026 (Main) |
+| **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](https://arxiv.org/abs/2510.19669v3)** | 2026-02-27 | ICLR 26 |
 | **[Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681v1)** | 2026-02-26 |  |
 | **[Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642v1)** | 2026-02-26 |  |
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v4)** | 2026-02-25 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[KVComm: Enabling Efficient LLM Communication through Selective KV Sharing](https://arxiv.org/abs/2510.03346v3)** | 2026-02-22 | ICLR 2026 |
 | **[RoPE-LIME: RoPE-Space Locality + Sparse-K Sampling for Efficient LLM Attribution](https://arxiv.org/abs/2602.06275v2)** | 2026-02-18 |  |
 | **[Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark](https://arxiv.org/abs/2602.16811v1)** | 2026-02-18 |  |
-| **[LLM-as-Judge on a Budget](https://arxiv.org/abs/2602.15481v1)** | 2026-02-17 |  |
-| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
 
