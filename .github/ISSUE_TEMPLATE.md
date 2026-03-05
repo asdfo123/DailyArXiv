@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -39,12 +39,14 @@ labels: documentation
 | **[Pretraining Language Models for Diachronic Linguistic Change Discovery](https://arxiv.org/abs/2504.05523v3)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Findings of the EACL 2026</p></details> |
 | **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
 | **[On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262v2)** | 2026-02-12 |  |
+| **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v1)** | 2026-02-11 |  |
 | **[Toward Ultra-Long-Horizon Sequential Model Editing](https://arxiv.org/abs/2602.02543v2)** | 2026-02-10 |  |
-| **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v1)** | 2026-02-07 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://arxiv.org/abs/2509.21782v2)** | 2026-03-04 |  |
+| **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349v2)** | 2026-03-03 |  |
 | **[CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](https://arxiv.org/abs/2603.02951v1)** | 2026-03-03 |  |
 | **[Efficient Long-Horizon GUI Agents via Training-Free KV Cache Compression](https://arxiv.org/abs/2603.00188v1)** | 2026-02-27 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://arxiv.org/abs/2508.03923v3)** | 2026-02-20 |  |
 | **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v2)** | 2026-02-16 |  |
 | **[AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines](https://arxiv.org/abs/2602.14296v1)** | 2026-02-15 |  |
-| **[GUI-GENESIS: Automated Synthesis of Efficient Environments with Verifiable Rewards for GUI Agent Post-Training](https://arxiv.org/abs/2602.14093v1)** | 2026-02-15 |  |
-| **[Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://arxiv.org/abs/2602.16855v1)** | 2026-02-15 | <details><summary>25 pa...</summary><p>25 pages, 11 figures, 11 tables</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -76,9 +76,9 @@ labels: documentation
 | **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
 | **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v2)** | 2026-02-16 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 4 tables</p></details> |
 | **[General and Efficient Steering of Unconditional Diffusion](https://arxiv.org/abs/2602.11395v1)** | 2026-02-11 |  |
+| **[Controllable and explainable personality sliders for LLMs at inference time](https://arxiv.org/abs/2603.03326v1)** | 2026-02-10 | 20 pages, 18 figures |
 | **[AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint](https://arxiv.org/abs/2506.07022v2)** | 2026-02-08 | ICLR 2026 |
 | **[ASA: Training-Free Representation Engineering for Tool-Calling Agents](https://arxiv.org/abs/2602.04935v2)** | 2026-02-08 |  |
-| **[Letting Tutor Personas "Speak Up" for LLMs: Learning Steering Vectors from Dialogue via Preference Optimization](https://arxiv.org/abs/2602.07639v1)** | 2026-02-07 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
