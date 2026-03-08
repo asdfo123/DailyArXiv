@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents](https://arxiv.org/abs/2603.05044v1)** | 2026-03-05 |  |
 | **[Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://arxiv.org/abs/2509.21782v2)** | 2026-03-04 |  |
 | **[Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://arxiv.org/abs/2511.22235v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Zero-Permission Manipulation: Can We Trust Large Multimodal Model Powered GUI Agents?](https://arxiv.org/abs/2601.12349v2)** | 2026-03-03 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment](https://arxiv.org/abs/2503.15937v5)** | 2026-02-21 | <details><summary>"V-Dr...</summary><p>"V-Droid: Advancing Mobile GUI Agent Through Generative Verifiers", got accepted to MobiCom 2026</p></details> |
 | **[CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://arxiv.org/abs/2508.03923v3)** | 2026-02-20 |  |
 | **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v2)** | 2026-02-16 |  |
-| **[AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines](https://arxiv.org/abs/2602.14296v1)** | 2026-02-15 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v3)** | 2026-03-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 4 tables</p></details> |
+| **[Steering Awareness: Models Can Be Trained to Detect Activation Steering](https://arxiv.org/abs/2511.21399v2)** | 2026-03-04 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 16 tables</p></details> |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v2)** | 2026-03-03 |  |
 | **[EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](https://arxiv.org/abs/2509.25175v2)** | 2026-03-02 | <details><summary>Funct...</summary><p>Functionality upgrade. Code: https://github.com/ZJU-REAL/EasySteer Demo: https://www.youtube.com/watch?v=3rRGzZmhrXg</p></details> |
 | **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v5)** | 2026-03-02 |  |
@@ -74,15 +76,15 @@ labels: documentation
 | **[Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations](https://arxiv.org/abs/2602.17881v1)** | 2026-02-19 | <details><summary>Maste...</summary><p>Master's Thesis, University of Tübingen. 89 pages, 34 figures. Portions of this work were published at the ICLR 2025 Workshop on Foundation Models in the Wild (see arXiv:2505.22637)</p></details> |
 | **[Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships](https://arxiv.org/abs/2512.01991v2)** | 2026-02-18 |  |
 | **[SIRUP: A diffusion-based virtual upmixer of steering vectors for highly-directive spatialization with first-order ambisonics](https://arxiv.org/abs/2602.17732v1)** | 2026-02-18 |  |
-| **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v2)** | 2026-02-16 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 4 tables</p></details> |
 | **[General and Efficient Steering of Unconditional Diffusion](https://arxiv.org/abs/2602.11395v1)** | 2026-02-11 |  |
 | **[Controllable and explainable personality sliders for LLMs at inference time](https://arxiv.org/abs/2603.03326v1)** | 2026-02-10 | 20 pages, 18 figures |
 | **[AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint](https://arxiv.org/abs/2506.07022v2)** | 2026-02-08 | ICLR 2026 |
-| **[ASA: Training-Free Representation Engineering for Tool-Calling Agents](https://arxiv.org/abs/2602.04935v2)** | 2026-02-08 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](https://arxiv.org/abs/2603.05500v1)** | 2026-03-05 | <details><summary>Techn...</summary><p>Technical report v1 (14 pages, 7 figures, project page: https://spherelab.ai/poetx/)</p></details> |
+| **[Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity](https://arxiv.org/abs/2603.05168v1)** | 2026-03-05 |  |
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v5)** | 2026-03-03 |  |
 | **[Graph-Based Self-Healing Tool Routing for Cost-Efficient LLM Agents](https://arxiv.org/abs/2603.01548v1)** | 2026-03-02 | <details><summary>Worki...</summary><p>Working paper. 27 references, 13 figures, 8 tables, pseudocode appendix</p></details> |
 | **[Scaling with Collapse: Efficient and Predictable Training of LLM Families](https://arxiv.org/abs/2509.25087v2)** | 2026-03-02 | ICLR 2026 |
@@ -96,6 +98,4 @@ labels: documentation
 | **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](https://arxiv.org/abs/2510.19669v3)** | 2026-02-27 | ICLR 26 |
 | **[Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681v1)** | 2026-02-26 |  |
 | **[Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642v1)** | 2026-02-26 |  |
-| **[AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2602.22268v1)** | 2026-02-25 | 15 pages, 10 figures |
-| **[Sustainable LLM Inference using Context-Aware Model Switching](https://arxiv.org/abs/2602.22261v1)** | 2026-02-25 | 15 pages, 6 figures |
 
