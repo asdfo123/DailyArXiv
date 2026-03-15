@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v3)** | 2026-03-11 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
+| **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v4)** | 2026-03-12 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
 | **[SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v3)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 17 tables</p></details> |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v1)** | 2026-03-11 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](https://arxiv.org/abs/2505.14679v3)** | 2026-03-10 | TMLR 2026 |
 | **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v2)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Trustworthy AI Workshop</p></details> |
 | **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[HIME: Mitigating Object Hallucinations in LVLMs via Hallucination Insensitivity Model Editing](https://arxiv.org/abs/2602.18711v1)** | 2026-02-21 |  |
 | **[Pretraining Language Models for Diachronic Linguistic Change Discovery](https://arxiv.org/abs/2504.05523v3)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted to Findings of the EACL 2026</p></details> |
 | **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
-| **[On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/abs/2505.24262v2)** | 2026-02-12 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](https://arxiv.org/abs/2603.12138v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Hybrid Self-evolving Structured Memory for GUI Agents](https://arxiv.org/abs/2603.10291v1)** | 2026-03-11 |  |
 | **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v2)** | 2026-03-10 | 25 pages |
 | **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v1)** | 2026-03-09 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents](https://arxiv.org/abs/2602.23235v1)** | 2026-02-26 |  |
 | **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190v1)** | 2026-02-25 | 57 pages, 17 figures |
 | **[UI-Venus-1.5 Technical Report](https://arxiv.org/abs/2602.09082v2)** | 2026-02-24 |  |
-| **[Towards Trustworthy GUI Agents: A Survey](https://arxiv.org/abs/2503.23434v2)** | 2026-02-24 | <details><summary>14 pa...</summary><p>14 pages, work in process</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL](https://arxiv.org/abs/2603.12151v1)** | 2026-03-12 | <details><summary>29 pa...</summary><p>29 pages, 27 figures. Under review</p></details> |
+| **[KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System](https://arxiv.org/abs/2512.20299v2)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v1)** | 2026-03-11 |  |
 | **[KV Cache Transform Coding for Compact Storage in LLM Inference](https://arxiv.org/abs/2511.01815v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[S-HPLB: Efficient LLM Attention Serving via Sparsity-Aware Head Parallelism Load Balance](https://arxiv.org/abs/2603.10353v1)** | 2026-03-11 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems in Minecraft](https://arxiv.org/abs/2503.03505v2)** | 2026-03-07 |  |
 | **[Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation](https://arxiv.org/abs/2603.05881v1)** | 2026-03-06 |  |
 | **[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](https://arxiv.org/abs/2603.05500v1)** | 2026-03-05 | <details><summary>Techn...</summary><p>Technical report v1 (14 pages, 7 figures, project page: https://spherelab.ai/poetx/)</p></details> |
-| **[Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity](https://arxiv.org/abs/2603.05168v1)** | 2026-03-05 |  |
-| **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v5)** | 2026-03-03 |  |
 
