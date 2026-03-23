@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,7 @@ labels: documentation
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v1)** | 2026-03-15 | <details><summary>Paper...</summary><p>Paper was submitted for review to Interspeech</p></details> |
 | **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
 | **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v1)** | 2026-03-13 |  |
+| **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v1)** | 2026-03-11 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](https://arxiv.org/abs/2505.14679v3)** | 2026-03-10 | TMLR 2026 |
 | **[Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v2)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Trustworthy AI Workshop</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v5)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072v4)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2026</p></details> |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[EAMET: Robust Massive Model Editing via Embedding Alignment Optimization](https://arxiv.org/abs/2505.11876v4)** | 2026-02-24 | <details><summary>This ...</summary><p>This paper was accepted to ICLR 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Utility-Guided Agent Orchestration for Efficient LLM Tool Use](https://arxiv.org/abs/2603.19896v1)** | 2026-03-20 |  |
+| **[Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification](https://arxiv.org/abs/2603.19715v1)** | 2026-03-20 |  |
 | **[ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression](https://arxiv.org/abs/2603.17435v1)** | 2026-03-18 | <details><summary>ASPLO...</summary><p>ASPLOS'26 Accepted Paper</p></details> |
 | **[Safety-Preserving PTQ via Contrastive Alignment Loss](https://arxiv.org/abs/2511.07842v5)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 4 figures. Includes 8 pages of supplementary material</p></details> |
 | **[OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms](https://arxiv.org/abs/2603.17351v1)** | 2026-03-18 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Retrieval-Feedback-Driven Distillation and Preference Alignment for Efficient LLM-based Query Expansion](https://arxiv.org/abs/2603.13776v1)** | 2026-03-14 | 25 pages |
 | **[Towards AI Search Paradigm](https://arxiv.org/abs/2506.17188v2)** | 2026-03-13 |  |
 | **[Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation](https://arxiv.org/abs/2603.12793v1)** | 2026-03-13 | 17 pages, 5 figures |
-| **[ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning](https://arxiv.org/abs/2603.12740v1)** | 2026-03-13 | ICLR 2026 |
-| **[SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity](https://arxiv.org/abs/2603.07917v2)** | 2026-03-13 |  |
 
