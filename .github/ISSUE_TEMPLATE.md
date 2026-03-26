@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
+| **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 | **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v4)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[The Anatomy of an Edit: Mechanism-Guided Activation Steering for Knowledge Editing](https://arxiv.org/abs/2603.20795v1)** | 2026-03-21 |  |
 | **[V-DyKnow: A Dynamic Benchmark for Time-Sensitive Knowledge in Vision Language Models](https://arxiv.org/abs/2603.16581v1)** | 2026-03-17 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v3)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 17 tables</p></details> |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 | **[Tracing and Reversing Edits in LLMs](https://arxiv.org/abs/2505.20819v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v1)** | 2026-02-22 |  |
-| **[Uncovering Context Reliance in Unstructured Knowledge Editing](https://arxiv.org/abs/2602.19043v1)** | 2026-02-22 | 21 pages, 14 figures |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
+| **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 | **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v2)** | 2026-03-22 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://ustc3dv.github.io/Easy3E/</p></details> |
 | **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
@@ -39,14 +41,15 @@ labels: documentation
 | **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
 | **[Bilinear representation mitigates reversal curse and enables consistent model editing](https://arxiv.org/abs/2509.21993v3)** | 2026-03-02 | ICLR 2026 |
 | **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v1)** | 2026-03-02 | 12 pages, 1 figure |
-| **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
-| **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v5)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
+| **[Continual GUI Agents](https://arxiv.org/abs/2601.20732v4)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/xavierliu34/GUI-AiF</p></details> |
 | **[GUIrilla: A Scalable Framework for Automated Desktop UI Exploration](https://arxiv.org/abs/2510.16051v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to the 3rd DATA-FM Workshop @ ICLR 2026</p></details> |
 | **[AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://arxiv.org/abs/2603.23007v1)** | 2026-03-24 |  |
+| **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v1)** | 2026-03-23 |  |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v3)** | 2026-03-22 |  |
 | **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299v4)** | 2026-03-21 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
 | **[ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents](https://arxiv.org/abs/2603.20340v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables</p></details> |
@@ -57,14 +60,13 @@ labels: documentation
 | **[GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://arxiv.org/abs/2603.15039v1)** | 2026-03-16 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
 | **[FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://arxiv.org/abs/2507.21071v2)** | 2026-03-16 | ICLR 2026 Poster |
 | **[Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements](https://arxiv.org/abs/2603.14448v1)** | 2026-03-15 |  |
-| **[Continual GUI Agents](https://arxiv.org/abs/2601.20732v3)** | 2026-03-15 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/xavierliu34/GUI-AiF</p></details> |
-| **[HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](https://arxiv.org/abs/2603.12138v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Hybrid Self-evolving Structured Memory for GUI Agents](https://arxiv.org/abs/2603.10291v1)** | 2026-03-11 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v1)** | 2026-03-23 | CVPR 2026 |
+| **[Analysing the Safety Pitfalls of Steering Vectors](https://arxiv.org/abs/2603.24543v1)** | 2026-03-25 |  |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
+| **[Steering Code LLMs with Activation Directions for Language and Library Control](https://arxiv.org/abs/2603.23629v1)** | 2026-03-24 |  |
 | **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v1)** | 2026-03-22 |  |
 | **[Steering Awareness: Detecting Activation Steering from Within](https://arxiv.org/abs/2511.21399v3)** | 2026-03-19 |  |
 | **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v2)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -77,12 +79,11 @@ labels: documentation
 | **[From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](https://arxiv.org/abs/2603.13359v1)** | 2026-03-09 |  |
 | **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v3)** | 2026-03-05 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 4 tables</p></details> |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v2)** | 2026-03-03 |  |
-| **[EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](https://arxiv.org/abs/2509.25175v2)** | 2026-03-02 | <details><summary>Funct...</summary><p>Functionality upgrade. Code: https://github.com/ZJU-REAL/EasySteer Demo: https://www.youtube.com/watch?v=3rRGzZmhrXg</p></details> |
-| **[Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487v5)** | 2026-03-02 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PASTA: A Scalable Framework for Multi-Policy AI Compliance Evaluation](https://arxiv.org/abs/2601.11702v2)** | 2026-03-24 | 28 pages, 7 figures |
 | **[E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce](https://arxiv.org/abs/2511.04087v2)** | 2026-03-23 |  |
 | **[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2603.21725v1)** | 2026-03-23 |  |
 | **[CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands](https://arxiv.org/abs/2603.21257v1)** | 2026-03-22 | 8 pages, 11 figures |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Resource Consumption Threats in Large Language Models](https://arxiv.org/abs/2603.16068v2)** | 2026-03-18 |  |
 | **[Learning When to Sample: Confidence-Aware Self-Consistency for Efficient LLM Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.08999v2)** | 2026-03-17 |  |
 | **[EfficientNav: Towards On-Device Object-Goal Navigation with Navigation Map Caching and Retrieval](https://arxiv.org/abs/2510.18546v3)** | 2026-03-17 | NeurIPS 2025 |
-| **[Efficient LLM Serving for Agentic Workflows: A Data Systems Perspective](https://arxiv.org/abs/2603.16104v1)** | 2026-03-17 |  |
 
