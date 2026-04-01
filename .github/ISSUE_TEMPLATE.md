@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v4)** | 2026-03-12 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
 | **[SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v3)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 17 tables</p></details> |
-| **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,10 +45,13 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
+| **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v2)** | 2026-03-31 |  |
+| **[PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://arxiv.org/abs/2603.29318v1)** | 2026-03-31 | 28 pages |
+| **[Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives](https://arxiv.org/abs/2603.26041v2)** | 2026-03-31 | <details><summary>1.The...</summary><p>1.There are missing authors and unresolved disputes regarding the author order in the current manuscript. 2.The experimental section lacks detailed experimental data and complete reproducible information, which prevents readers from replicating the work reliably. I need to conduct further experiments and supplement comprehensive data to ensure academic rigor</p></details> |
+| **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v2)** | 2026-03-31 |  |
 | **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
-| **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v1)** | 2026-03-27 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
 | **[Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](https://arxiv.org/abs/2603.26211v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives](https://arxiv.org/abs/2603.26041v1)** | 2026-03-27 |  |
 | **[GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://arxiv.org/abs/2603.25864v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
 | **[Continual GUI Agents](https://arxiv.org/abs/2601.20732v4)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/xavierliu34/GUI-AiF</p></details> |
@@ -57,9 +60,6 @@ labels: documentation
 | **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v1)** | 2026-03-23 |  |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v3)** | 2026-03-22 |  |
 | **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299v4)** | 2026-03-21 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
-| **[ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents](https://arxiv.org/abs/2603.20340v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 6 tables</p></details> |
-| **[OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards](https://arxiv.org/abs/2603.19191v1)** | 2026-03-19 |  |
-| **[AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents](https://arxiv.org/abs/2603.18429v1)** | 2026-03-19 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparsity-Aware Unlearning for Large Language Models](https://arxiv.org/abs/2602.00577v2)** | 2026-03-31 |  |
+| **[Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://arxiv.org/abs/2509.23067v2)** | 2026-03-31 |  |
+| **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
 | **[Small is Beautiful: A Practical and Efficient Log Parsing Framework](https://arxiv.org/abs/2601.22590v2)** | 2026-03-29 | Accepted by FSE'26 |
 | **[LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference](https://arxiv.org/abs/2511.14510v2)** | 2026-03-27 |  |
 | **[AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents](https://arxiv.org/abs/2603.26034v1)** | 2026-03-27 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Utility-Guided Agent Orchestration for Efficient LLM Tool Use](https://arxiv.org/abs/2603.19896v1)** | 2026-03-20 |  |
 | **[Stepwise: Neuro-Symbolic Proof Search for Automated Systems Verification](https://arxiv.org/abs/2603.19715v1)** | 2026-03-20 |  |
 | **[ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression](https://arxiv.org/abs/2603.17435v1)** | 2026-03-18 | <details><summary>ASPLO...</summary><p>ASPLOS'26 Accepted Paper</p></details> |
-| **[Safety-Preserving PTQ via Contrastive Alignment Loss](https://arxiv.org/abs/2511.07842v5)** | 2026-03-18 | <details><summary>9 pag...</summary><p>9 pages, 4 figures. Includes 8 pages of supplementary material</p></details> |
-| **[OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms](https://arxiv.org/abs/2603.17351v1)** | 2026-03-18 |  |
-| **[Efficient LLM Safety Evaluation through Multi-Agent Debate](https://arxiv.org/abs/2511.06396v3)** | 2026-03-18 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 10 tables. Updated abstract to fix an incconsistency issue with the main paper: HAJailBench size (12,000 -> 11,100)</p></details> |
 
