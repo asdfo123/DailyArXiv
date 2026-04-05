@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GPA: Learning GUI Process Automation from Demonstrations](https://arxiv.org/abs/2604.01676v1)** | 2026-04-02 |  |
 | **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v2)** | 2026-04-01 |  |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
 | **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v2)** | 2026-03-31 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://arxiv.org/abs/2603.23007v1)** | 2026-03-24 |  |
 | **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v1)** | 2026-03-23 |  |
 | **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v3)** | 2026-03-22 |  |
-| **[MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299v4)** | 2026-03-21 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 7 tables</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reliable Control-Point Selection for Steering Reasoning in Large Language Models](https://arxiv.org/abs/2604.02113v1)** | 2026-04-02 |  |
+| **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations](https://arxiv.org/abs/2604.01639v1)** | 2026-04-02 | <details><summary>Prepr...</summary><p>Preprint. Under review at COLM 2026</p></details> |
 | **[But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](https://arxiv.org/abs/2505.17760v3)** | 2026-04-01 |  |
 | **[On the Non-Identifiability of Steering Vectors in Large Language Models](https://arxiv.org/abs/2602.06801v4)** | 2026-04-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/sohv/non-identifiability</p></details> |
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](https://arxiv.org/abs/2503.05371v3)** | 2026-03-28 | <details><summary>Publi...</summary><p>Published to EACL Findings 2026</p></details> |
@@ -73,16 +76,14 @@ labels: documentation
 | **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
 | **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v1)** | 2026-03-22 |  |
 | **[Steering Awareness: Detecting Activation Steering from Within](https://arxiv.org/abs/2511.21399v3)** | 2026-03-19 |  |
-| **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v2)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering](https://arxiv.org/abs/2603.17998v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project Page: https://yigitekin.github.io/diffusion-sliders</p></details> |
 | **[Gradient Atoms: Unsupervised Discovery, Attribution and Steering of Model Behaviors via Sparse Decomposition of Training Gradients](https://arxiv.org/abs/2603.14665v2)** | 2026-03-17 |  |
 | **[Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335v1)** | 2026-03-17 | 14 pages, 3 figures |
-| **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636v1)** | 2026-03-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables</p></details> |
-| **[Boosting Spectral Efficiency via Spatial Path Index Modulation in RIS-Aided mMIMO](https://arxiv.org/abs/2603.12619v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted Paper in IEEE Transactions on Wireless Communications</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v2)** | 2026-04-02 |  |
 | **[Fast and Accurate Probing of In-Training LLMs' Downstream Performances](https://arxiv.org/abs/2604.01025v1)** | 2026-04-01 |  |
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](https://arxiv.org/abs/2401.14295v6)** | 2026-04-01 |  |
 | **[Learning from Many and Adapting to the Unknown in Open-set Test Streams](https://arxiv.org/abs/2604.00533v1)** | 2026-04-01 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2603.21725v1)** | 2026-03-23 |  |
 | **[CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands](https://arxiv.org/abs/2603.21257v1)** | 2026-03-22 | 8 pages, 11 figures |
 | **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
-| **[KV Cache Optimization Strategies for Scalable and Efficient LLM Inference](https://arxiv.org/abs/2603.20397v1)** | 2026-03-20 | 24 pages, 14 figures |
 
