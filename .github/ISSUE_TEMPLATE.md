@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[MetaKE: Meta-learning Aligned Knowledge Editing via Bi-level Optimization](https://arxiv.org/abs/2603.12677v2)** | 2026-03-16 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, work in progress</p></details> |
 | **[SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models](https://arxiv.org/abs/2510.16917v2)** | 2026-03-15 | <details><summary>Work ...</summary><p>Work in progress. Resources: https://github.com/ckyang1124/SAKE</p></details> |
 | **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v4)** | 2026-03-12 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
-| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
+| **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v2)** | 2026-04-05 | 12 pages, 1 figure |
 | **[CounterMoral: Editing Morals in Language Models](https://arxiv.org/abs/2603.27338v1)** | 2026-03-28 | <details><summary>7 pag...</summary><p>7 pages (10 + 1 reference + 6 appendix). Honors thesis completed in June 2024, write-up completed in 2025</p></details> |
 | **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
@@ -39,13 +41,12 @@ labels: documentation
 | **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v1)** | 2026-03-11 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](https://arxiv.org/abs/2505.14679v3)** | 2026-03-10 | TMLR 2026 |
 | **[Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v2)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Trustworthy AI Workshop</p></details> |
-| **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GPA: Learning GUI Process Automation from Demonstrations](https://arxiv.org/abs/2604.01676v1)** | 2026-04-02 |  |
+| **[GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://arxiv.org/abs/2604.04399v1)** | 2026-04-06 |  |
+| **[GPA: Learning GUI Process Automation from Demonstrations](https://arxiv.org/abs/2604.01676v2)** | 2026-04-04 |  |
 | **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v2)** | 2026-04-01 |  |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
 | **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v2)** | 2026-03-31 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[GUIrilla: A Scalable Framework for Automated Desktop UI Exploration](https://arxiv.org/abs/2510.16051v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to the 3rd DATA-FM Workshop @ ICLR 2026</p></details> |
 | **[AgentRAE: Remote Action Execution through Notification-based Visual Backdoors against Screenshots-based Mobile GUI Agents](https://arxiv.org/abs/2603.23007v1)** | 2026-03-24 |  |
 | **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v1)** | 2026-03-23 |  |
-| **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v3)** | 2026-03-22 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment](https://arxiv.org/abs/2604.03867v1)** | 2026-04-04 | Preprint |
+| **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v1)** | 2026-04-04 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147v1)** | 2026-04-03 |  |
 | **[Reliable Control-Point Selection for Steering Reasoning in Large Language Models](https://arxiv.org/abs/2604.02113v1)** | 2026-04-02 |  |
 | **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
 | **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v1)** | 2026-03-22 |  |
 | **[Steering Awareness: Detecting Activation Steering from Within](https://arxiv.org/abs/2511.21399v3)** | 2026-03-19 |  |
-| **[The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering](https://arxiv.org/abs/2603.17998v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project Page: https://yigitekin.github.io/diffusion-sliders</p></details> |
-| **[Gradient Atoms: Unsupervised Discovery, Attribution and Steering of Model Behaviors via Sparse Decomposition of Training Gradients](https://arxiv.org/abs/2603.14665v2)** | 2026-03-17 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125v2)** | 2026-04-06 |  |
 | **[Predicting LLM Output Length via Entropy-Guided Representations](https://arxiv.org/abs/2602.11812v2)** | 2026-04-02 |  |
 | **[Fast and Accurate Probing of In-Training LLMs' Downstream Performances](https://arxiv.org/abs/2604.01025v1)** | 2026-04-01 |  |
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](https://arxiv.org/abs/2401.14295v6)** | 2026-04-01 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[E-CARE: An Efficient LLM-based Commonsense-Augmented Framework for E-Commerce](https://arxiv.org/abs/2511.04087v2)** | 2026-03-23 |  |
 | **[CurvZO: Adaptive Curvature-Guided Sparse Zeroth-Order Optimization for Efficient LLM Fine-Tuning](https://arxiv.org/abs/2603.21725v1)** | 2026-03-23 |  |
 | **[CALVO: Improve Serving Efficiency for LLM Inferences with Intense Network Demands](https://arxiv.org/abs/2603.21257v1)** | 2026-03-22 | 8 pages, 11 figures |
-| **[Can LLMs Fool Graph Learning? Exploring Universal Adversarial Attacks on Text-Attributed Graphs](https://arxiv.org/abs/2603.21155v1)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by TheWebConf (WWW) 2026</p></details> |
 
