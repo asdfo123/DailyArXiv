@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 Findings</p></details> |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
@@ -40,15 +41,15 @@ labels: documentation
 | **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v1)** | 2026-03-15 | <details><summary>Paper...</summary><p>Paper was submitted for review to Interspeech</p></details> |
 | **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
-| **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v1)** | 2026-03-13 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation](https://arxiv.org/abs/2604.09155v1)** | 2026-04-10 |  |
+| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v3)** | 2026-04-10 | CVPR 2026 Findings |
 | **[Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems](https://arxiv.org/abs/2604.07929v1)** | 2026-04-09 |  |
 | **[Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://arxiv.org/abs/2604.07831v1)** | 2026-04-09 | <details><summary>44 pa...</summary><p>44 pages, 10 figures, public code will be available at https://github.com/HashTAG00002/UI-Injection</p></details> |
 | **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025v4)** | 2026-04-08 |  |
-| **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v2)** | 2026-04-07 | CVPR 2026 Findings |
 | **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v3)** | 2026-04-07 | Accepted by CVPR-26 |
 | **[Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction](https://arxiv.org/abs/2604.05477v1)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
 | **[GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://arxiv.org/abs/2604.04399v1)** | 2026-04-06 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives](https://arxiv.org/abs/2603.26041v2)** | 2026-03-31 | <details><summary>1.The...</summary><p>1.There are missing authors and unresolved disputes regarding the author order in the current manuscript. 2.The experimental section lacks detailed experimental data and complete reproducible information, which prevents readers from replicating the work reliably. I need to conduct further experiments and supplement comprehensive data to ensure academic rigor</p></details> |
 | **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v2)** | 2026-03-31 |  |
 | **[Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](https://arxiv.org/abs/2603.26211v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](https://arxiv.org/abs/2603.25864v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213v1)** | 2026-04-10 |  |
+| **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v2)** | 2026-04-10 |  |
 | **[What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](https://arxiv.org/abs/2604.08524v1)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages + appendix, 7 figures</p></details> |
 | **[Distributed Interpretability and Control for Large Language Models](https://arxiv.org/abs/2604.06483v1)** | 2026-04-07 |  |
 | **[Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment](https://arxiv.org/abs/2604.03867v1)** | 2026-04-04 | Preprint |
@@ -77,12 +79,12 @@ labels: documentation
 | **[Shifting Perspectives: Steering Vectors for Robust Bias Mitigation in LLMs](https://arxiv.org/abs/2503.05371v3)** | 2026-03-28 | <details><summary>Publi...</summary><p>Published to EACL Findings 2026</p></details> |
 | **[Activation Steering with a Feedback Controller](https://arxiv.org/abs/2510.04309v2)** | 2026-03-27 | <details><summary>10 pa...</summary><p>10 pages in the main text. ICLR2026 Poster</p></details> |
 | **[Steering Code LLMs with Activation Directions for Language and Library Control](https://arxiv.org/abs/2603.23629v2)** | 2026-03-26 |  |
-| **[Analysing the Safety Pitfalls of Steering Vectors](https://arxiv.org/abs/2603.24543v1)** | 2026-03-25 |  |
-| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents](https://arxiv.org/abs/2604.09492v1)** | 2026-04-10 |  |
+| **[Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures](https://arxiv.org/abs/2604.09048v1)** | 2026-04-10 | Under review |
 | **[Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions](https://arxiv.org/abs/2604.07931v1)** | 2026-04-09 |  |
 | **[SAGE: Sign-Adaptive Gradient for Memory-Efficient LLM Optimization](https://arxiv.org/abs/2604.07663v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026. 13 pages, 4 figures, 4 tables</p></details> |
 | **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v1)** | 2026-04-08 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://arxiv.org/abs/2509.23067v2)** | 2026-03-31 |  |
 | **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
 | **[Small is Beautiful: A Practical and Efficient Log Parsing Framework](https://arxiv.org/abs/2601.22590v2)** | 2026-03-29 | Accepted by FSE'26 |
-| **[LiteCache: A Query Similarity-Driven, GPU-Centric KVCache Subsystem for Efficient LLM Inference](https://arxiv.org/abs/2511.14510v2)** | 2026-03-27 |  |
-| **[AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents](https://arxiv.org/abs/2603.26034v1)** | 2026-03-27 |  |
 
