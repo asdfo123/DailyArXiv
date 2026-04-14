@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning](https://arxiv.org/abs/2604.11214v1)** | 2026-04-13 | Accept by ACL 2026 |
+| **[Closed-Form Concept Erasure via Double Projections](https://arxiv.org/abs/2604.10032v1)** | 2026-04-11 |  |
 | **[Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 Findings</p></details> |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
@@ -39,12 +41,17 @@ labels: documentation
 | **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v2)** | 2026-03-22 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://ustc3dv.github.io/Easy3E/</p></details> |
 | **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
-| **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v1)** | 2026-03-15 | <details><summary>Paper...</summary><p>Paper was submitted for review to Interspeech</p></details> |
-| **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://arxiv.org/abs/2604.11784v1)** | 2026-04-13 |  |
+| **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168v2)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to ACM MM 2026</p></details> |
+| **[Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://arxiv.org/abs/2604.11259v1)** | 2026-04-13 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables</p></details> |
+| **[RISK: A Framework for GUI Agents in E-commerce Risk Management](https://arxiv.org/abs/2509.21982v2)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main Conference</p></details> |
+| **[ANCHOR: Branch-Point Data Generation for GUI Agents](https://arxiv.org/abs/2602.07153v2)** | 2026-04-12 |  |
+| **[Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning](https://arxiv.org/abs/2601.03641v4)** | 2026-04-11 |  |
+| **[EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning](https://arxiv.org/abs/2604.09815v1)** | 2026-04-10 |  |
 | **[CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation](https://arxiv.org/abs/2604.09155v1)** | 2026-04-10 |  |
 | **[EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration](https://arxiv.org/abs/2512.19396v3)** | 2026-04-10 | CVPR 2026 Findings |
 | **[Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems](https://arxiv.org/abs/2604.07929v1)** | 2026-04-09 |  |
@@ -53,24 +60,17 @@ labels: documentation
 | **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v3)** | 2026-04-07 | Accepted by CVPR-26 |
 | **[Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction](https://arxiv.org/abs/2604.05477v1)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
 | **[GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis](https://arxiv.org/abs/2604.04399v1)** | 2026-04-06 |  |
-| **[GPA: Learning GUI Process Automation from Demonstrations](https://arxiv.org/abs/2604.01676v2)** | 2026-04-04 |  |
-| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v2)** | 2026-04-01 |  |
-| **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v2)** | 2026-03-31 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 7 tables</p></details> |
-| **[PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://arxiv.org/abs/2603.29318v1)** | 2026-03-31 | 28 pages |
-| **[Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives](https://arxiv.org/abs/2603.26041v2)** | 2026-03-31 | <details><summary>1.The...</summary><p>1.There are missing authors and unresolved disputes regarding the author order in the current manuscript. 2.The experimental section lacks detailed experimental data and complete reproducible information, which prevents readers from replicating the work reliably. I need to conduct further experiments and supplement comprehensive data to ensure academic rigor</p></details> |
-| **[SecAgent: Efficient Mobile GUI Agent with Semantic Context](https://arxiv.org/abs/2603.08533v2)** | 2026-03-31 |  |
-| **[Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](https://arxiv.org/abs/2603.26211v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147v2)** | 2026-04-13 |  |
+| **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v3)** | 2026-04-13 |  |
 | **[SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213v1)** | 2026-04-10 |  |
-| **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v2)** | 2026-04-10 |  |
 | **[What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](https://arxiv.org/abs/2604.08524v1)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages + appendix, 7 figures</p></details> |
 | **[Distributed Interpretability and Control for Large Language Models](https://arxiv.org/abs/2604.06483v1)** | 2026-04-07 |  |
 | **[Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment](https://arxiv.org/abs/2604.03867v1)** | 2026-04-04 | Preprint |
 | **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v1)** | 2026-04-04 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
-| **[Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147v1)** | 2026-04-03 |  |
 | **[Reliable Control-Point Selection for Steering Reasoning in Large Language Models](https://arxiv.org/abs/2604.02113v1)** | 2026-04-02 |  |
 | **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations](https://arxiv.org/abs/2604.01639v1)** | 2026-04-02 | <details><summary>Prepr...</summary><p>Preprint. Under review at COLM 2026</p></details> |
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-as-Judge on a Budget](https://arxiv.org/abs/2602.15481v2)** | 2026-04-13 |  |
+| **[Resource Consumption Threats in Large Language Models](https://arxiv.org/abs/2603.16068v3)** | 2026-04-13 |  |
+| **[SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba](https://arxiv.org/abs/2510.04595v2)** | 2026-04-12 |  |
 | **[Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents](https://arxiv.org/abs/2604.09492v1)** | 2026-04-10 |  |
 | **[Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures](https://arxiv.org/abs/2604.09048v1)** | 2026-04-10 | Under review |
 | **[Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions](https://arxiv.org/abs/2604.07931v1)** | 2026-04-09 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](https://arxiv.org/abs/2401.14295v6)** | 2026-04-01 |  |
 | **[Learning from Many and Adapting to the Unknown in Open-set Test Streams](https://arxiv.org/abs/2604.00533v1)** | 2026-04-01 |  |
 | **[SAU: Sparsity-Aware Unlearning for LLMs via Gradient Masking and Importance Redistribution](https://arxiv.org/abs/2602.00577v3)** | 2026-04-01 |  |
-| **[Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks](https://arxiv.org/abs/2509.23067v2)** | 2026-03-31 |  |
-| **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
-| **[Small is Beautiful: A Practical and Efficient Log Parsing Framework](https://arxiv.org/abs/2601.22590v2)** | 2026-03-29 | Accepted by FSE'26 |
 
