@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[neuralCAD-Edit: An Expert Benchmark for Multimodal-Instructed 3D CAD Model Editing](https://arxiv.org/abs/2604.16170v1)** | 2026-04-17 | <details><summary>Proje...</summary><p>Project page: https://autodeskailab.github.io/neuralCAD-Edit</p></details> |
 | **[RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820v1)** | 2026-04-14 |  |
 | **[FABLE: Fine-grained Fact Anchoring for Unstructured Model Editing](https://arxiv.org/abs/2604.12559v1)** | 2026-04-14 | ACL 2026 findings |
 | **[HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning](https://arxiv.org/abs/2604.11214v1)** | 2026-04-13 | Accept by ACL 2026 |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
-| **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting Where Steering Vectors Succeed](https://arxiv.org/abs/2604.15557v1)** | 2026-04-16 | <details><summary>19 pa...</summary><p>19 pages, incl. 10 appendix pages, 4 figures, 20 tables</p></details> |
+| **[FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models](https://arxiv.org/abs/2604.15488v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Main)</p></details> |
 | **[Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering](https://arxiv.org/abs/2604.12210v2)** | 2026-04-16 | Findings of ACL 2026 |
 | **[Gaussian Process Regression of Steering Vectors With Physics-Aware Deep Composite Kernels for Augmented Listening](https://arxiv.org/abs/2509.02571v2)** | 2026-04-16 |  |
 | **[CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 1 figure</p></details> |
@@ -77,19 +79,18 @@ labels: documentation
 | **[Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment](https://arxiv.org/abs/2604.03867v1)** | 2026-04-04 | Preprint |
 | **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v1)** | 2026-04-04 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[Reliable Control-Point Selection for Steering Reasoning in Large Language Models](https://arxiv.org/abs/2604.02113v1)** | 2026-04-02 |  |
-| **[Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Fragile Reasoning: A Mechanistic Analysis of LLM Sensitivity to Meaning-Preserving Perturbations](https://arxiv.org/abs/2604.01639v1)** | 2026-04-02 | <details><summary>Prepr...</summary><p>Preprint. Under review at COLM 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274v6)** | 2026-04-17 |  |
+| **[Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125v4)** | 2026-04-16 |  |
 | **[RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding](https://arxiv.org/abs/2604.14885v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning](https://arxiv.org/abs/2604.14768v1)** | 2026-04-16 | acl2026 findings |
 | **[SAGE: Sign-Adaptive Gradient for Memory-Efficient LLM Optimization](https://arxiv.org/abs/2604.07663v2)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026. 13 pages, 4 figures, 4 tables</p></details> |
 | **[YOCO++: Enhancing YOCO with KV Residual Connections for Efficient LLM Inference](https://arxiv.org/abs/2604.13556v1)** | 2026-04-15 |  |
 | **[Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration](https://arxiv.org/abs/2604.12843v2)** | 2026-04-15 |  |
 | **[Two-Stage Regularization-Based Structured Pruning for LLMs](https://arxiv.org/abs/2505.18232v3)** | 2026-04-15 | ACL 2026 main |
-| **[Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125v3)** | 2026-04-14 |  |
 | **[Token-Budget-Aware Pool Routing for Cost-Efficient LLM Inference](https://arxiv.org/abs/2604.09613v2)** | 2026-04-14 | <details><summary>dupli...</summary><p>duplicate of arXiv:2604.08075</p></details> |
 | **[Three Birds, One Stone: Solving the Communication-Memory-Privacy Trilemma in LLM Fine-tuning Over Wireless Networks with Zeroth-Order Optimization](https://arxiv.org/abs/2604.12401v1)** | 2026-04-14 |  |
 | **[LLM-as-Judge on a Budget](https://arxiv.org/abs/2602.15481v2)** | 2026-04-13 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba](https://arxiv.org/abs/2510.04595v2)** | 2026-04-12 |  |
 | **[Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents](https://arxiv.org/abs/2604.09492v1)** | 2026-04-10 |  |
 | **[Watt Counts: Energy-Aware Benchmark for Sustainable LLM Inference on Heterogeneous GPU Architectures](https://arxiv.org/abs/2604.09048v1)** | 2026-04-10 | Under review |
-| **[Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions](https://arxiv.org/abs/2604.07931v1)** | 2026-04-09 |  |
 
