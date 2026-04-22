@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression](https://arxiv.org/abs/2604.19089v1)** | 2026-04-21 |  |
 | **[HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation](https://arxiv.org/abs/2604.17751v1)** | 2026-04-20 |  |
 | **[Aligning Language Models with Real-time Knowledge Editing](https://arxiv.org/abs/2508.01302v3)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main conference)</p></details> |
 | **[RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World](https://arxiv.org/abs/2604.05096v2)** | 2026-04-14 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
-| **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization](https://arxiv.org/abs/2506.09373v3)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents](https://arxiv.org/abs/2604.18860v1)** | 2026-04-20 |  |
 | **[NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks](https://arxiv.org/abs/2508.01330v4)** | 2026-04-20 |  |
 | **[HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents](https://arxiv.org/abs/2604.17284v1)** | 2026-04-19 | 47 pages, 44 figures |
 | **[FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems](https://arxiv.org/abs/2604.14956v1)** | 2026-04-16 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings, Camera Ready</p></details> |
@@ -58,12 +60,12 @@ labels: documentation
 | **[Mobile GUI Agents under Real-world Threats: Are We There Yet?](https://arxiv.org/abs/2507.04227v2)** | 2026-04-14 |  |
 | **[WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents](https://arxiv.org/abs/2603.05044v2)** | 2026-04-14 |  |
 | **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168v3)** | 2026-04-14 | <details><summary>Submi...</summary><p>Submitted to ACM MM 2026</p></details> |
-| **[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://arxiv.org/abs/2604.11784v1)** | 2026-04-13 |  |
-| **[Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization](https://arxiv.org/abs/2604.11259v1)** | 2026-04-13 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 3 tables</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RepIt: Steering Language Models with Concept-Specific Refusal Vectors](https://arxiv.org/abs/2509.13281v5)** | 2026-04-21 | ICLR 2026 |
+| **[How Do Answer Tokens Read Reasoning Traces? Self-Reading Patterns in Thinking LLMs for Quantitative Reasoning](https://arxiv.org/abs/2604.19149v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted in the Findings of ACL 2026</p></details> |
 | **[Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering](https://arxiv.org/abs/2604.18567v1)** | 2026-04-20 | Under Review |
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control](https://arxiv.org/abs/2511.20233v3)** | 2026-04-20 | 29 pages |
 | **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](https://arxiv.org/abs/2510.06700v3)** | 2026-04-20 | ACL 2026 Findings |
@@ -77,17 +79,18 @@ labels: documentation
 | **[Gaussian Process Regression of Steering Vectors With Physics-Aware Deep Composite Kernels for Augmented Listening](https://arxiv.org/abs/2509.02571v2)** | 2026-04-16 |  |
 | **[CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 1 figure</p></details> |
 | **[Visual Sparse Steering (VS2): Unsupervised Adaptation for Image Classification using Sparsity-Guided Steering Vectors](https://arxiv.org/abs/2506.01247v2)** | 2026-04-14 |  |
-| **[Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](https://arxiv.org/abs/2604.12359v1)** | 2026-04-14 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147v2)** | 2026-04-13 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v2)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
+| **[DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization](https://arxiv.org/abs/2604.17789v2)** | 2026-04-21 | Technical Report |
+| **[LBLLM: Lightweight Binarization of Large Language Models via Three-Stage Distillation](https://arxiv.org/abs/2604.19167v1)** | 2026-04-21 |  |
+| **[DP-FlogTinyLLM: Differentially private federated log anomaly detection using Tiny LLMs](https://arxiv.org/abs/2604.19118v1)** | 2026-04-21 |  |
 | **[GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556v1)** | 2026-04-20 |  |
 | **[HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing](https://arxiv.org/abs/2604.18529v1)** | 2026-04-20 |  |
 | **[Learning from Less: Measuring the Effectiveness of RLVR in Low Data and Compute Regimes](https://arxiv.org/abs/2604.18381v1)** | 2026-04-20 |  |
 | **[ProTrain: Efficient LLM Training via Memory-Aware Techniques](https://arxiv.org/abs/2406.08334v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026</p></details> |
-| **[DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization](https://arxiv.org/abs/2604.17789v1)** | 2026-04-20 | Technical Report |
 | **[Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding](https://arxiv.org/abs/2509.24328v2)** | 2026-04-20 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, accepted to ACL 2026 Findings</p></details> |
 | **[Self-Consistency from Only Two Samples: CoT-PoT Ensembling for Efficient LLM Reasoning](https://arxiv.org/abs/2604.17433v1)** | 2026-04-19 | <details><summary>9 pag...</summary><p>9 pages, 3 figures; accepted to Findings of ACL 2026</p></details> |
 | **[Representation-Guided Parameter-Efficient LLM Unlearning](https://arxiv.org/abs/2604.17396v1)** | 2026-04-19 | Findings of ACL 2026 |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining](https://arxiv.org/abs/2511.21613v2)** | 2026-04-19 | ICLR 2026 |
 | **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v3)** | 2026-04-18 |  |
 | **[Two-Stage Regularization-Based Structured Pruning for LLMs](https://arxiv.org/abs/2505.18232v4)** | 2026-04-18 | ACL 2026 Main |
-| **[SelfBudgeter: Adaptive Token Allocation for Efficient LLM Reasoning](https://arxiv.org/abs/2505.11274v6)** | 2026-04-17 |  |
-| **[Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning](https://arxiv.org/abs/2506.08125v4)** | 2026-04-16 |  |
-| **[RACER: Retrieval-Augmented Contextual Rapid Speculative Decoding](https://arxiv.org/abs/2604.14885v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 
