@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://arxiv.org/abs/2604.24625v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted by CVPR2026, Project Page: https://shiyi-zh0408.github.io/projectpages/Meta-CoT/</p></details> |
+| **[Beyond Cross-Modal Alignment: Measuring and Leveraging Modality Gap in Vision-Language Models](https://arxiv.org/abs/2502.14888v4)** | 2026-04-25 | <details><summary>accep...</summary><p>accepted by ACL26-findings</p></details> |
 | **[Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation](https://arxiv.org/abs/2604.21640v1)** | 2026-04-23 | <details><summary>To be...</summary><p>To be published in IEEE OCEANS 2026 (Sanya) conference proceedings</p></details> |
 | **[neuralCAD-Edit: An Expert Benchmark for Multimodal-Instructed 3D CAD Model Editing](https://arxiv.org/abs/2604.16170v1)** | 2026-04-17 | <details><summary>Proje...</summary><p>Project page: https://autodeskailab.github.io/neuralCAD-Edit</p></details> |
 | **[RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820v1)** | 2026-04-14 |  |
@@ -39,12 +41,13 @@ labels: documentation
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v2)** | 2026-04-05 | 12 pages, 1 figure |
 | **[CounterMoral: Editing Morals in Language Models](https://arxiv.org/abs/2603.27338v1)** | 2026-03-28 | <details><summary>7 pag...</summary><p>7 pages (10 + 1 reference + 6 appendix). Honors thesis completed in June 2024, write-up completed in 2025</p></details> |
-| **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
-| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](https://arxiv.org/abs/2604.24441v1)** | 2026-04-27 | Technical Report |
+| **[GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://arxiv.org/abs/2604.23941v1)** | 2026-04-27 | Technical Report |
+| **[Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible](https://arxiv.org/abs/2602.10139v3)** | 2026-04-26 | 15 pages, 4 figures |
 | **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v1)** | 2026-04-24 |  |
 | **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
 | **[SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://arxiv.org/abs/2604.22558v1)** | 2026-04-24 | <details><summary>14 pa...</summary><p>14 pages, 11 figures. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
@@ -57,13 +60,12 @@ labels: documentation
 | **[FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems](https://arxiv.org/abs/2604.14956v1)** | 2026-04-16 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings, Camera Ready</p></details> |
 | **[SkillDroid: Compile Once, Reuse Forever](https://arxiv.org/abs/2604.14872v1)** | 2026-04-16 |  |
 | **[Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation](https://arxiv.org/abs/2604.14668v1)** | 2026-04-16 | 13 pages, 10 figures |
-| **[UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/abs/2604.13822v1)** | 2026-04-15 |  |
-| **[MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents](https://arxiv.org/abs/2509.06477v2)** | 2026-04-15 |  |
-| **[ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration](https://arxiv.org/abs/2509.21823v2)** | 2026-04-15 | <details><summary>23 pa...</summary><p>23 pages, 12 figures, ICLR'2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](https://arxiv.org/abs/2604.23719v1)** | 2026-04-26 | <details><summary>Datas...</summary><p>Dataset paper. 4 pages + appendix, 2 figures. Dataset available at https://huggingface.co/datasets/keidolabs/aipsy-affect. MIT license</p></details> |
+| **[TimingLLM: A Two-Stage Retrieval-Augmented Framework for Pre-Synthesis Timing Prediction from Verilog](https://arxiv.org/abs/2604.23602v1)** | 2026-04-26 |  |
 | **[Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models](https://arxiv.org/abs/2604.20995v1)** | 2026-04-22 | <details><summary>Under...</summary><p>Under submission at COLM 2026 Won the Best Student Paper Award at MSLD 2026 @ UIUC</p></details> |
 | **[RepIt: Steering Language Models with Concept-Specific Refusal Vectors](https://arxiv.org/abs/2509.13281v5)** | 2026-04-21 | ICLR 2026 |
 | **[How Do Answer Tokens Read Reasoning Traces? Self-Reading Patterns in Thinking LLMs for Quantitative Reasoning](https://arxiv.org/abs/2604.19149v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted in the Findings of ACL 2026</p></details> |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Predicting Where Steering Vectors Succeed](https://arxiv.org/abs/2604.15557v1)** | 2026-04-16 | <details><summary>19 pa...</summary><p>19 pages, incl. 10 appendix pages, 4 figures, 20 tables</p></details> |
 | **[FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models](https://arxiv.org/abs/2604.15488v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Main)</p></details> |
 | **[Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering](https://arxiv.org/abs/2604.12210v2)** | 2026-04-16 | Findings of ACL 2026 |
-| **[Gaussian Process Regression of Steering Vectors With Physics-Aware Deep Composite Kernels for Augmented Listening](https://arxiv.org/abs/2509.02571v2)** | 2026-04-16 |  |
-| **[CausalDetox: Causal Head Selection and Intervention for Language Model Detoxification](https://arxiv.org/abs/2604.14602v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 1 figure</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training](https://arxiv.org/abs/2604.23838v1)** | 2026-04-26 |  |
 | **[Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation](https://arxiv.org/abs/2604.22722v1)** | 2026-04-24 |  |
 | **[MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression](https://arxiv.org/abs/2410.21548v3)** | 2026-04-24 |  |
 | **[NeuronMLP: Efficient LLM Inference via Singular Value Decomposition Compression and Tiling on AWS Trainium](https://arxiv.org/abs/2510.25977v4)** | 2026-04-23 | 12 pages, 8 figures |
@@ -97,5 +98,4 @@ labels: documentation
 | **[HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing](https://arxiv.org/abs/2604.18529v1)** | 2026-04-20 |  |
 | **[Learning from Less: Measuring the Effectiveness of RLVR in Low Data and Compute Regimes](https://arxiv.org/abs/2604.18381v1)** | 2026-04-20 |  |
 | **[ProTrain: Efficient LLM Training via Memory-Aware Techniques](https://arxiv.org/abs/2406.08334v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to MLSys 2026</p></details> |
-| **[Speculative Verification: Exploiting Information Gain to Refine Speculative Decoding](https://arxiv.org/abs/2509.24328v2)** | 2026-04-20 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, accepted to ACL 2026 Findings</p></details> |
 
