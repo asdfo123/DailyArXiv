@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](https://arxiv.org/abs/2604.27955v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Steve2457/Awesome-RL-GUI-Agents</p></details> |
+| **[WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments](https://arxiv.org/abs/2604.27776v1)** | 2026-04-30 |  |
 | **[Benchmarking and Improving GUI Agents in High-Dynamic Environments](https://arxiv.org/abs/2604.25380v1)** | 2026-04-28 |  |
 | **[MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents](https://arxiv.org/abs/2512.00756v2)** | 2026-04-28 | 35pages, 15figures |
 | **[AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](https://arxiv.org/abs/2604.24441v1)** | 2026-04-27 | Technical Report |
@@ -58,12 +60,11 @@ labels: documentation
 | **[LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization](https://arxiv.org/abs/2506.09373v3)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
 | **[Temporal UI State Inconsistency in Desktop GUI Agents: Formalizing and Defending Against TOCTOU Attacks on Computer-Use Agents](https://arxiv.org/abs/2604.18860v1)** | 2026-04-20 |  |
 | **[NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks](https://arxiv.org/abs/2508.01330v4)** | 2026-04-20 |  |
-| **[HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents](https://arxiv.org/abs/2604.17284v1)** | 2026-04-19 | 47 pages, 44 figures |
-| **[FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems](https://arxiv.org/abs/2604.14956v1)** | 2026-04-16 | <details><summary>ACL 2...</summary><p>ACL 2026 Findings, Camera Ready</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DPN-LE: Dual Personality Neuron Localization and Editing for Large Language Models](https://arxiv.org/abs/2604.27929v1)** | 2026-04-30 |  |
 | **[Subliminal Steering: Stronger Encoding of Hidden Signals](https://arxiv.org/abs/2604.25783v1)** | 2026-04-28 |  |
 | **[Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.25642v1)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](https://arxiv.org/abs/2604.23719v2)** | 2026-04-28 | <details><summary>Datas...</summary><p>Dataset paper. 12 pages + appendix, 2 figures. Dataset available at https://huggingface.co/datasets/keidolabs/aipsy-affect. MIT license</p></details> |
@@ -78,11 +79,12 @@ labels: documentation
 | **[SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models](https://arxiv.org/abs/2512.07993v2)** | 2026-04-18 |  |
 | **[Surgical Repair of Insecure Code Generation in LLMs](https://arxiv.org/abs/2604.16697v1)** | 2026-04-17 |  |
 | **[RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694v1)** | 2026-04-17 |  |
-| **[Predicting Where Steering Vectors Succeed](https://arxiv.org/abs/2604.15557v1)** | 2026-04-16 | <details><summary>19 pa...</summary><p>19 pages, incl. 10 appendix pages, 4 figures, 20 tables</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Pass, Any Order: Position-Invariant Listwise Reranking for LLM-Based Recommendation](https://arxiv.org/abs/2604.27599v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026</p></details> |
+| **[To Diff or Not to Diff? Structure-Aware and Adaptive Output Formats for Efficient LLM-based Code Editing](https://arxiv.org/abs/2604.27296v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted in the Findings of ACL 2026</p></details> |
 | **[OpenSOC-AI: Democratizing Security Operations with Parameter Efficient LLM Log Analysis](https://arxiv.org/abs/2604.26217v1)** | 2026-04-29 |  |
 | **[Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction](https://arxiv.org/abs/2604.26209v1)** | 2026-04-29 |  |
 | **[EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation](https://arxiv.org/abs/2604.26170v1)** | 2026-04-28 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks](https://arxiv.org/abs/2604.21399v1)** | 2026-04-23 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, conference version</p></details> |
 | **[DiP-SD: Distributed Pipelined Speculative Decoding for Efficient LLM Inference at the Edge](https://arxiv.org/abs/2604.20919v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by 2026 IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)</p></details> |
 | **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v2)** | 2026-04-21 | <details><summary>Work ...</summary><p>Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
-| **[DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization](https://arxiv.org/abs/2604.17789v2)** | 2026-04-21 | Technical Report |
-| **[LBLLM: Lightweight Binarization of Large Language Models via Three-Stage Distillation](https://arxiv.org/abs/2604.19167v1)** | 2026-04-21 |  |
 
