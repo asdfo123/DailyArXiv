@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](https://arxiv.org/abs/2605.00642v2)** | 2026-05-05 | under review |
 | **[AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://arxiv.org/abs/2605.02630v1)** | 2026-05-04 | 18 pages, 4 figures |
 | **[Faithful Mobile GUI Agents with Guided Advantage Estimator](https://arxiv.org/abs/2605.01208v1)** | 2026-05-02 |  |
-| **[Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](https://arxiv.org/abs/2605.00642v1)** | 2026-05-01 | under review |
 | **[A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction](https://arxiv.org/abs/2605.00551v1)** | 2026-05-01 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables. Accepted to ACL SRW 2026. Project page: https://iyatomilab.github.io/a11y-compressor/</p></details> |
 | **[GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](https://arxiv.org/abs/2604.27955v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Steve2457/Awesome-RL-GUI-Agents</p></details> |
 | **[WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments](https://arxiv.org/abs/2604.27776v1)** | 2026-04-30 |  |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v4)** | 2026-05-04 |  |
 | **[Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models](https://arxiv.org/abs/2605.01870v1)** | 2026-05-03 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Submitted to a journal</p></details> |
 | **[Rethinking LLM Ensembling from the Perspective of Mixture Models](https://arxiv.org/abs/2605.00419v1)** | 2026-05-01 | ICML 2026 Spotlight |
 | **[Image Score: Learning and Evaluating Human Preferences for Mercari Search](https://arxiv.org/abs/2408.11349v2)** | 2026-05-01 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation](https://arxiv.org/abs/2604.22722v1)** | 2026-04-24 |  |
 | **[MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression](https://arxiv.org/abs/2410.21548v3)** | 2026-04-24 |  |
 | **[NeuronMLP: Efficient LLM Inference via Singular Value Decomposition Compression and Tiling on AWS Trainium](https://arxiv.org/abs/2510.25977v4)** | 2026-04-23 | 12 pages, 8 figures |
-| **[LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs](https://arxiv.org/abs/2604.22050v1)** | 2026-04-23 |  |
 
