@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models](https://arxiv.org/abs/2605.05090v1)** | 2026-05-06 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 20 tables, targeting EMNLP submission</p></details> |
 | **[Aligning Language Models with Real-time Knowledge Editing](https://arxiv.org/abs/2508.01302v4)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main conference)</p></details> |
 | **[Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression](https://arxiv.org/abs/2604.19089v1)** | 2026-04-21 |  |
 | **[HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation](https://arxiv.org/abs/2604.17751v1)** | 2026-04-20 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
-| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Norm Anchors Make Model Edits Last](https://arxiv.org/abs/2602.02543v3)** | 2026-05-06 |  |
 | **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v2)** | 2026-05-01 | ICML 2026 |
 | **[GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259v2)** | 2026-05-01 |  |
 | **[When Model Editing Meets Service Evolution: A Knowledge-Update Perspective for Service Recommendation](https://arxiv.org/abs/2604.26686v1)** | 2026-04-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 Findings</p></details> |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](https://arxiv.org/abs/2603.08022v2)** | 2026-05-06 |  |
 | **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v4)** | 2026-05-04 |  |
 | **[Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models](https://arxiv.org/abs/2605.01870v1)** | 2026-05-03 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Submitted to a journal</p></details> |
 | **[Rethinking LLM Ensembling from the Perspective of Mixture Models](https://arxiv.org/abs/2605.00419v1)** | 2026-05-01 | ICML 2026 Spotlight |
@@ -97,5 +98,4 @@ labels: documentation
 | **[JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training](https://arxiv.org/abs/2604.23838v1)** | 2026-04-26 |  |
 | **[Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation](https://arxiv.org/abs/2604.22722v1)** | 2026-04-24 |  |
 | **[MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression](https://arxiv.org/abs/2410.21548v3)** | 2026-04-24 |  |
-| **[NeuronMLP: Efficient LLM Inference via Singular Value Decomposition Compression and Tiling on AWS Trainium](https://arxiv.org/abs/2510.25977v4)** | 2026-04-23 | 12 pages, 8 figures |
 
