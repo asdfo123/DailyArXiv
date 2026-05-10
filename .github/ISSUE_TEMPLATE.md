@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2026
+title: Latest 15 Papers - May 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v3)** | 2026-05-07 | 37 pages, 9 figures |
+| **[Uncovering Entity Identity Confusion in Multimodal Knowledge Editing](https://arxiv.org/abs/2605.06096v1)** | 2026-05-07 |  |
 | **[Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models](https://arxiv.org/abs/2605.05090v1)** | 2026-05-06 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 20 tables, targeting EMNLP submission</p></details> |
 | **[Aligning Language Models with Real-time Knowledge Editing](https://arxiv.org/abs/2508.01302v4)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main conference)</p></details> |
 | **[Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression](https://arxiv.org/abs/2604.19089v1)** | 2026-04-21 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457v4)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026, Project Page: https://mined-lmm.github.io/</p></details> |
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
-| **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
-| **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](https://arxiv.org/abs/2605.00642v2)** | 2026-05-05 | under review |
 | **[AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://arxiv.org/abs/2605.02630v1)** | 2026-05-04 | 18 pages, 4 figures |
 | **[Faithful Mobile GUI Agents with Guided Advantage Estimator](https://arxiv.org/abs/2605.01208v1)** | 2026-05-02 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v1)** | 2026-04-24 |  |
 | **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
 | **[SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning](https://arxiv.org/abs/2604.22558v1)** | 2026-04-24 | <details><summary>14 pa...</summary><p>14 pages, 11 figures. Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
-| **[Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives](https://arxiv.org/abs/2603.26041v3)** | 2026-04-24 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Lose Focus: Activation Steering via Key-Orthogonal Projections](https://arxiv.org/abs/2605.06342v1)** | 2026-05-07 |  |
+| **[Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions](https://arxiv.org/abs/2605.05983v1)** | 2026-05-07 | <details><summary>63 pa...</summary><p>63 pages, 50 figures; accepted by ICML 2026</p></details> |
+| **[Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention](https://arxiv.org/abs/2605.05892v1)** | 2026-05-07 |  |
 | **[DPN-LE: Dual Personality Neuron Localization and Editing for Large Language Models](https://arxiv.org/abs/2604.27929v1)** | 2026-04-30 |  |
 | **[Subliminal Steering: Stronger Encoding of Hidden Signals](https://arxiv.org/abs/2604.25783v1)** | 2026-04-28 |  |
 | **[Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2604.25642v1)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
@@ -76,13 +79,15 @@ labels: documentation
 | **[REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control](https://arxiv.org/abs/2511.20233v3)** | 2026-04-20 | 29 pages |
 | **[How Language Models Conflate Logical Validity with Plausibility: A Representational Analysis of Content Effects](https://arxiv.org/abs/2510.06700v3)** | 2026-04-20 | ACL 2026 Findings |
 | **[Characterizing Model-Native Skills](https://arxiv.org/abs/2604.17614v1)** | 2026-04-19 | <details><summary>We ar...</summary><p>We argue that when the goal is to intervene on model behavior, skill characterization should be *model-native*: grounded in the model's own representations rather than imposed through external ontologies</p></details> |
-| **[SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models](https://arxiv.org/abs/2512.07993v2)** | 2026-04-18 |  |
-| **[Surgical Repair of Insecure Code Generation in LLMs](https://arxiv.org/abs/2604.16697v1)** | 2026-04-17 |  |
-| **[RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694v1)** | 2026-04-17 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v1)** | 2026-05-07 | 22 pages, 12 figures |
+| **[Sample-efficient LLM Optimization with Reset Replay](https://arxiv.org/abs/2508.06412v3)** | 2026-05-07 |  |
+| **[TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference](https://arxiv.org/abs/2605.05639v1)** | 2026-05-07 | <details><summary>10 pa...</summary><p>10 pages (plus references), 10 figures, 3 tables, 1 algorithm. Submitted to ACM SIGCONF-style conference</p></details> |
+| **[Neuro-Symbolic Proof Generation for Scaling Systems Software Verification](https://arxiv.org/abs/2603.19715v2)** | 2026-05-07 | <details><summary>Publi...</summary><p>Published as a conference paper at OSDI'2026, and code is available at \url{https://github.com/SoaringE/seL4-proof-search}</p></details> |
+| **[eLLM: Elastic Memory Management Framework for Efficient LLM Serving](https://arxiv.org/abs/2506.15155v2)** | 2026-05-06 | <details><summary>7page...</summary><p>7pages, accepted to DAC'2026</p></details> |
 | **[Capacity-Aware Mixture Law Enables Efficient LLM Data Optimization](https://arxiv.org/abs/2603.08022v2)** | 2026-05-06 |  |
 | **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v4)** | 2026-05-04 |  |
 | **[Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models](https://arxiv.org/abs/2605.01870v1)** | 2026-05-03 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Submitted to a journal</p></details> |
@@ -93,9 +98,4 @@ labels: documentation
 | **[OpenSOC-AI: Democratizing Security Operations with Parameter Efficient LLM Log Analysis](https://arxiv.org/abs/2604.26217v1)** | 2026-04-29 |  |
 | **[Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction](https://arxiv.org/abs/2604.26209v1)** | 2026-04-29 |  |
 | **[EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation](https://arxiv.org/abs/2604.26170v1)** | 2026-04-28 |  |
-| **[DiffAdapt: Difficulty-Adaptive Reasoning for Token-Efficient LLM Inference](https://arxiv.org/abs/2510.19669v4)** | 2026-04-28 | ICLR 26 |
-| **[CacheFlow: Efficient LLM Serving with 3D-Parallel KV Cache Restoration](https://arxiv.org/abs/2604.25080v1)** | 2026-04-28 | 11 pages, 10 figures |
-| **[JigsawRL: Assembling RL Pipelines for Efficient LLM Post-Training](https://arxiv.org/abs/2604.23838v1)** | 2026-04-26 |  |
-| **[Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation](https://arxiv.org/abs/2604.22722v1)** | 2026-04-24 |  |
-| **[MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression](https://arxiv.org/abs/2410.21548v3)** | 2026-04-24 |  |
 
