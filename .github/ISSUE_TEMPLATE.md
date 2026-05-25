@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment](https://arxiv.org/abs/2605.23780v1)** | 2026-05-22 |  |
+| **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v2)** | 2026-05-21 |  |
 | **[Causal Path Alignment: Anchoring the Optimization Trajectory for Controllable In-Parameter Knowledge Editing](https://arxiv.org/abs/2506.04042v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
-| **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v1)** | 2026-05-16 |  |
 | **[Scalable Knowledge Editing for Mixture-of-Experts LLMs via Tensor-Structured Updates](https://arxiv.org/abs/2605.16686v1)** | 2026-05-15 | <details><summary>17 pa...</summary><p>17 pages, 3 architectures, 1 figure, 6 tables</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v3)** | 2026-05-14 |  |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models](https://arxiv.org/abs/2605.05090v1)** | 2026-05-06 | <details><summary>33 pa...</summary><p>33 pages, 4 figures, 20 tables, targeting EMNLP submission</p></details> |
 | **[Aligning Language Models with Real-time Knowledge Editing](https://arxiv.org/abs/2508.01302v4)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main conference)</p></details> |
 | **[Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression](https://arxiv.org/abs/2604.19089v1)** | 2026-04-21 |  |
-| **[HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation](https://arxiv.org/abs/2604.17751v1)** | 2026-04-20 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347v2)** | 2026-05-22 |  |
 | **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v2)** | 2026-05-19 |  |
 | **[CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing](https://arxiv.org/abs/2605.19484v1)** | 2026-05-19 |  |
 | **[DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents](https://arxiv.org/abs/2605.17439v2)** | 2026-05-19 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://arxiv.org/abs/2605.15542v1)** | 2026-05-15 | 11 pages, 8 figures |
 | **[Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining](https://arxiv.org/abs/2605.14747v1)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents](https://arxiv.org/abs/2601.18842v3)** | 2026-05-13 |  |
-| **[MobiBench: Multi-Branch, Modular Benchmark for Mobile GUI Agents](https://arxiv.org/abs/2512.12634v3)** | 2026-05-13 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DFKI-MLT at SemEval-2026 TASK 7: Steering Multilingual Models Towards Cultural Knowledge](https://arxiv.org/abs/2605.23069v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to The 20th International Workshop on Semantic Evaluation at ACL 2026</p></details> |
+| **[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](https://arxiv.org/abs/2605.21980v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy](https://arxiv.org/abs/2605.21006v1)** | 2026-05-20 |  |
 | **[Adaptive Probe-based Steering for Robust LLM Jailbreaking](https://arxiv.org/abs/2605.20286v1)** | 2026-05-19 | <details><summary>19 pa...</summary><p>19 pages, 13 figures, accepted by ICML 2026</p></details> |
 | **[Inference-Time Machine Unlearning via Gated Activation Redirection](https://arxiv.org/abs/2605.12765v2)** | 2026-05-18 |  |
@@ -77,25 +79,23 @@ labels: documentation
 | **[Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control](https://arxiv.org/abs/2604.03147v3)** | 2026-05-08 |  |
 | **[Don't Lose Focus: Activation Steering via Key-Orthogonal Projections](https://arxiv.org/abs/2605.06342v1)** | 2026-05-07 |  |
 | **[Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions](https://arxiv.org/abs/2605.05983v1)** | 2026-05-07 | <details><summary>63 pa...</summary><p>63 pages, 50 figures; accepted by ICML 2026</p></details> |
-| **[Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention](https://arxiv.org/abs/2605.05892v1)** | 2026-05-07 |  |
-| **[DPN-LE: Dual Personality Neuron Localization and Editing for Large Language Models](https://arxiv.org/abs/2604.27929v1)** | 2026-04-30 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference](https://arxiv.org/abs/2605.23640v1)** | 2026-05-22 |  |
+| **[AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System](https://arxiv.org/abs/2605.23389v1)** | 2026-05-22 |  |
+| **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v2)** | 2026-05-21 | <details><summary>Websi...</summary><p>Website: https://unifiedsd.github.io/ Code: https://github.com/Ahren09/UniSD</p></details> |
+| **[GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving](https://arxiv.org/abs/2605.22566v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Skill Weaving: Efficient LLM Improvement via Modular Skillpacks](https://arxiv.org/abs/2605.22205v1)** | 2026-05-21 | Accepted by ACL2026 |
+| **[Planning in the LLM Era: Building for Reliability and Efficiency](https://arxiv.org/abs/2605.21902v1)** | 2026-05-21 | <details><summary>Publi...</summary><p>Published at ICAPS 2026</p></details> |
+| **[Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](https://arxiv.org/abs/2506.16659v3)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 | **[SSV: Sparse Speculative Verification for Efficient LLM Inference](https://arxiv.org/abs/2605.19893v2)** | 2026-05-20 |  |
+| **[From Parameters to Data: A Task-Parameter-Guided Fine-Tuning Pipeline for Efficient LLM Alignment](https://arxiv.org/abs/2605.21558v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted@ICML26, 28 pages, 11 figures, 26 tables</p></details> |
 | **[Latent Action Reparameterization for Efficient Agent Inference](https://arxiv.org/abs/2605.18597v2)** | 2026-05-19 |  |
 | **[OpenCompass: A Universal Evaluation Platform for Large Language Models](https://arxiv.org/abs/2605.19276v1)** | 2026-05-19 |  |
 | **[Semantics Disentanglement and Composition for Universal Image Coding with Efficiently LLM Reasoning and Generative Diffusion](https://arxiv.org/abs/2412.18158v2)** | 2026-05-18 |  |
 | **[Throughput-Optimal Scheduling Algorithms for LLM Inference and AI Agents](https://arxiv.org/abs/2504.07347v3)** | 2026-05-18 |  |
 | **[How Off-Policy Can GRPO Be? Mu-GRPO for Efficient LLM Reinforcement Learning](https://arxiv.org/abs/2605.17570v1)** | 2026-05-17 |  |
 | **[RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs](https://arxiv.org/abs/2602.05367v2)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Runtime-Orchestrated Second-Order Optimization for Scalable LLM Training](https://arxiv.org/abs/2605.16184v1)** | 2026-05-15 |  |
-| **[GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556v2)** | 2026-05-15 |  |
-| **[LayerBoost: Layer-Aware Attention Reduction for Efficient LLMs](https://arxiv.org/abs/2604.22050v2)** | 2026-05-14 |  |
-| **[Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection](https://arxiv.org/abs/2605.14062v1)** | 2026-05-13 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 7 tables</p></details> |
-| **[Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines](https://arxiv.org/abs/2605.13981v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to the 43rd International Conference on Machine Learning (ICML 2026). 11 pages, 6 figures</p></details> |
-| **[Multi-Scale Dequant: Eliminating Dequantization Bottleneck via Activation Decomposition for Efficient LLM Inference](https://arxiv.org/abs/2605.13915v1)** | 2026-05-13 |  |
-| **[Respecting Self-Uncertainty in On-Policy Self-Distillation for Efficient LLM Reasoning](https://arxiv.org/abs/2605.13255v1)** | 2026-05-13 |  |
-| **[FOAM: Blocked State Folding for Memory-Efficient LLM Training](https://arxiv.org/abs/2512.07112v2)** | 2026-05-13 |  |
 
