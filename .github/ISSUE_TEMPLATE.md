@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
 | **[From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303v1)** | 2026-05-27 |  |
 | **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v2)** | 2026-05-23 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v2)** | 2026-05-09 | <details><summary>22 pa...</summary><p>22 pages, 18 figures, Accepted to ACL 2026 (Main Conference)</p></details> |
 | **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v2)** | 2026-05-09 | <details><summary>We vo...</summary><p>We voluntarily withdraw this manuscript. Extensive post-submission testing shows the method lacks the originally reported generality and effectiveness. The benchmark metrics originally designed are inadequate for assessing existing model editing algorithms. To avoid misleading the community, we have decided to withdraw this paper and will not release an updated version.</p></details> |
 | **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v3)** | 2026-05-07 | 37 pages, 9 figures |
-| **[Uncovering Entity Identity Confusion in Multimodal Knowledge Editing](https://arxiv.org/abs/2605.06096v1)** | 2026-05-07 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://arxiv.org/abs/2605.29615v1)** | 2026-05-28 |  |
+| **[UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://arxiv.org/abs/2605.29534v1)** | 2026-05-28 |  |
+| **[Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://arxiv.org/abs/2605.29447v1)** | 2026-05-28 | <details><summary>ICML ...</summary><p>ICML 2026 Spotlight. 36 pages, 19 figures, includes appendix</p></details> |
+| **[STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments](https://arxiv.org/abs/2605.29324v1)** | 2026-05-28 | <details><summary>24 pa...</summary><p>24 pages, 4figures, 21 tables</p></details> |
+| **[ChartAct: A Benchmark for Dynamic Chart Understanding](https://arxiv.org/abs/2605.26994v2)** | 2026-05-28 |  |
 | **[MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://arxiv.org/abs/2605.28646v1)** | 2026-05-27 | <details><summary>Prepr...</summary><p>Preprint. Submitted to EMNLP 2026. 21 pages, including appendices; 5 figures</p></details> |
 | **[GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534v1)** | 2026-05-27 |  |
 | **[GUI Agents for Continual Game Generation](https://arxiv.org/abs/2605.28258v1)** | 2026-05-27 |  |
@@ -52,18 +57,14 @@ labels: documentation
 | **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://arxiv.org/abs/2605.26114v2)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://mobilegym.github.io</p></details> |
 | **[Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning](https://arxiv.org/abs/2510.27266v2)** | 2026-05-27 |  |
 | **[AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications](https://arxiv.org/abs/2605.27761v1)** | 2026-05-26 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Preprint</p></details> |
-| **[ChartAct: A Benchmark for Dynamic Chart Understanding](https://arxiv.org/abs/2605.26994v1)** | 2026-05-26 |  |
 | **[MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration](https://arxiv.org/abs/2605.26546v1)** | 2026-05-26 |  |
 | **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190v2)** | 2026-05-25 | 57 pages, 17 figures |
 | **[SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](https://arxiv.org/abs/2605.15777v2)** | 2026-05-24 | 24 pages, 11 figures |
-| **[SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking](https://arxiv.org/abs/2605.25160v1)** | 2026-05-24 |  |
-| **[WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point](https://arxiv.org/abs/2502.08047v5)** | 2026-05-23 | Technique Report |
-| **[Generative Visual Code Mobile World Models](https://arxiv.org/abs/2602.01576v2)** | 2026-05-23 | ICML 2026 |
-| **[How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347v2)** | 2026-05-22 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causal Interventions on Continuous Variables: A Case Study on Verb Bias in Steering Vectors for In-Context Learning](https://arxiv.org/abs/2605.29971v1)** | 2026-05-28 |  |
 | **[Beyond Interpretability: When, Why, and How Sparse Autoencoders Enable Label-Free Visual Steering](https://arxiv.org/abs/2506.01247v3)** | 2026-05-26 |  |
 | **[Memory-Induced Tool-Drift in LLM Agents](https://arxiv.org/abs/2605.24941v1)** | 2026-05-24 |  |
 | **[Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m](https://arxiv.org/abs/2605.24577v1)** | 2026-05-23 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 40 references. Pre-registered four-bar framework; all numerical claims reproducible</p></details> |
@@ -78,11 +79,15 @@ labels: documentation
 | **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](https://arxiv.org/abs/2509.22510v3)** | 2026-05-15 |  |
 | **[VSPO: Vector-Steered Policy Optimization for Behavioral Control](https://arxiv.org/abs/2605.15604v1)** | 2026-05-15 |  |
 | **[Steer-to-Detect: Probing Hidden Representations for Detection of LLM-Generated Texts](https://arxiv.org/abs/2605.12890v1)** | 2026-05-13 |  |
-| **[Beyond Multiple Choice: Evaluating Steering Vectors for Summarization](https://arxiv.org/abs/2505.24859v3)** | 2026-05-11 | <details><summary>Publi...</summary><p>Published in Findings of EACL 2026. Extended version of the ICML 2025 Workshop on Reliable and Responsible Foundation Models paper (v1, v2). 36 pages, 21 figures, 15 tables</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](https://arxiv.org/abs/2605.29963v1)** | 2026-05-28 |  |
+| **[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/abs/2605.29734v1)** | 2026-05-28 | 24 pages, 5 figures |
+| **[Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents](https://arxiv.org/abs/2604.09492v2)** | 2026-05-28 |  |
+| **[CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.29612v1)** | 2026-05-28 |  |
+| **[OpenCompass: A Universal Evaluation Platform for Large Language Models](https://arxiv.org/abs/2605.19276v2)** | 2026-05-28 |  |
 | **[Routing-Aligned Fine-Tuning for Multilingual Downstream Tasks in Mixture-of-Experts Models](https://arxiv.org/abs/2605.28306v1)** | 2026-05-27 |  |
 | **[PromptEmbedder:: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting](https://arxiv.org/abs/2605.28066v1)** | 2026-05-27 |  |
 | **[Max-Window Scale Estimation for Near-Lossless HiF8 W8A8 Quantization-Aware Training](https://arxiv.org/abs/2605.26189v2)** | 2026-05-27 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[CachePrune: Privacy-Aware and Fine-Grained KV Cache Sharing for Efficient LLM Inference](https://arxiv.org/abs/2605.23640v1)** | 2026-05-22 |  |
 | **[AlignedServe: Orchestrating Prefix-aware Batching to Build a High-throughput and Computing-efficient LLM Serving System](https://arxiv.org/abs/2605.23389v1)** | 2026-05-22 |  |
 | **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v2)** | 2026-05-21 | <details><summary>Websi...</summary><p>Website: https://unifiedsd.github.io/ Code: https://github.com/Ahren09/UniSD</p></details> |
-| **[GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving](https://arxiv.org/abs/2605.22566v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Skill Weaving: Efficient LLM Improvement via Modular Skillpacks](https://arxiv.org/abs/2605.22205v1)** | 2026-05-21 | Accepted by ACL2026 |
-| **[Planning in the LLM Era: Building for Reliability and Efficiency](https://arxiv.org/abs/2605.21902v1)** | 2026-05-21 | <details><summary>Publi...</summary><p>Published at ICAPS 2026</p></details> |
-| **[Memory-Efficient LLM Pretraining via Minimalist Optimizer Design](https://arxiv.org/abs/2506.16659v3)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[SSV: Sparse Speculative Verification for Efficient LLM Inference](https://arxiv.org/abs/2605.19893v2)** | 2026-05-20 |  |
 
