@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,10 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://arxiv.org/abs/2505.14289v2)** | 2026-06-05 | Accepted by |
+| **[StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://arxiv.org/abs/2606.07027v1)** | 2026-06-05 |  |
 | **[DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions](https://arxiv.org/abs/2606.06322v1)** | 2026-06-04 |  |
+| **[MacArena: Benchmarking Computer Use Agents on an Online macOS Environment](https://arxiv.org/abs/2606.06560v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
 | **[Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://arxiv.org/abs/2606.04701v1)** | 2026-06-03 | preprint |
 | **[Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](https://arxiv.org/abs/2606.03951v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[CLI-Anything: Towards Agent-Native Computer Use](https://arxiv.org/abs/2606.03854v1)** | 2026-06-02 |  |
@@ -57,13 +60,12 @@ labels: documentation
 | **[UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://arxiv.org/abs/2605.29534v1)** | 2026-05-28 |  |
 | **[Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://arxiv.org/abs/2605.29447v1)** | 2026-05-28 | <details><summary>ICML ...</summary><p>ICML 2026 Spotlight. 36 pages, 19 figures, includes appendix</p></details> |
 | **[STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments](https://arxiv.org/abs/2605.29324v1)** | 2026-05-28 | <details><summary>24 pa...</summary><p>24 pages, 4figures, 21 tables</p></details> |
-| **[ChartAct: A Benchmark for Dynamic Chart Understanding](https://arxiv.org/abs/2605.26994v2)** | 2026-05-28 |  |
-| **[GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://arxiv.org/abs/2605.28534v1)** | 2026-05-27 |  |
-| **[GUI Agents for Continual Game Generation](https://arxiv.org/abs/2605.28258v1)** | 2026-05-27 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SV-Detect: AI-generated Text Detection with Steering Vectors](https://arxiv.org/abs/2606.07313v1)** | 2026-06-05 |  |
+| **[CASteer: Cross-Attention Steering for Controllable Concept Erasure](https://arxiv.org/abs/2503.09630v5)** | 2026-06-05 |  |
 | **[Steering Vectors are an Adversarial Attack Surface](https://arxiv.org/abs/2606.05958v1)** | 2026-06-04 |  |
 | **[Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Beyond Interpretability: When, Why, and How Sparse Autoencoders Enable Label-Free Visual Steering](https://arxiv.org/abs/2506.01247v3)** | 2026-05-26 |  |
 | **[Memory-Induced Tool-Drift in LLM Agents](https://arxiv.org/abs/2605.24941v1)** | 2026-05-24 |  |
 | **[Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m](https://arxiv.org/abs/2605.24577v1)** | 2026-05-23 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 40 references. Pre-registered four-bar framework; all numerical claims reproducible</p></details> |
-| **[DFKI-MLT at SemEval-2026 TASK 7: Steering Multilingual Models Towards Cultural Knowledge](https://arxiv.org/abs/2605.23069v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to The 20th International Workshop on Semantic Evaluation at ACL 2026</p></details> |
-| **[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](https://arxiv.org/abs/2605.21980v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Consistency from Only Two Samples: CoT-PoT Ensembling for Efficient LLM Reasoning](https://arxiv.org/abs/2604.17433v2)** | 2026-06-04 | <details><summary>9 pag...</summary><p>9 pages, 3 figures; accepted to Findings of ACL 2026</p></details> |
 | **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](https://arxiv.org/abs/2510.05544v2)** | 2026-06-03 |  |
 | **[Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation](https://arxiv.org/abs/2603.05881v2)** | 2026-06-03 |  |
 | **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Aligning Dense Retrievers with LLM Utility via Distillation](https://arxiv.org/abs/2604.22722v2)** | 2026-05-29 |  |
 | **[Towards Efficient LLMs Annealing with Principled Sample Selection](https://arxiv.org/abs/2605.31175v1)** | 2026-05-29 |  |
 | **[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419v2)** | 2026-05-29 | ICML 2026 |
-| **[Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs](https://arxiv.org/abs/2605.27255v2)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project Page: GitHub.com/RedAI-Infra/PIPO</p></details> |
 
