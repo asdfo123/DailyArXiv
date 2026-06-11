@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
 | **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
@@ -40,12 +41,12 @@ labels: documentation
 | **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[EVA: Editing for Versatile Alignment against Jailbreaks](https://arxiv.org/abs/2605.14750v1)** | 2026-05-14 | IEEE TPAMI 2026 |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
-| **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v1)** | 2026-06-09 |  |
+| **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v2)** | 2026-06-10 |  |
+| **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](https://arxiv.org/abs/2509.11548v2)** | 2026-06-10 |  |
 | **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v1)** | 2026-06-09 |  |
 | **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v2)** | 2026-06-08 |  |
 | **[EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://arxiv.org/abs/2505.14289v2)** | 2026-06-05 | Accepted by |
@@ -59,11 +60,14 @@ labels: documentation
 | **[STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models](https://arxiv.org/abs/2606.01790v1)** | 2026-06-01 |  |
 | **[MobiBench: Multi-Branch, Modular Benchmark for Mobile GUI Agents](https://arxiv.org/abs/2512.12634v4)** | 2026-05-31 |  |
 | **[MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution](https://arxiv.org/abs/2605.28646v2)** | 2026-05-29 | <details><summary>Prepr...</summary><p>Preprint. Submitted to EMNLP 2026. 21 pages, including appendices; 5 figures Under review. Yanqiu Zhao and Dongying Zheng contributed equally to this work</p></details> |
-| **[DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?](https://arxiv.org/abs/2605.29615v1)** | 2026-05-28 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Preference-aligned Large Language Models via Residual-based Model Steering](https://arxiv.org/abs/2509.23982v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2026</p></details> |
+| **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v5)** | 2026-06-10 |  |
+| **[Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995v3)** | 2026-06-10 |  |
+| **[Steering Where to Listen: Instruction-Based Activation Steering Redirects Temporal Attention in Large Audio-Language Models](https://arxiv.org/abs/2606.11400v1)** | 2026-06-09 |  |
 | **[Recoverable but Not Stationary:Local Linear Structures in Weights and Activations](https://arxiv.org/abs/2606.10929v1)** | 2026-06-09 | <details><summary>23 pa...</summary><p>23 pages, 8 tables, 9 figures</p></details> |
 | **[ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents](https://arxiv.org/abs/2602.04935v3)** | 2026-06-09 | <details><summary>The m...</summary><p>The manuscript consists of 24 pages formatted in the ACL style. Youjin Wang, Run Zhou, and Yingjie Ma contributed equally to this work. Tao Fang and Liangming Pan are the co-corresponding authors</p></details> |
 | **[Distilling Safe LLM Systems via Soft Prompts for On Device Settings](https://arxiv.org/abs/2606.09388v1)** | 2026-06-08 | Accepted to UAI 2026 |
@@ -73,16 +77,17 @@ labels: documentation
 | **[SV-Detect: AI-generated Text Detection with Steering Vectors](https://arxiv.org/abs/2606.07313v1)** | 2026-06-05 |  |
 | **[CASteer: Cross-Attention Steering for Controllable Concept Erasure](https://arxiv.org/abs/2503.09630v5)** | 2026-06-05 |  |
 | **[Steering Vectors are an Adversarial Attack Surface](https://arxiv.org/abs/2606.05958v1)** | 2026-06-04 |  |
-| **[Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[Translation Heads: Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613v2)** | 2026-06-03 | 61 pages, 70 figures |
-| **[REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control](https://arxiv.org/abs/2511.20233v5)** | 2026-06-03 |  |
-| **[Expert-Aware Refusal Steering](https://arxiv.org/abs/2606.04160v1)** | 2026-06-02 | <details><summary>Under...</summary><p>Under review for COLM 2026</p></details> |
-| **[Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](https://arxiv.org/abs/2606.07647v1)** | 2026-06-02 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](https://arxiv.org/abs/2606.12243v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation](https://arxiv.org/abs/2606.12117v1)** | 2026-06-10 | 10 pages, 4 figures |
+| **[Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248v3)** | 2026-06-10 |  |
+| **[CompRank: Efficient LLM Reranking via Token-Level Compression and Decoding-Free Scoring](https://arxiv.org/abs/2606.11700v1)** | 2026-06-10 |  |
+| **[Steering the Noise: Turning Random Perturbations into Effective Descent for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2601.04710v2)** | 2026-06-10 | 12pages, 6figures |
 | **[PromptEmbedder: Efficient and Transferable Text Embedding via Dual-LLM Soft Prompting](https://arxiv.org/abs/2605.28066v2)** | 2026-06-09 |  |
 | **[ATLAS: Verifier-Guided Adaptive Latent Activation Steering for Efficient LLM Reasoning](https://arxiv.org/abs/2601.03093v3)** | 2026-06-09 | 21 pages, 6 figures |
 | **[OpenCompass: A Universal Evaluation Platform for Large Language Models](https://arxiv.org/abs/2605.19276v3)** | 2026-06-08 |  |
@@ -93,9 +98,4 @@ labels: documentation
 | **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](https://arxiv.org/abs/2510.05544v2)** | 2026-06-03 |  |
 | **[Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation](https://arxiv.org/abs/2603.05881v2)** | 2026-06-03 |  |
 | **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
-| **[DECA: Decentralizing Block-Wise Adam for Efficient LLM Full-Parameter Fine-Tuning on Non-IID Data](https://arxiv.org/abs/2606.03209v1)** | 2026-06-02 |  |
-| **[Qift: Shift-Friendly No-Zero W2 Post-Training Quantization for Rotated W2A4/KV4 LLM Inference](https://arxiv.org/abs/2606.02823v1)** | 2026-06-01 | 23 pages, 8 figures |
-| **[Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://arxiv.org/abs/2502.16174v4)** | 2026-06-01 |  |
-| **[Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](https://arxiv.org/abs/2606.00888v1)** | 2026-05-30 | Accepted at ICML2026 |
-| **[DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](https://arxiv.org/abs/2507.13833v4)** | 2026-05-30 |  |
 
