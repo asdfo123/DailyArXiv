@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v1)** | 2026-06-12 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Can Factual Opinions Be Edited (Manipulated) in Large Language Models?](https://arxiv.org/abs/2606.03096v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main Conference</p></details> |
 | **[Benchmarking Knowledge Editing using Logical Rules](https://arxiv.org/abs/2606.10554v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 24th International Semantic Web Conference 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
 | **[From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303v1)** | 2026-05-27 |  |
 | **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
-| **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v2)** | 2026-05-23 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,15 +45,15 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://arxiv.org/abs/2606.07027v2)** | 2026-06-12 |  |
+| **[Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents](https://arxiv.org/abs/2606.14106v1)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, ICML 2026 WORKSHOP</p></details> |
 | **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v3)** | 2026-06-11 |  |
 | **[Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach](https://arxiv.org/abs/2606.13192v1)** | 2026-06-11 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Accepted at CVPR 2026 Findings</p></details> |
-| **[Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents](https://arxiv.org/abs/2606.12817v1)** | 2026-06-11 | <details><summary>20 pa...</summary><p>20 pages, 9 figures. Yudong Zhang and Lei Hu contributed equally to this work. Xingyu Liu, Zuojian Wang, and Zhilin Gao are corresponding authors</p></details> |
 | **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v1)** | 2026-06-10 |  |
 | **[How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](https://arxiv.org/abs/2509.11548v2)** | 2026-06-10 |  |
 | **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v1)** | 2026-06-09 |  |
 | **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v2)** | 2026-06-08 |  |
 | **[EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://arxiv.org/abs/2505.14289v2)** | 2026-06-05 | Accepted by |
-| **[StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://arxiv.org/abs/2606.07027v1)** | 2026-06-05 |  |
 | **[DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions](https://arxiv.org/abs/2606.06322v1)** | 2026-06-04 |  |
 | **[MacArena: Benchmarking Computer Use Agents on an Online macOS Environment](https://arxiv.org/abs/2606.06560v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
 | **[Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms](https://arxiv.org/abs/2606.04701v1)** | 2026-06-03 | preprint |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions](https://arxiv.org/abs/2605.05983v2)** | 2026-06-12 | <details><summary>63 pa...</summary><p>63 pages, 50 figures; accepted by ICML 2026</p></details> |
 | **[Toward Preference-aligned Large Language Models via Residual-based Model Steering](https://arxiv.org/abs/2509.23982v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2026</p></details> |
 | **[Mechanisms of Introspective Awareness](https://arxiv.org/abs/2603.21396v5)** | 2026-06-10 |  |
 | **[Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995v3)** | 2026-06-10 |  |
@@ -78,11 +79,12 @@ labels: documentation
 | **[CASteer: Cross-Attention Steering for Controllable Concept Erasure](https://arxiv.org/abs/2503.09630v5)** | 2026-06-05 |  |
 | **[Steering Vectors are an Adversarial Attack Surface](https://arxiv.org/abs/2606.05958v1)** | 2026-06-04 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
-| **[Translation Heads: Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613v2)** | 2026-06-03 | 61 pages, 70 figures |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sentinel: Decoding Context Utilization via Attention Probing for Efficient LLM Context Compression](https://arxiv.org/abs/2505.23277v3)** | 2026-06-12 | Preprint |
+| **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v1)** | 2026-06-12 |  |
 | **[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](https://arxiv.org/abs/2606.12243v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation](https://arxiv.org/abs/2606.12117v1)** | 2026-06-10 | 10 pages, 4 figures |
 | **[Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248v3)** | 2026-06-10 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](https://arxiv.org/abs/2603.05500v2)** | 2026-06-06 | <details><summary>ICML ...</summary><p>ICML 2026 Oral (15 pages, 7 figures, project page: https://spherelab.ai/poetx/)</p></details> |
 | **[Self-Consistency from Only Two Samples: CoT-PoT Ensembling for Efficient LLM Reasoning](https://arxiv.org/abs/2604.17433v2)** | 2026-06-04 | <details><summary>9 pag...</summary><p>9 pages, 3 figures; accepted to Findings of ACL 2026</p></details> |
 | **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](https://arxiv.org/abs/2510.05544v2)** | 2026-06-03 |  |
-| **[Confidence Before Answering: A Paradigm Shift for Efficient LLM Uncertainty Estimation](https://arxiv.org/abs/2603.05881v2)** | 2026-06-03 |  |
-| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v1)** | 2026-06-02 |  |
 
