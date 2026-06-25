@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v1)** | 2026-06-22 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
+| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v2)** | 2026-06-24 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
 | **[Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs](https://arxiv.org/abs/2606.22627v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[LOKI: Memory-Free Null-Space Constrained Lifelong Knowledge Editing](https://arxiv.org/abs/2606.19679v1)** | 2026-06-18 |  |
 | **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v3)** | 2026-06-17 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760v1)** | 2026-06-24 |  |
+| **[GUI agent: Guided Exploration of User-Sensitive Screens](https://arxiv.org/abs/2606.25705v1)** | 2026-06-24 |  |
 | **[VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://arxiv.org/abs/2606.24525v1)** | 2026-06-23 | <details><summary>17 pa...</summary><p>17 pages, 4 figures; ECCV 2026 submission; supplementary material uploaded as ancillary file</p></details> |
 | **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to the 4th International Workshop on Generalizing from Limited Resources in the Open World (GLOW @ IJCAI 2026)</p></details> |
 | **[GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents](https://arxiv.org/abs/2606.24551v1)** | 2026-06-22 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v2)** | 2026-06-16 |  |
 | **[LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](https://arxiv.org/abs/2606.16802v1)** | 2026-06-15 |  |
 | **[Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents](https://arxiv.org/abs/2505.14418v3)** | 2026-06-15 | <details><summary>EMNLP...</summary><p>EMNLP-Findings 2025 (Correcting model settings)</p></details> |
-| **[StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents](https://arxiv.org/abs/2606.07027v2)** | 2026-06-12 |  |
-| **[Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents](https://arxiv.org/abs/2606.14106v1)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, ICML 2026 WORKSHOP</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cache-Resident LLM Inference in GB-Scale Last-Level Caches](https://arxiv.org/abs/2606.25353v1)** | 2026-06-24 |  |
 | **[GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation](https://arxiv.org/abs/2606.23419v1)** | 2026-06-22 |  |
 | **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v1)** | 2026-06-22 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 20 tables</p></details> |
 | **[RLM-Cascade: Response-Level Speculative Decoding for Cost-Efficient LLM API Serving](https://arxiv.org/abs/2606.22840v1)** | 2026-06-22 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 9 tables</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Skill-to-LoRA: From Using Skills to Learning Behaviors for Token-Efficient LLM Agents](https://arxiv.org/abs/2606.16769v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures</p></details> |
 | **[SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing](https://arxiv.org/abs/2606.16135v1)** | 2026-06-15 | 15 pages |
 | **[RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs](https://arxiv.org/abs/2602.05367v3)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining](https://arxiv.org/abs/2505.23878v2)** | 2026-06-14 | ICML 2026 (Poster) |
 
