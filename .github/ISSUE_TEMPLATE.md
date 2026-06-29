@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,12 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v2)** | 2026-06-26 |  |
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v2)** | 2026-06-17 |  |
 | **[Reinforcement Learning for Neural Model Editing](https://arxiv.org/abs/2606.13461v1)** | 2026-06-11 |  |
 | **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
-| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://arxiv.org/abs/2601.18197v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://arxiv.org/abs/2606.27330v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
 | **[Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760v1)** | 2026-06-24 |  |
 | **[GUI agent: Guided Exploration of User-Sensitive Screens](https://arxiv.org/abs/2606.25705v1)** | 2026-06-24 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Skill-Guided Continuation Distillation for GUI Agents](https://arxiv.org/abs/2606.18890v1)** | 2026-06-17 |  |
 | **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v3)** | 2026-06-16 |  |
 | **[CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666v2)** | 2026-06-16 |  |
-| **[LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](https://arxiv.org/abs/2606.16802v1)** | 2026-06-15 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,13 +83,14 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](https://arxiv.org/abs/2606.20820v2)** | 2026-06-26 |  |
+| **[QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems](https://arxiv.org/abs/2606.27492v1)** | 2026-06-25 |  |
 | **[Cache-Resident LLM Inference in GB-Scale Last-Level Caches](https://arxiv.org/abs/2606.25353v1)** | 2026-06-24 |  |
 | **[GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation](https://arxiv.org/abs/2606.23419v1)** | 2026-06-22 |  |
 | **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v1)** | 2026-06-22 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 20 tables</p></details> |
 | **[RLM-Cascade: Response-Level Speculative Decoding for Cost-Efficient LLM API Serving](https://arxiv.org/abs/2606.22840v1)** | 2026-06-22 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 9 tables</p></details> |
 | **[ATLAS: Verifier-Guided Adaptive Latent Activation Steering for Efficient LLM Reasoning](https://arxiv.org/abs/2601.03093v4)** | 2026-06-20 | 21 pages, 6 figures |
 | **[Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642v2)** | 2026-06-18 | Accepted to KDD 2026 |
-| **[CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](https://arxiv.org/abs/2606.20820v1)** | 2026-06-18 |  |
 | **[ShuntServe: Cost-Efficient LLM Serving on Heterogeneous Spot GPU Clusters](https://arxiv.org/abs/2606.18600v1)** | 2026-06-17 | <details><summary>18 pa...</summary><p>18 pages, 16 figures, 5 tables</p></details> |
 | **[ConSA: Controllable Sparsity in Hybrid Attention via Learnable Allocation](https://arxiv.org/abs/2606.18056v1)** | 2026-06-16 |  |
 | **[Adaptive Activation Steering for Efficient LLM Reasoning via Closed-Loop PID Control](https://arxiv.org/abs/2506.18831v3)** | 2026-06-15 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v2)** | 2026-06-15 |  |
 | **[Skill-to-LoRA: From Using Skills to Learning Behaviors for Token-Efficient LLM Agents](https://arxiv.org/abs/2606.16769v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures</p></details> |
 | **[SwiftCache: Efficient LLM Serving for Multi-turn Conversations with Heterogeneous KV Cache Sharing](https://arxiv.org/abs/2606.16135v1)** | 2026-06-15 | 15 pages |
-| **[RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs](https://arxiv.org/abs/2602.05367v3)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
