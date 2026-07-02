@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers](https://arxiv.org/abs/2607.01000v1)** | 2026-07-01 |  |
 | **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v4)** | 2026-06-28 |  |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v4)** | 2026-06-27 | Accepted to KDD 2026 |
 | **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v1)** | 2026-06-25 | 21 pages, 2 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033v1)** | 2026-06-08 | 10 pages, 5 figures |
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
-| **[HyperPatch: Sequential Knowledge Editing Under n-ary Structural Drift](https://arxiv.org/abs/2606.03179v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,9 +45,11 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Codes and supplementary materials are in https://github.com/tu-tuing/SlowBA</p></details> |
+| **[A Task-State Representation for Long-Horizon Mobile GUI Agents](https://arxiv.org/abs/2607.00502v1)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures</p></details> |
+| **[Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410v2)** | 2026-07-01 |  |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
 | **[What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://arxiv.org/abs/2606.31612v1)** | 2026-06-30 |  |
-| **[Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410v1)** | 2026-06-30 |  |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 30 pages: 15-page main paper followed by supplementary material as an appendix (Sections A-F). Project page: https://sharryXR.github.io/GUIDE/</p></details> |
 | **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://arxiv.org/abs/2606.29705v1)** | 2026-06-29 |  |
@@ -58,12 +60,12 @@ labels: documentation
 | **[GUI agent: Guided Exploration of User-Sensitive Screens](https://arxiv.org/abs/2606.25705v1)** | 2026-06-24 |  |
 | **[VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://arxiv.org/abs/2606.24525v1)** | 2026-06-23 | <details><summary>17 pa...</summary><p>17 pages, 4 figures; ECCV 2026 submission; supplementary material uploaded as ancillary file</p></details> |
 | **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to the 4th International Workshop on Generalizing from Limited Resources in the Open World (GLOW @ IJCAI 2026)</p></details> |
-| **[GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents](https://arxiv.org/abs/2606.24551v1)** | 2026-06-22 |  |
-| **[ENVS: Environment-Native Verified Search for Long-Horizon GUI Agents](https://arxiv.org/abs/2606.22948v1)** | 2026-06-22 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation](https://arxiv.org/abs/2607.01147v1)** | 2026-07-01 |  |
+| **[Harnessing the Latent Space: From Steering Vectors to Model Calibrators for Control and Trust](https://arxiv.org/abs/2607.00083v1)** | 2026-06-30 | <details><summary>ACL 2...</summary><p>ACL 2026 (BigPicture Workshop)</p></details> |
 | **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v1)** | 2026-06-30 | <details><summary>31 pa...</summary><p>31 pages, 2 figures, 26 tables</p></details> |
 | **[The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at TrustNLP 2026 (Sixth Workshop on Trustworthy Natural Language Processing, ACL 2026)</p></details> |
 | **[White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
@@ -77,8 +79,6 @@ labels: documentation
 | **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v1)** | 2026-06-21 |  |
 | **[The Optimization Landscape of Carathéodory Decomposition of Toeplitz Covariances](https://arxiv.org/abs/2511.01605v2)** | 2026-06-21 |  |
 | **[EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors](https://arxiv.org/abs/2602.21218v2)** | 2026-06-20 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version</p></details> |
-| **[Translating Inference-Time Control to Radiology Vision-Language Models: Activation Steering for Pneumonia Classification on Chest X-rays](https://arxiv.org/abs/2606.20852v1)** | 2026-06-18 |  |
-| **[From Concept-Aligned Tokens to Vulnerable Features: Mechanistic Localization of Jailbreaks](https://arxiv.org/abs/2604.23130v2)** | 2026-06-16 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
