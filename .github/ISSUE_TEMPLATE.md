@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 06, 2026
+title: Latest 15 Papers - July 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
 | **[Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810v1)** | 2026-06-29 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
 | **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
-| **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v2)** | 2026-07-06 |  |
+| **[UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://arxiv.org/abs/2607.04425v1)** | 2026-07-05 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 5 figures, 7 tables</p></details> |
+| **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v1)** | 2026-07-05 | 15 pages, 5 figures |
 | **[What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://arxiv.org/abs/2606.31612v2)** | 2026-07-02 |  |
 | **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Codes and supplementary materials are in https://github.com/tu-tuing/SlowBA</p></details> |
 | **[A Task-State Representation for Long-Horizon Mobile GUI Agents](https://arxiv.org/abs/2607.00502v1)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures</p></details> |
@@ -57,13 +60,12 @@ labels: documentation
 | **[GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://arxiv.org/abs/2601.18197v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://arxiv.org/abs/2606.27330v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
 | **[Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760v1)** | 2026-06-24 |  |
-| **[GUI agent: Guided Exploration of User-Sensitive Screens](https://arxiv.org/abs/2606.25705v1)** | 2026-06-24 |  |
-| **[VisCritic: Visual State Comparison as Process Reward for GUI Agents](https://arxiv.org/abs/2606.24525v1)** | 2026-06-23 | <details><summary>17 pa...</summary><p>17 pages, 4 figures; ECCV 2026 submission; supplementary material uploaded as ancillary file</p></details> |
-| **[Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation](https://arxiv.org/abs/2606.24515v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to the 4th International Workshop on Generalizing from Limited Resources in the Open World (GLOW @ IJCAI 2026)</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models](https://arxiv.org/abs/2509.25533v2)** | 2026-07-06 |  |
+| **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
 | **[On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802v1)** | 2026-07-02 |  |
 | **[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](https://arxiv.org/abs/2606.28589v2)** | 2026-07-02 | Accepted by ICML'26 |
 | **[EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation](https://arxiv.org/abs/2607.01147v1)** | 2026-07-01 |  |
@@ -77,12 +79,11 @@ labels: documentation
 | **[Looking Is Not Picking: An Attention-Segment Account of Tool-Selection Failures in LLM Agents](https://arxiv.org/abs/2606.16364v2)** | 2026-06-27 | <details><summary>13 pa...</summary><p>13 pages, 1 figure, 15 tables</p></details> |
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v2)** | 2026-06-25 | <details><summary>19 pa...</summary><p>19 pages including appendix</p></details> |
 | **[Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](https://arxiv.org/abs/2509.03647v2)** | 2026-06-22 | <details><summary>Prese...</summary><p>Presented at {Mechanistic Interpretability, Evaluations, Reliable-ML} Workshops, NeurIPS 2025</p></details> |
-| **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v1)** | 2026-06-21 |  |
-| **[The Optimization Landscape of Carathéodory Decomposition of Toeplitz Covariances](https://arxiv.org/abs/2511.01605v2)** | 2026-06-21 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training](https://arxiv.org/abs/2607.04969v1)** | 2026-07-06 | <details><summary>Publi...</summary><p>Published as a paper at 3rd DATA-FM workshop @ ICLR 2026, Brazil</p></details> |
 | **[SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication](https://arxiv.org/abs/2607.01678v1)** | 2026-07-02 |  |
 | **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v4)** | 2026-07-02 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 20 tables,</p></details> |
 | **[Scaling with Confidence: Calibrating Confidence of LLMs for Adaptive Test Time Scaling](https://arxiv.org/abs/2607.01612v1)** | 2026-07-02 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[RLM-Cascade: Response-Level Speculative Decoding for Cost-Efficient LLM API Serving](https://arxiv.org/abs/2606.22840v1)** | 2026-06-22 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 9 tables</p></details> |
 | **[ATLAS: Verifier-Guided Adaptive Latent Activation Steering for Efficient LLM Reasoning](https://arxiv.org/abs/2601.03093v4)** | 2026-06-20 | 21 pages, 6 figures |
 | **[Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642v2)** | 2026-06-18 | Accepted to KDD 2026 |
-| **[ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662v1)** | 2026-06-17 |  |
 
