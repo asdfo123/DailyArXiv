@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
 | **[Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810v1)** | 2026-06-29 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
-| **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194v2)** | 2026-07-08 |  |
 | **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Controlling Tool Use with Heading-Specific Activation Steering](https://arxiv.org/abs/2607.05790v1)** | 2026-07-07 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering](https://arxiv.org/abs/2606.29824v1)** | 2026-06-29 |  |
 | **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](https://arxiv.org/abs/2507.23220v2)** | 2026-06-27 |  |
-| **[Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770v1)** | 2026-06-27 | <details><summary>Writt...</summary><p>Written in 2024; submitted to arXiv 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
