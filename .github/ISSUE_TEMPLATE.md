@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Attribute Steering of Language Models via Targeted Intervention](https://arxiv.org/abs/2502.12446v3)** | 2026-07-10 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready, code link: https://github.com/duykhuongnguyen/MAT-Steer</p></details> |
+| **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043v2)** | 2026-07-10 | Accepted to ACL 2026 |
 | **[Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194v2)** | 2026-07-08 |  |
 | **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
@@ -77,8 +79,6 @@ labels: documentation
 | **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v1)** | 2026-06-30 | <details><summary>31 pa...</summary><p>31 pages, 2 figures, 26 tables</p></details> |
 | **[The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at TrustNLP 2026 (Sixth Workshop on Trustworthy Natural Language Processing, ACL 2026)</p></details> |
 | **[White-Box Sensitivity Auditing with Steering Vectors](https://arxiv.org/abs/2601.16398v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering](https://arxiv.org/abs/2606.29824v1)** | 2026-06-29 |  |
-| **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](https://arxiv.org/abs/2507.23220v2)** | 2026-06-27 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
