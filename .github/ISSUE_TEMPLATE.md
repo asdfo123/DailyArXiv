@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Plover: Steering GUI Agents through Plan-Centric Interaction](https://arxiv.org/abs/2607.15193v1)** | 2026-07-16 |  |
+| **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548v1)** | 2026-07-16 |  |
+| **[Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349v3)** | 2026-07-15 |  |
 | **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v3)** | 2026-07-14 |  |
 | **[Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://arxiv.org/abs/2604.07831v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, public code at https://github.com/HashTAG00002/UI-Injection</p></details> |
 | **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v2)** | 2026-07-06 |  |
@@ -57,9 +60,6 @@ labels: documentation
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
 | **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 30 pages: 15-page main paper followed by supplementary material as an appendix (Sections A-F). Project page: https://sharryXR.github.io/GUIDE/</p></details> |
 | **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://arxiv.org/abs/2606.29705v1)** | 2026-06-29 |  |
-| **[Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction](https://arxiv.org/abs/2606.29445v1)** | 2026-06-28 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project Page: https://vg-gui-tasker.github.io/</p></details> |
-| **[GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://arxiv.org/abs/2601.18197v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -85,6 +85,7 @@ labels: documentation
 | --- | --- | --- |
 | **[MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference](https://arxiv.org/abs/2607.10582v1)** | 2026-07-12 |  |
 | **[FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference](https://arxiv.org/abs/2607.10186v1)** | 2026-07-11 |  |
+| **[The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference](https://arxiv.org/abs/2607.13068v1)** | 2026-07-10 |  |
 | **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v2)** | 2026-07-07 |  |
 | **[Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training](https://arxiv.org/abs/2607.04969v1)** | 2026-07-06 | <details><summary>Publi...</summary><p>Published as a paper at 3rd DATA-FM workshop @ ICLR 2026, Brazil</p></details> |
 | **[SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication](https://arxiv.org/abs/2607.01678v1)** | 2026-07-02 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems](https://arxiv.org/abs/2606.27492v1)** | 2026-06-25 |  |
 | **[Cache-Resident LLM Inference in GB-Scale Last-Level Caches](https://arxiv.org/abs/2606.25353v1)** | 2026-06-24 |  |
 | **[GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation](https://arxiv.org/abs/2606.23419v1)** | 2026-06-22 |  |
-| **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v1)** | 2026-06-22 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 20 tables</p></details> |
 
