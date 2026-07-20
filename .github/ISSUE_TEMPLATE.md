@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v4)** | 2026-07-17 |  |
+| **[SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction](https://arxiv.org/abs/2607.15550v1)** | 2026-07-17 | 19 pages, 8 figures |
 | **[Plover: Steering GUI Agents through Plan-Centric Interaction](https://arxiv.org/abs/2607.15193v1)** | 2026-07-16 |  |
 | **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548v1)** | 2026-07-16 |  |
 | **[Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349v3)** | 2026-07-15 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[A Task-State Representation for Long-Horizon Mobile GUI Agents](https://arxiv.org/abs/2607.00502v1)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures</p></details> |
 | **[Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410v2)** | 2026-07-01 |  |
 | **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 30 pages: 15-page main paper followed by supplementary material as an appendix (Sections A-F). Project page: https://sharryXR.github.io/GUIDE/</p></details> |
-| **[CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training](https://arxiv.org/abs/2603.23559v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
