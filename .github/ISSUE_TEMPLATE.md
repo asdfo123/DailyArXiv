@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DisarmRAG: Stealthy Retriever-Centric Poisoning to Disable Self-Correction in Retrieval-Augmented Generation (Extended Version)](https://arxiv.org/abs/2508.20083v2)** | 2026-07-19 | <details><summary>This ...</summary><p>This paper is an extended version of our original paper accepted by ACM CCS 2026</p></details> |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v3)** | 2026-07-14 |  |
 | **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v2)** | 2026-07-14 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
 | **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
@@ -40,30 +41,32 @@ labels: documentation
 | **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
-| **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
+| **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v4)** | 2026-07-20 |  |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v3)** | 2026-07-20 |  |
+| **[EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://arxiv.org/abs/2607.17050v1)** | 2026-07-19 |  |
+| **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v2)** | 2026-07-18 | 17 pages, 3 figures |
 | **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v4)** | 2026-07-17 |  |
 | **[SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction](https://arxiv.org/abs/2607.15550v1)** | 2026-07-17 | 19 pages, 8 figures |
 | **[Plover: Steering GUI Agents through Plan-Centric Interaction](https://arxiv.org/abs/2607.15193v1)** | 2026-07-16 |  |
 | **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548v1)** | 2026-07-16 |  |
 | **[Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349v3)** | 2026-07-15 |  |
-| **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v3)** | 2026-07-14 |  |
 | **[Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://arxiv.org/abs/2604.07831v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, public code at https://github.com/HashTAG00002/UI-Injection</p></details> |
 | **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v2)** | 2026-07-06 |  |
 | **[UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://arxiv.org/abs/2607.04425v1)** | 2026-07-05 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 5 figures, 7 tables</p></details> |
-| **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v1)** | 2026-07-05 | 15 pages, 5 figures |
 | **[What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States](https://arxiv.org/abs/2606.31612v2)** | 2026-07-02 |  |
 | **[SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://arxiv.org/abs/2603.08316v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Codes and supplementary materials are in https://github.com/tu-tuing/SlowBA</p></details> |
-| **[A Task-State Representation for Long-Horizon Mobile GUI Agents](https://arxiv.org/abs/2607.00502v1)** | 2026-07-01 | <details><summary>Prepr...</summary><p>Preprint. 9 pages, 3 figures</p></details> |
-| **[Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410v2)** | 2026-07-01 |  |
-| **[InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training](https://arxiv.org/abs/2601.04126v3)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
+| **[HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization](https://arxiv.org/abs/2607.17994v1)** | 2026-07-20 |  |
+| **[Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift](https://arxiv.org/abs/2607.17524v1)** | 2026-07-20 |  |
 | **[Inference-Time Machine Unlearning via Gated Activation Redirection](https://arxiv.org/abs/2605.12765v3)** | 2026-07-14 |  |
 | **[Multi-Attribute Steering of Language Models via Targeted Intervention](https://arxiv.org/abs/2502.12446v3)** | 2026-07-10 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready, code link: https://github.com/duykhuongnguyen/MAT-Steer</p></details> |
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043v2)** | 2026-07-10 | Accepted to ACL 2026 |
@@ -76,13 +79,17 @@ labels: documentation
 | **[On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802v1)** | 2026-07-02 |  |
 | **[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](https://arxiv.org/abs/2606.28589v2)** | 2026-07-02 | Accepted by ICML'26 |
 | **[EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation](https://arxiv.org/abs/2607.01147v1)** | 2026-07-01 |  |
-| **[Harnessing the Latent Space: From Steering Vectors to Model Calibrators for Control and Trust](https://arxiv.org/abs/2607.00083v1)** | 2026-06-30 | <details><summary>ACL 2...</summary><p>ACL 2026 (BigPicture Workshop)</p></details> |
-| **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v1)** | 2026-06-30 | <details><summary>31 pa...</summary><p>31 pages, 2 figures, 26 tables</p></details> |
-| **[The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at TrustNLP 2026 (Sixth Workshop on Trustworthy Natural Language Processing, ACL 2026)</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs](https://arxiv.org/abs/2607.18081v1)** | 2026-07-20 |  |
+| **[Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field](https://arxiv.org/abs/2607.17902v1)** | 2026-07-20 |  |
+| **[MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference](https://arxiv.org/abs/2607.17733v1)** | 2026-07-20 |  |
+| **[C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference](https://arxiv.org/abs/2607.17715v1)** | 2026-07-20 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, accepted by ACM SIGKDD 2026</p></details> |
+| **[Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing](https://arxiv.org/abs/2502.04411v3)** | 2026-07-20 | <details><summary>work ...</summary><p>work in progress. arXiv admin note: text overlap with arXiv:2405.09673 by other authors</p></details> |
+| **[Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving](https://arxiv.org/abs/2607.16488v1)** | 2026-07-17 | Accepted to MICRO'26 |
+| **[Enabling Spatially Fine-Grained DVFS in Neural Processing Units for Energy-Efficient LLM Serving](https://arxiv.org/abs/2607.16473v1)** | 2026-07-17 | Accepted by MICRO'26 |
 | **[MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference](https://arxiv.org/abs/2607.10582v1)** | 2026-07-12 |  |
 | **[FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference](https://arxiv.org/abs/2607.10186v1)** | 2026-07-11 |  |
 | **[The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference](https://arxiv.org/abs/2607.13068v1)** | 2026-07-10 |  |
@@ -91,11 +98,4 @@ labels: documentation
 | **[SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication](https://arxiv.org/abs/2607.01678v1)** | 2026-07-02 |  |
 | **[QTALE: Quantization-Robust Token-Adaptive Layer Execution for LLMs](https://arxiv.org/abs/2602.10431v4)** | 2026-07-02 | <details><summary>22 pa...</summary><p>22 pages, 10 figures, 20 tables,</p></details> |
 | **[Scaling with Confidence: Calibrating Confidence of LLMs for Adaptive Test Time Scaling](https://arxiv.org/abs/2607.01612v1)** | 2026-07-02 |  |
-| **[Fork-Think with Confidence](https://arxiv.org/abs/2606.31484v1)** | 2026-06-30 |  |
-| **[Coverage-Driven KV Cache Eviction for Efficient and Improved Inference of LLM](https://arxiv.org/abs/2606.29563v1)** | 2026-06-28 |  |
-| **[Geometrically Principled Randomized Optimization for Efficient LLM Training](https://arxiv.org/abs/2510.01878v2)** | 2026-06-26 |  |
-| **[CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](https://arxiv.org/abs/2606.20820v2)** | 2026-06-26 |  |
-| **[QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems](https://arxiv.org/abs/2606.27492v1)** | 2026-06-25 |  |
-| **[Cache-Resident LLM Inference in GB-Scale Last-Level Caches](https://arxiv.org/abs/2606.25353v1)** | 2026-06-24 |  |
-| **[GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation](https://arxiv.org/abs/2606.23419v1)** | 2026-06-22 |  |
 
