@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v2)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[DisarmRAG: Stealthy Retriever-Centric Poisoning to Disable Self-Correction in Retrieval-Augmented Generation (Extended Version)](https://arxiv.org/abs/2508.20083v2)** | 2026-07-19 | <details><summary>This ...</summary><p>This paper is an extended version of our original paper accepted by ACM CCS 2026</p></details> |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v3)** | 2026-07-14 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 | **[Reinforcement Learning for Neural Model Editing](https://arxiv.org/abs/2606.13461v1)** | 2026-06-11 |  |
 | **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
-| **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
 | **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
 | **[HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization](https://arxiv.org/abs/2607.17994v1)** | 2026-07-20 |  |
 | **[Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift](https://arxiv.org/abs/2607.17524v1)** | 2026-07-20 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
 | **[On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802v1)** | 2026-07-02 |  |
 | **[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](https://arxiv.org/abs/2606.28589v2)** | 2026-07-02 | Accepted by ICML'26 |
-| **[EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation](https://arxiv.org/abs/2607.01147v1)** | 2026-07-01 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
