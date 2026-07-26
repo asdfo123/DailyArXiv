@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,8 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v1)** | 2026-07-23 | 15 pages, 13 figures |
 | **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
 | **[HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization](https://arxiv.org/abs/2607.17994v1)** | 2026-07-20 |  |
 | **[Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift](https://arxiv.org/abs/2607.17524v1)** | 2026-07-20 |  |
@@ -78,7 +79,6 @@ labels: documentation
 | **[VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models](https://arxiv.org/abs/2509.25533v2)** | 2026-07-06 |  |
 | **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
 | **[On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802v1)** | 2026-07-02 |  |
-| **[Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories](https://arxiv.org/abs/2606.28589v2)** | 2026-07-02 | Accepted by ICML'26 |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
@@ -97,5 +97,5 @@ labels: documentation
 | **[The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference](https://arxiv.org/abs/2607.13068v1)** | 2026-07-10 |  |
 | **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v2)** | 2026-07-07 |  |
 | **[Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training](https://arxiv.org/abs/2607.04969v1)** | 2026-07-06 | <details><summary>Publi...</summary><p>Published as a paper at 3rd DATA-FM workshop @ ICLR 2026, Brazil</p></details> |
-| **[SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication](https://arxiv.org/abs/2607.01678v1)** | 2026-07-02 |  |
+| **[MiniCache: Reusable Program Caching with Small Model Interfaces for Efficient LLM Inference](https://arxiv.org/abs/2607.20507v1)** | 2026-07-03 | 16 pages, 8 figures |
 
