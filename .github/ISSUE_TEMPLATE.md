@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,8 +64,10 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v2)** | 2026-07-24 | <details><summary>There...</summary><p>There is an error uploading files causing a private work unindended for publication being submitted. The title, abstract, fig 2, 3, 5 and a few other places contain errors misinterpreting the data</p></details> |
+| **[Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning](https://arxiv.org/abs/2607.22013v1)** | 2026-07-24 |  |
+| **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v2)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v1)** | 2026-07-23 | 15 pages, 13 figures |
 | **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
 | **[HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization](https://arxiv.org/abs/2607.17994v1)** | 2026-07-20 |  |
 | **[Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift](https://arxiv.org/abs/2607.17524v1)** | 2026-07-20 |  |
@@ -74,15 +76,14 @@ labels: documentation
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043v2)** | 2026-07-10 | Accepted to ACL 2026 |
 | **[Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194v2)** | 2026-07-08 |  |
 | **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
-| **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Controlling Tool Use with Heading-Specific Activation Steering](https://arxiv.org/abs/2607.05790v1)** | 2026-07-07 |  |
 | **[VISOR++: Universal Visual Inputs based Steering for Large Vision Language Models](https://arxiv.org/abs/2509.25533v2)** | 2026-07-06 |  |
 | **[VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models](https://arxiv.org/abs/2508.08521v2)** | 2026-07-06 |  |
-| **[On the Limits of Steering Vectors for Preference-Aligned Generation](https://arxiv.org/abs/2607.01802v1)** | 2026-07-02 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Static-Dynamic Pruning for Efficient LLM Inference](https://arxiv.org/abs/2607.21985v1)** | 2026-07-24 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Accepted for publication in Proceedings of the VLDB Endowment (PVLDB), Volume 19, Issue 11, 2026. Code: https://github.com/AIDASLab/SPDP</p></details> |
 | **[How Benchmark Prediction from Fewer Data Misses the Mark](https://arxiv.org/abs/2506.07673v2)** | 2026-07-21 |  |
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v6)** | 2026-07-21 |  |
 | **[SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs](https://arxiv.org/abs/2607.18081v1)** | 2026-07-20 |  |
@@ -96,6 +97,5 @@ labels: documentation
 | **[FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference](https://arxiv.org/abs/2607.10186v1)** | 2026-07-11 |  |
 | **[The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference](https://arxiv.org/abs/2607.13068v1)** | 2026-07-10 |  |
 | **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v2)** | 2026-07-07 |  |
-| **[Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training](https://arxiv.org/abs/2607.04969v1)** | 2026-07-06 | <details><summary>Publi...</summary><p>Published as a paper at 3rd DATA-FM workshop @ ICLR 2026, Brazil</p></details> |
-| **[MiniCache: Reusable Program Caching with Small Model Interfaces for Efficient LLM Inference](https://arxiv.org/abs/2607.20507v1)** | 2026-07-03 | 16 pages, 8 figures |
+| **[FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs](https://arxiv.org/abs/2607.21624v1)** | 2026-07-07 | <details><summary>13 pa...</summary><p>13 pages, 21 figures, Mobisys 2026</p></details> |
 
