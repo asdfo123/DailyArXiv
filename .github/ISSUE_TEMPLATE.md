@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling GUI Agents with Visual State Transitions](https://arxiv.org/abs/2607.24112v1)** | 2026-07-27 |  |
+| **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v3)** | 2026-07-26 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral) & Best Paper at AIWILD @ ICLR 2026</p></details> |
+| **[Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction](https://arxiv.org/abs/2602.00575v2)** | 2026-07-25 | 25 pages, 12 figures |
 | **[Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://arxiv.org/abs/2506.17913v2)** | 2026-07-21 | <details><summary>Withd...</summary><p>Withdrawn due to ongoing technical improvements. The work requires further refinement and additional experiments to meet our quality standards. A revised version will be submitted in the future</p></details> |
 | **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v4)** | 2026-07-21 |  |
 | **[SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
@@ -52,14 +55,11 @@ labels: documentation
 | **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v3)** | 2026-07-20 |  |
 | **[EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://arxiv.org/abs/2607.17050v1)** | 2026-07-19 |  |
 | **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v2)** | 2026-07-18 | 17 pages, 3 figures |
+| **[Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents](https://arxiv.org/abs/2607.22689v1)** | 2026-07-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. Project page: https://github.com/pkgunboat/ParaGUIBench</p></details> |
 | **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v4)** | 2026-07-17 |  |
 | **[SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction](https://arxiv.org/abs/2607.15550v1)** | 2026-07-17 | 19 pages, 8 figures |
 | **[Plover: Steering GUI Agents through Plan-Centric Interaction](https://arxiv.org/abs/2607.15193v1)** | 2026-07-16 |  |
 | **[HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://arxiv.org/abs/2607.14548v1)** | 2026-07-16 |  |
-| **[Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349v3)** | 2026-07-15 |  |
-| **[Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://arxiv.org/abs/2604.07831v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, public code at https://github.com/HashTAG00002/UI-Injection</p></details> |
-| **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v2)** | 2026-07-06 |  |
-| **[UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning](https://arxiv.org/abs/2607.04425v1)** | 2026-07-05 | <details><summary>Techn...</summary><p>Technical report. 25 pages, 5 figures, 7 tables</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures](https://arxiv.org/abs/2607.24714v1)** | 2026-07-27 | <details><summary>56 pa...</summary><p>56 pages, 6 figures, 7 tables</p></details> |
+| **[MMOE: Modernizing Diffusion Transformers with Efficient Expert Design](https://arxiv.org/abs/2607.24665v1)** | 2026-07-27 | 13 pages, 5 figures |
+| **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v1)** | 2026-07-27 |  |
+| **[MedDDC-Eval: Diagnosis-Decoupled Evaluation of Multi-Turn Medical Consultation Agents](https://arxiv.org/abs/2607.18999v2)** | 2026-07-26 | <details><summary>suppl...</summary><p>supplementary material included</p></details> |
 | **[Unified Static-Dynamic Pruning for Efficient LLM Inference](https://arxiv.org/abs/2607.21985v1)** | 2026-07-24 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Accepted for publication in Proceedings of the VLDB Endowment (PVLDB), Volume 19, Issue 11, 2026. Code: https://github.com/AIDASLab/SPDP</p></details> |
 | **[How Benchmark Prediction from Fewer Data Misses the Mark](https://arxiv.org/abs/2506.07673v2)** | 2026-07-21 |  |
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v6)** | 2026-07-21 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving](https://arxiv.org/abs/2607.16488v1)** | 2026-07-17 | Accepted to MICRO'26 |
 | **[Enabling Spatially Fine-Grained DVFS in Neural Processing Units for Energy-Efficient LLM Serving](https://arxiv.org/abs/2607.16473v1)** | 2026-07-17 | Accepted by MICRO'26 |
 | **[MemDecay: Region-Aware KV Cache Eviction for Efficient LLM Agent Inference](https://arxiv.org/abs/2607.10582v1)** | 2026-07-12 |  |
-| **[FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference](https://arxiv.org/abs/2607.10186v1)** | 2026-07-11 |  |
-| **[The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference](https://arxiv.org/abs/2607.13068v1)** | 2026-07-10 |  |
-| **[Leech Lattice Vector Quantization for Efficient LLM Compression](https://arxiv.org/abs/2603.11021v2)** | 2026-07-07 |  |
-| **[FBLayout: Optimizing Memory Layout for Efficient LLM Finetuning on Mobile GPUs](https://arxiv.org/abs/2607.21624v1)** | 2026-07-07 | <details><summary>13 pa...</summary><p>13 pages, 21 figures, Mobisys 2026</p></details> |
 
