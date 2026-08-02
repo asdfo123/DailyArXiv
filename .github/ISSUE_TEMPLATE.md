@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - August 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees](https://arxiv.org/abs/2607.28399v1)** | 2026-07-30 |  |
+| **[Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2607.28227v1)** | 2026-07-30 |  |
 | **[Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://arxiv.org/abs/2607.25904v2)** | 2026-07-29 |  |
 | **[Scaling GUI Agents with Visual State Transitions](https://arxiv.org/abs/2607.24112v1)** | 2026-07-27 |  |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v3)** | 2026-07-26 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral) & Best Paper at AIWILD @ ICLR 2026</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v2)** | 2026-07-18 | 17 pages, 3 figures |
 | **[Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents](https://arxiv.org/abs/2607.22689v1)** | 2026-07-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. Project page: https://github.com/pkgunboat/ParaGUIBench</p></details> |
 | **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v4)** | 2026-07-17 |  |
-| **[SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction](https://arxiv.org/abs/2607.15550v1)** | 2026-07-17 | 19 pages, 8 figures |
-| **[Plover: Steering GUI Agents through Plan-Centric Interaction](https://arxiv.org/abs/2607.15193v1)** | 2026-07-16 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference](https://arxiv.org/abs/2607.27694v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 12 figures. Published in 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Sydney, Australia, pp. 1-15, DOI: 10.1109/HPCA68181.2026.11408453</p></details> |
+| **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v2)** | 2026-07-30 |  |
+| **[Efficient LLMs with AMP: Attention Heads and MLP Pruning](https://arxiv.org/abs/2504.21174v2)** | 2026-07-29 | <details><summary>Publi...</summary><p>Published in International Joint Conference on Neural Networks (IJCNN), 2025</p></details> |
+| **[SDO: Structure-Aware Data Organization for Efficient LLM Post-Training](https://arxiv.org/abs/2607.27273v1)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 5 tables</p></details> |
 | **[RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](https://arxiv.org/abs/2607.26631v1)** | 2026-07-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Mobile Computing. Extended version of the IEEE PerCom 2026 paper "RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition." (https://doi.org/10.1109/PerCom67906.2026.11524560)</p></details> |
 | **[LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving](https://arxiv.org/abs/2607.26491v1)** | 2026-07-29 | 6 pages |
 | **[Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures](https://arxiv.org/abs/2607.24714v1)** | 2026-07-27 | <details><summary>56 pa...</summary><p>56 pages, 6 figures, 7 tables</p></details> |
@@ -94,8 +98,4 @@ labels: documentation
 | **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v6)** | 2026-07-21 |  |
 | **[SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs](https://arxiv.org/abs/2607.18081v1)** | 2026-07-20 |  |
 | **[Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field](https://arxiv.org/abs/2607.17902v1)** | 2026-07-20 |  |
-| **[MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference](https://arxiv.org/abs/2607.17733v1)** | 2026-07-20 |  |
-| **[C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference](https://arxiv.org/abs/2607.17715v1)** | 2026-07-20 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, accepted by ACM SIGKDD 2026</p></details> |
-| **[Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing](https://arxiv.org/abs/2502.04411v3)** | 2026-07-20 | <details><summary>work ...</summary><p>work in progress. arXiv admin note: text overlap with arXiv:2405.09673 by other authors</p></details> |
-| **[Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving](https://arxiv.org/abs/2607.16488v1)** | 2026-07-17 | Accepted to MICRO'26 |
 
