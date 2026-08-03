@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://arxiv.org/abs/2607.29320v1)** | 2026-07-31 | 13 pages, 4 figures |
+| **[Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion](https://arxiv.org/abs/2607.29199v1)** | 2026-07-31 |  |
 | **[Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees](https://arxiv.org/abs/2607.28399v1)** | 2026-07-30 |  |
 | **[Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2607.28227v1)** | 2026-07-30 |  |
 | **[Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://arxiv.org/abs/2607.25904v2)** | 2026-07-29 |  |
@@ -58,12 +60,12 @@ labels: documentation
 | **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v3)** | 2026-07-20 |  |
 | **[EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://arxiv.org/abs/2607.17050v1)** | 2026-07-19 |  |
 | **[Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure](https://arxiv.org/abs/2607.04334v2)** | 2026-07-18 | 17 pages, 3 figures |
-| **[Beyond Sequential Interaction: Benchmarking Parallel Execution and Coordination for GUI Agents](https://arxiv.org/abs/2607.22689v1)** | 2026-07-17 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. Project page: https://github.com/pkgunboat/ParaGUIBench</p></details> |
-| **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v4)** | 2026-07-17 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness](https://arxiv.org/abs/2607.29062v1)** | 2026-07-31 |  |
+| **[Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering](https://arxiv.org/abs/2607.28906v1)** | 2026-07-31 |  |
 | **[Do Unified Multimodal Models Think in One Space? A Lens Through Cross-Branch Steering](https://arxiv.org/abs/2607.26411v1)** | 2026-07-29 |  |
 | **[Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2607.26326v1)** | 2026-07-28 |  |
 | **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v2)** | 2026-07-24 | <details><summary>There...</summary><p>There is an error uploading files causing a private work unindended for publication being submitted. The title, abstract, fig 2, 3, 5 and a few other places contain errors misinterpreting the data</p></details> |
@@ -77,12 +79,14 @@ labels: documentation
 | **[Multi-Attribute Steering of Language Models via Targeted Intervention](https://arxiv.org/abs/2502.12446v3)** | 2026-07-10 | <details><summary>ACL 2...</summary><p>ACL 2025 camera-ready, code link: https://github.com/duykhuongnguyen/MAT-Steer</p></details> |
 | **[GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs](https://arxiv.org/abs/2507.18043v2)** | 2026-07-10 | Accepted to ACL 2026 |
 | **[Temporal Preference Concepts and their Functions in a Large Language Model](https://arxiv.org/abs/2606.05194v2)** | 2026-07-08 |  |
-| **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
-| **[Controlling Tool Use with Heading-Specific Activation Steering](https://arxiv.org/abs/2607.05790v1)** | 2026-07-07 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems](https://arxiv.org/abs/2607.29076v1)** | 2026-07-31 |  |
+| **[BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning](https://arxiv.org/abs/2607.28966v1)** | 2026-07-31 | 8 pages |
+| **[Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates](https://arxiv.org/abs/2607.28959v1)** | 2026-07-31 |  |
+| **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v3)** | 2026-07-30 |  |
 | **[GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference](https://arxiv.org/abs/2607.27694v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 12 figures. Published in 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Sydney, Australia, pp. 1-15, DOI: 10.1109/HPCA68181.2026.11408453</p></details> |
 | **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v2)** | 2026-07-30 |  |
 | **[Efficient LLMs with AMP: Attention Heads and MLP Pruning](https://arxiv.org/abs/2504.21174v2)** | 2026-07-29 | <details><summary>Publi...</summary><p>Published in International Joint Conference on Neural Networks (IJCNN), 2025</p></details> |
@@ -94,8 +98,4 @@ labels: documentation
 | **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v1)** | 2026-07-27 |  |
 | **[MedDDC-Eval: Diagnosis-Decoupled Evaluation of Multi-Turn Medical Consultation Agents](https://arxiv.org/abs/2607.18999v2)** | 2026-07-26 | <details><summary>suppl...</summary><p>supplementary material included</p></details> |
 | **[Unified Static-Dynamic Pruning for Efficient LLM Inference](https://arxiv.org/abs/2607.21985v1)** | 2026-07-24 | <details><summary>14 pa...</summary><p>14 pages, 13 figures. Accepted for publication in Proceedings of the VLDB Endowment (PVLDB), Volume 19, Issue 11, 2026. Code: https://github.com/AIDASLab/SPDP</p></details> |
-| **[How Benchmark Prediction from Fewer Data Misses the Mark](https://arxiv.org/abs/2506.07673v2)** | 2026-07-21 |  |
-| **[Not All Errors Are Created Equal: ASCoT Addresses Late-Stage Fragility in Efficient LLM Reasoning](https://arxiv.org/abs/2508.05282v6)** | 2026-07-21 |  |
-| **[SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs](https://arxiv.org/abs/2607.18081v1)** | 2026-07-20 |  |
-| **[Benchmarking Resource-Efficient LLMs for Research Topic Ontology Generation in the Biomedical Field](https://arxiv.org/abs/2607.17902v1)** | 2026-07-20 |  |
 
