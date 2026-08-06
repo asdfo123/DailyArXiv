@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
 | **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
 | **[Don't Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 | **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
 | **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v2)** | 2026-06-26 |  |
-| **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **["Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents](https://arxiv.org/abs/2608.04755v1)** | 2026-08-05 |  |
+| **[FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory](https://arxiv.org/abs/2608.04530v1)** | 2026-08-05 | 36 pages |
 | **[GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs](https://arxiv.org/abs/2608.03270v1)** | 2026-08-04 | <details><summary>Prepr...</summary><p>Preprint. Code: https://github.com/Fzkuji/GUI-Agent-Harness</p></details> |
 | **[MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://arxiv.org/abs/2607.29320v1)** | 2026-07-31 | 13 pages, 4 figures |
 | **[Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion](https://arxiv.org/abs/2607.29199v1)** | 2026-07-31 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[FormGym: Doing Paperwork with Agents](https://arxiv.org/abs/2506.14079v4)** | 2026-07-21 |  |
 | **[SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v4)** | 2026-07-20 |  |
-| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v3)** | 2026-07-20 |  |
-| **[EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://arxiv.org/abs/2607.17050v1)** | 2026-07-19 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,10 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
+| **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS'26)</p></details> |
+| **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v2)** | 2026-08-05 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
+| **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v2)** | 2026-08-05 |  |
 | **[LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](https://arxiv.org/abs/2608.03036v1)** | 2026-08-04 |  |
 | **[ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947v1)** | 2026-08-03 |  |
 | **[Energy-Efficient LLM Serving via Disaggregated Attention--FFN and Flexible Frequency Scaling](https://arxiv.org/abs/2608.01891v1)** | 2026-08-03 |  |
@@ -94,8 +98,4 @@ labels: documentation
 | **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v2)** | 2026-07-30 |  |
 | **[Efficient LLMs with AMP: Attention Heads and MLP Pruning](https://arxiv.org/abs/2504.21174v2)** | 2026-07-29 | <details><summary>Publi...</summary><p>Published in International Joint Conference on Neural Networks (IJCNN), 2025</p></details> |
 | **[SDO: Structure-Aware Data Organization for Efficient LLM Post-Training](https://arxiv.org/abs/2607.27273v1)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 5 tables</p></details> |
-| **[RAG-HAR+: Towards Cost-Efficient LLM-Based Human Activity Recognition for Edge Deployment](https://arxiv.org/abs/2607.26631v1)** | 2026-07-29 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Mobile Computing. Extended version of the IEEE PerCom 2026 paper "RAG-HAR: Retrieval Augmented Generation-based Human Activity Recognition." (https://doi.org/10.1109/PerCom67906.2026.11524560)</p></details> |
-| **[LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving](https://arxiv.org/abs/2607.26491v1)** | 2026-07-29 | 6 pages |
-| **[Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures](https://arxiv.org/abs/2607.24714v1)** | 2026-07-27 | <details><summary>56 pa...</summary><p>56 pages, 6 figures, 7 tables</p></details> |
-| **[MMOE: Modernizing Diffusion Transformers with Efficient Expert Design](https://arxiv.org/abs/2607.24665v1)** | 2026-07-27 | 13 pages, 5 figures |
 
