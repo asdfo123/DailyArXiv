@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 09, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
 | **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
 | **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
 | **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
 | **[Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810v1)** | 2026-06-29 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
 | **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
-| **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://arxiv.org/abs/2606.19930v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: https://mobile-forge.github.io/</p></details> |
+| **[WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Supplementary material is included in the main PDF</p></details> |
 | **[The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://arxiv.org/abs/2608.06065v1)** | 2026-08-06 |  |
 | **[AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891v1)** | 2026-08-06 |  |
 | **[StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://arxiv.org/abs/2608.05587v1)** | 2026-08-06 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://arxiv.org/abs/2607.25904v2)** | 2026-07-29 |  |
 | **[Scaling GUI Agents with Visual State Transitions](https://arxiv.org/abs/2607.24112v1)** | 2026-07-27 |  |
 | **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v3)** | 2026-07-26 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral) & Best Paper at AIWILD @ ICLR 2026</p></details> |
-| **[Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction](https://arxiv.org/abs/2602.00575v2)** | 2026-07-25 | 25 pages, 12 figures |
-| **[Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://arxiv.org/abs/2506.17913v2)** | 2026-07-21 | <details><summary>Withd...</summary><p>Withdrawn due to ongoing technical improvements. The work requires further refinement and additional experiments to meet our quality standards. A revised version will be submitted in the future</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
