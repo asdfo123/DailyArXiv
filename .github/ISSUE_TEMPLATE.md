@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
+| **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
 | **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
 | **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
 | **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
@@ -39,12 +41,14 @@ labels: documentation
 | **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 | **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
-| **[Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810v1)** | 2026-06-29 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
-| **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://arxiv.org/abs/2608.09654v1)** | 2026-08-10 |  |
+| **[UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents](https://arxiv.org/abs/2607.04425v2)** | 2026-08-10 | <details><summary>Techn...</summary><p>Technical report. 27 pages, 7 figures, 7 tables</p></details> |
+| **[Software Engineering for and with GUI Agent](https://arxiv.org/abs/2608.09278v1)** | 2026-08-10 |  |
+| **[Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation](https://arxiv.org/abs/2603.26041v4)** | 2026-08-09 |  |
 | **[MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://arxiv.org/abs/2606.19930v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: https://mobile-forge.github.io/</p></details> |
 | **[WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Supplementary material is included in the main PDF</p></details> |
 | **[The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://arxiv.org/abs/2608.06065v1)** | 2026-08-06 |  |
@@ -56,14 +60,13 @@ labels: documentation
 | **[MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation](https://arxiv.org/abs/2607.29320v1)** | 2026-07-31 | 13 pages, 4 figures |
 | **[Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion](https://arxiv.org/abs/2607.29199v1)** | 2026-07-31 |  |
 | **[Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees](https://arxiv.org/abs/2607.28399v1)** | 2026-07-30 |  |
-| **[Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2607.28227v1)** | 2026-07-30 |  |
-| **[Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](https://arxiv.org/abs/2607.25904v2)** | 2026-07-29 |  |
-| **[Scaling GUI Agents with Visual State Transitions](https://arxiv.org/abs/2607.24112v1)** | 2026-07-27 |  |
-| **[OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://arxiv.org/abs/2510.24411v3)** | 2026-07-26 | <details><summary>ACL 2...</summary><p>ACL 2026 (Oral) & Best Paper at AIWILD @ ICLR 2026</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v2)** | 2026-08-09 | <details><summary>v2: U...</summary><p>v2: Updated technical details and added supplementary evaluations</p></details> |
+| **[Safety Cost of Steering Vectors Is Separable and Reducible](https://arxiv.org/abs/2608.08383v1)** | 2026-08-09 | COLM 2026 |
+| **[RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694v2)** | 2026-08-08 |  |
 | **[Subliminal Learning is Non-Semantic Distillation](https://arxiv.org/abs/2608.05734v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as spotlight paper for the ICML 2026 Mechanistic Interpretability Workshop</p></details> |
 | **[CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](https://arxiv.org/abs/2608.05732v1)** | 2026-08-06 |  |
 | **[Inverted Detection and Control in Steering Vectors](https://arxiv.org/abs/2608.02957v1)** | 2026-08-03 |  |
@@ -76,13 +79,15 @@ labels: documentation
 | **[Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning](https://arxiv.org/abs/2607.22013v1)** | 2026-07-24 |  |
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v2)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[Linguistic Context Recodes Visual Representations in Vision-Language Models](https://arxiv.org/abs/2608.00035v1)** | 2026-07-21 |  |
-| **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
-| **[HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization](https://arxiv.org/abs/2607.17994v1)** | 2026-07-20 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL](https://arxiv.org/abs/2608.09260v1)** | 2026-08-10 | VLDB 2026 |
+| **[DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.08878v1)** | 2026-08-09 | 20 pages, 5 figures |
+| **[Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration](https://arxiv.org/abs/2604.12843v3)** | 2026-08-09 |  |
+| **[Unified Static-Dynamic Pruning for Efficient LLM Inference](https://arxiv.org/abs/2607.21985v2)** | 2026-08-09 | <details><summary>Proce...</summary><p>Proceedings of the VLDB Endowment (PVLDB), Volume 19, Issue 11, 2026</p></details> |
+| **[ZeroLock: Concurrent Memory-Efficient LLM Training via Modular Update Decoupling](https://arxiv.org/abs/2608.07974v1)** | 2026-08-08 |  |
 | **[Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution](https://arxiv.org/abs/2608.05651v1)** | 2026-08-06 |  |
 | **[EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding](https://arxiv.org/abs/2608.05303v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 | **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
@@ -93,9 +98,4 @@ labels: documentation
 | **[ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947v1)** | 2026-08-03 |  |
 | **[Energy-Efficient LLM Serving via Disaggregated Attention--FFN and Flexible Frequency Scaling](https://arxiv.org/abs/2608.01891v1)** | 2026-08-03 |  |
 | **[Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems](https://arxiv.org/abs/2607.29076v1)** | 2026-07-31 |  |
-| **[BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning](https://arxiv.org/abs/2607.28966v1)** | 2026-07-31 | 8 pages |
-| **[Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates](https://arxiv.org/abs/2607.28959v1)** | 2026-07-31 |  |
-| **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v3)** | 2026-07-30 |  |
-| **[GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference](https://arxiv.org/abs/2607.27694v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 12 figures. Published in 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Sydney, Australia, pp. 1-15, DOI: 10.1109/HPCA68181.2026.11408453</p></details> |
-| **[FORGE: Fused On-Register Gradient Elimination for Memory-Efficient LLM Training](https://arxiv.org/abs/2606.22932v2)** | 2026-07-30 |  |
 
