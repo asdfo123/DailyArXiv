@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic Steering for Controllable Generation: Tuning-Free Concept Erasure in Multimodal Diffusion Transformers](https://arxiv.org/abs/2608.12829v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v2)** | 2026-08-09 | <details><summary>v2: U...</summary><p>v2: Updated technical details and added supplementary evaluations</p></details> |
 | **[Safety Cost of Steering Vectors Is Separable and Reducible](https://arxiv.org/abs/2608.08383v1)** | 2026-08-09 | COLM 2026 |
 | **[RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694v2)** | 2026-08-08 |  |
@@ -78,11 +79,11 @@ labels: documentation
 | **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v2)** | 2026-07-24 | <details><summary>There...</summary><p>There is an error uploading files causing a private work unindended for publication being submitted. The title, abstract, fig 2, 3, 5 and a few other places contain errors misinterpreting the data</p></details> |
 | **[Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning](https://arxiv.org/abs/2607.22013v1)** | 2026-07-24 |  |
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v2)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
-| **[OPIUM: Mitigating Steering Externalities and Over-Refusal via Dual Objective Latent Optimization](https://arxiv.org/abs/2607.19806v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v3)** | 2026-08-13 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
 | **[TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference](https://arxiv.org/abs/2605.05639v2)** | 2026-08-12 |  |
 | **[The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215v3)** | 2026-08-11 |  |
 | **[SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL](https://arxiv.org/abs/2608.09260v1)** | 2026-08-10 | VLDB 2026 |
@@ -94,7 +95,6 @@ labels: documentation
 | **[EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding](https://arxiv.org/abs/2608.05303v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 | **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
 | **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS'26)</p></details> |
-| **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v2)** | 2026-08-05 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
 | **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v2)** | 2026-08-05 |  |
 | **[LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](https://arxiv.org/abs/2608.03036v1)** | 2026-08-04 |  |
 | **[ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947v1)** | 2026-08-03 |  |
