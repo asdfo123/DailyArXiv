@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
+| **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
+| **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
 | **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
 | **[VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?](https://arxiv.org/abs/2608.10408v1)** | 2026-08-11 |  |
 | **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v2)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[DisarmRAG: Stealthy Retriever-Centric Poisoning to Disable Self-Correction in Retrieval-Augmented Generation (Extended Version)](https://arxiv.org/abs/2508.20083v2)** | 2026-07-19 | <details><summary>This ...</summary><p>This paper is an extended version of our original paper accepted by ACM CCS 2026</p></details> |
-| **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v3)** | 2026-07-14 |  |
-| **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v2)** | 2026-07-14 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
-| **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930v1)** | 2026-08-16 | <details><summary>UI-Ma...</summary><p>UI-Mate Technical Report. Project page: https://ui-mate.github.io</p></details> |
 | **[Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://arxiv.org/abs/2608.14132v1)** | 2026-08-14 |  |
 | **[LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows](https://arxiv.org/abs/2608.14131v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted for publication in the Industry Track of the 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026), 14-18 September 2026, Benevento, Italy</p></details> |
 | **[CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications](https://arxiv.org/abs/2608.11588v1)** | 2026-08-12 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://arxiv.org/abs/2608.06065v1)** | 2026-08-06 |  |
 | **[AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891v1)** | 2026-08-06 |  |
 | **[StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://arxiv.org/abs/2608.05587v1)** | 2026-08-06 |  |
-| **["Allow" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents](https://arxiv.org/abs/2608.04755v1)** | 2026-08-05 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BabelSteering: Multilingual Safety Alignment via English Steering Vectors](https://arxiv.org/abs/2608.16577v1)** | 2026-08-17 |  |
+| **[Subliminal Steering: Stronger Encoding of Hidden Signals](https://arxiv.org/abs/2604.25783v2)** | 2026-08-16 |  |
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v3)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Semantic Steering for Controllable Generation: Tuning-Free Concept Erasure in Multimodal Diffusion Transformers](https://arxiv.org/abs/2608.12829v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v2)** | 2026-08-09 | <details><summary>v2: U...</summary><p>v2: Updated technical details and added supplementary evaluations</p></details> |
@@ -77,12 +79,12 @@ labels: documentation
 | **[Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering](https://arxiv.org/abs/2607.28906v1)** | 2026-07-31 |  |
 | **[Do Unified Multimodal Models Think in One Space? A Lens Through Cross-Branch Steering](https://arxiv.org/abs/2607.26411v1)** | 2026-07-29 |  |
 | **[Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2607.26326v1)** | 2026-07-28 |  |
-| **[The Geometry of Personality: Activation Steering with Jungian Cognitive Functions](https://arxiv.org/abs/2607.20803v2)** | 2026-07-24 | <details><summary>There...</summary><p>There is an error uploading files causing a private work unindended for publication being submitted. The title, abstract, fig 2, 3, 5 and a few other places contain errors misinterpreting the data</p></details> |
-| **[Visual Saliency Steering Distillation for Multimodal Chain-of-Thought Reasoning](https://arxiv.org/abs/2607.22013v1)** | 2026-07-24 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v2)** | 2026-08-16 |  |
+| **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v1)** | 2026-08-16 |  |
 | **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v3)** | 2026-08-13 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
 | **[TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference](https://arxiv.org/abs/2605.05639v2)** | 2026-08-12 |  |
 | **[The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215v3)** | 2026-08-11 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
 | **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS'26)</p></details> |
 | **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v2)** | 2026-08-05 |  |
-| **[LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](https://arxiv.org/abs/2608.03036v1)** | 2026-08-04 |  |
-| **[ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947v1)** | 2026-08-03 |  |
 
