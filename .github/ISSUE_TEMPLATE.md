@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660v1)** | 2026-08-12 |  |
+| **[DOW-KE: Anchor-Free Multi-Layer Knowledge Editing via Direct End-to-End Weight Optimization](https://arxiv.org/abs/2608.16932v1)** | 2026-08-05 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v2)** | 2026-08-04 |  |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](https://arxiv.org/abs/2508.02092v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
 | **[ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455v1)** | 2026-07-29 | 9 pages, 4 figures |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v2)** | 2026-06-24 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
 | **[Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs](https://arxiv.org/abs/2606.22627v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[LOKI: Memory-Free Null-Space Constrained Lifelong Knowledge Editing](https://arxiv.org/abs/2606.19679v1)** | 2026-06-18 |  |
-| **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v3)** | 2026-06-17 |  |
-| **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v2)** | 2026-06-15 | Under review |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 | **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Don't Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 | **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v2)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[DisarmRAG: Stealthy Retriever-Centric Poisoning to Disable Self-Correction in Retrieval-Augmented Generation (Extended Version)](https://arxiv.org/abs/2508.20083v2)** | 2026-07-19 | <details><summary>This ...</summary><p>This paper is an extended version of our original paper accepted by ACM CCS 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://arxiv.org/abs/2608.17659v1)** | 2026-08-18 |  |
+| **[SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted (Oral) by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
+| **[ScreenSearch: Uncertainty-Aware OS Exploration](https://arxiv.org/abs/2605.16024v2)** | 2026-08-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 21 tables</p></details> |
 | **[UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930v1)** | 2026-08-16 | <details><summary>UI-Ma...</summary><p>UI-Mate Technical Report. Project page: https://ui-mate.github.io</p></details> |
 | **[Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://arxiv.org/abs/2608.14132v1)** | 2026-08-14 |  |
 | **[LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows](https://arxiv.org/abs/2608.14131v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted for publication in the Industry Track of the 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026), 14-18 September 2026, Benevento, Italy</p></details> |
@@ -57,9 +60,6 @@ labels: documentation
 | **[Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation](https://arxiv.org/abs/2603.26041v4)** | 2026-08-09 |  |
 | **[MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://arxiv.org/abs/2606.19930v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: https://mobile-forge.github.io/</p></details> |
 | **[WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Supplementary material is included in the main PDF</p></details> |
-| **[The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://arxiv.org/abs/2608.06065v1)** | 2026-08-06 |  |
-| **[AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891v1)** | 2026-08-06 |  |
-| **[StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://arxiv.org/abs/2608.05587v1)** | 2026-08-06 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
