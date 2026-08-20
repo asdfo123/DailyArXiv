@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems](https://arxiv.org/abs/2607.29076v2)** | 2026-08-19 |  |
 | **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v2)** | 2026-08-16 |  |
 | **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v1)** | 2026-08-16 |  |
 | **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v3)** | 2026-08-13 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding](https://arxiv.org/abs/2608.05303v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 | **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
 | **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS'26)</p></details> |
-| **[SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933v2)** | 2026-08-05 |  |
 
