@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://arxiv.org/abs/2601.18305v2)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. 10 pages</p></details> |
 | **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://arxiv.org/abs/2608.17659v1)** | 2026-08-18 |  |
 | **[SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted (Oral) by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[ScreenSearch: Uncertainty-Aware OS Exploration](https://arxiv.org/abs/2605.16024v2)** | 2026-08-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 21 tables</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Software Engineering for and with GUI Agent](https://arxiv.org/abs/2608.09278v1)** | 2026-08-10 |  |
 | **[Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation](https://arxiv.org/abs/2603.26041v4)** | 2026-08-09 |  |
 | **[MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://arxiv.org/abs/2606.19930v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: https://mobile-forge.github.io/</p></details> |
-| **[WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader](https://arxiv.org/abs/2608.06474v1)** | 2026-08-06 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Supplementary material is included in the main PDF</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,9 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection](https://arxiv.org/abs/2608.20169v1)** | 2026-08-20 | <details><summary>Githu...</summary><p>Github: https://github.com/Agent4Science-UTokyo/Task-CoEvolve</p></details> |
+| **[Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents](https://arxiv.org/abs/2608.19794v1)** | 2026-08-20 |  |
+| **[EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation](https://arxiv.org/abs/2604.26170v2)** | 2026-08-20 |  |
 | **[Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems](https://arxiv.org/abs/2607.29076v2)** | 2026-08-19 |  |
 | **[E2LLM: Towards Efficient LLM Serving in Heterogeneous Edge/Fog Environments](https://arxiv.org/abs/2606.03770v2)** | 2026-08-16 |  |
 | **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v1)** | 2026-08-16 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Unified Static-Dynamic Pruning for Efficient LLM Inference](https://arxiv.org/abs/2607.21985v2)** | 2026-08-09 | <details><summary>Proce...</summary><p>Proceedings of the VLDB Endowment (PVLDB), Volume 19, Issue 11, 2026</p></details> |
 | **[ZeroLock: Concurrent Memory-Efficient LLM Training via Modular Update Decoupling](https://arxiv.org/abs/2608.07974v1)** | 2026-08-08 |  |
 | **[Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution](https://arxiv.org/abs/2608.05651v1)** | 2026-08-06 |  |
-| **[EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding](https://arxiv.org/abs/2608.05303v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[EASy: Towards Efficient LLM-Based Agentic System](https://arxiv.org/abs/2608.04588v1)** | 2026-08-05 | Preprint |
-| **[SHIELD: A Segmented Hierarchical Memory Architecture for Energy-Efficient LLM Inference on Edge NPUs](https://arxiv.org/abs/2604.07396v2)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS'26)</p></details> |
 
