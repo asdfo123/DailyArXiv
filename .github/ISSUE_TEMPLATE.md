@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Addressing the Reasoning Gap: Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v2)** | 2026-08-26 | EMNLP 2026 Findings |
+| **[Addressing the Reasoning Gap: Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v3)** | 2026-08-27 | EMNLP 2026 Findings |
+| **[On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study](https://arxiv.org/abs/2608.26292v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables. Code and data: https://github.com/Aditya-PS-05/INLAY</p></details> |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v1)** | 2026-08-25 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660v1)** | 2026-08-12 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers](https://arxiv.org/abs/2607.01000v1)** | 2026-07-01 |  |
 | **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v4)** | 2026-06-28 |  |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v4)** | 2026-06-27 | Accepted to KDD 2026 |
-| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v2)** | 2026-06-24 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
 | **[LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents](https://arxiv.org/abs/2608.25777v1)** | 2026-08-26 |  |
 | **[ST-Lite: Training-Free KV Cache Compression with Spatio-Trajectory Guidance for Long-Horizon GUI Agents](https://arxiv.org/abs/2603.00188v3)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. Camera-ready version. 37 pages</p></details> |
 | **[Task-Adaptive Rubrics for GUI Reward Modeling](https://arxiv.org/abs/2608.24174v1)** | 2026-08-25 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://arxiv.org/abs/2608.17659v1)** | 2026-08-18 |  |
 | **[SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis](https://arxiv.org/abs/2607.18046v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted (Oral) by ACM International Conference on Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[ScreenSearch: Uncertainty-Aware OS Exploration](https://arxiv.org/abs/2605.16024v2)** | 2026-08-17 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 21 tables</p></details> |
-| **[UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930v1)** | 2026-08-16 | <details><summary>UI-Ma...</summary><p>UI-Mate Technical Report. Project page: https://ui-mate.github.io</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Model, Many Minds: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles](https://arxiv.org/abs/2608.27338v1)** | 2026-08-27 | 19 pages, 10 figures |
 | **[Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2607.26326v2)** | 2026-08-25 |  |
 | **[Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors](https://arxiv.org/abs/2608.23873v1)** | 2026-08-24 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 13 tables. Interactive demo: https://semantic-overlays.vercel.app. Code and released adapters: https://github.com/JoshuaSP/semantic-overlays</p></details> |
 | **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](https://arxiv.org/abs/2507.23220v3)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted for publication in Transactions of the Association for Computational Linguistics (TACL). 26 pages, 10 figures</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Subliminal Learning is Non-Semantic Distillation](https://arxiv.org/abs/2608.05734v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as spotlight paper for the ICML 2026 Mechanistic Interpretability Workshop</p></details> |
 | **[CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](https://arxiv.org/abs/2608.05732v1)** | 2026-08-06 |  |
 | **[Inverted Detection and Control in Steering Vectors](https://arxiv.org/abs/2608.02957v1)** | 2026-08-03 |  |
-| **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
