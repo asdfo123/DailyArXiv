@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
 | **[Addressing the Reasoning Gap: Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v3)** | 2026-08-27 | EMNLP 2026 Findings |
 | **[On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study](https://arxiv.org/abs/2608.26292v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables. Code and data: https://github.com/Aditya-PS-05/INLAY</p></details> |
-| **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v1)** | 2026-08-25 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660v1)** | 2026-08-12 |  |
 | **[DOW-KE: Anchor-Free Multi-Layer Knowledge Editing via Direct End-to-End Weight Optimization](https://arxiv.org/abs/2608.16932v1)** | 2026-08-05 |  |
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v3)** | 2026-08-31 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v5)** | 2026-08-23 | ICML 2026 |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
 | **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
 | **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
-| **[Don't Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileDreamer: Generative Sketch World Model for GUI Agent](https://arxiv.org/abs/2601.04035v2)** | 2026-08-31 |  |
 | **[Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://arxiv.org/abs/2608.27866v1)** | 2026-08-28 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, and 4 tables</p></details> |
 | **[WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://arxiv.org/abs/2608.27508v1)** | 2026-08-27 |  |
 | **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
@@ -59,11 +60,14 @@ labels: documentation
 | **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints](https://arxiv.org/abs/2602.07008v5)** | 2026-08-22 |  |
 | **[Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents](https://arxiv.org/abs/2608.21830v1)** | 2026-08-22 |  |
 | **[SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis](https://arxiv.org/abs/2601.18305v2)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. 10 pages</p></details> |
-| **[MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://arxiv.org/abs/2608.17659v1)** | 2026-08-18 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating the Semantic Specificity of Representation Steering in Language Models](https://arxiv.org/abs/2608.29431v1)** | 2026-08-29 |  |
+| **[FBHM: Functional Benchmarking and Steering of VLMs for Hateful Meme Detection](https://arxiv.org/abs/2605.31349v2)** | 2026-08-29 |  |
+| **[Attribute-Based Activation Steering of LLMs for Group-Specific Explanation Generation](https://arxiv.org/abs/2608.29215v1)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main</p></details> |
+| **[Selective Disclosure of Hidden Directives in Reasoning Models: Behavioral Asymmetry and Steering](https://arxiv.org/abs/2608.29070v1)** | 2026-08-29 | <details><summary>22 pa...</summary><p>22 pages, including appendices</p></details> |
 | **[ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents](https://arxiv.org/abs/2602.04935v4)** | 2026-08-28 | <details><summary>Due t...</summary><p>Due to an unresolved dispute among the authors regarding the correctness of the experimental results and the validity of the conclusions, the team has decided to withdraw this paper until these issues can be fully resolved</p></details> |
 | **[Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors](https://arxiv.org/abs/2608.23873v2)** | 2026-08-28 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 13 tables. Interactive demo: https://semantic-overlays.vercel.app. Code and released adapters: https://github.com/JoshuaSP/semantic-overlays</p></details> |
 | **[One Model, Many Minds: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles](https://arxiv.org/abs/2608.27338v1)** | 2026-08-27 | 19 pages, 10 figures |
@@ -75,14 +79,12 @@ labels: documentation
 | **[Dissociating the Internal Representations of Sycophancy in LLMs](https://arxiv.org/abs/2607.07003v3)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Semantic Steering for Controllable Generation: Tuning-Free Concept Erasure in Multimodal Diffusion Transformers](https://arxiv.org/abs/2608.12829v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[ORBIT: Training-Free Multi-Attribute Behavioral Steering via Orthogonal Subspace Rotation](https://arxiv.org/abs/2606.22357v2)** | 2026-08-09 | <details><summary>v2: U...</summary><p>v2: Updated technical details and added supplementary evaluations</p></details> |
-| **[Safety Cost of Steering Vectors Is Separable and Reducible](https://arxiv.org/abs/2608.08383v1)** | 2026-08-09 | COLM 2026 |
-| **[RankGuide: Tensor-Rank-Guided Routing and Steering for Efficient Reasoning](https://arxiv.org/abs/2604.16694v2)** | 2026-08-08 |  |
-| **[Subliminal Learning is Non-Semantic Distillation](https://arxiv.org/abs/2608.05734v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as spotlight paper for the ICML 2026 Mechanistic Interpretability Workshop</p></details> |
-| **[CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](https://arxiv.org/abs/2608.05732v1)** | 2026-08-06 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted by TMLR (2026). Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
+| **[A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846v1)** | 2026-08-28 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 9 tables</p></details> |
 | **[Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures](https://arxiv.org/abs/2608.25096v1)** | 2026-08-25 | 8 pages, 7 figures |
 | **[Efficient LLM Collaboration via Planning](https://arxiv.org/abs/2506.11578v5)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at TMLR 2026</p></details> |
 | **[Reservoir of Importance: Learning Semi-Structured Sparsity with Differentiable Subset Sampling](https://arxiv.org/abs/2608.23048v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted as an EMNLP 2026 Main Conference paper</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Toward Federated Large Language Models in Medicine: A Parameter-Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](https://arxiv.org/abs/2601.22124v3)** | 2026-08-13 | <details><summary>41 pa...</summary><p>41 pages, 11 tables, 3 figures; Just accepted</p></details> |
 | **[TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference](https://arxiv.org/abs/2605.05639v2)** | 2026-08-12 |  |
 | **[The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215v3)** | 2026-08-11 |  |
-| **[SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL](https://arxiv.org/abs/2608.09260v1)** | 2026-08-10 | VLDB 2026 |
-| **[DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.08878v1)** | 2026-08-09 | 20 pages, 5 figures |
 
