@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
 | **[Inverse Digital Marbling: Recovering Gesture Programs with a Replay Adjoint](https://arxiv.org/abs/2609.08722v1)** | 2026-09-08 |  |
 | **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
@@ -40,15 +41,17 @@ labels: documentation
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 | **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
-| **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://arxiv.org/abs/2609.10451v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
+| **[TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents](https://arxiv.org/abs/2609.10297v1)** | 2026-09-09 |  |
 | **[APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents](https://arxiv.org/abs/2609.07712v1)** | 2026-09-07 |  |
 | **[AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://arxiv.org/abs/2604.20279v3)** | 2026-09-07 |  |
 | **[Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions](https://arxiv.org/abs/2609.06792v1)** | 2026-09-06 |  |
 | **[Selective Knowledge Control for Continual GUI Agent Learning over Application Streams](https://arxiv.org/abs/2609.06530v1)** | 2026-09-06 |  |
+| **[AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents](https://arxiv.org/abs/2609.09212v1)** | 2026-09-06 |  |
 | **[ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults](https://arxiv.org/abs/2609.04850v1)** | 2026-09-04 | 19 pages, 5 figures |
 | **[OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://arxiv.org/abs/2609.02149v2)** | 2026-09-03 | <details><summary>Accpe...</summary><p>Accpeted by EMNLP 2026 demo track</p></details> |
 | **[Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents](https://arxiv.org/abs/2609.03438v1)** | 2026-09-03 |  |
@@ -57,13 +60,12 @@ labels: documentation
 | **[MobileDreamer: Generative Sketch World Model for GUI Agent](https://arxiv.org/abs/2601.04035v2)** | 2026-08-31 |  |
 | **[GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://arxiv.org/abs/2609.00048v1)** | 2026-08-30 | EMNLP 26 Findings |
 | **[Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://arxiv.org/abs/2608.27866v1)** | 2026-08-28 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, and 4 tables</p></details> |
-| **[UI-Venus-2 Technical Report](https://arxiv.org/abs/2609.00028v1)** | 2026-08-27 |  |
-| **[WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://arxiv.org/abs/2608.27508v1)** | 2026-08-27 |  |
-| **[MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Project page: https://memgui-bench.github.io/</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[If It's Not Buggy, Don't Fix It: On the Dynamics of Iterative Bug-fixing with LLMs](https://arxiv.org/abs/2609.10123v1)** | 2026-09-09 |  |
+| **[Contrastive Projection: Reading Transformer Internals by Differencing Logit Lenses](https://arxiv.org/abs/2609.09902v1)** | 2026-09-09 | <details><summary>27 pa...</summary><p>27 pages, 34 tables. Code and data: https://github.com/EvidentSolutions/llm-interp/tree/main/contrastive</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
 | **[Compositional Multilingual and Behavioral Attribute Steering](https://arxiv.org/abs/2609.08410v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to BlackboxNLP 2026</p></details> |
 | **[Disentangling Steering Vectors](https://arxiv.org/abs/2609.07037v1)** | 2026-09-07 | 31 pages, 5 figures |
@@ -77,12 +79,11 @@ labels: documentation
 | **[SV-Detect: AI-generated Text Detection with Steering Vectors](https://arxiv.org/abs/2606.07313v2)** | 2026-09-03 |  |
 | **[GAPS: Dimension-Level Gates for Conditional Activation Steering](https://arxiv.org/abs/2609.01878v1)** | 2026-09-01 |  |
 | **[Attribute-Based Activation Steering of LLMs for Group-Specific Explanation Generation](https://arxiv.org/abs/2608.29215v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main</p></details> |
-| **[What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal](https://arxiv.org/abs/2604.08524v2)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference. Updated from previous preprint to contain experiments on Qwen 3 8B, revised explanation of attribution patching method, and additional results in appendix</p></details> |
-| **[Asymmetries in Spontaneous and Instructed Deception](https://arxiv.org/abs/2609.00180v1)** | 2026-08-31 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v7)** | 2026-09-08 |  |
 | **[Do Dynamic Routers Need Memory? HeRo: History-Aware Routing for Efficient LLM Inference](https://arxiv.org/abs/2609.08189v1)** | 2026-09-08 | 9 pages, 2 figures |
 | **[Signed Rescue Routing: Harm-Aware Cascades for Efficient LLM Inference](https://arxiv.org/abs/2609.07786v1)** | 2026-09-07 |  |
 | **[AutoUVM: Automated Prefetching Framework for LLMs under UVM Oversubscription](https://arxiv.org/abs/2609.06172v1)** | 2026-09-05 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[DRLM: Deep Reinforcement Learning-Based LLM Query Orchestration in Edge Environments](https://arxiv.org/abs/2609.00442v1)** | 2026-08-31 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 1 table, accepted for publication in Globecom 2026</p></details> |
 | **[Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment](https://arxiv.org/abs/2609.05512v1)** | 2026-08-31 |  |
 | **[Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey](https://arxiv.org/abs/2603.04445v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted by TMLR (2026). Work funded by ADAPT Centre, Trinity College Dublin, and Huawei Ireland</p></details> |
-| **[A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846v1)** | 2026-08-28 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 9 tables</p></details> |
 
