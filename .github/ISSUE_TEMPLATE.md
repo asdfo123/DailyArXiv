@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models](https://arxiv.org/abs/2609.25786v1)** | 2026-09-22 |  |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v2)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing](https://arxiv.org/abs/2609.21268v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://chongbozhao3-coder.github.io/Edit-VAR. Code: https://github.com/chongbozhao3-coder/Edit-VAR</p></details> |
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
@@ -40,11 +41,11 @@ labels: documentation
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v5)** | 2026-08-23 | ICML 2026 |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
-| **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction](https://arxiv.org/abs/2609.25769v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
 | **[How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation](https://arxiv.org/abs/2609.24277v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)** | 2026-09-17 | <details><summary>Prepr...</summary><p>Preprint of a manuscript completed in November, 2025</p></details> |
 | **[Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://arxiv.org/abs/2609.17653v1)** | 2026-09-15 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/EvoSkill-GUI/ Code: https://github.com/ZJU-REAL/EvoSkill-GUI</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents](https://arxiv.org/abs/2609.07712v1)** | 2026-09-07 |  |
 | **[AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://arxiv.org/abs/2604.20279v3)** | 2026-09-07 |  |
 | **[Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions](https://arxiv.org/abs/2609.06792v1)** | 2026-09-06 |  |
-| **[Selective Knowledge Control for Continual GUI Agent Learning over Application Streams](https://arxiv.org/abs/2609.06530v1)** | 2026-09-06 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,8 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.29612v2)** | 2026-09-22 | <details><summary>We id...</summary><p>We identified a potential issue in the repeated-run evaluation of our method that may have caused unintended prompt overlap across runs and affected the reported results. We therefore withdraw the manuscript for further investigation and re-evaluation</p></details> |
+| **[HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference](https://arxiv.org/abs/2609.00450v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This work is accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 | **[Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model](https://arxiv.org/abs/2609.24177v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 8 tables</p></details> |
 | **[Measured Joules, Learned Routes: Learning to Route for Energy-Efficient LLM Serving](https://arxiv.org/abs/2609.23085v1)** | 2026-09-19 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, in submission</p></details> |
 | **[Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management](https://arxiv.org/abs/2509.26200v2)** | 2026-09-19 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846v2)** | 2026-09-12 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
 | **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](https://arxiv.org/abs/2507.01663v2)** | 2026-09-11 |  |
 | **[Confidence-Gated Transductive Test Generation for Code Reranking](https://arxiv.org/abs/2609.12489v1)** | 2026-09-11 |  |
-| **[HeatCache: Thermal-aware Energy-efficient LLM Inference Scheduling for Chassis-level Liquid Cooling in Sustainable Edge Server Rooms](https://arxiv.org/abs/2609.12449v1)** | 2026-09-11 |  |
-| **[Vortex: Bridging Extreme Compression and Efficient LLM Inference](https://arxiv.org/abs/2609.12208v1)** | 2026-09-10 |  |
 
