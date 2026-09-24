@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://arxiv.org/abs/2605.26114v3)** | 2026-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://arxiv.org/abs/2506.00520v2)** | 2026-09-23 |  |
+| **[Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents](https://arxiv.org/abs/2609.27461v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at ACM Multimedia 2026. 10 pages, 5 figures</p></details> |
+| **[Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://arxiv.org/abs/2609.27307v1)** | 2026-09-23 | Under Review |
 | **[Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction](https://arxiv.org/abs/2609.25769v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
 | **[How Many Pixels Is a Digit Worth? Place-Aware Coordinate Entropy for GUI Agent Confidence Estimation](https://arxiv.org/abs/2609.24277v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://arxiv.org/abs/2609.19843v1)** | 2026-09-17 | <details><summary>Prepr...</summary><p>Preprint of a manuscript completed in November, 2025</p></details> |
@@ -56,14 +60,11 @@ labels: documentation
 | **[OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://arxiv.org/abs/2609.02149v3)** | 2026-09-10 | <details><summary>Accpe...</summary><p>Accpeted to EMNLP 2026 demo track</p></details> |
 | **[JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://arxiv.org/abs/2609.10451v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents](https://arxiv.org/abs/2609.10297v1)** | 2026-09-09 |  |
-| **[LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents](https://arxiv.org/abs/2609.13287v1)** | 2026-09-09 |  |
-| **[APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents](https://arxiv.org/abs/2609.07712v1)** | 2026-09-07 |  |
-| **[AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents](https://arxiv.org/abs/2604.20279v3)** | 2026-09-07 |  |
-| **[Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions](https://arxiv.org/abs/2609.06792v1)** | 2026-09-06 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2609.27399v1)** | 2026-09-23 |  |
 | **[Efficient Reasoning Exploration via State-Conditioned Latent Steering with Progress Guidance](https://arxiv.org/abs/2609.24066v1)** | 2026-09-21 |  |
 | **[Decomposing Refusal Steering in Mixture-of-Experts Models](https://arxiv.org/abs/2606.04160v2)** | 2026-09-19 |  |
 | **[Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](https://arxiv.org/abs/2602.01654v2)** | 2026-09-19 | EMNLP 2026 Main |
@@ -78,11 +79,11 @@ labels: documentation
 | **[If It's Not Buggy, Don't Fix It: On the Dynamics of Iterative Bug-fixing with LLMs](https://arxiv.org/abs/2609.10123v1)** | 2026-09-09 |  |
 | **[Contrastive Projection: Reading Transformer Internals by Differencing Logit Lenses](https://arxiv.org/abs/2609.09902v1)** | 2026-09-09 | <details><summary>27 pa...</summary><p>27 pages, 34 tables. Code and data: https://github.com/EvidentSolutions/llm-interp/tree/main/contrastive</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
-| **[Compositional Multilingual and Behavioral Attribute Steering](https://arxiv.org/abs/2609.08410v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to BlackboxNLP 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2609.27189v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SC26 (The International Conference for High Performance Computing, Networking, Storage and Analysis), 2026</p></details> |
 | **[CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.29612v2)** | 2026-09-22 | <details><summary>We id...</summary><p>We identified a potential issue in the repeated-run evaluation of our method that may have caused unintended prompt overlap across runs and affected the reported results. We therefore withdraw the manuscript for further investigation and re-evaluation</p></details> |
 | **[HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference](https://arxiv.org/abs/2609.00450v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This work is accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 | **[Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model](https://arxiv.org/abs/2609.24177v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 8 tables</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[LayerRoute: Adaptive Layer-Skipping with LoRA-Preserved Quality for Efficient LLM Inference](https://arxiv.org/abs/2609.13682v1)** | 2026-09-12 |  |
 | **[A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846v2)** | 2026-09-12 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
 | **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](https://arxiv.org/abs/2507.01663v2)** | 2026-09-11 |  |
-| **[Confidence-Gated Transductive Test Generation for Code Reranking](https://arxiv.org/abs/2609.12489v1)** | 2026-09-11 |  |
 
