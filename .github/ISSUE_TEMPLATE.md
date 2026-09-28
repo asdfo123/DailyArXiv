@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://arxiv.org/abs/2609.30887v1)** | 2026-09-25 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 8 tables</p></details> |
+| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v3)** | 2026-09-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
 | **[Jev-Mobile: Jev as an Executor for Mobile GUI Agents](https://arxiv.org/abs/2609.30186v1)** | 2026-09-24 |  |
 | **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://arxiv.org/abs/2605.26114v3)** | 2026-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
 | **[ResTest: Targeted Coverage of Residual Not-Covered Code Using Large Language Models for Web GUI Testing](https://arxiv.org/abs/2506.00520v2)** | 2026-09-23 |  |
@@ -58,8 +60,6 @@ labels: documentation
 | **[EchoPath: Execution-Level Replayable Memory for GUI Agents](https://arxiv.org/abs/2609.16635v1)** | 2026-09-15 |  |
 | **[Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding](https://arxiv.org/abs/2609.15307v1)** | 2026-09-14 |  |
 | **[PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents](https://arxiv.org/abs/2609.13873v1)** | 2026-09-12 | <details><summary>Full ...</summary><p>Full version of the paper accepted at ACM CCS 2026</p></details> |
-| **[OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://arxiv.org/abs/2609.02149v3)** | 2026-09-10 | <details><summary>Accpe...</summary><p>Accpeted to EMNLP 2026 demo track</p></details> |
-| **[JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://arxiv.org/abs/2609.10451v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
@@ -83,6 +83,7 @@ labels: documentation
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ActKV: Efficient LLM Agents through Action-Guided KV Cache Management](https://arxiv.org/abs/2609.31395v1)** | 2026-09-25 |  |
 | **[ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2609.27189v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SC26 (The International Conference for High Performance Computing, Networking, Storage and Analysis), 2026</p></details> |
 | **[CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.29612v2)** | 2026-09-22 | <details><summary>We id...</summary><p>We identified a potential issue in the repeated-run evaluation of our method that may have caused unintended prompt overlap across runs and affected the reported results. We therefore withdraw the manuscript for further investigation and re-evaluation</p></details> |
 | **[HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference](https://arxiv.org/abs/2609.00450v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This work is accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Communication-Efficient LLM Adaptation over Decentralized GPU Meshes](https://arxiv.org/abs/2609.14339v1)** | 2026-09-13 | <details><summary>38 pa...</summary><p>38 pages, 2 figures, 12 tables</p></details> |
 | **[LayerRoute: Adaptive Layer-Skipping with LoRA-Preserved Quality for Efficient LLM Inference](https://arxiv.org/abs/2609.13682v1)** | 2026-09-12 |  |
 | **[A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846v2)** | 2026-09-12 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 8 tables</p></details> |
-| **[AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training](https://arxiv.org/abs/2507.01663v2)** | 2026-09-11 |  |
 
