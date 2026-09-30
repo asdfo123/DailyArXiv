@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
+| **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
+| **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
 | **[ALOE: Semantically Addressed Low-Rank Operators for Knowledge Editing](https://arxiv.org/abs/2609.29269v1)** | 2026-09-24 |  |
 | **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
@@ -19,13 +22,13 @@ labels: documentation
 | **[Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy](https://arxiv.org/abs/2609.29587v1)** | 2026-08-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables. Code and experimental artifacts available on request</p></details> |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
-| **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
-| **[Addressing the Reasoning Gap: Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v3)** | 2026-08-27 | EMNLP 2026 Findings |
-| **[MechaTerp-TRACE: A Novel Approach for Component Ablation Analysis in Language Models](https://arxiv.org/abs/2609.22163v1)** | 2026-08-26 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v1)** | 2026-09-29 |  |
+| **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
+| **[Live Architecture Models for Cloud-Native Architecture-as-Code: Early Results from Kubernetes Conformance Checking](https://arxiv.org/abs/2609.36148v1)** | 2026-09-28 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables. Code and evaluation artifacts: https://github.com/AsakoKabe/archer-kdl</p></details> |
 | **[eval-unlearn: Benchmarking unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.35269v1)** | 2026-09-28 |  |
 | **[Backdoor as Probe: Test-Time Adversarial Defense for CLIP](https://arxiv.org/abs/2609.34641v1)** | 2026-09-28 |  |
 | **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
@@ -38,13 +41,14 @@ labels: documentation
 | **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
 | **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
-| **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
-| **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
-| **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](https://arxiv.org/abs/2609.34113v2)** | 2026-09-29 |  |
+| **[MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows](https://arxiv.org/abs/2609.37053v1)** | 2026-09-29 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Mei Wu and Rui Xie contributed equally. Bo Chen and Lu Chen are corresponding authors. Project page: https://mattoolbench.github.io/ ; code: https://github.com/meiwu5/MatToolBench</p></details> |
+| **[SCA: Spatial Credit Assignment for Reinforcement Learning of GUI Agents](https://arxiv.org/abs/2609.36939v1)** | 2026-09-29 |  |
+| **[PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval](https://arxiv.org/abs/2609.36923v1)** | 2026-09-29 |  |
 | **[PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents](https://arxiv.org/abs/2609.35671v1)** | 2026-09-28 |  |
 | **[PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://arxiv.org/abs/2605.29486v3)** | 2026-09-28 | work in progress |
 | **[WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents](https://arxiv.org/abs/2609.35026v1)** | 2026-09-28 |  |
@@ -52,19 +56,18 @@ labels: documentation
 | **[One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents](https://arxiv.org/abs/2609.34321v1)** | 2026-09-28 |  |
 | **[OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://arxiv.org/abs/2605.18758v2)** | 2026-09-28 | <details><summary>Corre...</summary><p>Corrected author list, all paper content, experiments and conclusions remain unchanged. 27 pages, 18 figures</p></details> |
 | **[Same Tasks, Different Apps: Why Mobile GUI Agents Fail to Generalize?](https://arxiv.org/abs/2609.34139v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 30 pages</p></details> |
-| **[GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](https://arxiv.org/abs/2609.34113v1)** | 2026-09-28 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Dataset and Evaluation</p></details> |
 | **[Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents](https://arxiv.org/abs/2609.33304v1)** | 2026-09-27 |  |
 | **[The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models](https://arxiv.org/abs/2609.32679v1)** | 2026-09-26 |  |
 | **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints](https://arxiv.org/abs/2602.07008v6)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
 | **[DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://arxiv.org/abs/2609.32385v1)** | 2026-09-26 |  |
-| **[PastForward: Faster On-Device GUI Agents via Computational Experience Reuse](https://arxiv.org/abs/2609.32166v1)** | 2026-09-26 |  |
-| **[REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates](https://arxiv.org/abs/2609.32130v1)** | 2026-09-26 |  |
-| **[LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents](https://arxiv.org/abs/2608.25777v2)** | 2026-09-25 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Signatures of semantic search in the activations of large language models](https://arxiv.org/abs/2609.35599v1)** | 2026-09-28 |  |
+| **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
+| **[Signatures of semantic search in the activations of large language models](https://arxiv.org/abs/2609.35599v2)** | 2026-09-29 |  |
+| **[Constitutional adapters: Inference-time interventions for misalignment and misuse](https://arxiv.org/abs/2609.36657v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 10 tables</p></details> |
+| **[Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces](https://arxiv.org/abs/2609.18587v2)** | 2026-09-28 |  |
 | **[Watch the Model Think: On-Policy Extraction of Activation Steering Vectors](https://arxiv.org/abs/2602.14143v2)** | 2026-09-28 |  |
 | **[STR: Supervised Transcoder Replacement for Reducing Steering Side Effects](https://arxiv.org/abs/2609.32519v1)** | 2026-09-26 |  |
 | **[Mechanistic Personality Analysis of LLMs: Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770v2)** | 2026-09-26 | <details><summary>Writt...</summary><p>Written in 2024; submitted to arXiv 2026</p></details> |
@@ -76,13 +79,13 @@ labels: documentation
 | **[Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](https://arxiv.org/abs/2602.01654v2)** | 2026-09-19 | EMNLP 2026 Main |
 | **[Characterizing Model-Native Skills](https://arxiv.org/abs/2604.17614v2)** | 2026-09-19 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
 | **[Near-Field Physical-Layer Authentication Under Impersonation Attacks](https://arxiv.org/abs/2609.04879v3)** | 2026-09-18 |  |
-| **[Learning Array Signal Topologies as Conditional Neural Manifolds](https://arxiv.org/abs/2609.18616v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
-| **[Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces](https://arxiv.org/abs/2609.18587v1)** | 2026-09-16 |  |
-| **[From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](https://arxiv.org/abs/2603.13359v2)** | 2026-09-14 | <details><summary>10 pa...</summary><p>10 pages, 23 with Appendix</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Pre-Training of LLMs through Truncated SVD Representations](https://arxiv.org/abs/2605.28573v2)** | 2026-09-29 |  |
+| **[Beyond Semantic Narrowing: Robust and Efficient LLM Watermarking with Hamming Neighborhoods](https://arxiv.org/abs/2609.37218v1)** | 2026-09-29 | 30pages |
+| **[Better Nearest Neighbor Graph Indices via (Efficient) LLM-Guided Pruning](https://arxiv.org/abs/2609.36359v1)** | 2026-09-28 | 29 pages |
 | **[An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2609.35505v1)** | 2026-09-28 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 5 tables, code available at https://github.com/UNCSciML/LSPD</p></details> |
 | **[Adaptive Resource Allocation for Effective and Efficient LLM Social Survey Simulation](https://arxiv.org/abs/2609.35216v1)** | 2026-09-28 |  |
 | **[Systematic Exploration of Multi-core Architectures for Efficient LLM Serving using WaferAI-SIM](https://arxiv.org/abs/2510.05632v2)** | 2026-09-28 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[CacheFlow: Efficient LLM Serving via Automated 3D-Parallel KV Cache Restoration](https://arxiv.org/abs/2604.25080v2)** | 2026-09-26 | 17 pages, 17 figures |
 | **[Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates](https://arxiv.org/abs/2607.28959v2)** | 2026-09-26 | 30 pages |
 | **[ActKV: Efficient LLM Agents through Action-Guided KV Cache Management](https://arxiv.org/abs/2609.31395v1)** | 2026-09-25 |  |
-| **[ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2609.27189v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to SC26 (The International Conference for High Performance Computing, Networking, Storage and Analysis), 2026</p></details> |
-| **[CONCAT: Consensus- and Confidence-Driven Ad Hoc Teaming for Efficient LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2605.29612v2)** | 2026-09-22 | <details><summary>We id...</summary><p>We identified a potential issue in the repeated-run evaluation of our method that may have caused unintended prompt overlap across runs and affected the reported results. We therefore withdraw the manuscript for further investigation and re-evaluation</p></details> |
-| **[HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference](https://arxiv.org/abs/2609.00450v2)** | 2026-09-21 | <details><summary>This ...</summary><p>This work is accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 
