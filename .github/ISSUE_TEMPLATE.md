@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 | **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v1)** | 2026-09-29 |  |
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Live Architecture Models for Cloud-Native Architecture-as-Code: Early Results from Kubernetes Conformance Checking](https://arxiv.org/abs/2609.36148v1)** | 2026-09-28 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables. Code and evaluation artifacts: https://github.com/AsakoKabe/archer-kdl</p></details> |
@@ -40,11 +41,17 @@ labels: documentation
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 | **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
-| **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents](https://arxiv.org/abs/2610.01787v1)** | 2026-10-01 |  |
+| **[AutoGUIWorld: Image Generators as Visual World Models for GUI Agent](https://arxiv.org/abs/2610.01215v1)** | 2026-10-01 |  |
+| **[GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution](https://arxiv.org/abs/2610.00948v1)** | 2026-10-01 | Preprint |
+| **[Learning Reliable GUI Agents under Imperfect Priors](https://arxiv.org/abs/2609.39547v1)** | 2026-09-30 | 19pages, 4 figures |
+| **[ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation](https://arxiv.org/abs/2609.39306v1)** | 2026-09-30 |  |
+| **[Action Conditioned Bisimulation For GUI Agent Memory](https://arxiv.org/abs/2609.38778v1)** | 2026-09-30 |  |
+| **[Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 32 pages, 3 figures, 26 tables</p></details> |
 | **[GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](https://arxiv.org/abs/2609.34113v2)** | 2026-09-29 |  |
 | **[MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows](https://arxiv.org/abs/2609.37053v1)** | 2026-09-29 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Mei Wu and Rui Xie contributed equally. Bo Chen and Lu Chen are corresponding authors. Project page: https://mattoolbench.github.io/ ; code: https://github.com/meiwu5/MatToolBench</p></details> |
 | **[SCA: Spatial Credit Assignment for Reinforcement Learning of GUI Agents](https://arxiv.org/abs/2609.36939v1)** | 2026-09-29 |  |
@@ -53,17 +60,15 @@ labels: documentation
 | **[PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://arxiv.org/abs/2605.29486v3)** | 2026-09-28 | work in progress |
 | **[WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents](https://arxiv.org/abs/2609.35026v1)** | 2026-09-28 |  |
 | **[LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles](https://arxiv.org/abs/2609.34769v1)** | 2026-09-28 |  |
-| **[One Rollout Is All You Get: Fully Test-Time Adaptation for GUI Agents](https://arxiv.org/abs/2609.34321v1)** | 2026-09-28 |  |
-| **[OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://arxiv.org/abs/2605.18758v2)** | 2026-09-28 | <details><summary>Corre...</summary><p>Corrected author list, all paper content, experiments and conclusions remain unchanged. 27 pages, 18 figures</p></details> |
-| **[Same Tasks, Different Apps: Why Mobile GUI Agents Fail to Generalize?](https://arxiv.org/abs/2609.34139v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 30 pages</p></details> |
-| **[Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents](https://arxiv.org/abs/2609.33304v1)** | 2026-09-27 |  |
-| **[The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models](https://arxiv.org/abs/2609.32679v1)** | 2026-09-26 |  |
-| **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints](https://arxiv.org/abs/2602.07008v6)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
-| **[DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://arxiv.org/abs/2609.32385v1)** | 2026-09-26 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kernelized Activation Steering](https://arxiv.org/abs/2610.01062v1)** | 2026-10-01 | NeurIPS 2026 |
+| **[The Geometry of Contextual Relations: Language Models Address Facts by Order of Mention](https://arxiv.org/abs/2610.00910v1)** | 2026-10-01 | <details><summary>Code:...</summary><p>Code: https://github.com/MasterZhou1/order-of-mention</p></details> |
+| **[Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond](https://arxiv.org/abs/2609.39573v1)** | 2026-09-30 |  |
+| **[Steer-to-Detect: Probing Hidden Representations for Detection of LLM-Generated Texts](https://arxiv.org/abs/2605.12890v2)** | 2026-09-30 |  |
+| **[Activation-Conditioned Self-Distillation](https://arxiv.org/abs/2609.38342v1)** | 2026-09-29 |  |
 | **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
 | **[Signatures of semantic search in the activations of large language models](https://arxiv.org/abs/2609.35599v2)** | 2026-09-29 |  |
 | **[Constitutional adapters: Inference-time interventions for misalignment and misuse](https://arxiv.org/abs/2609.36657v1)** | 2026-09-29 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 10 tables</p></details> |
@@ -74,15 +79,18 @@ labels: documentation
 | **[Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218v1)** | 2026-09-24 |  |
 | **[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](https://arxiv.org/abs/2605.21980v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2609.27399v1)** | 2026-09-23 |  |
-| **[Efficient Reasoning Exploration via State-Conditioned Latent Steering with Progress Guidance](https://arxiv.org/abs/2609.24066v1)** | 2026-09-21 |  |
-| **[Decomposing Refusal Steering in Mixture-of-Experts Models](https://arxiv.org/abs/2606.04160v2)** | 2026-09-19 |  |
-| **[Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](https://arxiv.org/abs/2602.01654v2)** | 2026-09-19 | EMNLP 2026 Main |
-| **[Characterizing Model-Native Skills](https://arxiv.org/abs/2604.17614v2)** | 2026-09-19 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
-| **[Near-Field Physical-Layer Authentication Under Impersonation Attacks](https://arxiv.org/abs/2609.04879v3)** | 2026-09-18 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Clinical Note Bloat Reduction for Efficient LLM Use](https://arxiv.org/abs/2604.16364v2)** | 2026-10-01 |  |
+| **[TopK-Guided: Adaptive, Budget-Aware Activation Sparsity for Efficient LLM Inference](https://arxiv.org/abs/2610.01763v1)** | 2026-10-01 |  |
+| **[SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents](https://arxiv.org/abs/2605.08386v2)** | 2026-10-01 |  |
+| **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v1)** | 2026-10-01 |  |
+| **[LabBook: Harnessing Experimental History for Efficient LLM-Driven Discovery](https://arxiv.org/abs/2610.00675v1)** | 2026-09-30 | Under Review |
+| **[Fork-Think with Confidence](https://arxiv.org/abs/2606.31484v2)** | 2026-09-30 | <details><summary>Publi...</summary><p>Published at COLM 2026</p></details> |
+| **[RA-MoE: Routing-Aligned Fine-Tuning for Multilingual Adaptation of Mixture-of-Experts Models](https://arxiv.org/abs/2605.28306v2)** | 2026-09-30 |  |
+| **[EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training](https://arxiv.org/abs/2511.10333v2)** | 2026-09-30 |  |
 | **[Efficient Pre-Training of LLMs through Truncated SVD Representations](https://arxiv.org/abs/2605.28573v2)** | 2026-09-29 |  |
 | **[Beyond Semantic Narrowing: Robust and Efficient LLM Watermarking with Hamming Neighborhoods](https://arxiv.org/abs/2609.37218v1)** | 2026-09-29 | 30pages |
 | **[Better Nearest Neighbor Graph Indices via (Efficient) LLM-Guided Pruning](https://arxiv.org/abs/2609.36359v1)** | 2026-09-28 | 29 pages |
@@ -90,12 +98,4 @@ labels: documentation
 | **[Adaptive Resource Allocation for Effective and Efficient LLM Social Survey Simulation](https://arxiv.org/abs/2609.35216v1)** | 2026-09-28 |  |
 | **[Systematic Exploration of Multi-core Architectures for Efficient LLM Serving using WaferAI-SIM](https://arxiv.org/abs/2510.05632v2)** | 2026-09-28 |  |
 | **[Adaptive Activation Steering for Efficient LLM Reasoning via Closed-Loop PID Control](https://arxiv.org/abs/2506.18831v4)** | 2026-09-28 | <details><summary>I am ...</summary><p>I am withdrawing this paper because another work subsequently studied the same technique in a more rigorous and comprehensive manner (arXiv:2510.04309). Although that work appeared well after the first version of this paper, I believe it provides a stronger treatment of the idea, and I therefore no longer see sufficient value in maintaining this work as a separate contribution</p></details> |
-| **[Dynamic Flow, Static Graph: KV Cache Reuse for Efficient LLM Serving on Mobile NPUs](https://arxiv.org/abs/2609.34727v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at EuroSys 2027 (Spring Cycle)</p></details> |
-| **[Skip What You Can Predict: Predictive Repositioning for Policy Optimization for Efficient LLM Training](https://arxiv.org/abs/2605.06755v2)** | 2026-09-28 | 29 pages, 9 figures |
-| **[SAGE: Structured Strategic Reasoning for Efficient LLM Game Playing](https://arxiv.org/abs/2609.34342v1)** | 2026-09-28 | <details><summary>31 pa...</summary><p>31 pages with multiple figures</p></details> |
-| **[Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference](https://arxiv.org/abs/2604.07394v2)** | 2026-09-28 |  |
-| **[Latent Action Reparameterization for Efficient Agent Inference](https://arxiv.org/abs/2605.18597v3)** | 2026-09-27 |  |
-| **[CacheFlow: Efficient LLM Serving via Automated 3D-Parallel KV Cache Restoration](https://arxiv.org/abs/2604.25080v2)** | 2026-09-26 | 17 pages, 17 figures |
-| **[Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates](https://arxiv.org/abs/2607.28959v2)** | 2026-09-26 | 30 pages |
-| **[ActKV: Efficient LLM Agents through Action-Guided KV Cache Management](https://arxiv.org/abs/2609.31395v1)** | 2026-09-25 |  |
 
