@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 | **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
 | **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models](https://arxiv.org/abs/2609.25786v1)** | 2026-09-22 |  |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v2)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing](https://arxiv.org/abs/2609.21268v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://chongbozhao3-coder.github.io/Edit-VAR. Code: https://github.com/chongbozhao3-coder/Edit-VAR</p></details> |
-| **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces](https://arxiv.org/abs/2610.07972v1)** | 2026-10-06 | 23 pages, 12 figures |
+| **[Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?](https://arxiv.org/abs/2610.07444v1)** | 2026-10-05 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 12 tables. Code and per-example logs are available at https://github.com/aadcha/action-conditioned-gui-agent</p></details> |
 | **[Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training](https://arxiv.org/abs/2610.05861v1)** | 2026-10-05 |  |
 | **[OpenPhone: Mobile Agentic Foundation Models](https://arxiv.org/abs/2510.22009v3)** | 2026-10-05 |  |
 | **[PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents](https://arxiv.org/abs/2609.35671v2)** | 2026-10-05 |  |
@@ -58,12 +60,15 @@ labels: documentation
 | **[ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation](https://arxiv.org/abs/2609.39306v1)** | 2026-09-30 |  |
 | **[Action Conditioned Bisimulation For GUI Agent Memory](https://arxiv.org/abs/2609.38778v1)** | 2026-09-30 |  |
 | **[Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 32 pages, 3 figures, 26 tables</p></details> |
-| **[GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](https://arxiv.org/abs/2609.34113v2)** | 2026-09-29 |  |
-| **[MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows](https://arxiv.org/abs/2609.37053v1)** | 2026-09-29 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Mei Wu and Rui Xie contributed equally. Bo Chen and Lu Chen are corresponding authors. Project page: https://mattoolbench.github.io/ ; code: https://github.com/meiwu5/MatToolBench</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steerspeech: Activation Steering For Emotion Control In Generated Speech](https://arxiv.org/abs/2610.10415v1)** | 2026-10-07 | <details><summary>Under...</summary><p>Under review at IEEE ICASSP 2027. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Learning Cross-Model Activation Alignments with Explicit Many-to-Many Layer Maps](https://arxiv.org/abs/2610.09058v1)** | 2026-10-06 |  |
+| **[Latent space bias directions in LLMs capture confidence, not fairness](https://arxiv.org/abs/2610.08559v1)** | 2026-10-06 |  |
+| **[Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift](https://arxiv.org/abs/2607.17524v2)** | 2026-10-06 |  |
+| **[Breaking the Mirror: Activation-Based Mitigation of Self-Preference in LLM Evaluators](https://arxiv.org/abs/2509.03647v3)** | 2026-10-05 | <details><summary>Prese...</summary><p>Presented at {Mechanistic Interpretability, Evaluations, Reliable-ML} Workshops, NeurIPS 2025</p></details> |
 | **[Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering](https://arxiv.org/abs/2610.05894v1)** | 2026-10-05 |  |
 | **[Why Subliminal Learning Needs So Much Data: A Noisy Inverse View through Steering Vector Recovery](https://arxiv.org/abs/2610.04907v1)** | 2026-10-04 |  |
 | **[Steering Speech-Language Models: Training-Free Task Specialization via Contrastive Activation Addition](https://arxiv.org/abs/2610.04683v1)** | 2026-10-03 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
@@ -74,28 +79,23 @@ labels: documentation
 | **[The Answer-Basin Representation Hypothesis: We Are Not Probing or Steering Concepts](https://arxiv.org/abs/2609.24821v2)** | 2026-10-02 |  |
 | **[Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer](https://arxiv.org/abs/2610.03163v1)** | 2026-10-02 | <details><summary>W-NUT...</summary><p>W-NUT Workshop @ EMNLP 2026</p></details> |
 | **[Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models](https://arxiv.org/abs/2610.03154v1)** | 2026-10-02 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 5 tables</p></details> |
-| **[Hesitation Has a Geometry: Entropy-Trained Hyperbolic Probes for Sparse Activation Steering](https://arxiv.org/abs/2610.02391v1)** | 2026-10-01 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, 16 tables</p></details> |
-| **[The Geometry of Contextual Relations: Language Models Address Facts by Order of Mention](https://arxiv.org/abs/2610.00910v1)** | 2026-10-01 | <details><summary>Code:...</summary><p>Code: https://github.com/MasterZhou1/order-of-mention</p></details> |
-| **[Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond](https://arxiv.org/abs/2609.39573v1)** | 2026-09-30 |  |
-| **[Steer-to-Detect: Probing Hidden Representations for Detection of LLM-Generated Texts](https://arxiv.org/abs/2605.12890v2)** | 2026-09-30 |  |
-| **[Activation-Conditioned Self-Distillation](https://arxiv.org/abs/2609.38342v1)** | 2026-09-29 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models](https://arxiv.org/abs/2610.06387v1)** | 2026-10-05 |  |
+| **[Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models](https://arxiv.org/abs/2610.06387v2)** | 2026-10-07 |  |
+| **[Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM](https://arxiv.org/abs/2510.05544v3)** | 2026-10-06 |  |
+| **[BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration](https://arxiv.org/abs/2610.02800v2)** | 2026-10-06 |  |
+| **[ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving](https://arxiv.org/abs/2610.08373v1)** | 2026-10-06 |  |
+| **[More Efficient LLM Reranking with Whole-Pool, Setwise, Long-Context Language Models](https://arxiv.org/abs/2606.01782v3)** | 2026-10-06 | <details><summary>12 pa...</summary><p>12 pages main content</p></details> |
+| **[AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation](https://arxiv.org/abs/2610.07457v1)** | 2026-10-05 |  |
+| **[A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving](https://arxiv.org/abs/2610.07443v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, 4 tables</p></details> |
+| **[SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding](https://arxiv.org/abs/2610.07086v1)** | 2026-10-05 |  |
 | **[Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression](https://arxiv.org/abs/2610.06026v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to Advances in Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 | **[Robust Parameter-Efficient LLM Adaptation on Analog Hardware](https://arxiv.org/abs/2610.05318v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on On-Device Intelligence: Foundation Models under Real-World Constraints (ODI 2026)</p></details> |
-| **[More Efficient LLM Reranking with Whole-Pool, Setwise, Long-Context Language Models](https://arxiv.org/abs/2606.01782v2)** | 2026-10-02 | <details><summary>12 pa...</summary><p>12 pages main content</p></details> |
-| **[BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration](https://arxiv.org/abs/2610.02800v1)** | 2026-10-02 |  |
 | **[Student-Guided Teacher Distillation for Efficient LLM Task Routing: Positioning Against Jev-Style System-1 Classifiers](https://arxiv.org/abs/2610.02516v1)** | 2026-10-01 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 1 table</p></details> |
 | **[Clinical Note Bloat Reduction for Efficient LLM Use](https://arxiv.org/abs/2604.16364v2)** | 2026-10-01 |  |
 | **[TopK-Guided: Adaptive, Budget-Aware Activation Sparsity for Efficient LLM Inference](https://arxiv.org/abs/2610.01763v1)** | 2026-10-01 |  |
 | **[SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents](https://arxiv.org/abs/2605.08386v2)** | 2026-10-01 |  |
 | **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v1)** | 2026-10-01 |  |
-| **[LabBook: Harnessing Experimental History for Efficient LLM-Driven Discovery](https://arxiv.org/abs/2610.00675v1)** | 2026-09-30 | Under Review |
-| **[Fork-Think with Confidence](https://arxiv.org/abs/2606.31484v2)** | 2026-09-30 | <details><summary>Publi...</summary><p>Published at COLM 2026</p></details> |
-| **[RA-MoE: Routing-Aligned Fine-Tuning for Multilingual Adaptation of Mixture-of-Experts Models](https://arxiv.org/abs/2605.28306v2)** | 2026-09-30 |  |
-| **[EDGC: Entropy-driven Dynamic Gradient Compression for Efficient LLM Training](https://arxiv.org/abs/2511.10333v2)** | 2026-09-30 |  |
-| **[Efficient Pre-Training of LLMs through Truncated SVD Representations](https://arxiv.org/abs/2605.28573v2)** | 2026-09-29 |  |
 
