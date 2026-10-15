@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
 | **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
 | **[Generalizable Model Editing Could Be More Than Direct Generalization](https://arxiv.org/abs/2610.15707v1)** | 2026-10-11 |  |
 | **[ZOIF: Zeroth-Order Influence Function Estimation for LLM Data Selection Using Only Forward Passes](https://arxiv.org/abs/2610.15336v1)** | 2026-10-11 |  |
@@ -40,11 +41,14 @@ labels: documentation
 | **[Backdoor as Probe: Test-Time Adversarial Defense for CLIP](https://arxiv.org/abs/2609.34641v1)** | 2026-09-28 |  |
 | **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
 | **[InfoEdit: Probing Global Layout Reasoning in Infographic Editing](https://arxiv.org/abs/2609.33286v1)** | 2026-09-27 | <details><summary>Proje...</summary><p>Project page: https://infoedit.github.io</p></details> |
-| **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](https://arxiv.org/abs/2610.20390v1)** | 2026-10-14 | 20 pages, 9 figures |
+| **[Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://arxiv.org/abs/2610.20100v1)** | 2026-10-14 | <details><summary>Versi...</summary><p>Version 1, still under refinement</p></details> |
+| **[How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900v1)** | 2026-10-14 |  |
+| **[GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning](https://arxiv.org/abs/2610.19100v1)** | 2026-10-13 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 9 tables</p></details> |
 | **[Learning How to Remember: Memory Modality Selection for GUI Agents](https://arxiv.org/abs/2610.17928v1)** | 2026-10-13 |  |
 | **[Adaptive-Group Process Rewards for GUI Agents](https://arxiv.org/abs/2610.17710v1)** | 2026-10-13 |  |
 | **[PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents](https://arxiv.org/abs/2610.16778v1)** | 2026-10-12 |  |
@@ -56,14 +60,12 @@ labels: documentation
 | **[ConClick: Element-Wise Contrastive Learning Improves GUI Grounding](https://arxiv.org/abs/2610.13268v1)** | 2026-10-09 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, including references and appendices. Code and data: https://github.com/zhangruotian/ConClick</p></details> |
 | **[Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](https://arxiv.org/abs/2610.11942v1)** | 2026-10-08 |  |
 | **[DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents](https://arxiv.org/abs/2610.11707v1)** | 2026-10-08 | 22 pages |
-| **[LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning](https://arxiv.org/abs/2605.07505v2)** | 2026-10-08 |  |
-| **[GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness](https://arxiv.org/abs/2510.00536v2)** | 2026-10-07 | Accepted by TMLR |
-| **[MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://arxiv.org/abs/2512.14014v2)** | 2026-10-07 | 21 pages, 13 figures |
-| **[Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces](https://arxiv.org/abs/2610.07972v1)** | 2026-10-06 | 23 pages, 12 figures |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Steering Induces Emergent Misalignment: Steering Vector Construction and Comprehensive Evaluation](https://arxiv.org/abs/2606.08682v2)** | 2026-10-14 |  |
+| **[Steering Vectors for Competing Ethical Frameworks Are Interchangeable: A Competing-Target Test for Activation Steering](https://arxiv.org/abs/2610.19359v1)** | 2026-10-14 | 20 pages, 5 figures |
 | **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862v1)** | 2026-10-13 |  |
 | **[TRACESTEER: Trace Driven Activation Steering for Hallucination Mitigation in Diffusion Language Models](https://arxiv.org/abs/2610.18173v1)** | 2026-10-13 |  |
 | **[Cross-Lingual Steering for Figurative Language Generation](https://arxiv.org/abs/2605.30443v3)** | 2026-10-13 | 22 pages, 4 figures |
@@ -77,12 +79,11 @@ labels: documentation
 | **[SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://arxiv.org/abs/2610.11229v1)** | 2026-10-08 |  |
 | **[Steerspeech: Activation Steering For Emotion Control In Generated Speech](https://arxiv.org/abs/2610.10415v1)** | 2026-10-07 | <details><summary>Under...</summary><p>Under review at IEEE ICASSP 2027. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
 | **[Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors](https://arxiv.org/abs/2610.10657v1)** | 2026-10-07 | <details><summary>Code:...</summary><p>Code: https://github.com/TruthfulAI-research/beyond_owls</p></details> |
-| **[Nullify: Null-Space Activation Steering for Training-Free LLM Unlearning](https://arxiv.org/abs/2610.10655v1)** | 2026-10-07 |  |
-| **[Learning Cross-Model Activation Alignments with Explicit Many-to-Many Layer Maps](https://arxiv.org/abs/2610.09058v1)** | 2026-10-06 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAGE: Structured Strategic Reasoning for Efficient LLM Game Playing](https://arxiv.org/abs/2609.34342v2)** | 2026-10-14 | <details><summary>31 pa...</summary><p>31 pages with multiple figures</p></details> |
 | **[Controlled Text Generation via Language Model Arithmetic](https://arxiv.org/abs/2311.14479v3)** | 2026-10-12 |  |
 | **[StructZO: Structured Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2610.16451v1)** | 2026-10-12 | 20 pages |
 | **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v2)** | 2026-10-11 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[AlignQuant: Tile-Aligned Mixed-Precision Quantization for Efficient LLM Generation](https://arxiv.org/abs/2610.07457v1)** | 2026-10-05 |  |
 | **[A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving](https://arxiv.org/abs/2610.07443v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, 4 tables</p></details> |
 | **[SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding](https://arxiv.org/abs/2610.07086v1)** | 2026-10-05 |  |
-| **[Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression](https://arxiv.org/abs/2610.06026v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to Advances in Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 
