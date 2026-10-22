@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging](https://arxiv.org/abs/2610.29609v1)** | 2026-10-21 | <details><summary>Paper...</summary><p>Paper accepted by the Research Track of the 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)</p></details> |
 | **[InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://arxiv.org/abs/2610.28610v1)** | 2026-10-20 |  |
 | **[Adaptive-Group Process Rewards for GUI Agents](https://arxiv.org/abs/2610.17710v2)** | 2026-10-20 |  |
 | **[DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://arxiv.org/abs/2609.32385v2)** | 2026-10-19 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](https://arxiv.org/abs/2610.20390v1)** | 2026-10-14 | 20 pages, 9 figures |
 | **[ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408v1)** | 2026-10-14 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 13 tables</p></details> |
 | **[Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://arxiv.org/abs/2610.20100v1)** | 2026-10-14 | <details><summary>Versi...</summary><p>Version 1, still under refinement</p></details> |
-| **[How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://arxiv.org/abs/2610.19900v1)** | 2026-10-14 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering](https://arxiv.org/abs/2610.29129v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://ajmeek.github.io/mitigating_reward_hacking_website/ Code: https://github.com/ajmeek/mitigating_reward_hacking</p></details> |
 | **[Decomposing Refusal Steering in Mixture-of-Experts Models](https://arxiv.org/abs/2606.04160v3)** | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[What Survives When Activation Steering Is Used as Memory](https://arxiv.org/abs/2610.14958v2)** | 2026-10-19 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 2 tables. Code: https://github.com/vedant-jumle/Seahorse</p></details> |
@@ -78,11 +79,11 @@ labels: documentation
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v2)** | 2026-10-14 |  |
 | **[Activation Steering Induces Emergent Misalignment: Steering Vector Construction and Comprehensive Evaluation](https://arxiv.org/abs/2606.08682v2)** | 2026-10-14 |  |
 | **[Steering Vectors for Competing Ethical Frameworks Are Interchangeable: A Competing-Target Test for Activation Steering](https://arxiv.org/abs/2610.19359v1)** | 2026-10-14 | 20 pages, 5 figures |
-| **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862v1)** | 2026-10-13 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models](https://arxiv.org/abs/2610.15207v2)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Foundations of Language Model Security (FLMSec). 10 pages, 4 figures, 3 tables</p></details> |
 | **[EGI-BENCH: An Enterprise General Intelligence Benchmark Suite](https://arxiv.org/abs/2610.27234v1)** | 2026-10-19 |  |
 | **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v3)** | 2026-10-19 |  |
 | **[Learning Who Talks to Whom: Role-Aware Communication Topology Scheduling for Efficient LLM Multi-Agent Collaboration](https://arxiv.org/abs/2610.25851v1)** | 2026-10-19 | <details><summary>Proje...</summary><p>Project website: https://acts-mas.github.io/ACTS/</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Controlled Text Generation via Language Model Arithmetic](https://arxiv.org/abs/2311.14479v3)** | 2026-10-12 |  |
 | **[StructZO: Structured Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2610.16451v1)** | 2026-10-12 | 20 pages |
 | **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v2)** | 2026-10-11 |  |
-| **[Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models](https://arxiv.org/abs/2610.15207v1)** | 2026-10-10 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Foundations of Language Model Security (FLMSec). 10 pages, 4 figures, 3 tables</p></details> |
 
