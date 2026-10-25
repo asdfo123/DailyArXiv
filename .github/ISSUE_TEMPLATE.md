@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpreting Model Reasoning through Behavioral Counterfactuals](https://arxiv.org/abs/2610.30630v1)** | 2026-10-22 |  |
 | **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v1)** | 2026-10-20 | WACV 2027 |
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v2)** | 2026-10-20 | EMNLP 2026 (Main) |
 | **[Target-Aware Curation of Hallucination Stress Tests for Large Language Models](https://arxiv.org/abs/2610.27247v1)** | 2026-10-19 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 | **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
-| **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Subgoal-aware Memory Graph for GUI Agent](https://arxiv.org/abs/2610.31307v1)** | 2026-10-22 |  |
+| **[Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792v1)** | 2026-10-22 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Diagnosing Personalization Failures in Mobile GUI Agents](https://arxiv.org/abs/2610.30573v1)** | 2026-10-22 | 24 pages, 8 figures |
 | **[Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging](https://arxiv.org/abs/2610.29609v1)** | 2026-10-21 | <details><summary>Paper...</summary><p>Paper accepted by the Research Track of the 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)</p></details> |
 | **[InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://arxiv.org/abs/2610.28610v1)** | 2026-10-20 |  |
 | **[Adaptive-Group Process Rewards for GUI Agents](https://arxiv.org/abs/2610.17710v2)** | 2026-10-20 |  |
@@ -57,13 +60,11 @@ labels: documentation
 | **[OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://arxiv.org/abs/2610.22234v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://os-copilot.github.io/OS-Helix/</p></details> |
 | **[Q-Reflector: Learning GUI Action Reflection with Generated Conditions](https://arxiv.org/abs/2608.05587v2)** | 2026-10-15 | <details><summary>20 pa...</summary><p>20 pages, 6 figures. Revised and expanded version of StepReflect. An earlier version was accepted to the 1st Workshop on Multimodal Digital Agents (MMDA) at ECCV 2026 (non-archival). Code: https://github.com/pockyitachi/Q-Reflector ; Demo: https://huggingface.co/spaces/pockyitachi/Q-Reflector</p></details> |
 | **[MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://arxiv.org/abs/2610.20939v1)** | 2026-10-14 | 31 pages, 15 pages |
-| **[STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](https://arxiv.org/abs/2610.20390v1)** | 2026-10-14 | 20 pages, 9 figures |
-| **[ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408v1)** | 2026-10-14 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 13 tables</p></details> |
-| **[Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://arxiv.org/abs/2610.20100v1)** | 2026-10-14 | <details><summary>Versi...</summary><p>Version 1, still under refinement</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Probing and Steering for Safety-Relevant Behaviours in Large Language Models](https://arxiv.org/abs/2610.30363v1)** | 2026-10-21 | <details><summary>20 pa...</summary><p>20 pages, 26 figures, 11 tables. Code, data and interactive interface: https://github.com/NimunB/probing-safety-behaviours</p></details> |
 | **[Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering](https://arxiv.org/abs/2610.29129v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://ajmeek.github.io/mitigating_reward_hacking_website/ Code: https://github.com/ajmeek/mitigating_reward_hacking</p></details> |
 | **[Decomposing Refusal Steering in Mixture-of-Experts Models](https://arxiv.org/abs/2606.04160v3)** | 2026-10-20 |  |
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
@@ -78,11 +79,11 @@ labels: documentation
 | **[Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment](https://arxiv.org/abs/2604.03867v2)** | 2026-10-15 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference) Camera Ready</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v2)** | 2026-10-14 |  |
 | **[Activation Steering Induces Emergent Misalignment: Steering Vector Construction and Comprehensive Evaluation](https://arxiv.org/abs/2606.08682v2)** | 2026-10-14 |  |
-| **[Steering Vectors for Competing Ethical Frameworks Are Interchangeable: A Competing-Target Test for Activation Steering](https://arxiv.org/abs/2610.19359v1)** | 2026-10-14 | 20 pages, 5 figures |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Should LLMs Reason? Adaptive Inference Routing via Entropy Dynamics](https://arxiv.org/abs/2605.22873v3)** | 2026-10-22 |  |
 | **[Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models](https://arxiv.org/abs/2610.15207v2)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Foundations of Language Model Security (FLMSec). 10 pages, 4 figures, 3 tables</p></details> |
 | **[EGI-BENCH: An Enterprise General Intelligence Benchmark Suite](https://arxiv.org/abs/2610.27234v1)** | 2026-10-19 |  |
 | **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v3)** | 2026-10-19 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[HAServe: Horizon-Aware Scheduling and Memory Co-Design for Efficient LLM Serving](https://arxiv.org/abs/2605.08581v2)** | 2026-10-13 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, Preprint</p></details> |
 | **[Controlled Text Generation via Language Model Arithmetic](https://arxiv.org/abs/2311.14479v3)** | 2026-10-12 |  |
 | **[StructZO: Structured Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning](https://arxiv.org/abs/2610.16451v1)** | 2026-10-12 | 20 pages |
-| **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v2)** | 2026-10-11 |  |
 
