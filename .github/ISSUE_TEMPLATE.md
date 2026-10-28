@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2026
+title: Latest 15 Papers - October 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
 | **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v4)** | 2026-10-23 |  |
 | **[Diagnosing and Mitigating Evidence Misgrounding in Multimodal Knowledge Editing](https://arxiv.org/abs/2610.33075v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
 | **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
-| **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://arxiv.org/abs/2610.37482v1)** | 2026-10-27 |  |
+| **[GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents](https://arxiv.org/abs/2610.36877v1)** | 2026-10-27 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 16 tables</p></details> |
 | **[Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents](https://arxiv.org/abs/2610.35237v1)** | 2026-10-26 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, and 4 tables</p></details> |
 | **[GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents](https://arxiv.org/abs/2610.34959v1)** | 2026-10-26 |  |
 | **[Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier](https://arxiv.org/abs/2610.32223v1)** | 2026-10-23 | 41 pages, 16 figures |
@@ -58,12 +60,12 @@ labels: documentation
 | **[DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://arxiv.org/abs/2609.32385v2)** | 2026-10-19 |  |
 | **[Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://arxiv.org/abs/2610.26660v1)** | 2026-10-19 |  |
 | **[ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://arxiv.org/abs/2610.26503v1)** | 2026-10-19 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 9 tables. Zhicheng Zheng and Cheng Zhang contributed equally</p></details> |
-| **[VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards](https://arxiv.org/abs/2610.26469v1)** | 2026-10-19 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, including references and appendices. Code: https://github.com/Jeffjeno/VeriCUA</p></details> |
-| **[Focused Omni-Modal GUI Agents](https://arxiv.org/abs/2610.26203v1)** | 2026-10-19 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Orthogonal and Parametrized Multi-Attribute Steering of LLMs](https://arxiv.org/abs/2610.37517v1)** | 2026-10-27 |  |
+| **[Cross-modal Steering Vectors Exist Across Both Image and Text Generation](https://arxiv.org/abs/2610.36269v1)** | 2026-10-26 | <details><summary>Pre-p...</summary><p>Pre-print. Code: https://github.com/saintsauceee/cross-modal-steering Data: https://huggingface.co/saintsauce Demo: https://saintsauceee.github.io/unified-cm-steer-demo</p></details> |
 | **[Amplitude-Only FFN Intervention for Tool-Structured LLM Inference: Method, Gated Evaluation Protocol, and Cross-Model Empirical Results](https://arxiv.org/abs/2607.11183v5)** | 2026-10-26 | <details><summary>46 pa...</summary><p>46 pages, 11 figures, 30 tables. Updated six-task results and RF refit; clarified steering terminology, intervention-site analysis, and experimental scope. Code and experimental data: https://doi.org/10.5281/zenodo.23654706</p></details> |
 | **[Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain](https://arxiv.org/abs/2610.35043v1)** | 2026-10-26 |  |
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v3)** | 2026-10-24 | <details><summary>21 pa...</summary><p>21 pages including appendix</p></details> |
@@ -77,13 +79,13 @@ labels: documentation
 | **[How to get the best and fairest performance out of your ASR system using activation steering](https://arxiv.org/abs/2610.26994v1)** | 2026-10-19 |  |
 | **[Compositional Activation Steering Across Languages and Behaviors with Contextual Gates](https://arxiv.org/abs/2610.24906v1)** | 2026-10-17 |  |
 | **[Memory-Induced Tool-Drift in LLM Agents](https://arxiv.org/abs/2605.24941v2)** | 2026-10-17 |  |
-| **[WAQS: Weight Absorption for Quadratic Probing and Affine Steering](https://arxiv.org/abs/2610.24367v1)** | 2026-10-17 | 9 pages |
-| **[RDSE: Real-Time Directional Speech Enhancement Framework for Dual-Mic Commodity Smartphones](https://arxiv.org/abs/2610.12476v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at IEEE IECON 2026 (17 pages, 9 figures, 8 tables). Project page: https://danish-research.github.io/rdse-research.github.io/</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean](https://arxiv.org/abs/2610.35595v1)** | 2026-10-26 | <details><summary>A git...</summary><p>A github repository with source code will be published later</p></details> |
+| **[EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code](https://arxiv.org/abs/2505.13004v2)** | 2026-10-27 | <details><summary>NeurI...</summary><p>NeurIPS 2025 DB Track</p></details> |
+| **[Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean](https://arxiv.org/abs/2610.35595v2)** | 2026-10-27 | <details><summary>A git...</summary><p>A github repository with source code will be published later</p></details> |
+| **[Clinical Note Bloat Reduction for Efficient LLM Use](https://arxiv.org/abs/2604.16364v3)** | 2026-10-26 |  |
 | **[OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching](https://arxiv.org/abs/2608.08097v2)** | 2026-10-25 |  |
 | **[ZipFusion: Fusing Lossless KV Decompression with Attention for Efficient LLM Decoding](https://arxiv.org/abs/2610.33719v1)** | 2026-10-24 |  |
 | **[Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement](https://arxiv.org/abs/2602.22681v2)** | 2026-10-24 | <details><summary>59 pa...</summary><p>59 pages, accepted by NeurIPS 2026</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[AdamPM: Memory-Efficient LLM Optimization via Moment Pooling](https://arxiv.org/abs/2610.24598v1)** | 2026-10-17 | 19 pages |
 | **[ELSA: Efficient LLM-Centric Split Aggregation for Privacy-Aware Hierarchical Federated Learning over the Network Edge](https://arxiv.org/abs/2601.13824v3)** | 2026-10-17 | 28 pages, 8 figures |
 | **[Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](https://arxiv.org/abs/2610.22985v1)** | 2026-10-16 | <details><summary>Publi...</summary><p>Published as a main conference paper at NeurIPS 2026</p></details> |
-| **[Uncertainty-Aware Budget Allocation for Efficient LLM Tree Search](https://arxiv.org/abs/2610.22858v1)** | 2026-10-16 |  |
-| **[Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures](https://arxiv.org/abs/2607.24714v2)** | 2026-10-16 | <details><summary>83 pa...</summary><p>83 pages, 31 figures, 8 tables</p></details> |
 
