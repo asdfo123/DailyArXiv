@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2026
+title: Latest 15 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GUI-Lens: Enabling Precise GUI Grounding for Off-the-Shelf VLMs via Coarse-to-Fine Cropping](https://arxiv.org/abs/2608.03270v2)** | 2026-10-30 | <details><summary>Prepr...</summary><p>Preprint. Code: https://github.com/wangshirong123/GUI-Lens ; Project page: https://wangshirong123.github.io/GUI-Lens/</p></details> |
 | **[GUI-AC: Enhancing Continual Learning in GUI Agents](https://arxiv.org/abs/2606.10522v3)** | 2026-10-29 |  |
 | **[Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents](https://arxiv.org/abs/2610.39251v1)** | 2026-10-29 |  |
 | **[From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://arxiv.org/abs/2610.37482v1)** | 2026-10-27 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging](https://arxiv.org/abs/2610.29609v1)** | 2026-10-21 | <details><summary>Paper...</summary><p>Paper accepted by the Research Track of the 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)</p></details> |
 | **[InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning](https://arxiv.org/abs/2610.28610v1)** | 2026-10-20 |  |
 | **[Adaptive-Group Process Rewards for GUI Agents](https://arxiv.org/abs/2610.17710v2)** | 2026-10-20 |  |
-| **[DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://arxiv.org/abs/2609.32385v2)** | 2026-10-19 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steering Vectors as a Training Signal in LLM Post-Training](https://arxiv.org/abs/2610.40998v1)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accept to NeurIPS 2026</p></details> |
 | **[From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation](https://arxiv.org/abs/2607.21620v2)** | 2026-10-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Oral, SAC Highlight Award</p></details> |
 | **[Orthogonal and Parametrized Multi-Attribute Steering of LLMs](https://arxiv.org/abs/2610.37517v2)** | 2026-10-28 |  |
 | **[Cross-modal Steering Vectors Exist Across Both Image and Text Generation](https://arxiv.org/abs/2610.36269v1)** | 2026-10-26 | <details><summary>Pre-p...</summary><p>Pre-print. Code: https://github.com/saintsauceee/cross-modal-steering Data: https://huggingface.co/saintsauce Demo: https://saintsauceee.github.io/unified-cm-steer-demo</p></details> |
@@ -78,11 +79,14 @@ labels: documentation
 | **[Steering intonational tunes in text-to-speech synthesis](https://arxiv.org/abs/2610.27403v1)** | 2026-10-19 | <details><summary>39 pa...</summary><p>39 pages, 25 figures, 12 tables (13 pages without appendices)</p></details> |
 | **[What Survives When Activation Steering Is Used as Memory](https://arxiv.org/abs/2610.14958v2)** | 2026-10-19 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 2 tables. Code: https://github.com/vedant-jumle/Seahorse</p></details> |
 | **[How to get the best and fairest performance out of your ASR system using activation steering](https://arxiv.org/abs/2610.26994v1)** | 2026-10-19 |  |
-| **[Compositional Activation Steering Across Languages and Behaviors with Contextual Gates](https://arxiv.org/abs/2610.24906v1)** | 2026-10-17 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents](https://arxiv.org/abs/2603.26034v2)** | 2026-10-30 |  |
+| **[From the Zoo to the BULLPEN: Sample-Efficient LLM Profiling via Multi-Channel Model Embeddings](https://arxiv.org/abs/2610.41375v1)** | 2026-10-30 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 12 tables. Code and data: https://github.com/wcquesera/bullpen</p></details> |
+| **[LEAP: Efficient LLM Inference Scheduling with Generalizable Length Prediction](https://arxiv.org/abs/2610.41359v1)** | 2026-10-30 |  |
+| **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v4)** | 2026-10-29 |  |
 | **[Efficient LLM-based Subgraph Retrieval for Multi-Hop Knowledge Base Question Answering](https://arxiv.org/abs/2610.39667v1)** | 2026-10-29 |  |
 | **[GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](https://arxiv.org/abs/2610.38210v1)** | 2026-10-28 |  |
 | **[EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code](https://arxiv.org/abs/2505.13004v2)** | 2026-10-27 | <details><summary>NeurI...</summary><p>NeurIPS 2025 DB Track</p></details> |
@@ -94,8 +98,4 @@ labels: documentation
 | **[KnitTrans: Coordinated Trajectory Transfer for Effective and Efficient LLM Reinforcement Learning](https://arxiv.org/abs/2610.32389v1)** | 2026-10-23 |  |
 | **[When Should LLMs Reason? Adaptive Inference Routing via Entropy Dynamics](https://arxiv.org/abs/2605.22873v3)** | 2026-10-22 |  |
 | **[Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models](https://arxiv.org/abs/2610.15207v2)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop on Foundations of Language Model Security (FLMSec). 10 pages, 4 figures, 3 tables</p></details> |
-| **[EGI-BENCH: An Enterprise General Intelligence Benchmark Suite](https://arxiv.org/abs/2610.27234v1)** | 2026-10-19 |  |
-| **[When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction](https://arxiv.org/abs/2608.15592v3)** | 2026-10-19 |  |
-| **[Learning Who Talks to Whom: Role-Aware Communication Topology Scheduling for Efficient LLM Multi-Agent Collaboration](https://arxiv.org/abs/2610.25851v1)** | 2026-10-19 | <details><summary>Proje...</summary><p>Project website: https://acts-mas.github.io/ACTS/</p></details> |
-| **[AdamPM: Memory-Efficient LLM Optimization via Moment Pooling](https://arxiv.org/abs/2610.24598v1)** | 2026-10-17 | 19 pages |
 
