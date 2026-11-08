@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2026
+title: Latest 15 Papers - November 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v1)** | 2026-11-05 |  |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v4)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Conference</p></details> |
 | **[Editing Large Language Models with Geometry-Aware Regularization](https://arxiv.org/abs/2611.06185v1)** | 2026-11-04 | <details><summary>10 pa...</summary><p>10 pages for main contents</p></details> |
 | **[Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment](https://arxiv.org/abs/2611.05287v1)** | 2026-11-03 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[FisherEdit: Fisher Information Guided Knowledge Editing for Large Language Models](https://arxiv.org/abs/2610.25914v1)** | 2026-10-19 |  |
 | **[Safety Alignment via Constrained Knowledge Unlearning](https://arxiv.org/abs/2505.18588v2)** | 2026-10-16 |  |
 | **[Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610v2)** | 2026-10-13 |  |
-| **[Do correct answers have stable latent knowledge support?](https://arxiv.org/abs/2610.15277v1)** | 2026-10-11 |  |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
 | **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v1)** | 2026-11-02 | 22 pages, 7 figures |
 | **[Does reflective LLM feedback survive a wet-lab-scale label budget?](https://arxiv.org/abs/2611.01908v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agentic AI for Biological Discovery Workshop. OpenReview: https://openreview.net/forum?id=ezGV5BIXVJ</p></details> |
 | **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://arxiv.org/abs/2610.24738v1)** | 2026-10-17 | <details><summary>24 pa...</summary><p>24 pages, 13 figures. Includes appendices</p></details> |
 | **[SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors](https://arxiv.org/abs/2610.22640v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages,4 figures; includes appendix</p></details> |
 | **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
-| **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards interpreting any residual stream direction by scaling activation inversion](https://arxiv.org/abs/2611.08465v1)** | 2026-11-05 | <details><summary>Euan ...</summary><p>Euan Ong and Jiahai Feng advised equally</p></details> |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v3)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[SYNC: A Training-Free Inference Controller for Dynamic Layer Selection in Multi-Persona Alignment](https://arxiv.org/abs/2611.02636v2)** | 2026-11-03 | Under review |
 | **[Four Bridges: Measuring Deception Propensity in a Multi-Agent Game](https://arxiv.org/abs/2611.03600v1)** | 2026-11-02 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 16 tables</p></details> |
@@ -78,11 +79,13 @@ labels: documentation
 | **[Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain](https://arxiv.org/abs/2610.35043v1)** | 2026-10-26 |  |
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v3)** | 2026-10-24 | <details><summary>21 pa...</summary><p>21 pages including appendix</p></details> |
 | **[Distributed Sparse Interventions in Language Models](https://arxiv.org/abs/2607.07128v2)** | 2026-10-22 | 29 pages, 12 figures |
-| **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v3)** | 2026-10-22 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation](https://arxiv.org/abs/2611.07866v1)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026 (Short Paper). 5 pages, 2 figures, 3 tables</p></details> |
+| **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v3)** | 2026-11-05 | <details><summary>Websi...</summary><p>Website: https://unifiedsd.github.io/ Code: https://github.com/Ahren09/UniSD</p></details> |
+| **[GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](https://arxiv.org/abs/2610.38210v2)** | 2026-11-04 |  |
 | **[HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents](https://arxiv.org/abs/2611.06254v1)** | 2026-11-04 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 7 tables</p></details> |
 | **[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/abs/2605.29734v2)** | 2026-11-03 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Published at EMNLP 2026 (Oral)</p></details> |
 | **[Eco-MobiLLM: Efficient LLM Fine-Tuning on the Mobile Device via Server Assisted Side-Tuning](https://arxiv.org/abs/2507.01216v3)** | 2026-11-02 |  |
@@ -94,8 +97,5 @@ labels: documentation
 | **[LEAP: Efficient LLM Inference Scheduling with Generalizable Length Prediction](https://arxiv.org/abs/2610.41359v1)** | 2026-10-30 |  |
 | **[Bilevel ZOFO: Efficient LLM Fine-Tuning and Meta-Training](https://arxiv.org/abs/2502.03604v4)** | 2026-10-29 |  |
 | **[Efficient LLM-based Subgraph Retrieval for Multi-Hop Knowledge Base Question Answering](https://arxiv.org/abs/2610.39667v1)** | 2026-10-29 |  |
-| **[GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](https://arxiv.org/abs/2610.38210v1)** | 2026-10-28 |  |
 | **[EffiBench-X: A Multi-Language Benchmark for Measuring Efficiency of LLM-Generated Code](https://arxiv.org/abs/2505.13004v2)** | 2026-10-27 | <details><summary>NeurI...</summary><p>NeurIPS 2025 DB Track</p></details> |
-| **[Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean](https://arxiv.org/abs/2610.35595v2)** | 2026-10-27 | <details><summary>A git...</summary><p>A github repository with source code will be published later</p></details> |
-| **[Clinical Note Bloat Reduction for Efficient LLM Use](https://arxiv.org/abs/2604.16364v3)** | 2026-10-26 |  |
 
