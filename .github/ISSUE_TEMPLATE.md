@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2026
+title: Latest 15 Papers - November 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -11,6 +11,7 @@ labels: documentation
 | **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v2)** | 2026-11-09 |  |
 | **[TANSAR: Editable and Attributable Correlation Matrix Memories under Correlated Keys, with Rule-Constrained Multi-Hop Knowledge Editing](https://arxiv.org/abs/2611.12374v1)** | 2026-11-09 |  |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v2)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
+| **[Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing](https://arxiv.org/abs/2611.12995v1)** | 2026-11-08 | neurips2026 |
 | **[On the Geometric Bottlenecks of Cross-Lingual Knowledge Editing](https://arxiv.org/abs/2611.10646v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450v1)** | 2026-11-07 |  |
 | **[ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](https://arxiv.org/abs/2611.09770v1)** | 2026-11-06 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Where Did the Update Go? Certifying Declared Change Envelopes for Model Updates](https://arxiv.org/abs/2611.04192v1)** | 2026-11-03 |  |
 | **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v2)** | 2026-11-02 |  |
 | **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
-| **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 
 ## Model Editing
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Far-field and Near-field Codebook Design for XL-array Systems](https://arxiv.org/abs/2611.13768v1)** | 2026-11-10 | <details><summary>5 Pag...</summary><p>5 Pages, 2 figures, submitted to IEEE for possible publication</p></details> |
 | **[Interpretability Is Not Model-Specific](https://arxiv.org/abs/2611.12675v1)** | 2026-11-09 |  |
 | **[Correctness vs Efficiency: Behavior Control with Weight-Space Extrapolation in Code RL](https://arxiv.org/abs/2605.28751v2)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Camera-ready version, 54 pages</p></details> |
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v4)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
@@ -78,11 +79,12 @@ labels: documentation
 | **[Information-Theoretic Design of Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2611.01378v1)** | 2026-11-01 |  |
 | **[SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213v2)** | 2026-10-31 | <details><summary>The p...</summary><p>The project page is available at \url{https://controlgenai.github.io/SHIFT}</p></details> |
 | **[Steering Vectors as a Training Signal in LLM Post-Training](https://arxiv.org/abs/2610.40998v1)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accept to NeurIPS 2026</p></details> |
-| **[From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation](https://arxiv.org/abs/2607.21620v2)** | 2026-10-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Oral, SAC Highlight Award</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556v3)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 27 pages. Code: https://github.com/IST-DASLab/GSQ</p></details> |
+| **[Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference](https://arxiv.org/abs/2611.13644v1)** | 2026-11-10 | 11 pages, 9 figures |
 | **[Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](https://arxiv.org/abs/2605.29963v2)** | 2026-11-09 |  |
 | **[Understanding Efficient LLM Serving: An Empirical Study of Frameworks, Optimizations Algorithms, and Real-World Adoption](https://arxiv.org/abs/2608.03036v2)** | 2026-11-08 |  |
 | **[Phase-Conditioned Reward Shaping for Token-Efficient LLM Reasoning](https://arxiv.org/abs/2611.11024v1)** | 2026-11-07 | <details><summary>24 pa...</summary><p>24 pages, 17 figures, 15 tables</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v3)** | 2026-11-05 | <details><summary>Websi...</summary><p>Website: https://unifiedsd.github.io/ Code: https://github.com/Ahren09/UniSD</p></details> |
 | **[GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](https://arxiv.org/abs/2610.38210v2)** | 2026-11-04 |  |
 | **[HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents](https://arxiv.org/abs/2611.06254v1)** | 2026-11-04 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 7 tables</p></details> |
-| **[HTAM: Hierarchical Transition-Attended Memory for Operator Optimization](https://arxiv.org/abs/2605.29734v2)** | 2026-11-03 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Published at EMNLP 2026 (Oral)</p></details> |
-| **[Eco-MobiLLM: Efficient LLM Fine-Tuning on the Mobile Device via Server Assisted Side-Tuning](https://arxiv.org/abs/2507.01216v3)** | 2026-11-02 |  |
 
