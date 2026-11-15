@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2026
+title: Latest 15 Papers - November 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection](https://arxiv.org/abs/2611.16693v1)** | 2026-11-12 | <details><summary>Accep...</summary><p>Accepted at NDSS 2027</p></details> |
 | **[MKD2World: A Typed Spatial MarkDown World Model For Web Agents](https://arxiv.org/abs/2611.06544v1)** | 2026-11-04 | 40 pages |
 | **[Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](https://arxiv.org/abs/2610.30792v2)** | 2026-11-04 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing](https://arxiv.org/abs/2611.05873v1)** | 2026-11-04 | 12 pages |
@@ -59,11 +60,14 @@ labels: documentation
 | **[Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents](https://arxiv.org/abs/2610.39251v1)** | 2026-10-29 |  |
 | **[From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents](https://arxiv.org/abs/2610.37482v1)** | 2026-10-27 |  |
 | **[GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents](https://arxiv.org/abs/2610.36877v1)** | 2026-10-27 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, 16 tables</p></details> |
-| **[Chart the Invisible: Interactive Perception for Hidden-Target Exploration in GUI Agents](https://arxiv.org/abs/2610.35237v1)** | 2026-10-26 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, and 4 tables</p></details> |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454v2)** | 2026-11-11 | 36 pages, 7 figures |
+| **[Same Answer, Different Future: Dissociating Belief Content and Evidence Weight in Language Models](https://arxiv.org/abs/2611.07913v2)** | 2026-11-11 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, 17 tables</p></details> |
+| **[MAST: Medoid-Anchored Subspace Steering for Visual Grounding in Multimodal LLMs](https://arxiv.org/abs/2611.15168v1)** | 2026-11-11 |  |
+| **[Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors](https://arxiv.org/abs/2608.23873v4)** | 2026-11-11 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 13 tables. Interactive demo: https://semantic-overlays.vercel.app. Code and released adapters: https://github.com/JoshuaSP/semantic-overlays</p></details> |
 | **[Unified Far-field and Near-field Codebook Design for XL-array Systems](https://arxiv.org/abs/2611.13768v1)** | 2026-11-10 | <details><summary>5 Pag...</summary><p>5 Pages, 2 figures, submitted to IEEE for possible publication</p></details> |
 | **[Interpretability Is Not Model-Specific](https://arxiv.org/abs/2611.12675v1)** | 2026-11-09 |  |
 | **[Correctness vs Efficiency: Behavior Control with Weight-Space Extrapolation in Code RL](https://arxiv.org/abs/2605.28751v2)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Camera-ready version, 54 pages</p></details> |
@@ -75,14 +79,13 @@ labels: documentation
 | **[Towards interpreting any residual stream direction by scaling activation inversion](https://arxiv.org/abs/2611.08465v1)** | 2026-11-05 | <details><summary>Euan ...</summary><p>Euan Ong and Jiahai Feng advised equally</p></details> |
 | **[SYNC: A Training-Free Inference Controller for Dynamic Layer Selection in Multi-Persona Alignment](https://arxiv.org/abs/2611.02636v2)** | 2026-11-03 | Under review |
 | **[Four Bridges: Measuring Deception Propensity in a Multi-Agent Game](https://arxiv.org/abs/2611.03600v1)** | 2026-11-02 | <details><summary>38 pa...</summary><p>38 pages, 14 figures, 16 tables</p></details> |
-| **[Steering with Multilingual Lexicons for Sentiment Control in Low-Resource Languages](https://arxiv.org/abs/2611.03317v1)** | 2026-11-02 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, 11 tables</p></details> |
-| **[Information-Theoretic Design of Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2611.01378v1)** | 2026-11-01 |  |
-| **[SHIFT: Steering Hidden Intermediates in Flow Transformers](https://arxiv.org/abs/2604.09213v2)** | 2026-10-31 | <details><summary>The p...</summary><p>The project page is available at \url{https://controlgenai.github.io/SHIFT}</p></details> |
-| **[Steering Vectors as a Training Signal in LLM Post-Training](https://arxiv.org/abs/2610.40998v1)** | 2026-10-29 | <details><summary>Accep...</summary><p>Accept to NeurIPS 2026</p></details> |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-Efficient LLM Safety Alignment Guided by Interpretable Features](https://arxiv.org/abs/2611.16183v1)** | 2026-11-12 | 36 pages, 16 figures |
+| **[Auriga: Harness-Governed LLM Agents for Effective Throughput Optimization in Execute-Order-Validate Permissioned Blockchains](https://arxiv.org/abs/2611.14945v1)** | 2026-11-11 |  |
+| **[RE-PRESENT: Evidence Triangulation across Alternative Candidate-Space Views for Efficient LLM Ensemble Inference](https://arxiv.org/abs/2611.14780v1)** | 2026-11-10 |  |
 | **[GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](https://arxiv.org/abs/2604.18556v3)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 27 pages. Code: https://github.com/IST-DASLab/GSQ</p></details> |
 | **[Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference](https://arxiv.org/abs/2611.13644v1)** | 2026-11-10 | 11 pages, 9 figures |
 | **[Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](https://arxiv.org/abs/2605.29963v2)** | 2026-11-09 |  |
@@ -95,7 +98,4 @@ labels: documentation
 | **[Intent-Aware Caching for Efficient LLM Serving](https://arxiv.org/abs/2611.09715v1)** | 2026-11-06 | <details><summary>NeurI...</summary><p>NeurIPS 2026 | Code: https://github.com/hasanar1f/intent-aware-caching</p></details> |
 | **[Fast and Accurate Probing of In-Training LLMs' Downstream Performances](https://arxiv.org/abs/2604.01025v2)** | 2026-11-06 |  |
 | **[Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation](https://arxiv.org/abs/2611.07866v1)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026 (Short Paper). 5 pages, 2 figures, 3 tables</p></details> |
-| **[UniSD: Towards a Unified Self-Distillation Framework for Large Language Models](https://arxiv.org/abs/2605.06597v3)** | 2026-11-05 | <details><summary>Websi...</summary><p>Website: https://unifiedsd.github.io/ Code: https://github.com/Ahren09/UniSD</p></details> |
-| **[GAAC: Lossless KV Compression for Bandwidth-Efficient LLM Inference on Personal Devices](https://arxiv.org/abs/2610.38210v2)** | 2026-11-04 |  |
-| **[HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents](https://arxiv.org/abs/2611.06254v1)** | 2026-11-04 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, 7 tables</p></details> |
 
