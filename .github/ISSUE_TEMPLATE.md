@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2026
+title: Latest 15 Papers - November 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,11 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v2)** | 2026-11-17 | 22 pages, 7 figures |
+| **[Learning to Edit IFC Building Models: Verifiable Checkers as the Training Signal for Dependency-Aware Editing Agents](https://arxiv.org/abs/2611.22307v1)** | 2026-11-17 |  |
+| **[Weight-space programming for tractor guidance controller: large language models natively write neural network weights that steer a real tractor](https://arxiv.org/abs/2611.21958v1)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 8 tables (1 in the appendices); includes a field test on a real tractor</p></details> |
 | **[Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs](https://arxiv.org/abs/2611.21310v1)** | 2026-11-16 |  |
+| **[Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks](https://arxiv.org/abs/2611.21702v1)** | 2026-11-16 |  |
 | **[One-Shot Calibration via Model Editing](https://arxiv.org/abs/2611.20562v1)** | 2026-11-16 |  |
 | **[Can Agentic LLMs Write Task-Based Parallel Code? A Study of OpenMP Tasking, HPX, StarPU and TTG](https://arxiv.org/abs/2611.19105v1)** | 2026-11-14 | <details><summary>Will ...</summary><p>Will be published at WAMTA2027</p></details> |
 | **[Disentangling Forgetting from Utility: Lightweight LLM Unlearning via Orthogonal Null-Space Projection](https://arxiv.org/abs/2611.17864v1)** | 2026-11-13 | 12 pages, 4 figures |
@@ -35,16 +39,14 @@ labels: documentation
 | **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450v1)** | 2026-11-07 |  |
 | **[Segmenting Geometric Textures of 3D Meshes](https://arxiv.org/abs/2611.08897v1)** | 2026-11-06 | <details><summary>Pacif...</summary><p>Pacific Graphics 2026</p></details> |
 | **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
-| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v1)** | 2026-11-02 | 22 pages, 7 figures |
 | **[Does reflective LLM feedback survive a wet-lab-scale label budget?](https://arxiv.org/abs/2611.01908v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agentic AI for Biological Discovery Workshop. OpenReview: https://openreview.net/forum?id=ezGV5BIXVJ</p></details> |
 | **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
-| **[The Code Behind the Layout: AI Agents for Analog Layout Generators](https://arxiv.org/abs/2610.38426v1)** | 2026-10-28 |  |
-| **[Decompose, Don't Expand: Capability-Independent AI Systems by Construction](https://arxiv.org/abs/2610.38144v1)** | 2026-10-28 |  |
-| **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v3)** | 2026-10-27 | WACV 2027 |
 
 ## GUI Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Practice in Text, Act in Pixels: Correcting Where Perception Fails](https://arxiv.org/abs/2611.22722v1)** | 2026-11-17 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, 19 tables. Code: https://github.com/Carlxuzhl/practice-in-text ; aligned reader: https://huggingface.co/xuzhl/practice-in-text-aligned-reader</p></details> |
+| **[PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents](https://arxiv.org/abs/2611.22591v1)** | 2026-11-17 | <details><summary>21 pa...</summary><p>21 pages, 11 figures, including supplementary material</p></details> |
 | **[Building Fully On-Device GUI Agents with Mobile NPUs](https://arxiv.org/abs/2611.20772v1)** | 2026-11-16 |  |
 | **[UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents](https://arxiv.org/abs/2611.20753v1)** | 2026-11-16 |  |
 | **[EVIDENT: Evaluating Evidence Grounding in GUI Agents](https://arxiv.org/abs/2611.20488v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to EACL 2027 Findings. 36 pages</p></details> |
@@ -58,12 +60,11 @@ labels: documentation
 | **[SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation](https://arxiv.org/abs/2608.10775v2)** | 2026-11-03 |  |
 | **[GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis](https://arxiv.org/abs/2608.22847v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](https://arxiv.org/abs/2611.03634v1)** | 2026-11-02 | 31 pages |
-| **[Coati: Host-Grounded Execution for Installable Mobile GUI Agents](https://arxiv.org/abs/2611.02644v1)** | 2026-11-02 |  |
-| **[MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions](https://arxiv.org/abs/2611.00191v1)** | 2026-10-30 |  |
 
 ## Steering Vector
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Get Hint-Augmented GRPO Done Right Through Activation Steering](https://arxiv.org/abs/2611.23124v1)** | 2026-11-17 |  |
 | **[But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors](https://arxiv.org/abs/2505.17760v4)** | 2026-11-16 |  |
 | **[Minimally Invasive Steering of Language Models](https://arxiv.org/abs/2609.30218v2)** | 2026-11-14 | <details><summary>40th ...</summary><p>40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 | **[Antidistillation is Cheap: Lightweight Distillation-Resistance via Stylistic Corruption](https://arxiv.org/abs/2611.17772v1)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted to Findings of EACL 2027</p></details> |
@@ -78,11 +79,11 @@ labels: documentation
 | **[Steer2Edit: From Activation Steering to Component-Level Editing](https://arxiv.org/abs/2602.09870v4)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 37 pages, 2 figures, 28 tables</p></details> |
 | **[PrivMark: Pixel-Space Steering against Privacy Leakage in Vision-Language Models](https://arxiv.org/abs/2611.10528v1)** | 2026-11-07 | 33 pages, 12 figures |
-| **[Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995v4)** | 2026-11-07 |  |
 
 ## Efficient LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KVUse: Reusable-KV User Memory for Efficient LLM Recommenders](https://arxiv.org/abs/2611.21920v1)** | 2026-11-16 |  |
 | **[GainCtrl: Predicting Remaining Gains for Efficient LLM Agent Execution](https://arxiv.org/abs/2611.20736v1)** | 2026-11-16 |  |
 | **[Contrastive Activation-Guided Zeroth-Order Preference Optimisation for Memory-Efficient LLM Alignment](https://arxiv.org/abs/2611.20635v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted at AXIOM Workshop @ NeurIPS 2026</p></details> |
 | **[HetCCL: Efficient LLM Training on Heterogeneous Vendor GPUs](https://arxiv.org/abs/2601.22585v2)** | 2026-11-13 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Efficient LLM Adaptation with Forward-Only Passes](https://arxiv.org/abs/2611.10610v1)** | 2026-11-07 |  |
 | **[Sentinel: Decoding Context Utilization via Attention Probing for Efficient LLM Context Compression](https://arxiv.org/abs/2505.23277v4)** | 2026-11-07 | Preprint |
 | **[CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](https://arxiv.org/abs/2606.20820v3)** | 2026-11-07 |  |
-| **[Coordinated Mixed-Precision KV Cache Quantization for Efficient LLM-based Multi-agent Systems](https://arxiv.org/abs/2611.10096v1)** | 2026-11-06 | 33 pages, 8 figures |
 
